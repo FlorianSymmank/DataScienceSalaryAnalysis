@@ -1,1 +1,1 @@
-update submodules `gitsubmodule update --remote --merge`
+update submodules `git submodule update --remote --merge`
