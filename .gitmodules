@@ -1,3 +1,6 @@
 [submodule "Python"]
 	path = Python
 	url = https://github.com/Pflanzmann/EDS.git
+[submodule "R"]
+	path = R
+	url = https://github.com/FlorianSymmank/IntroDataScienceSS23.git
