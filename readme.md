@@ -1,4 +1,3 @@
-update submodules   
-`git submodule update --recursive --init`  
-then  
-`git submodule update --recursive --remote`  
+Update Submodule
+
+cd into submodule `git checkout <commit>`
