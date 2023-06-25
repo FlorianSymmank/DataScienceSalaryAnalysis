@@ -1,0 +1,18 @@
+{
+    "job_title": "Supply Chain Data Analysis Internship (m/w/d) - Gigafactory Berlin-Brandenburg",
+    "company": "Tesla",
+    "location": "Grünheide (Mark)",
+    "salary_euro": null,
+    "employment_type": "Praktikum",
+    "requirements": "Studying towards a degree in Data Science, Supply Chain Management, Purchasing or Economics",
+    "skills": [
+        "data analytics",
+        "Tableau",
+        "PowerBI",
+        "Excel",
+        "statistics",
+        "data presentation",
+        "communication"
+    ],
+    "date_posted": null
+}

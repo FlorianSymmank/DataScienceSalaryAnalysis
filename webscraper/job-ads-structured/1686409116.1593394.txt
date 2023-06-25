@@ -1,0 +1,10 @@
+{
+    "job_title": "Data Scientist (m/w/d)",
+    "company": "Glatt Gruppe",
+    "location": "Binzen",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Sie haben Lust beim Aufbau strategischer Digitalisierungsprozesse mitzuwirken und -gestalten\nSie besitzen ein abgeschlossenes Studium mit Schwerpunkt Data Science oder eine vergleichbare Qualifikation\nSie haben erste Berufserfahrung als Data Steward oder Data Scientist, Branchenerfahrung im Bereich Pharma oder Life Science ist von Vorteil\nSie haben Erfahrung in Datenbank Design und Data Governance\nSie sind engagiert und ergreifen die Initiative für kontinuierliche Verbesserungen\nSie haben Interesse an der Programmierung und Einrichtung von SCADA-Systemen\nSie zählen vernetztes Denken und Zielorientierung zu Ihren Stärken\nSie arbeiten gerne in interdisziplinären Teams",
+    "skills": ["Data Science", "Pharma", "Data Governance", "SCADA-Systemen", "Interdisziplinäre Zusammenarbeit"],
+    "date_posted": "2022-06-22"
+}

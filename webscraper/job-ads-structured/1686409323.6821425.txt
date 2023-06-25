@@ -1,0 +1,19 @@
+{
+  "job_title": "Two Research Assistant (E13) Positions in GeoAI, Big Data, and Research Data Management",
+  "company": "Technische Universität München",
+  "location": "80333 München",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Vollzeit",
+  "requirements": "We are looking for motivated candidates holding a master degree in mathematics, computer science, physics, geoinformatics, data science, or related fields. Good programming skills (Python, C++, etc.) are required and knowledge of scripting and automation tools is a plus. Interest in our planet Earth and interdisciplinary collaboration with Earth system scientists is required. Good English language skills are required (written and spoken).",
+  "skills": [
+    "programming",
+    "data analysis",
+    "spatial analysis",
+    "machine learning",
+    "research data management"
+  ],
+  "date_posted": null
+}

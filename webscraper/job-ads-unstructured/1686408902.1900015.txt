@@ -1,0 +1,79 @@
+Carbon Data Analyst (m/f/x)
+Tanso Technologies
+München
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+About Tanso
+
+One key barrier to moving towards a climate-neutral economy is the lack of data availability and transparency across companies. Aiming to remove this structural barrier, we leverage the power of data and automation to accelerate the decarbonization of manufacturing companies. As a product-driven company, we’re using state-of-the-art technology and scientific research to tackle climate change the right way.
+
+We’re developing the climate intelligence suite that enables a low-carbon economy - by automating processes in carbon accounting and laying the analytical foundation that is needed for effective emission reduction. If you are fascinated by developing technology that can help tackle climate change, we're the right place for you.
+
+
+
+Your Objectives
+
+Join our team and take an active role in accelerating the decarbonization of the industry. With the objective of leveraging carbon data to make inventories and carbon footprint analyses scientifically rigorous, intuitive, and as automated as possible, your main responsibility is the core engine of our product; the emission factor database. As a Carbon Data Analyst, we expect a strong background in PCF&LCA methodology and technical data skills, be it in Excel or Python. Your role includes supporting the product team with internal tooling and data models, as well as support for customers with research. You should have a strong curiosity for emissions in the manufacturing industry and supply chains, and the desire to bring carbon accounting from rough estimations to transparently disclosed science-based calculations, not only in theory but also in practice.
+
+Your Responsibilities
+
+Continuously updating, expanding, and harmonizing our emission factor database of >15k scientifically validated emission factors available for our customers
+Ensuring consistency, versioning, and correct scientific rigorousness in the calculation methodology of new emission factors and databases
+Conducting and documenting LCA research and analyses for benchmarking and approximating emission factors and carbon footprints of e.g. industries or components
+Identifying decarbonization use cases on corporate and product level, and developing suggestions for reduction alternatives (e.g. recycling rate, energy intensity, etc.)
+Working closely with our product team to develop internal tooling and new product features to better leverage and automate carbon calculations and life cycle analyses
+In close cooperation with founders, support cross-industrial initiatives for the generation of large-scale LCA & PCF databases in collaboration with internal and external partners
+What We Offer
+Equity package for ownership in the company as part of our VSOP program
+
+A strong 360° feedback culture that strives for continuous improvement
+
+A highly motivated environment where you can grow and learn by working on ambitious challenges together in cross-functional teams
+
+Subsidized sport subscription membership (gym, yoga, swimming, etc.) membership via EGYM Wellpass
+
+A great, modern, and sustainable office in the middle of Munich
+
+Loads of fun with amazing colleagues and team events you will not forget
+
+Recruiting Process ‍
+
+1. Introduction call with Saskia - get to know Tanso and ask all of your questions
+
+2. Case Interview - solve a typical carbon calculations/LCA challenge
+
+3. Your role at Tanso - deep dive into the role, growth opportunities and meet a team member
+
+
+
+
+4. Offer - congrats, we’d love to have you on the team! It’s now time to discuss the details
+
+
+
+Our Values
+
+️ Trust in people: We trust that people are by default working for the right reasons and having good intentions.
+Learning culture: Direct, actionable and frequent feedback (among each other, upwards, downwards). Embrace the unknown (if you ask a good question, it's likely this already makes you the person with the most knowledge about the topic).
+️ Never let another person fail: We're always there for each other as a team. If it's urgent and important we make it a priority together.
+️ Honesty and direct communication: Honesty isn't a one way street - it requires everyone to allow for a safe environment to grow together. Being bold but always humble and respectful.
+Ownership & At cause attitude: At cause culture - If it's broken, let's fix it. Embrace the things we're not good at yet and empower every team member to be best equipped to deliver at their best. We'll make (many) mistakes - Let's celebrate our f*ck ups but let's make sure that we flag issues early and offer full transparency on roadblocks.
+Equal Opportunities for Everyone
+
+Tanso is an equal opportunity employer. We embrace and celebrate diversity and are committed to creating an inclusive environment for all employees. We are open to all groups of people without regard to age, color, national origin, race, religion, gender, sex, sexual orientation, gender identity and/or expression, marital status, or any other legally protected characteristics.
+
+
+You have several years (min. 2 years) of industry or academic experience in the field of manufacturing and/or environmental sciences, natural science, or a related field
+You have experience in Sustainability / Life Cycle Assessment (LCA) / Material flow analysis
+You are familiar with and have practical experience with the methodology and the data structure of emission databases such as DBEIS, Ecoinvent, GaBi, and EXIOBASE
+You preferably have experience in using an LCA software tool (e.g. Brightway, SimaPro, Umberto, etc.)
+You have worked with the ISO14040/44/64/67 or EN15804 standard and other related standards/models
+You are skilled in defining data analysis hypotheses, testing strategies and automation, and data management with the required tooling (e.g. Excel, Python)
+You are analytical, structured, and self-reliant, and have excellent teamwork, communication, and project management skills
+You have a passion for LCA & emission data and strive to use your skills to accelerate the decarbonization of the industry
+You are fluent in English and preferably German and open to relocating to Munich
+Diesen Job melden

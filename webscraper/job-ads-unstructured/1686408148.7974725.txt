@@ -1,0 +1,45 @@
+Data Engineer (m/w/d) – remote oder München
+Datalytics GmbH
+Homeoffice
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+
+Datalytics ist eine IT-Beratung mit dem Fokus auf Lösungen und Leistungen in den Bereichen Business Intelligence, Data Engineering, Data Science und Apps & Automation aus München. Wir stehen dafür, gemeinsam mit unseren Kunden datenbasierte Lösungen zu implementieren, neue Erkenntnisse aus Daten zu generieren und fundierte Grundlagen für nachhaltige Geschäftsentscheidungen sowie Optimierungen zu entwickeln.
+
+Zum Aufbau unseres Teams suchen wir zum nächstmöglichen Zeitpunkt eine:n motivierte:n Data Engineer.
+
+Aufgaben
+
+Du baust Cloud-basierte DWH/BI-Lösungen auf und entwickelst diese weiter. Dies beinhaltet:
+
+Konzeption & Entwicklung von Cloud-Architekturen
+Anbindung neuer Datenquellen
+Erstellung von ETL-Pipelines und Skripten inklusive Datenaufbereitung
+Definition und Erweiterung eines Datenmodells mithilfe von ETL- und SQL-Methoden
+Darstellung der Auswirkungen und Maßnahmen
+Präsentieren und Vertreten deiner Arbeit gegenüber dem Kunden
+Präsentieren und Vertreten deiner Arbeit gegenüber dem Kunden
+Kenntnisse in Cloud-Frameworks wie Azure, AWS oder GCP
+Kenntnisse in der Programmierung und Anbindung von APIs
+professionelles Auftreten und eine zuverlässige, motivierte und verantwortungsbewusste Arbeitsweise
+Wo du deine Erfahrungen gesammelt hast, ist uns nicht wichtig. Sowohl als Studienabsolvent, mit einer Ausbildung und relevanten Berufserfahrung oder auch Quereinsteiger bist du bei uns herzlich willkommen.
+Das bieten wir:
+Vielfalt und Inklusion haben bei uns einen hohen Stellenwert. Sowohl im Miteinander unter Kollegen als auch bei der Interaktion mit unseren Kunden und Lösungen, die wir entwickeln. Deshalb freuen wir uns besonders über Bewerbungen von Menschen mit Schwerbehinderung oder Gleichstellung.
+Flexible Arbeitszeiten und ein flexibler Arbeitsort geben dir größtmögliche Freiheit und gewährleisten dir Vereinbarkeit von Familie und Beruf. Du kannst remote oder von unserem Büro in München arbeiten.
+Festanstellung mit möglichen Teilzeitmodellen
+Corporate Benefits wie Essensgutscheine, steuerfreie Sachbezüge und regelmäßige Firmenevents für die ganze Familie
+Ideenschmiede. Wir treiben Innovation und Technologie voran. Hier setzen wir auf deine Ideen, die du in unserer Ideenschmiede vorstellen und verwirklichen kannst. Im zweiwöchigen Turnus setzen wir uns hierfür zusammen und erarbeiten gemeinsam neue Lösungen und Prozesse, oder finden Lösungen zu bestehenden Problemen
+Weiterbildungen und internes Coaching um deine Kenntnislücken auszufüllen und deine Expertise zu erweitern, auch während einer Aus- oder Elternzeit. Du entscheidest, in welche Richtung du dich gerne entwickeln willst und wir erarbeiten mit dir die geeigneten Methoden: technische Workshops, Hackathons, Zertifizierungen, Softskill-Kurse oder Sprachkurse.
+Nachhaltigkeit und soziale Projekte werden bei uns gefördert: durch eigens dafür entwickelte Lösungen und durch euch. Wir freuen uns über deine Ideen und lassen dir den nötigen Freiraum diese auch umzusetzen.
+Entwicklung von Führungsqualitäten und Übernahme eigener Projekte und Teams
+
+
+Wir haben dein Interesse geweckt? Dann schicke uns gerne deinen Lebenslauf zu.
+
+Wir freuen wir uns auf deine Bewerbung.
+
+Diesen Job melden

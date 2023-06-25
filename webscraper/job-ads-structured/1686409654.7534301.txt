@@ -1,0 +1,20 @@
+{
+    "job_title": "Control Software Engineer",
+    "company": "Fluence Energy",
+    "location": "Erlangen",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Bachelor in the areas of Mechanical, Electrical, Computer Science, or related fields from an accredited university.\nExpertise in object oriented software development with C++, preferably for Linux.\nBasic knowledge of a scripting language, preferably Python.\nExperience in Math Works MATLAB/Simulink for model-based systems engineering.\nExpertise using the Agile development framework and Git workflow.\nEnthusiasm for getting things done, taking personal responsibility, adding value within a team setting, learning new things, and ability to work with minimal supervision.\nWilling and able to travel, domestically and internationally, up to 5% of the time.",
+    "skills": [
+        "C++",
+        "Agile Scrum",
+        "Git",
+        "BMS",
+        "Math Works MATLAB/Simulink",
+        "Linux shell script programming",
+        "CAN",
+        "Modbus TCP",
+        "docker"
+    ],
+    "date_posted": "2021-09-22"
+}

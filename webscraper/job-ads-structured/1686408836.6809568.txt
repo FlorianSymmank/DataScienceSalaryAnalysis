@@ -1,0 +1,17 @@
+{
+  "job_title": "Senior Data Scientist",
+  "company": "paretos GmbH",
+  "location": "Homeoffice",
+  "salary_euro": null,
+  "employment_type": "Full-time",
+  "requirements": "5+ years of working experience in Data Science projects with hands-on, technical responsibilities as your main focus.",
+  "skills": [
+    "Data wrangling (Preprocessing, Data Cleaning e.g.)",
+    "Modelling (Machine Learning, Deep Learning e.g.)",
+    "Linear Algebra",
+    "Python (5+ years of experience)",
+    "Pandas, NumPy, scikit-learn, and PyTorch",
+    "Machine learning libraries like sklearn, pytorch, darts, xgboost, pymc (5+ years of experience)"
+  ],
+  "date_posted": "2021-08-18"
+}

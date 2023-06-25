@@ -1,0 +1,57 @@
+Product Manager, Data Platform
+OutSystems
+Homeoffice
+Schnellbewerbung
+The Data Platform team works within the Digital Transformation unit to empower Data Science and Business units with data solutions that support our market growth. You will be accountable for the structured data that feeds these solutions for operational and analytical use cases.
+
+You will work with data engineering, developers, data science, marketing, and sales business units to design best-in-class data products, ensuring access to high-quality, timely, and relevant data. You will define and manage the vision, strategy, and roadmap for the teams and lead sessions to translate business needs into technical requirements. The team's outputs:
+Build a data model that gathers and correlates relevant marketing and sales systems data
+Build tools, APIs, and integrations that support data ingestion & data consumption processes, enabling the data model's quality and adoption
+
+To be successful in this role, you will need to have a strong background in data management and product management, as well as excellent communication and leadership skills. Additionally, you should work effectively in a fast-paced, collaborative environment and be able to adapt quickly to changing business needs and priorities.
+
+What will be required from you:
+Identifying new data sources, metrics, and other opportunities that could be useful for the business, as well as defining solutions that allow the business teams to get the most out of the data
+Challenge existing concepts, and ways of working, to determine the best solutions to the identified problems
+An open and innovative mind, capacity to work with ambiguity and deal with change
+Communicate the vision, strategy, roadmap, and deliverables so that all team members and stakeholders embrace, champion, and use your product
+Define and track metrics to measure effectiveness and constantly reiterate the strategy and roadmap to ensure we are meeting our desired outcomes
+Lead a multidisciplinary fusion team
+Manage stakeholders' expectations, providing visibility and clarity on the roadmap
+Create and prioritize the backlog for implementation
+
+Candidates with the following qualifications will be preferentially selected:
+Product Management, Digital Transformation, Data Science or Engineering backgrounds
+Experience working closely with BI teams or with reporting tools
+Experience helping users get the most out of Data Models
+Understanding of data modeling, data ecosystems, data Warehousing, and data Integrations
+Experience in SQL query and ability to deep dive into raw datasets to find key information to evolve the Data Products
+
+The Longer Story:
+
+One of the fastest-growing B2B software companies in the world, OutSystems is on a mission to enable every organization to innovate through software. We are looking for talented and motivated people to join us in helping companies solve some of their most strategic business challenges, from modernizing their workplace processes to transforming their employee and customer experiences. As a member of the OutSystems global team, you will help build, deliver, manage, and evolve the software that is a low-code market leader and preferred by professional developers around the world.
+
+OutSystems is a truly global company, with more than 525,000 developer community members, 1,700 employees, 400 partners, and thousands of active customers in over 87 countries and across 22 industries. Founded in 2001, OutSystems has offices in the United States, United Kingdom, the Netherlands, Germany, the UAE, Japan, Hong Kong, Malaysia, Australia, and Singapore, and of course has a thriving, worldwide community of remote employees.
+
+
+Working at OutSystems
+
+We do not have many rules, but we do have high standards and a culture of global collaboration. Our commitment to our culture is highlighted in The Small Book of the Few Big Rules, written by our Founder and CEO, Paulo Rosado. This commitment to culture landed us in the Forbes top cloud computing employers four years in a row.
+We grow, change, and innovate, and give our teams the space to be proactive and creative.
+We care about growth and development. Vertical career progression is obvious, and we also encourage lateral moves, joining different teams, and mastering new skills.
+Global colleagues who are as smart, hardworking, and driven as you.
+Our DNA is disrupting the status quo. It is why our company exists.
+We “Ask Why” a lot. It helps us connect our individual work to the bigger picture and often uncovers a better, more agile way.
+
+What do we have to offer you?
+A company that continues to grow, change and innovate, and gives our teams the space to be proactive and creative.
+Real career opportunities. We care about growth and development. Vertical career progression is an obvious possibility, but we also offer the possibility for lateral moves, joining different teams, and mastering specific skills.
+Work colleagues that are as smart, hardworking and driven as you – and a team that is global.
+A company culture that is based on transparency, teamwork and excellence (as promised in our Small Book of the Few Big Rules and delivered every day.)
+Disrupting the status quo is in our DNA. In fact, it’s why our company exists.
+We “Ask Why” a lot. It helps us connect our individual work to the bigger picture and sometimes even uncover a better way.
+
+Are you ready for the next step in your career? Then we’d love to hear from you!
+
+OutSystems nurtures an inclusive culture of diversity, where everyone feels empowered to be their authentic self and perform at their best. A company that embraces the creativity and innovation that comes through diverse perspectives. We are committed to creating a team that reflects society through inclusive programs and initiatives and are proud to be an equal opportunity employer. All qualified applicants receive equal consideration regardless of race, place of origin, color, age, marital status, religion, sex, sexual orientation, gender expression or identity, protected veteran status, disability status or any other status protected by law.
+Diesen Job melden

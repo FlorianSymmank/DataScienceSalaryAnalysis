@@ -1,0 +1,17 @@
+{
+   "job_title": "Software Developer - Scientific Payload Processing (w/m/d)",
+   "company": "Telespazio Germany GmbH",
+   "location": "Darmstadt",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "University degree in Computer Science, Physics, Meteorology, or other relevant discipline.\n\nEssentially\n\nProfound experience in scientific software development;\nStrong proficiency with Python, optimally including visualization toolboxes, e.g. PyQT, PySide, VisPy;\nExperience using data bases, such as MySQL, PostgreSQL, Oracle\nComfortable working in Linux, shell/bash;\nHaving a user-oriented perspective;\n\nDesirably\n\nExperience with IDL;\nUnderstanding of cloud/aerosol optical properties retrievals;\nSoftware versioning and collaboration tools, e.g. Git, SVN;\nHaving worked within the space industry.",
+   "skills": [
+      "scientific software development",
+      "Python",
+      "Linux",
+      "IDL",
+      "Git",
+      "SVN"
+   ],
+   "date_posted": null
+}

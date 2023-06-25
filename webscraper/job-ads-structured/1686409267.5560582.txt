@@ -1,0 +1,28 @@
+{
+    "job_title": "Quantitative Risk Analyst",
+    "company": "E.On",
+    "location": "Essen",
+    "salary_euro": null,
+    "employment_type": "Vollzeit, Festanstellung",
+    "requirements": "A master's or Ph.D. in a quantitative field such as Mathematics, Physics, Statistics, Financial Engineering, Computer Science, or a related field. A minimum of 3 years of experience in quantitative risk modeling, preferably within the energy trading industry.",
+    "skills": [
+        "Python",
+        "NumPy",
+        "pandas",
+        "scikit-learn",
+        "stochastic calculus",
+        "Monte Carlo simulation",
+        "time series analysis",
+        "quantitative finance",
+        "machine learning",
+        "data analysis",
+        "problem-solving",
+        "analytical",
+        "programming",
+        "communication",
+        "presentation",
+        "self-starter",
+        "teamwork"
+    ],
+    "date_posted": "2021-07-08"
+}

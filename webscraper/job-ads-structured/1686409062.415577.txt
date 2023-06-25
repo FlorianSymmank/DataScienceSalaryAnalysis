@@ -1,0 +1,24 @@
+{
+   "job_title": "Customer Data Analyst",
+   "company": "DataLab. GmbH",
+   "location": "Düsseldorf",
+   "salary_euro": {
+      "amount": null,
+      "period": null
+   },
+   "employment_type": null,
+   "requirements": "abgeschlossenes Studium idealerweise der Statistik, (Wirtschafts-) Mathematik oder eines verwandten Studiengangs mit quantitativem Schwerpunkt, mehrjährige Berufserfahrung in den Bereichen Business Intelligence, Data Analytics oder Data Science im CRM- oder Marketing-Umfeld, Erfahrung im Umgang mit relationalen Datenbanken und SQL, Programmierkenntnisse in Python oder R, Reisebereitschaft (sofern erforderlich) und sehr gute Deutsch- und Englisch Kenntnisse",
+   "skills": [
+      "Analytics",
+      "CRM",
+      "Loyalty",
+      "Visualisation",
+      "Customer Insights",
+      "BI Tools",
+      "Python",
+      "R",
+      "Machine Learning",
+      "Statistical Models"
+   ],
+   "date_posted": null
+}

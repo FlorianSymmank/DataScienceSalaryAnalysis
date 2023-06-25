@@ -1,0 +1,62 @@
+Senior Software Engineer (m/f/d)
+LivaNova
+München
+Homeoffice
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Join us today and make a difference in people's lives!
+
+Senior Software Engineer (m/f/d)
+Are you a Software Engineer with experience in developing complex Software solutions and a passion for driving continuous technology improvement in high safety applications?
+Are you looking for a role that will provide you with the opportunity to develop top-notch HMIs and shape the Software Architecture of next gen medical products? If that sounds like you and you are curious to find out more about who we are and what we could offer you, please keep reading!
+With approximately 3,000 employees worldwide, market cap of over $4 billion and reported sales of $1.1 billion in 2021, LivaNova is a medical innovator that designs, develops and manufactures devices for cardiovascular procedures and neuromodulation. We are a passionate and committed community, united by a desire to create meaningful products and therapies that transform the lives of patients around the world. We do that every day by honoring our values of putting patients first, introducing meaningful innovation, acting with agility, committing to quality and integrity, working collaboratively and inclusively.
+This is a great time to be part of LivaNova. Our Cardiopulmonary business is in on a growth trajectory, and we have ambitious plans. We are looking for a Software Engineer that can help us on this exciting journey. Could that be you?
+The Role:
+The Senior Software Engineer will work within the Cardio-Pulmonary Business Franchise as part of the HW/SW Team on the development of new products.
+He will work specifically on life-sustaining devices as Heart-Lung Machines or other products of the cardio-pulmonary portfolio (e.g., Auto-Transfusion Systems, Heater-Cooler) on a wide spectrum of tasks during the concept, design, and verification phase.
+Key Responsibilities:
+Designs and develops high safety Software mainly working on complex HMI responsible for configuring, monitoring, and remotely controlling the system
+Supports on the definition of product requirement in close collaboration with other stakeholders (e.g., Marketing, System Engineers)
+Defines the Software Architecture in collaboration with the SW Architect considering all constraints coming from legacy products or interacting with HW Engineers to overcome possible HW challenges
+Develops the Software and crates the necessary Design Documentation in line with the Medical Devices’ standards
+Ensures the quality of the Software deliverables through up-to-date static/dynamic code analysis tools and by developing Unit Tests, Code Reviews in line with internal Quality standards.
+Minimum Requirements:
+Some years of experience in the development of embedded systems in a large or mid-size organization
+Bachelor/master’s degree in computer science/Informatics or equivalent
+Skills:
+Able to work in a fast-paced multicultural environment
+Open-minded
+Hands-on attitude
+Excellent written and verbal communication skills
+Able to positively influence other peers and drive continuous improvement of SW Tools and processes
+Good command of English language. Fluency in German language is appreciated
+Knowledge/Abilities:
+Strong programming skills in C++
+Solid experience with Qt Graphic Framework and developing complex Graphic User Interfaces
+Solid knowledge of Linux OS features (e.g. threading and concurrency, memory management, device drivers, I/O, etc.)
+Experience with static/dynamic code analysis tools (e.g., Clang-Tidy/Clazy, Polyspace) as well as with SW Unit test frameworks (e.g., Google Test and QTest Library)
+Knowledge of SCM tools as SVN, GIT, JIRA, Eclipse IDE, ClearCase etc.
+Knowledge and previous experience working with Agile methodologies
+Knowledge of EU, US and international medical quality, safety standards (IEC 62304, ISO 14971, ISO 13485).
+Operation and use of standard debug, test and measuring tools
+WHAT WE CAN OFFER YOU
+In addition to providing, you with a supportive, inclusive, and collaborative environment where you will feel empowered to take ownership and drive meaningful change, we will reward you with the following:
+A dynamic role in an advanced Medical Device environment interfacing with all worldwide regulatory landscapes supporting your professional career growth
+Exposure to a State-of-the-Art medical device development process, in close co-operation with international clinicians
+Competitive base salary
+Variable short-term & long-term incentives
+Recognition: through our STARS Program, we recognise and celebrate our colleagues’ contributions and achievements
+If you like the sound of the above and feel energised by the idea of joining a great brand at a moment of exciting expansion, please apply now. We look forward to hearing from you!
+Our commitment to Diversity & Inclusion:
+LivaNova values equality and celebrates diversity. We are committed to ensuring that our recruitment process is fair, transparent and free from unlawful discrimination.
+Our selection process is driven by the key demands/requirements for the role rather than bias or discrimination on the basis of a candidate’s sex, gender identity, age, marital status, veteran status, non-job-related disability/handicap or medical condition, family status, sexual orientation, religion, color, ethnicity, race or any other legally protected classification.
+Background Checks at LivaNova:
+Upon successful completion of the hiring process an offer may be extended. Please note, LivaNova reserves the right to conduct background investigations and/or reference checks on all its potential employees, where permitted by local legislation. This offer therefore, is contingent upon a clearance of such a background investigation and/or reference check, and can be rescinded, where permitted by local legislation, based upon data received in the background check and/or refusal to cooperate with or any attempt to affect the results of this check.
+Notice to third party agencies:
+Please note that we do not accept unsolicited resumes from recruiters or employment agencies. In the absence of a signed Recruitment Services Agreement, we will not consider, or agree to, payment of any referral compensation or recruiter fee. In the event that a recruiter or agency submits a resume or candidate without a previously signed agreement, we explicitly reserve the right to pursue and hire those candidate(s) without any financial obligation to the recruiter or agency.
+Diesen Job melden

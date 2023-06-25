@@ -1,0 +1,63 @@
+Software Engineer with focus on Data Science Solutions (m/w/d)
+Machine Learning Reply
+Homeoffice
+Vollzeit
+Schnellbewerbung
+Software Engineer with focus on Data Science Solutions (m/w/d)
+Machine Learning Reply - Home Office
+Job
+Unternehmen
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Job Description
+
+At
+
+Machine Learning Reply Germany, we work with our clients on leading-edge data science projects for which we are seeking employees with a strong IT background.
+
+Machine Learning Reply, with its sister company in Italy and over 12.000 employees at Reply globally, is a fast-growing consultancy focused on solving problems with Data Science and the right organizational frameworks as their backbone. We offer tailor-made end-to-end solutions in the Data Science area that cover the entire project lifecycle - from initial strategy consulting to data architecture and infrastructure issues to data processing, modeling and visualization.
+
+We are a tight knit, laid back, but seriously motivated unit that aims to be involved at conferences and in community of practices with our tech partners.
+
+As a Software Engineer at Machine Learning Reply your aim is to help our clients with the implementation of data science & machine learning use cases - and everything that belongs to it on the software side
+
+You never lose focus, are an organizational mastermind and are motivated to drive data science use cases in cross-functional project teams? Then we want to hear from you!
+
+Responsibilities:
+
+Setting up dev elopment and deployment infrastructure (DevOps)
+Write software components in languages such as Java (spring boot), Python, JavaScript/Typescript (Vue, React, Angular)
+Write re-usable base components that serve as the building blocks for further software components
+Write test suites within different frameworks for both frontend as backend to ensure code quality
+Refactor production code to adhere to current clean code standard
+Daily communication with product owners in order to identify appropriate technical solutions for given problems with a clear eye on time management
+Daily communication with development team to solve difficult issues either through pair programming or discussion.
+What we offer you:
+
+Very active group social program, including trainings, knowledge-sharings, conferences, team buildings, group events, Reply Exchange, communities of practices and hackathons - certifications are encouraged
+Recognition for innovation and trainings to foster your personal development
+Work in an open, flat environment, within a broad Reply knowledge sharing network
+You choose your state-of-the-art work equipment
+Award winning office spaces for an excellent work experience and access to "Stammstrecke"
+Access to our mobility scheme with Job Rad & company cars
+Public transport ticket within Munich
+Gym-membership subsidy for a gym of your choice
+Flexible work environment between client, Reply office and remote work
+Requirements
+
+Qualifications:
+
+Strong knowledge of one or more of the following languages: Java (Spring Boot, Hibernate), JavaScript/Typescript (Vue, React, Angular), Python
+Experience writing test suites for both backend as frontend software
+Awareness of the SOLID principles
+A passion for clean code and an intrinsic willingness to fight software rot, driven by a desire to be professional software developers that deliver not just great and maintainable products but that pride themselves in writing beautiful code
+Basic knowledge of different software patterns and when to use them
+Successfully completed university studies with a strong quantitative background, for example in Business Informatics, Data Science, Informatics, Computer Science or similar
+Ability to convincingly communicate and present analytical results to management
+Fluent in English and German
+What are you waiting for?
+
+Join our team at Machine Learning Reply in Munich or Berlin!
+Diesen Job melden

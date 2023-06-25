@@ -1,0 +1,10 @@
+{
+  "job_title": "Data Scientist*in (m/w/d)",
+  "company": "Knuddels GmbH & Co. KG",
+  "location": "Homeoffice",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Du hast ein Studium der Informatik / Mathematik abgeschlossen oder eine vergleichbare Qualifikation",
+  "skills": ["Sprachen für statistische Analysen", "Datenbanken (Python, SQL,...)", "Python Frameworks (pandas,...)"],
+  "date_posted": null
+}

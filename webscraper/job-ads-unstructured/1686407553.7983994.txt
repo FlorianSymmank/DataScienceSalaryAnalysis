@@ -1,0 +1,86 @@
+(Senior) Data Scientist Pricing & Forecasting (m/f/d)
+InstaFreight GmbH
+10999 Berlin
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Your tasks
+
+We are seeking a Data Scientist with an emphasis on Pricing & Forecasting Analytics to join our talented team. The role forms part of the Data team and you will work closely with the Commercial & Operations organization. The mission, on one hand, is to develop pricing strategies and algorithms to derive a data-driven approach to seting prices at InstaFreight, and on the other, to establish models (e.g. time series) wherever they add value to the company. Overall, we are looking for a team player that can leverage data to tackle challenges. This position is full-time and based in Kreuzberg, in the heart of Berlin.
+
+
+In this role you will:
+
+Full independant responsibility for pricing long-term contracts as well as uncovering market opportunities
+
+Developing algorithms to help inform and optimize decisions around price setting
+
+Implementing end to end modelling processes including data gathering, data munging, data profiling, numerical model building, calibration, cross-validation and putting the model into production
+
+Following implementation, track model performance and calculated improvement to the business. This will include pre and post-time-series analyses, and A/B testing where applicable
+
+Explaining complex modelling approaches in layman’s terms and discuss modelling results and impact with non-technical business users
+
+Additionally, you will be supporting and leading data initiatives within the Team and across the company
+
+
+Your Profile
+
+Previous experience with pricing, price elasticity estimation, and forecasting is essential
+Bachelor (or higher) degree in Statistics, Econometrics, Economics, Computer Science, Engineering or Mathematics with a strong quantitative background
+4+ years of relevant Data Science experience
+Deep understanding of various statistical modelling techniques with solid and process-driven skills in conducting research and analysis
+High proficiency in SQL, and also either R or Python
+Excellent verbal and written communication skills with an ability to present complex information in an easy-to-understand manner with clear recommendations based on data insight
+Strong motivation to be a team player
+
+
+Good to have:
+
+Industry expertise in road transportation/logistics
+
+Recruiting Process:
+1. HR call
+2. 30 min meeting with Team Lead
+3. Business case
+4. Presentation of the case to the Data & Analytics Team Lead and team member
+5. Final call
+6. Offer
+
+Please note, the current working model of InstaFreight is hybrid and the office's location is in Berlin.
+
+What we offer
+
+Take the driver seat
+
+Take charge - Be accountable for your own field of responsibility from day one onwards.
+Have impact - Drive development projects and steer the course of the company.
+Make mistakes - Take risks, learn from failures and grow personally with us.
+Hit the gas pedal
+Learn as you go - Be supported in a great learning environment with training, mentoring and feedback.
+Accelerate - Go out of your comfort zone and climb your personal growth ladder step by step.
+Outgrow yourself - Unlock your full potential and accomplish things you hardly dare to dream of.
+Enjoy the ride
+Be part of the team - Join a great group of individuals standing behind a common goal.
+Have fun - Take part in our legendary parties, company events or just the regular office craziness.
+Write history - Shape the future of an entire industry together with us.
+
+About us
+
+
+We digitize the logistics industry, a €350+bn market in Europe! As the leading online road freight forwarding company in Germany, we offer business customers a fully digital booking experience for logistics services – with one click only and as simple as online shopping.
+
+Our five core values guide us in our interactions with customers, partners, and among each other
+
+We solve the problem first
+We are different together
+We celebrate success
+We deliver on our promises
+We empower growth
+
+You couldn't find the perfect fit in our open positions? Just talk to our HR team and send your CV to: jobs@instafreight.com
+
+Diesen Job melden

@@ -1,0 +1,21 @@
+Diese Stellenanzeige ist auf Indeed abgelaufen
+Mögliche Gründe: Der Arbeitgeber akzeptiert keine Bewerbungen, ist nicht aktiv auf der Suche nach neuen Mitarbeitern oder prüft derzeit die eingegangen Bewerbungen
+Data Scientist (m/w/d)
+Terrera AG
+Niedersachsen
+Content:
+Entwicklung neuer Analyse- und Prognosemodelle zur Optimierung der Versorgung in der gesetzlichen Krankenversicherung
+
+Spezifikation von Analyse- und Prognosezielen in Abstimmung mit den Kunden und Verantwortung der Beschaffung, Integration und Aufbereitung der erforderlichen Datengrundlagen zur Realisierung von Use Cases
+
+Unterstützung bei der Integration der entwickelten Modelle in Datenprodukte bzw. Software und Beratung der Fachbereiche bei Fragen rund um die Themengebiete Data Science und Machine Learning
+
+
+Requirements:
+Kenntnisse in Data Mining Verfahren sowie in der Anwendung von Machine Learning Frameworks (z.B. Scikit-Learn)
+
+Sehr gute Programmierkenntnisse, vorzugsweise in Python
+Erfahrung im Umgang mit Datenbanken (z.B. SQL, Hadoop, Hive)
+
+Im besten Fall Erfahrung mit dem Deployment von Machine Learning Modellen (z.B. mit Docker)
+Diesen Job melden

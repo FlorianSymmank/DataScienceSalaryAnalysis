@@ -1,0 +1,18 @@
+{
+  "job_title": "R Entwickler für Webanwendungen im Data Science Umfeld (w/m/d)",
+  "company": "parcIT GmbH",
+  "location": "50672 Köln",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "ein akademischer Abschluss in Wirtschaftsinformatik, Informatik, Mathematik, Naturwissenschaften oder vergleichbar\nfortgeschrittene Kenntnisse in der Entwicklung mit R und nachweisbare Erfahrung in der Entwicklung von R-Paketen und/oder Shiny-Apps ODER Erfahrung in der Frontend-Web-Entwicklung mit HTML, CSS und JavaScript\nsichere Deutschkenntnisse in Wort und Schrift sowie Erfahrung im Umgang mit gängigen Tools und Arbeitsweisen der Softwareentwicklung (z. B. git, github, JIRA)\nGutes Gespür für User Experience, Design und nutzerzentrierte Entwicklung sowie Freude an der engen Zusammenarbeit im Team mit Entwicklungs- und Fachkollegen\nein hohes Maß an Verantwortungsbereitschaft sowie ein ausgeprägtes unternehmerisches Denken und Handeln\nein hohes Qualitätsbewusstsein, gepaart mit Pragmatismus und Flexibilität\nEigeninitiative, Gestaltungswille sowie Spaß an der Entwicklung zukunftsfähiger Lösungen",
+  "skills": [
+    "R",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "git",
+    "github",
+    "JIRA"
+  ],
+  "date_posted": null
+}

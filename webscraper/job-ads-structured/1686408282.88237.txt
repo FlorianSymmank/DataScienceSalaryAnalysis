@@ -1,0 +1,10 @@
+{
+    "job_title": "Software Engineer Data Analytics - Cloud (mwd)",
+    "company": "HMS Analytical Software GmbH",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "Guter Studienabschluss in Informatik, Mathematik, Physik, einem vergleichbaren Studiengang oder gleichwertige Kenntnisse aus der Praxis als Software Engineer (mwd) Solide Kenntnisse in der Softwareentwicklung und dem Software Engineering Kenntnisse im Bereich Data Engineering und Big Data, insbesondere im Zusammenspiel mit KI und Machine Learning sowie Erfahrungen mit den Cloud Technologien Azure oder AWS sind von Vorteil Ausgeprägte Dialogfähigkeit in Deutsch und Englisch – im Team und Kunden gegenüber Bereitschaft zu gelegentlichen Reisen",
+    "skills": ["Data Engineering","Big Data","Machine Learning","Software Engineering","Cloud Technologies"],
+    "date_posted": null
+}

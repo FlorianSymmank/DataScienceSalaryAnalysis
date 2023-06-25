@@ -1,0 +1,20 @@
+{
+   "job_title": "Data Engineer",
+   "company": "sonnen GmbH",
+   "location": "Berlin",
+   "salary_euro": null,
+   "employment_type": "Vollzeit, Teilzeit",
+   "requirements": "Bachelor's degree in Computer Science or related technical field, 3+ years of relevant employment experience, familiarity with Big Data technologies (e.g. Hadoop/Hive/Spark), experience with data architecture and warehousing solutions (e.g. AWS Redshift, Databricks), proficiency in Python, SQL, NoSQL, CI/CD",
+   "skills": [
+      "Big Data technologies",
+      "data architecture",
+      "data warehousing",
+      "AWS Redshift",
+      "Databricks",
+      "Python",
+      "SQL",
+      "NoSQL",
+      "CI/CD"
+   ],
+   "date_posted": "Unspecified"
+}

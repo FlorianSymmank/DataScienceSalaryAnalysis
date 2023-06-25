@@ -1,0 +1,10 @@
+{
+  "job_title": "Senior Data Engineer for Mercedes-Benz SoftwareFactory (all genders) - Berlin",
+  "company": "MBition GmbH",
+  "location": "10587 Berlin",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Degree in Computer Science or a comparable field/experience, 6+ years working as a Data Engineer or relevant track record, Architect and design Data Engineering Solution which focuses on Scalability, Reliability and Low-latency, Strong experience in building Data Pipelines, Data Migration, Streaming Pipelines solutions, Data Modelling and Data Engineering, Experience with Database & Data Warehouse Design and implementation (Postgres and Redshift preferred), ETL processing and developing (Apache Spark with PySpark preferred), Bring-in Best Engineering Practices and ideas which always challenges the current setup, Solid coding and testing skills (Python preferred), Comfortable with modern Cloud Native/Serverless Data Services (AWS preferred, i.e S3, Glue, EMR, Athena ), Knowledge of Event Driven Architecture, CI/CD knowledge (Gitlab preferred), Strong foundation in software architecture, engineering and continuous integration, Must be able to work effectively in a team setting as well as individually.",
+  "skills": ["Data Pipeline", "Data Migration", "ETL Processing", "Data Modelling", "Data Engineering", "AWS", "Python", "Database Design", "Data Warehouse Design", "Apache Spark", "PySpark", "Event Driven Architecture", "CI/CD", "Software Architecture"],
+  "date_posted": null
+}

@@ -1,0 +1,81 @@
+Data Scientist
+Iron EagleX
+70569 Stuttgart
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Overview:
+Iron EagleX is a veteran owned defense contracting company based in Tampa, FL.
+
+It is our mission to provide solutions to the most challenging technical problems facing the Department of Defense while simultaneously making a positive impact on our employees and community.
+Responsibilities:
+
+Job Description:
+
+
+
+
+The Data Scientist will support the United States Special Operations Command (USSOCOM) Chief Data Office (CDO) and be responsible for designing, implementing, and maintaining a data pipeline. Additionally, the Data Scientist shall interpret and analyze complex sets of data and plan, execute, and manage ML projects with cloud-native platforms and advanced ML solutions. They will leverage multiple methodologies such as data mining, natural language programming, and machine learning.
+
+
+Job Duties Include (but not limited to):
+
+Interpret and analyze data using exploratory mathematic and statistical techniques based on the scientific method
+Coordinate research and analytic activities utilizing various data points (unstructured and structured) and employ programming to clean, massage, and organize the data
+Experiment against data points, provide information based on experiment results, and provide previously undiscovered solutions to command data challenges
+Coordinate with Data Engineers to build data environments providing data identified by other data professionals
+Apply and develop scientific methodology, statistics, and algorithms to discover and frame relevant problems, hypotheses, and opportunities
+Develop predictive and prescriptive modeling, natural language processing (NLP), Robotic Process Automation (RPA), text mining and processing, clustering, forecasting methods, and other advanced statistical techniques
+Design and automate processes to facilitate the manipulation and analysis of data
+Manage and integrate data across dissimilar data sets and analyze large-scale structured and unstructured data
+Use frameworks to conduct large-scale data processing
+Perform statistical modeling and create data visualizations
+Research, design, and implement algorithms to solve complex problems
+Program using R, Python (NumPy, SciPy, Pandas) or similar analytical languages
+Perform data engineering, data processing, and modeling techniques using cloud-based data management, data science, and ML platforms
+Communicate complex concepts and hypothesis to a non-technical audience through digital storytelling
+Qualifications:
+
+Required Skills & Experience:
+
+Minimum of 1-year of Data Science experience is required:
+Proficient with one or more programming languages (Java, C++, Python, R, etc.):
+Proficient in Agile Development and Git Operations:
+Demonstrated experience applying data science methods to real-world data problems:
+MUST BE US CITIZEN
+
+
+Desired Skills:
+
+Experience working with the Department of Defense
+
+Education & Certifications:
+
+Bachelors in STEM field or Master’s Degree in Operations Research, Industrial Engineering, Applied Mathematics, Statistics, Physics, Computer Science, or related fields is required
+
+Security Clearance:
+
+An active Top Secret Security Clearance is Required
+
+Benefits:
+
+National Health, vision, and dental plans
+20 days of PTO and 11 paid holidays
+Life Insurance
+Short – and long-term disability plans
+401(K) retirement plans
+Incentive and recognition programs
+Relocation opportunities
+
+
+
+
+
+
+Iron EagleX is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, among other things, or status as a qualified individual with disability.
+
+Diesen Job melden

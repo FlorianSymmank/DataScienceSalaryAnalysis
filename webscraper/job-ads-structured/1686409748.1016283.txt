@@ -1,0 +1,10 @@
+{
+   "job_title": "Praktikum und/oder Abschlussarbeit (m/w/d): Smart Home - Data Science",
+   "company": "Miele",
+   "location": "Gütersloh",
+   "salary_euro": null,
+   "employment_type": "Praktikum",
+   "requirements": "Studium der Fachrichtungen Informatik, Mathematik, Statistik oder vergleichbares mit Schwerpunkt in Data Science/Data Analytics\r\nAnalytische Fähigkeiten und gutes technisches Verständnis\r\nGute Kenntnisse in Python oder R\r\nSpaß an der Arbeit mit Daten und Modellierung",
+   "skills": ["Python", "R", "Data Analytics", "Data Science", "Statistik", "Informatik", "Mathematik"],
+   "date_posted": null
+}

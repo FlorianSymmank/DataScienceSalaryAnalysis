@@ -1,0 +1,19 @@
+{
+   "job_title": "Co-Founder & AI Developer",
+   "company": "TP GmbH",
+   "location": "Within 1.5 hours flight distance to Munich",
+   "salary_euro": null,
+   "employment_type": "Co-Founder",
+   "requirements": "Bachelor's or master's degree in computer science, engineering, or a related field is a plus. At least 2 years of experience (unless you're so good that you can compensate for that) as a Python developer, ideally in the AI realm. Strong understanding of AI technologies, natural language processing, AI methods and trends. Experience with machine learning frameworks such as TensorFlow or PyTorch, Knowledge of database technologies and a strong problem-solving and analytical skills. Excellent communication and teamwork skills. Fluent English (German is a plus). Strong entrepreneurial mindset and behavior.",
+   "skills": [
+        "Python",
+        "Artificial Intelligence",
+        "Natural Language Processing",
+        "Machine Learning",
+        "Database Management",
+        "Communication",
+        "Analytical Skills",
+        "Entrepreneurial Spirit"
+    ],
+   "date_posted": "2021-11-24"
+}

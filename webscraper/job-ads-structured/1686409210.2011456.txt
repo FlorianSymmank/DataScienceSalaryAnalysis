@@ -1,0 +1,18 @@
+{
+    "job_title": "Data Scientist (m/w/d)",
+    "company": "Zentek Pool System",
+    "location": "Köln",
+    "salary_euro": null,
+    "employment_type": "Vollzeit, Festanstellung",
+    "requirements": "Du hast ein Studium mit Data-Science / Analytics-Bezug (z.B. Wirtschaftsinformatik, Betriebswirtschaft o.ä.) erfolgreich abgeschlossen. Alternativ verfügst Du über eine vergleichbare Ausbildung aus dem analytischen Umfeld und die entsprechende erste Berufserfahrung. Studienabsolventen sind herzlich willkommen.",
+    "skills": [
+        "Talend",
+        "Snowflake",
+        "Public Cloud Dienste",
+        "MS SQL Server",
+        "DataVault 2.0",
+        "Java",
+        "QlikSense"
+    ],
+    "date_posted": "N/A"
+}

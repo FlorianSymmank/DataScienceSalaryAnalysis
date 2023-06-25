@@ -1,0 +1,48 @@
+Data Science - Studentische Hilfskraft / Praktikant/-in (m/w/d)
+logarithmo GmbH & Co. KG
+Dortmund
+Werkstudent
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Werkstudent
+logarithmo ist ein junges, wachsendes IT-Unternehmen und entwickelt digitale
+Lösungen für energiewirtschaftliche Herausforderungen. Wir zeichnen
+uns durch die schnelle Umsetzung von Innovationen in marktreife
+Produkte aus. Fokus sind hierbei datenbasierte Software-Dienste für
+u.a. produzierende Unternehmen, Energieversorger, Netzbetreiber,
+energieintensive Verbraucher und Erzeuger. In unseren
+interdisziplinären Teams ergänzen sich Softwareentwickler,
+Mathematiker, Ingenieure und Designer. Wir sichern eine hohe Qualität
+und nutzen Methoden und Technologien wie Continuous Delivery, DevOps,
+Docker Swarm / Kubernetes und Microservices.
+
+Aufgaben
+
+
+Du unterstützt uns bei Datenauswertungen und bei der Entwicklung von innovativen, digitalen Lösungen für europaweit aktive Übertragungsnetzbetreiber, Verteilnetzbetreiber und Industriekunden. Dabei arbeitest du eng mit dem Rest des interdisziplinären Teams zusammen und hast jederzeit Ansprechpartner zur Verfügung
+Fachwissen im Bereich Energiewirtschaft ist hilfreich, aber nicht notwendig
+Wir werden dich aktiv in Projekte und für dich interessante Unternehmensbereiche einbinden.
+Die Hauptaufgabenbereiche umfassen Fragestellungen wie z.B.:
+\- Welche Schlüsse können aus Daten abgeleitet werden?
+(Datenanalysen und -auswertungen)
+\- Wie können wir die Daten optimal für Verbesserungen bei Unternehmen
+nutzen? (z.B. Optimierungen und Simulationen für Netzbetreiber und
+Energieversorger)
+\- Wie können die Ergebnisse visuell optimal in logarithmo eigenen Appstore
+visualisiert werden?
+
+Qualifikation
+
+
+Du hast eine Affinität zu Mathematik bzw. erste Erfahrungen mit mathematischen, statistischen Tools (Optimierungen, Datenanalysen und Simulationen)
+Du kannst gute Leistungen in Studium, Praktika oder Projektarbeiten vorweisen
+Du arbeitest selbstständig, lösungsorientiert und eigenverantwortlich
+Du hast Kenntnisse über Datenanalysesoftware wie z.B. MATLAB, R oder Python
+Du hast eine teamorientierte und offene Persönlichkeit
+Du besitzt gute Deutsch- oder Englischkenntnisse
+Wir freuen uns auf die Zusendung deiner aussagekräftigen Bewerbungsunterlagen
+(inklusive z.B. Notenspiegel oder erste Freizeitprojekte) unter dem Stichwort
+„Data Science - Studentische Hilfskraft/Praktikant/-in“!
+Diesen Job melden

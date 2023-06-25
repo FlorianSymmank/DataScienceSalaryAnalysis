@@ -1,0 +1,16 @@
+{
+    "job_title": "Bell Labs Internship - Autonomous Systems",
+    "company": "NOKIA",
+    "location": "Stuttgart",
+    "salary_euro": null,
+    "employment_type": "Praktikum",
+    "requirements": "Enrolled student in Bachelor or Master (preferred) degree in Computer Science, Data Science, or related fields.",
+    "skills": [
+        "Good knowledge of ML concepts.",
+        "Good knowledge / worked with Reinforement/ Hybrid/ Transfer/Active / Speed up learning",
+        "Good knowledge regarding the machine learning concepts. Having knowledge on convolutional neural networks is an asset.",
+        "Being autonomous with open source libraries (TensorFlow/Keras, PyTorch,…) and being fluent in Python are pre-requisite.",
+        "Large autonomy in the work, ability to ask for support, good communication, strong attention to details, … are essential skills for this type of internship."
+    ],
+    "date_posted": "2023-06-01"
+}

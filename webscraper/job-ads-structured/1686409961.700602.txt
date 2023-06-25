@@ -1,0 +1,10 @@
+{
+    "job_title": "Data Product Manager",
+    "company": "CELUS",
+    "location": "München",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "3-5 years of experience in data product development\nProven experience as a product manager with SaaS B2B or B2C products\nExposure to working in a f ast-paced startup environment\nHands on experience in building dashboards BI tools such as Tableau, Power BI\nGood understanding of analytics tools (for example: Google, Pendo, Heap)\nKnowledge of Ads and Impressions (for example: Google Ads/ AdWords) is a plus\nBackground in data science and data analytics is a plus\nStrong analytical thinking and creative problem solving attitude\nExcellent communication skills\nFluent English",
+    "skills": ["data product development", "product management", "SaaS", "B2B", "B2C", "Tableau", "Power BI", "analytics tools", "data science", "data analytics", "analytical thinking", "problem solving", "communication", "English"],
+    "date_posted": null
+}

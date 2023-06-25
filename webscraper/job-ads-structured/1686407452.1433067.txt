@@ -1,0 +1,32 @@
+{
+  "job_title": "Data Engineer (Software Engineer) (Vacancy)",
+  "company": "City of Columbus",
+  "location": "Bayern",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Possession of a bachelor's degree with significant coursework (twenty-one (21) semester or thirty-two (32) quarter hours) in computer science, management information systems, computer programming, geographic information systems, engineering, mathematics, or a closely related field and four (4) years of experience in systems analysis, database management, applications development, or software design.",
+  "skills": [
+    "Talend Data Fabric: Talend Studio",
+    "Talend Data Integration",
+    "Talend Enterprise Service Bus",
+    "Talend Data Catalog",
+    "Talend Data Stewardship",
+    "Talend Data Preparation",
+    "RDBMS platforms (Microsoft SQL Server)",
+    "Cloudera Data Platform (i.e. Hadoop, Spark, kudu, etc.)",
+    "Git",
+    "SOAP/REST APIs",
+    "developing data ingestion",
+    "data processing",
+    "analytical pipelines for big data",
+    "data warehouses",
+    "relational",
+    "NoSQL data solutions",
+    "object-oriented/object function scripting languages: Python",
+    "Java",
+    "C++",
+    "Scala, etc.",
+    "translating business requirements to scalable technical solutions"
+  ],
+  "date_posted": null
+}

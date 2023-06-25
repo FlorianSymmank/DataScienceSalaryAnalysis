@@ -1,0 +1,10 @@
+{
+   "job_title": "Data Scientist, Research & Development",
+   "company": "LI-COR",
+   "location": "Berlin",
+   "salary_euro": null,
+   "employment_type": null,
+   "requirements": "Bachelor's degree in applied Statistics, Data Science, or Applied Mathematics preferred. Bachelor's degree in science, Technology, Engineering or Math (STEM) field with an emphasis on algorithmic development, signal processing, and data analysis will be considered. Minimum of three (3) years of post-graduate academic or commercial experience in analyzing large data sets.",
+   "skills": [ "R programming", "Python programming", "Machine Learning (ML)", "Artificial Intelligence (AI)", "Git" ],
+   "date_posted": null
+}

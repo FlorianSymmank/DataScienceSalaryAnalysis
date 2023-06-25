@@ -1,0 +1,25 @@
+{
+   "job_title": "Senior Data Analyst",
+   "company": "Alight",
+   "location": "Deutschland",
+   "salary_euro": null,
+   "employment_type": "unknown",
+   "requirements": "Master's degree in Machine Learning, Computer Science, Applied Mathematics, IT or a related field, practical experience in designing and developing data science solutions for customers, extensive knowledge and experience in developing machine learning algorithms, published scientific research and/or presentations at scientific conferences, understanding of structured and unstructured data analysis, streaming data, IoT, natural language processing and related topics, fluency in German (at least B2) and English.",
+   "skills": [
+      "Machine Learning",
+      "Data Science",
+      "SQL",
+      "NoSQL",
+      "Deep Learning",
+      "Big Data Stack",
+      "Distributed Machine Learning",
+      "Optimization",
+      "Graph Theory",
+      "Statistics",
+      "Communication",
+      "Leadership",
+      "Problem Solving",
+      "Analytical Thinking"
+   ],
+   "date_posted": "unknown"
+}

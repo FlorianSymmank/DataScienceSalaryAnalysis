@@ -1,0 +1,19 @@
+Software Developer Image Processing (m/f/d)
+MOBOTIX
+Langmeil
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Your Job
+implementation and support of software components for ARM-based SOCs in Linux kernel and userland
+design and implementation of image processing chains using DSP accelerated algorithms
+development of interfaces to access image data and image control parameters
+continuous improvement of image quality
+tuning of parameters for image processing algorithms
+evaluation of new hardware components
+Your Profile
+finished studies in science, technology, engineering or mathematics
+good knowledge in C/C++
+experience in image processing
+ability to work in a team
+good english skills
+Diesen Job melden

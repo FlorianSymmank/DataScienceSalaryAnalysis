@@ -1,0 +1,12 @@
+{
+  "job_title": "Data Integration Manager (m/f/d)",
+  "company": "Abbott Laboratories",
+  "location": "Wiesbaden",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Relevant university degree. Mandatory: Business expertise in the medical device field of at least 8-10 years. Fluent in German and English. Mandatory: Minimum 10-12 years work experience with a track record in Data Integration. Budget responsibility of ~650K€ per Quarter",
+  "skills": [
+    "Programming languages and tools: Coding skills in VBA, DAX, PL/SQL and Python or R. Data Visualization experience in Power BI (nice to have). Relational Database experience in MSSQL &/ Oracle databases. Microsoft toolkit such as MS Access and MS Excel. Analyze, recommend, and influence overall strategy and roadmaps for data integrations. Communicate and collaborate across teams in a compact, Agile environment. Action oriented and able to translate ideas into action. Strong analytical skills with a focus on problem solving and root cause identification. Ability and willingness to be hands on in the delivery of highly technical data analytics projects. Extensive experience in the application of analytics, insights and data mining to commercial “real-world” problems. Exposure to media, consumer research or digital media analytics is desirable however not essential. Solid skills in SQL and non-SQL. Advanced Analytical Modelling in a business context. Technical experience in programming in Python, R and statistical packages (R, SAS). Technical experience in one or more visualisation tool such as Tableau or Power BI. Qualifications in relevant disciplines (Physics, Statistics, Mathematics, Computer Science, Analytics). People management skills. Acute business acumen and understanding of organizational issues and challenges"
+  ],
+  "date_posted": null
+}

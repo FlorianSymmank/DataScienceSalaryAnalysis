@@ -1,0 +1,10 @@
+{
+    "job_title": "Intern in Machine Learning (f/m/d)",
+    "company": "Bayer",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": "Internship",
+    "requirements":  "Currently enrolled in a Bachelor's or Master's degree in Computer Science, Data Science, or related field.",
+    "skills": ["Python", "machine learning algorithms", "data pre-processing techniques"],
+    "date_posted": "2021-11-15"
+}

@@ -1,0 +1,38 @@
+Business & Data Analyst
+Solera
+Homeoffice
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+The Role
+As Business & Data Analyst in the VI Core Team, you will collaboratively work with the entire team as well as stakeholders to help set the right objectives, enable informed and data-driven decisions, define business logic and monitor progress.
+Visual Intelligence (VI) is Solera’s market-leading automated damage detection solution driven by state-of-the-art computer vision technology. The VI Core Team is the self-sufficient team that owns the AI technology behind VI and exposes it to its clients via a RESTful API. In addition to VI the team owns and develops ML components for other Solera products such as an invoice checking solution for the property claims space.
+What You’ll Do
+Understand business requirements, system capabilities, and the metrics that drive the value for the users of VI
+Collaborate with the team and with stakeholders on behalf of the team to align around objectives, roadmap as well as issues, and opportunities
+Contribute to - and potentially own some of - the teams processes and operations
+Help manage the backlog, create tickets, and specify acceptance criteria
+Own the teams internal and external documentation for business and tech audiences
+Perform strategic and ad-hoc data analyses in support of the team's mission
+Develop reports and dashboards and define metrics that inform success for the team
+Explore large, complex, and loosely defined datasets to identify problems and create actionable insights
+Operate with an iterative mindset, focused on guiding the team to delivering incremental value at high velocity
+Drive long-term and company-wide initiatives to improve the quality of the data available to the team
+What You’ll Bring
+3+ years experience in business analysis role in cross-functional agile software delivery team, data analysis with large and complex data sets and data science/engineering, software development, or technical writing roles
+Very strong analytical skills
+Strong communication skills in English with proven ability to listen and understand technical language, to describe complex problems and solutions efficiently and effectively both in writing and verbally as well as to effectively communicate to different audiences
+Experience in negotiating scope and priorities and balancing them for successful outcomes
+Experience leveraging descriptive data techniques
+Experience uncovering data insights to form hypotheses, designing product experiments, evaluating results and making recommendations
+Advanced Level SQL
+Ability to thrive in a fully remote organization, being transparent and highly collaborative
+Nice to have:
+Ability to write code to solve and automate tasks
+Familiarity with any of the technologies listed above
+Familiarity with reactjs, nextjs or similar web frameworks
+Diesen Job melden

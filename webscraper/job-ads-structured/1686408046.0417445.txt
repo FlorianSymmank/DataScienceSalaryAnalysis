@@ -1,0 +1,16 @@
+{
+  "job_title": "Product Internship",
+  "company": "Upvest",
+  "location": "10997 Berlin",
+  "salary_euro": null,
+  "employment_type": "Vollzeit, Praktikum",
+  "requirements": "Currently studying or just graduated with a degree in Computer Science,Engineering,Economics,Business Administration\/Finance or any other relevant field of study; Fluent in English, both written and spoken; Eligible to work in Germany",
+  "skills": [
+    "Modern product management skills",
+    "Fintech API-first product development",
+    "Agile project management",
+    "Product discovery and delivery processes",
+    "Cross-functional teamwork"
+  ],
+  "date_posted": null
+}

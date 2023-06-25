@@ -1,0 +1,30 @@
+Diese Stellenanzeige ist auf Indeed abgelaufen
+Mögliche Gründe: Der Arbeitgeber akzeptiert keine Bewerbungen, ist nicht aktiv auf der Suche nach neuen Mitarbeitern oder prüft derzeit die eingegangen Bewerbungen
+Data Engineer (m/f/d)
+Raisin
+Home Office
+Team
+
+
+Being a member of the Revenue team at Raisin who is primarily responsible for invoicing, compensation and revenue transformation across Raisin, these processes architecture, design, development and management are to be built on big data architecture.
+The candidate for this position will be responsible for contributing to the whole development cycle, from architecture, design, development and support of the solution, in addition to the reporting and analytics.
+Your Responsibilities
+
+
+Deliver and manage the invoicing and revenue aspects of business intelligence and analytics. This includes the capability to architect, design, develop and support data extraction, transformation and orchestration processes in addition to data modeling and performance optimization on the data warehouse.
+Create and optimize data pipelines using Airflow, Snowflake and AWS.
+Work with the analytics team to design and develop the BI tool semantic layer from an engineering perspective (modeling, performance optimization etc...)
+Mentor junior individuals and help them develop their skills as required. Plan, delegate and regulate work load within the team.
+Work with other teams to resolve dependencies.
+Execute proofs of concept to test and evaluate new tools and technologies relevant to business intelligence and analytics and propose adoption wherever necessary.
+Your Profile
+
+
+Solid experience in Airflow, Python programming and SQL.
+Knowledge of AWS services and kubernetes.
+Bachelors in Mathematics, Computer Science or other relevant quantitative fields
+Strong analytical and quantitative approach to problems
+Knowledge of Data Engineering best practices in Data Quality, Observability, etc
+Comfortable in dynamic and changing environment - strong inclination to take responsibility for your work
+Eagerness and hunger to learn - on the job learning
+Diesen Job melden

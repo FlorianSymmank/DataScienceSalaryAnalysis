@@ -1,0 +1,24 @@
+{
+    "job_title": "Infrastructure Engineer (m/w/d)",
+    "company": "Smart Steel Technologies GmbH",
+    "location": "12489 Berlin",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "At least 3 years of experience in designing, developing, and maintaining ML infrastructure and workflows Bachelor's or Master's degree in Computer Science, Electrical Engineering, or a related field is preferred",
+    "skills": [
+        "event-driven architectures",
+        "event sourcing with Kafka (preferred) and/or other message passing technologies (e.g., RabbitMQ, IBM MQ)",
+        "stream processing within the Kafka ecosystem (KafkaConnect, KafkaStreams, ksqlDB, Confluent Schema Registry, etc.) is an advantage",
+        "programming in Python (preferred) and/or one or more other modern languages, such as Java, Scala, Modern C++, C#",
+        "distributed systems",
+        "cloud computing",
+        "containerization technologies",
+        "Kubernetes",
+        "Docker",
+        "relational (e.g., PostgreSQL, Oracle) and time-series databases (e.g., ClickHouse, InfluxDB)",
+        "software engineering best practices",
+        "Agile development methodologies",
+        "industrial settings (e.g., SCADA, industrial IoT)"
+    ],
+    "date_posted": "current date in yyyy-mm-dd format"
+}

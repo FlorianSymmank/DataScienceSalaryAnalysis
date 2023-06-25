@@ -1,0 +1,16 @@
+{
+  "job_title": "MLOps Engineer",
+  "company": "Xcede",
+  "location": "Stuttgart",
+  "salary_euro": {
+    "amount": 95000,
+    "period": "per year"
+  },
+  "employment_type": "Festanstellung",
+  "requirements": "Hold a technical degree in computer science, physics, mathematics, or engineering",
+  "skills": [
+    "Python programming",
+    "knowledge of additional technologies like Python ML frameworks (e.g., PyTorch), GitLab, virtualization and containerization, TensorRT, CUDA, model and data versioning, and frontend development as an added advantage"
+  ],
+  "date_posted": "2021-06-29"
+}

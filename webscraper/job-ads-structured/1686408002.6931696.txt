@@ -1,0 +1,15 @@
+{
+  "job_title": "Claims Data Consultant (m/f/d)",
+  "company": "Munich Re",
+  "location": "Munich , Germany",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "University degree in computer science, statistics, applied mathematics, data science, physics or alternatively several years practical experience with the wrangling of data\nExperience in Claims non-life (re)insurance business domain (e.g. Claims management, Claims handling or data analysis within Claims) – Underwriting experience is a significant plus\nVery good written and spoken German and English",
+  "skills": [
+    "Python",
+    "SQL",
+    "data analysis",
+    "visualization"
+  ],
+  "date_posted": null
+}

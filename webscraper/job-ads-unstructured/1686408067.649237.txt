@@ -1,0 +1,59 @@
+(Medical-) Computer Scientist/Software Developer (f/m/d) for the project "Open Medical Inference (OMI)"
+Universitätsmedizin Rostock
+18055 Rostock
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+
+The Hanseatic city of Rostock is a vivid, child-friendly harbour town by the Baltic Sea. Rostock University Medical Centre (www.med.uni-rostock.de) ist der Maximalversorger is the maximal health care provider for the Rostock area, a growing region with great potential.
+
+The Institute for Diagnostic and Interventional Radiology, Paediatric and Neuroradiology, as a central service provider, offers the entire spectrum of diagnostic and interventional radiology on state-of-the-art systems around the clock and every day of the year.
+
+To accompany a nationwide research project funded by the Federal Ministry of Education and Research (BMBF), we are looking for a (medical-) computer scientist/software developer (f/m/d) to start on 01/07/2023, preferably in full-time employment (40 hours/week), due to formal reasons initially limited until 30/09/2024 with good prospects for subsequent further employment and remunerated according to TV-L.
+
+The BMBF-funded Medical Informatics Initiative (MII) aims to further advance digitalisation in health research. The OMI method platform is intended to simplify the use of artificial intelligence (AI) applications to prospectively perform time-consuming and repetitive tasks in medicine by means of AI methods. In order to relieve clinics regarding maintenance, deployment and operation of various AI services, the OMI project is developing an inter-clinical network for users and providers of AI services for the distributed evaluation of clinical data.
+
+Tender No. 159 E/2023
+Tender closing date: open
+
+(subject to third-party funding)
+
+Your tasks
+
+Your tasks include the set-up and integration of the OMI method platform into the infrastructure of the Data Integration Centre (DIZ) of the Rostock University Medical Centre:
+
+Design and implementation of interfaces and software components for data transfer within the OMI network and between clinical AI applications and the participating data integration centres
+Specification of special protocols, the imaging extension module as well as implementation of new components for the evaluation and further extension of the dementia detection and spine analysis modules
+Integration of the system into the site-wide and AI-based application landscape
+This is what matters to us
+A degree in computer science (especially medical or bioinformatics) or comparable professional training (e.g. IT specialist)
+Experience in software development with at least one common programming language (C++, C#, Python, Java, JavaScript) as well as in web and database development
+Knowledge of modern web architectures (e.g. NodeJS, FastAPI, REST) and data formats (e.g. JSON, XML)
+Ideally, knowledge of medical interface standards (e.g. HL7 FHIR, IHE SNOMED CT, DICOM)
+Strong analytical, conceptual and communication skills
+Good knowledge of the German language and business fluent English language
+We offer
+An interesting and varied job in a committed team with flat hierarchies and flexible working hours
+Company health management, 30 days annual leave and annual bonus payment
+Company pension scheme in the VBL
+Use of a job ticket (AG subsidy) for public transport
+Company discounts in Rostock fitness studios, at selected events and in selected pharmacies
+Access to university sports
+A wide range of further training opportunities
+Opportunity for doctoral studies and further academic qualifications
+
+We look forward to receiving your application!
+
+Please send your complete application documents quoting the tender number mentioned above by e-mail, please only in PDF format as one file, to bewerbung{bei}med.uni-rostock.de.
+
+For ease of reading, we use the masculine form of address throughout the text. Of course, people of any gender identity are welcome at the Rostock University Medical Centre.
+
+Severely disabled persons will be given preferential treatment when filling vacancies within the framework of the applicable legal provisions if they are equally qualified.
+
+The costs incurred with the application cannot be covered.
+
+Diesen Job melden

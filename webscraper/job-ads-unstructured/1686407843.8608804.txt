@@ -1,0 +1,55 @@
+Data Scientist (d/f/m) – Data Analytics
+TK Elevator GmbH
+40472 Düsseldorf
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Group presentation
+
+We strive to make cities the best ever places to live, by advancing an industry that moves over 1 billion people each day. We are transforming our business by driving the industry norm and challenging ourselves, fostering a culture of internal and external collaboration, and building on our unique engineering capabilities to optimize existing and create new products and solutions for our customers that cater to real mobility needs.
+
+
+
+
+Who we are
+
+With customers in over 100 countries served by more than 50,000 employees, TK Elevator achieved sales of €8.5 billion in fiscal year 2021/2022. We ensure high levels of customer service globally from our extensive network of about 1,000 locations. Over the past several decades, TK Elevator has established itself as one of the world’s leading elevator companies and became independent after separation from the thyssenkrupp group in August 2020. The company’s most important business line is the service business proudly provided by around 25,000 service technicians. The product portfolio ranges from standardized elevators for low-rise residential buildings to highly customized solutions for skyscrapers. In addition, it covers escalators, moving walks, passenger boarding bridges and stair and platform lifts. Integrated cloud-based solutions, such as the MAX platform, are delivering enhanced services. With these digital offerings, there are no longer any limits to urban mobility. TKE – move beyond.
+
+What we expect
+
+TK Elevator is a pioneer in industrial IoT, predictive maintenance, and the use of Big Data in the area of smart buildings. Together with leading technology companies as strategic partners we are developing the future of urban mobility – to improve the lives of people everywhere, every day.
+
+You will work in a dynamic team that uses cutting edge technology to solve challenging problems, develop new business solutions and digital products.
+
+You will be part of a team that is part of the hardware, firmware, connectivity, cloud, backend integration, frontend, app development, business process design as well as rollout and monetization.
+
+You work on exciting projects with global reach and impact
+You deliver AI/Ml solutions leveraging latest machine learning (ML) techniques, including exploratory data analysis, feature engineering, model selection, model evaluation, cross-validation, and deployment at all scales
+You stay up-to-date on latest ML and artificial intelligence (AI) technologies and applications to client industry and use cases to evaluate potential deployments
+You collaborate with data engineers, domain experts and external data science teams to enhance, scale, and optimize existing models
+You translate business problems into data science experiments and subsequently into maintainable data-driven solutions that can be continuously enhanced
+Who we are looking for
+You have a degree in Math, Computer Science, Engineering, Physics or in a related field
+You bring in a quantitative background with 3+ years of experience applying data science to solve real-world business problems
+You stand out through your exceptional analytical, conceptual, and problem-solving abilities
+You comprehend and work with relational and dimensional database structures, theories, principles, and practices
+You have advanced knowledge of Python, Scala, SQL, or R
+You are experienced using data visualization tools such as Tableau, Qlik, or Power BI
+You’re familiar with Pandas, PySpark, Databricks or an equivalent tool
+Contact
+
+Please apply online in English, including your notice period and salary expectations based on a regular 40 hour work week.
+
+Uwe Hüsken
+
+Human Resources - Recruiting
+
+What we offer
+
+It goes without saying, that we offer attractive conditions such as:
+
+Working in a successful organization with lean hierarchies and all the advantages of an international group.
+With us, you experience an exciting work environment in interdisciplinary and multinational teams
+
+If this is as important to you as it is to us, then we are looking forward to your application!
+
+Diesen Job melden

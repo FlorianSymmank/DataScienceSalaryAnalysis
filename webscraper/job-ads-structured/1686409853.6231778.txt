@@ -1,0 +1,18 @@
+{
+  "job_title": "Firmware Engineer",
+  "company": "Applanix",
+  "location": "Salzkotten / Germany",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Bachelor's degree in Computer Engineering, Computer Science, Software Engineering or related field. Practical knowledge of the language C. Excellent knowledge of compilers & debuggers. Knowledge of unit testing strategies to ensure appropriate test coverage is beneficial. Natural problem solver. Good communicator - communicate technical aspects within the team as well as more general discussion with a wider audience. Good skills of written and spoken English. Willingness to collaborate in cross-site groups.",
+  "skills": [
+    "C programming",
+    "compilers",
+    "debuggers",
+    "unit testing",
+    "problem solving",
+    "communication",
+    "English"
+  ],
+  "date_posted": null
+}

@@ -1,0 +1,15 @@
+{
+  "job_title": "Data Scientist (m/w/d)",
+  "company": "Ströer SE & Co. KGaA",
+  "location": "Köln",
+  "salary_euro": null,
+  "employment_type": "Vollzeit, unbefristet",
+  "requirements": "Du verfügst über ein abgeschlossenes Studium im Bereich Informatik, Mathematik, Statistik, o. ä. mit einem statistischen Schwerpunkt, Data Science oder Software Engineering",
+  "skills": [
+    "Python",
+    "Cloud-Services",
+    "Azure Functions",
+    "Künstliche Intelligenz"
+  ],
+  "date_posted": "2021-09-20"
+}

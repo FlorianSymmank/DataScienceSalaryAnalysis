@@ -1,0 +1,15 @@
+{
+  "job_title": "Data Scientist",
+  "company": "SIGNAL IDUNA",
+  "location": "Dortmund or Hamburg",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Abgeschlossenes Hochschulstudium im Bereich Mathematik, Statistik, Informatik, Physik, Ingenieurwesen oder vergleichbare Berufserfahrung Nachweisbare Berufserfahrung in den entsprechenden Themenbereichen",
+  "skills": [
+    "Statistik",
+    "Machine-Learning",
+    "Python",
+    "SQL"
+  ],
+  "date_posted": null
+}

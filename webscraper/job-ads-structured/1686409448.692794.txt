@@ -1,0 +1,17 @@
+{
+  "job_title": "PhD Position for Pulse Sequence Programming and Image Reconstruction (m/f/w)",
+  "company": "Universitätsklinikum Freiburg",
+  "location": "79110 Freiburg",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Vollzeit",
+  "requirements": "medical physics, programming (C++ and/or MatLab)",
+  "skills": [
+    "medical physics",
+    "C++",
+    "MatLab"
+  ],
+  "date_posted": null
+}

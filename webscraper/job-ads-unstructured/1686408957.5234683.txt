@@ -1,0 +1,37 @@
+Associate Data Scientist (m/w/d)
+CONVALID Analytics GmbH
+München
+Zum Teil im Homeoffice
+Schnellbewerbung
+„We bring Data Science to Business Actions!“
+Coden ist für Dich Kunst und große sowie komplexe Datensätze eine Herausforderung? Du möchtest während Deines Studiums mit den neusten Technologien und Entwicklungen echten Impact generieren und Produkte und Software nachhaltig bauen? Dann bist Du bei uns, der CONVALID Analytics, genau richtig!
+
+
+
+Falls Du noch mehr über uns erfahren möchtest, klicke hier, besuche unsere LinkedIn-Seite und bewirb Dich direkt über unsere Job Site!
+Was wir und Du tun.
+In unserem Analytics-Team arbeitest Du selbständig oder gemeinsam mit anderen Data Scientists und Business Consultants an spannenden Projekten. Vorrangig erwarten Dich dabei folgende Inhalte:
+Predictive- und Business-Analytics mit State-of-the-Art Machine Learning Modellen (Transformer Modelle, XAI, NLP, …)
+Konzeption und Implementierung von Datenanwendungen
+Erstellung von MVPs / Proof of Concept Ansätzen
+Mitwirken bei Kundenworkshops
+Das macht Dich aus.
+Du begeisterst Dich für agile Softwareentwicklung sowie sauberen und qualitativ hochwertigen Code
+Du bist noch mind. ein Semester eingeschrieben an einer Hochschule/Universität mit dem Schwerpunkt Informatik/Mathematik/Physik mit Fokus auf Machine Learning und den gängigen Frameworks
+Du bist ein Talent in mind. einer der oben genannten Expertisen
+Du verfügst über gute praktische Erfahrungen in Python und gute Kenntnisse in SQL
+Du kennst Dich mit der Erschließung unstrukturierter und strukturierter Datenquellen aus
+Du weißt, wie Ergebnisse, Analysen und Fortschritte korrekt zu interpretieren und vorzustellen sind
+Du hast ein sicheres Auftreten in deutscher (mind. C1 Level) und englischer Sprache und gelegentliche Reisen machen Dir nichts aus
+Was uns ausmacht und wir Dir bieten.
+Ein Team, das für die Entwicklung von state-of-the-art KI-basierten Software-Lösungen brennt
+Eine StartUp-Mentalität, die innovative Kundenprojekte bei DAX-Konzernen und gehobenen Mittelstand umsetzt
+Ein Zusammenhalt, der zusätzlich durch Team Offsites und Company Events gestärkt wird
+Hybride Arbeitsmodelle in unseren modernen Offices in München und Düsseldorf
+Mobiles Arbeiten deutschlandweit sowie die Möglichkeit für Workation aus dem Ausland
+Eine attraktive Werkstudierenden-Vergütung sowie Option auf Übernahme in die unbefristete Festanstellung
+Fortbildungsbudgets sowie interne CONVALID Analytics Academies, um Dich von Anfang an aus- und weiterzubilden
+
+Das klingt interessant und nach Dir?
+Dann melde Dich ganz einfach mit Deinem Lebenslauf, Deiner Immatrikulationsbescheinigung sowie Deinem frühestmöglichen Eintrittstermin bei uns. Unser Kollege Marcel oder unser Data Scientist Luca, kommen schnellstmöglich auf Dich zurück!
+Diesen Job melden

@@ -1,0 +1,10 @@
+{
+    "job_title": "Consultant Artificial Intelligence (m/w/d)",
+    "company": "msg systems",
+    "location": "Berlin, Braunschweig, Chemnitz, Düsseldorf, Essen, Frankfurt, Görlitz, Hamburg, Hannover, Ingolstadt, Karlsruhe, Köln, Lingen (Ems), München, Münster, Nürnberg, Passau, Schortens, Stuttgart, St Georgen",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "Studium in Informatik, Mathematik, Data Science, Robotik, Informationstechnologie, Neurologie oder vergleichbare Praxis in Künstlicher Intelligenz, Machine Learning oder Deep Learning\nErste Projektleitungserfahrung und Wissen in der Konzeption oder im Anforderungsmanagement von KI-Projekten\nKenntnisse in Natural Language Unterstanding, Klassifizierungen oder Ontologien in Graph-basierten Datenbanken von Vorteil\nFlexibilität für projektbedingte Kundeneinsätze - für Ihre gesunde Work Life Balance sorgen wir mit mobilem Arbeiten, Arbeitszeitkonten, Teilzeitarbeit und Sabbaticals",
+    "skills": ["Machine Learning", "Natural Language Processing", "Natural Language Understanding", "Cloud Computing"],
+    "date_posted": null
+}

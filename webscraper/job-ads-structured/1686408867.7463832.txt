@@ -1,0 +1,13 @@
+{
+  "job_title": "Data Analyst with programming skills",
+  "company": "DEVnet Holding",
+  "location": "Wrocław",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Degree in computer science/mathematics (applied mathematics/actuarial and financial mathematics), information technology in business, economic analytics, or a relevant scientific discipline\nKnowledge of algorithms, data structures, financial engineering topics, asset classes, investment processes and market data\nUnderstanding of data models, data warehouses and query engines\nExperience in the integration of data from multiple data sources\nStrong experience with managing business requirements\nGood command of English is essential, German an advantage",
+  "skills": [
+    "Python",
+    "SQL"
+  ],
+  "date_posted": null
+}

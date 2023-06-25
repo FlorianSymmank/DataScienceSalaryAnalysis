@@ -1,0 +1,20 @@
+{
+   "job_title": "Junior Consultant AI & Data Science",
+   "company": "IBM",
+   "location": "Frankfurt am Main",
+   "salary_euro": {
+      "amount": 1857,
+      "period": "pro Monat"
+   },
+   "employment_type": "Vollzeit",
+   "requirements": "Einen guten Bachelor- oder Diplom-Abschluss (Notendurchschnitt 2,5 oder besser) mit Schwerpunkt auf IT / Data Science, der i.d.R. nicht länger als 24 Monate zurückliegt",
+   "skills": [
+      "AI",
+      "Cloud",
+      "Security",
+      "Quantum",
+      "moderne Softwareentwicklung",
+      "gute Deutsch- und Englischkenntnisse"
+   ],
+   "date_posted": "current date"
+}

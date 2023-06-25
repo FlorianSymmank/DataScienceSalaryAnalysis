@@ -1,0 +1,10 @@
+{
+  "job_title": "Data Scientist (m/w/d)",
+  "company": "Mercedes-Benz Tech Innovation GmbH",
+  "location": "Karlsruhe",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Du suchst einen Arbeitgeber, bei dem du deine Leidenschaft für Daten und IT sowie deine Kreativität in einem Team mit Gleichgesinnten ausleben kannst? Du verfügst bereits über mindestens 3 Jahre praktische Erfahrung im Einsatz von Machine Learning Methoden? Du suchst herausfordernde Aufgabenstellungen, um deine Data Science und Machine Learning Erfahrung lösungsorientiert einzubringen?",
+  "skills": ["Data Science", "Machine Learning", "Statistik", "Cloud Computing", "Python", "Spark", "Deutsch", "Englisch"],
+  "date_posted": null
+}

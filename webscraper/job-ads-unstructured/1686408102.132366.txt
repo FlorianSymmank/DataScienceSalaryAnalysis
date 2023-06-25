@@ -1,0 +1,104 @@
+Data Engineer (f/m/d)
+GEA Group
+40468 Düsseldorf
+Zum Teil im Homeoffice
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Data Engineer (f/m/d)
+Contact us Apply for this job
+Job information
+Apply by
+
+29-06-2023
+
+Reference number
+
+JR-0023492
+
+Job function
+
+GEA Digital
+
+Position type
+
+Full time
+
+Site
+
+Düsseldorf
+Peter-Müller-Straße 12, 40468 Düsseldorf
+
+Your responsibilities and tasks:
+
+We are committed to building a sustainable future and want to be fully neutral on CO2e by 2040. To achieve this goal, we believe that digital technologies and products are essential.
+
+We are looking for a skilled Data Engineer (f/m/d) to enhance the data capabilities and services/systems of our divisional digital units. As a valued member of our team, you will play a pivotal role in developing customer offerings that are based on Industrial Internet of Things (IIoT) data.
+
+The GEA Digital Hub Düsseldorf is dedicated to digitalizing GEA's customer interface, creating new digital products and services, and establishing innovative business models. Working collaboratively with digital units across all divisions, the Hub offers GEA-wide platforms, services, and methods to support these efforts. As a corporate start-up, the GEA Digital Hub operates with an agile approach, driving digital transformation throughout the company.
+
+At GEA Digital we believe that collaboration is essential to our success. We work closely across locations and areas of expertise to achieve our common goals.
+
+Through digitalization, we strive together with the customer to achieve the highest availability and productivity of our machines and systems with the smallest ecological footprint. By joining our team, you will have the opportunity to contribute to a more sustainable world while learning about new technologies and developing your skills as a Data Engineer.
+
+Your Responsibilities:
+
+You build data products & pipelines with a focus on IIoT data
+
+Create tools & frameworks which simplify working with data – for yourself and colleagues like domain matter experts or data scientists
+
+Collaborate with multidisciplinary teams, guiding and supporting them from ideation to production phase of a data product
+
+Improve our data platform and evaluate new products and solutions
+
+You engage in our data engineering / science guild and use your experience to enhance the data capabilities of colleagues across the organization
+
+You keep your knowledge up-to date by actively leveraging training resources and dedicated support provided by our partners like Databricks / Microsoft or joining relevant tech conferences.
+
+Your profile and qualifications:
+
+A relevant degree or alternatively a track record in Data Engineering teams
+
+Proven experience in the field of Data Engineering
+
+Good development experience in at least one language (preferred Python) and solid SQL skills
+
+Proficiency using analytics frameworks like Spark / Databricks and using hyperscalers (Azure preferred)
+
+Prior experience in IIoT related data is welcome, but not mandatory
+
+Fluent in English
+
+What we offer:
+
+We are looking for talented individuals to join our team and help us achieve our mission of being better through digitalization. As a member of our team, you will have the opportunity to work with like-minded professionals from around the world, all with a shared purpose of making a positive impact on the society.
+
+We value diversity and inclusivity and strive to create a culture that is welcoming to all. We offer competitive salaries and benefits packages, including flexible work arrangements and opportunities for career advancement.
+
+Join us in our mission to make a difference through digitalization and help us create a better world for the future generations.
+
+Our benefits:
+
+Working in a supportive, appreciative and international team
+
+Various possibilities for further education through seminars, workshops and team events
+
+Company pension scheme and accident insurance
+
+30 vacation days per year
+
+Permanent employment in full-time
+
+Work-life balance hybrid working model as a combination of home-office and working in our Hub
+
+Corporate benefits- discounts on fitness memberships, language courses etc.
+
+Great public transport connections
+
+GEA is an equal opportunity employer. Applicants will therefore receive consideration for employment without regard to age, sex, race, color, religion, world view, national origin, genetics, disability, gender identity, marital status, sexual orientation, veteran status or any other protected characteristic required by applicable law. Applicants with disabilities are welcome and will be given special consideration if they are equally qualified.
+
+Diesen Job melden

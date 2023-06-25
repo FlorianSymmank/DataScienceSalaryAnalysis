@@ -1,0 +1,62 @@
+Pflicht-Praktikum im Bereich Data Science Produktion in Technology & Business Development Powertrain ab Juni 2023
+Mercedes-Benz AG
+Stuttgart
+Praktikum
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Praktikum
+Aufgaben
+
+In der Mercedes-Benz Werk Untertürkheim bauen wir die Herzstücke unserer Automobile: hocheffiziente und zukunftsweisende Antriebssysteme wie Batterien und Motoren für alle Mercedes-Benz Pkw. Wir gestalten die Automobilgenerationen der Zukunft. Damit meinen wir innovative Produkte mit höchster Qualität und effiziente Entwicklungsprozesse. In enger Abstimmung mit den Entwicklungs-, Planungs- und Produktionsbereichen arbeiten wir gemeinsam am elektrifizierten Powertrain, um die Technologieführerschaft von Daimler auch zukünftig zu sichern.
+
+Das Team der Prozessentwicklung ist in diesem Zuge hauptverantwortlich für die Einführung innovativer Fertigungsverfahren zukünftiger Powertrain-Komponenten sowie im Zuge der Elektromobilität Innovationsgeber des elektrischen Antriebstrangs.
+
+Zur Unterstützung unseres Teams bei der Implementierung, Generierung und Umsetzung innovativer, energieeffizienter Technologien vom ersten Prototypen bis hin zur Serieneinführung, suchen wir Mitgestalter*innen der Technologie(n) von morgen.
+
+Ihre Aufgaben im Einzelnen:
+
+
+
+Durchführung von Literaturrecherchen zu arbeitsrelevanten Themen
+
+Mitarbeit bei Entwicklungsprojekten elektrifizierter und konventioneller Antriebskomponenten
+
+Entwicklung und Implementierung von KI-Modelle (Neurale-Netze) im Bereich Zerspanung
+
+Qualifikationen
+
+Studiengang Informatik, Wirtschaftsinformatik bzw. -mathematik, Maschinenbau, Computational Science, Simulationstechnik, Fahrzeugtechnik, Luft- und Raumfahrttechnik, Mechanik, oder ein vergleichbarer Studiengang
+
+Kenntnisse im Bereich Manufacturing und LS-DYNA (FEM) sind von Vorteil
+
+Sehr gute Kenntnisse in Python
+
+Sehr gute Packages-Kenntnisse: Keras oder Tensorflow, scikit learn
+
+Sichere Deutsch- und Englischkenntnisse in Wort und Schrift
+
+Analytische und konzeptionelle Denkweise, Teamfähigkeit, strukturierte Arbeitsweise, Kommunikationsfähigkeit, Engagement
+
+
+
+Bitte beachten Sie, dass Ihr Praktikum an diesem Standort einen vorgeschriebenen Pflichtanteil aufweisen muss.
+
+
+
+Zusätzliche Informationen:
+
+Ganz ohne Formalitäten geht es natürlich auch bei uns nicht. Daher bitten wir Sie, sich ausschließlich online zu bewerben und Ihrer Bewerbung einen Lebenslauf, aktuelle Immatrikulationsbescheinigung mit Angabe des Fachsemesters, aktueller Notenspiegel, relevante Zeugnisse, ggf. Pflichtpraktikumsnachweis und Nachweis über die Regelstudienzeit (max. Gesamtgröße der Anhänge 5 MB) beizufügen sowie im Online-Formular Ihre Bewerbungsunterlagen als "relevant für diese Bewerbung" zu markieren.
+
+Weiterführende Informationen zu den Einstellkriterien finden Sie hier.
+Angehörige von Staaten außerhalb des europäischen Wirtschaftsraums schicken ggf. bitte ihre Aufenthalts-/Arbeitsgenehmigung mit.
+
+Wir freuen uns insbesondere über Onlinebewerbungen schwerbehinderter und ihnen gleichgestellter behinderter Menschen. Bei Fragen können Sie sich unter sbv-untertuerkheim@mercedes-benz.com zudem an die Schwerbehindertenvertretung des Standorts wenden, die Sie gerne nach Ihrer Bewerbung im weiteren Bewerbungsprozess unterstützt.
+
+Bitte haben Sie Verständnis dafür, dass wir keine Papierbewerbungen mehr entgegennehmen und es keinen Anspruch auf Rückversand gibt.
+
+Fragen zum Bewerbungsprozess beantwortet Ihnen gerne HR Services per Mail an hrservices@mercedes-benz.com der auf unserer Karriereseite der Chat-Bot über das PLUS-Symbol.
+
+Diesen Job melden

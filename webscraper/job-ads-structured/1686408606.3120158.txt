@@ -1,0 +1,16 @@
+{
+"job_title": "Data Engineer (m/w/d)",
+"company": "TESTIA GmbH",
+"location": "28199 Bremen",
+"salary_euro": null,
+"employment_type": "Vollzeit (40h)",
+"requirements": "Abgeschlossenes Studium im Bereich Software Engineering, Data Science, Data Engineering oder eine vergleichbare Qualifikation",
+"skills": [
+    "Python",
+    "ML-Ops-Plattformen (z.B. MLflow, Amazon Sagemaker, valohai)",
+    "Softwareentwicklung",
+    "Data Engineering",
+    "Projektmanagement"
+],
+"date_posted": null
+}

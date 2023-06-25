@@ -1,0 +1,22 @@
+{
+  "job_title": "High-Performance Computing “Data Scientist” (m/f/d)",
+  "company": "Zuse Institute Berlin",
+  "location": "Berlin",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Vollzeit",
+  "requirements": "a university degree with proven expertise in a data-science related field, preferably on the interfaces between machine learning and simulation or optimization, in bioinformatics or similar areas, a doctoral degree / PhD would be favorable, longtime professional experience in this field of activity, such as: 1) Good technical background on state-of-the-art technologies for machine learning / AI (AI-specific hardware and software), and parallel computer architectures (processors, high-performance interconnects, memory hierarchies, and storage systems), 2) Experience in using frameworks for data processing / machine learning / AI software frameworks on parallel computer systems, 3) Background in parallel programming (multi-threading, message passing) using C/C++ and Python; experience with accelerators (GPU, FPGA) would be desired, good understanding of data management technologies including parallel file systems, memory and multi-tier storage hierarchies, strong focus on self-reliance, pro-activity, creativity and the ability to work in a team.",
+  "skills": [
+    "Data analytics",
+    "Machine learning",
+    "AI software frameworks",
+    "Parallel programming",
+    "C/C++",
+    "Python",
+    "Data management",
+    "High-performance computing"
+  ],
+  "date_posted": "2021-06-16"
+}

@@ -1,0 +1,56 @@
+Data Engineer (m/w/d) in Vollzeit
+softfair GmbH
+Hamburg
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Beschreibung
+
+Seit über 30 Jahren entwickelt und implementiert softfair branchenspezifische IT-Lösungen für Finanzdienstleister und Versicherungsgesellschaften. Erfahren, partnerschaftlich und fair. Dabei setzen sich unsere Kunden vor allem aus Maklerpools, Vertrieben, größeren Maklerhäusern und Versicherungsgesellschaften zusammen. An unseren Standorten in Hamburg und Maisach bei München sind rund 100 Mitarbeiterinnen und Mitarbeiter für uns tätig.
+
+Zur Verstärkung unseres Teams in Hamburg suchen wir schnellstmöglich eine/n Data Engineer (m/w/d) in Vollzeit
+
+
+Deine Aufgabengebiete
+Du bist für die Entwicklung und Aufbau einer cloudbasierten Daten-Plattform mit Delta-Lake und Apache Spark zuständig
+Du betreust und entwickelst die Infrastruktur basierend auf Databricks und AWS weiter
+Du arbeitest eng mit den bestehenden Programm-Teams zusammen, um Datensilos aufzulösen und bestehende Daten zusammen zu führen
+Dein Fokus liegt auf Skalierbarkeit und Automatisierung der Datensammlungs-Prozesse
+Die Einrichtung von Streaming-Workflows zur automatisierten Datensammlung und Datenverarbeitung gehören ebenso zu Deinen Aufgaben sowie die Implementierung von ETL-Prozessen
+Dein Profil
+Du hast ein abgeschlossenes Studium der (Wirtschafts-)Informatik, Data Science & AI oder vergleichbare Qualifikation/Ausbildung
+Sehr gute Kenntnisse in Python und SQL
+Erfahrungen mit Apache Spark, insbesondere PySpark und Spark Structured Streaming
+Berührungspunkte mit AWS-Diensten wie Kinesis, S3 und EC2 sind von Vorteil
+Erfahrung mit Databricks oder ähnlichen cloudbasierten Daten-Plattformen
+Agiles Mindset
+Offenheit und Lernbereitschaft für neue Technologien
+Kenntnisse im Versicherungsmarkt wünschenswert, aber nicht zwingend notwendig
+Sorgfältige und qualitätsbewusstes Arbeiten sind Dir wichtig
+Sehr gute Deutschkenntnisse in Wort und Schrift runden Dein Profil ab
+Das erwartet Dich
+Wir bieten Dir eine unbefristete Anstellung mit spannenden Aufgaben in einem krisensicheren und wachsenden Unternehmen
+Wir begegnen uns gegenseitig mit Respekt und fördern und fordern eine freundliche, motivierende Arbeitsatmosphäre
+Wir leben flache Hierarchien, eine offene Kommunikation und kurze Entscheidungswege
+Die kontinuierliche Weiterbildung unserer Mitarbeiterinnen und Mitarbeiter ist uns wichtig und wird aktiv unterstützt
+Wir unterstützen Dich bei der Vereinbarkeit von Beruf und Privatleben, u.a. durch flexible Arbeitszeiten und Homeoffice sowie 30 Tage Urlaub
+Wir bieten Dir vielfältige Zusatzleistungen: betriebliche Altersvorsorge, bezuschusstes Deutschlandticket, Jobradleasing, Massage, Obst, Wasser, Kaffee und Tee
+Wir sind auch neben der Arbeit ein super Team und organisieren deshalb Teamevents zum Feiern und Netzwerken, sowie unsere tollen Weihnachtsfeiern und Betriebsfeste
+Einstellungsorganisation
+Beschäftigungsverhältnis
+Vollzeit
+Kontakt
+
+Andrea Wulf
+personal@softfair.de
+040.609 434 182
+
+Haben wir Dein Interesse geweckt?
+
+Wir freuen uns darauf, Dich kennenzulernen!
+
+Diesen Job melden

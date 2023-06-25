@@ -1,0 +1,21 @@
+{
+    "job_title": "Data Architect (w/m/x)",
+    "company": "IBM iX Dusseldorf GmbH",
+    "location": "Düsseldorf, Home Office (Hybrid)",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Du hast fundierte Kenntnisse über relationale und nicht-relationale Datenbankmanagementsysteme und Cloud-basierte Datenspeicherlösungen (z.B. Amazon S3, Google Cloud Storage, Redshift, DynamoDB, Snowflake, Databricks, etc.)\nDu bist vertraut mit dem Entwurf und der Erstellung von Datenmodellen in relationalen und nicht-relationalen Umgebungen auf der Grundlage von Geschäftsanforderungen\nDu bist versiert im Umgang mit Event-Streaming-Technologien (z.B. Kafka, Solace) und ETL-Tools (z.B. Informatica, Pentaho, etc.)\nDu verstehst den geschäftlichen Wert der Nutzung von Machine Learning im Kontext von Kundendaten und Marketing-Anwendungsfällen\nPraktische Erfahrung in der Python-Entwicklung (oder einer ähnlichen Programmiersprache – z. B. Java) und Kenntnisse über Versionskontrollsysteme sind von Vorteil\nDu hast gute Präsentations- und Kommunikationsfähigkeiten in Englisch (mindestens C1) und idealerweise auch in Deutsch (B2)",
+    "skills": [
+        "relationale und nicht-relationale Datenbankmanagementsysteme",
+        "Cloud-basierte Datenspeicherlösungen",
+        "Entwurf und Erstellung von Datenmodellen",
+        "Event-Streaming-Technologien",
+        "ETL-Tools",
+        "Machine Learning",
+        "Python-Entwicklung",
+        "Versionskontrollsysteme",
+        "Präsentations- und Kommunikationsfähigkeiten in Englisch",
+        "Deutsch"
+    ],
+    "date_posted": null
+}

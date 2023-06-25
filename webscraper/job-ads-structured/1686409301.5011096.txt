@@ -1,0 +1,16 @@
+{
+    "job_title": "Polymer-Elektrolyt / Batterie-Wissenschaftler (w/m/d)",
+    "company": "Theion GmbH",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "Hands on Experience in synthesis and characterization of (polymeric) materials and battery(active) materials (e.g. SEM, XPS, RAMAN, IR, Impedance spectroscopy, etc.)\nDeep understanding of mixed ion/electron conductive polymers and Li+ dominant solid orquasi solid-state polymer electrolytes\nProfessional experience in the fields of polymer electrolyte development for batteries,composite materials and electrochemical impedance spectroscopy (EIS)",
+    "skills": [
+        "materials processing",
+        "polymer chemistry",
+        "electrochemistry",
+        "nanomaterials",
+        "materials science"
+    ],
+    "date_posted": null
+}

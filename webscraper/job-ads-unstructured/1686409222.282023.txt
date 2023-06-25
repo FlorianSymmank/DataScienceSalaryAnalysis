@@ -1,0 +1,49 @@
+Senior Data Analyst - Project A (m/f/d)
+Project A Ventures
+10407 Berlin
+Schnellbewerbung
+About the Job
+
+We’re looking for an experienced Data Analyst (m/f/d) to join our Data & Analytics team at Project A Ventures.
+
+In your day-to-day work you’ll be tasked with identifying how data can contribute to growth & efficiency within our portfolio companies. You will also help leveraging these opportunities in collaboration with our Data Engineering & Science team, focusing on real impact instead of utilising shiny technologies or methods - all while receiving unique insights into the inner workings of a top-tier VC firm.
+
+Our Data and Analytics team firmly believes that the decade of data has begun: Expertise gathered through work with 70+ portfolio companies has taught us how to turn raw data into real insights, products, features and more. Now it’s up to you to utilise these assets to drive actual business growth through insightful visualisations, remarkable analyses & meaningful stakeholder relationships.
+
+Motivation, creativity, and openness encapsulate our values and culture. That’s why we encourage you to bring yourself to work. Join a multinational team of bright individuals and be inspired to grow, innovate, and take responsibility from the get-go.
+
+In this role, you’ll:
+
+Proactively identify, explore & implement impactful data topics for our companies based on their strategic objectives & investment milestones
+Manage data warehousing & machine learning projects in close collaboration with our Data Engineering & Science team
+Enable a better, more data-driven business understanding within our portfolio companies
+Be responsible for consistent tracking and data collection with various client & server-side solutions
+Your Profile
+
+
+Professional experience in the field of Data & Analytics (minimum 2 years) - ideally in high-performance & dynamic environments with consultancy/agency background being a plus
+High degree of emotional intelligence to build & maintain meaningful relationships with (senior) stakeholders
+Extensive background in at least one special data domain (e.g. Marketing Analytics, Product Analytics, Data Governance, Customer Analytics)
+Familiarity with SQL / dbt for data analysis & modelling
+Relevant experience within the MDS: Data collection (Google Tag Manager, Segment), data integration (Fivetran, Airbyte, ), databases (Snowflake, BigQuery), data modelling (dbt, DataForm) & activation (Looker, Metabase, PowerBI, Census)
+Please note that we are looking for support in our Berlin office. Eligibility to work within the EU is required as well.
+
+Benefits and Perks
+
+
+Remote-friendly – Work anywhere in Germany or take advantage of our beautiful and well-equipped office at the heart of Berlin
+Choose your tech – MacOS/Windows/Linux laptop and optional screen
+Career growth – Access to internal workshops, knowledge sharing meetups, PAV Academy professional training opportunities, industry conferences, and other personal development possibilities
+Subsidised products and services, including meal vouchers, German language classes, a bike leasing program, and discounts on services of our portfolio companies and various other brands
+Wellness – 24/7 access to counselling specialists, free subscription to workplace wellbeing platform Unmind, weekly online yoga classes
+Paid team and company events
+Social activities – Hang out with co-workers during and after-hours (Slack or IRL, you decide), grab lunch or coffee with randomly assigned teammates, and disconnect from everything to spend quality time in outdoor activities
+Visa application support and relocation package
+Apply below and become a part of our success story!
+
+Our Commitment to Diversity and Inclusion
+
+Project A is committed to diversity and equal opportunities for all – applicants and employees alike. We value humans – with all our glorious multifaceted backgrounds, perspectives, and experiences. Our diverse team has different ethnic and cultural origins, gender identities, sexual orientations, family arrangements, religious and political affiliations, socioeconomic statuses, age groups, and abilities.
+
+With 32 nationalities and over 25 spoken languages, we’re confident that you’ll feel right at home. We look forward to your application.
+Diesen Job melden

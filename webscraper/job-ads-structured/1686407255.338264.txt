@@ -1,0 +1,19 @@
+{
+   "job_title": "(Senior) Manager Data Science (m/f/d), Business Analytics & Insights – Germany",
+   "company": "Pfizer",
+   "location": "10785 Berlin",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "Bachelor’s degree required, ideally in quantitative discipline like engineering or data science; also advanced degree preferred in business administration, statistics, or other relevant field\nWork experience in data science function, country strategy and/or strategic consulting\nPreferred experience in understanding pharmaceutical commercial product lifecycle, its strategy, and tactics\nExperience in management of secondary data with application of real-world data",
+   "skills": [
+      "machine learning",
+      "Python",
+      "R",
+      "visualization tools",
+      "Tableau",
+      "Qlik",
+      "Power BI",
+      "Dash"
+   ],
+   "date_posted": null
+}

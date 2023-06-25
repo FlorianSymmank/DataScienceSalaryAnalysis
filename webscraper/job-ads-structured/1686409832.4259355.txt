@@ -1,0 +1,18 @@
+{
+  "job_title": "Scientist Power Electronic Materials (m/f/d)",
+  "company": "Heraeus Holding GmbH",
+  "location": "63450 Hanau am Main",
+  "salary_euro": null,
+  "employment_type": "Vollzeit, Teilzeit",
+  "requirements": "Degree (MSc or PhD) in materials science/materials engineering, chemistry, physics, electrical engineering, or comparable field of study. Professional experience in research and development of materials, or material systems for power electronics or comparable applications. Experience in statistical design of experiments (DoE), analysis of test data, and software skills in MiniTab, Origin, Matlab or equivalent. Ability to work independently, proactively drive projects forward, and goal-oriented thinking as well as high flexibility and willingness to learn. Fluent in written and spoken English.",
+  "skills": [
+    "research",
+    "materials science",
+    "power electronics",
+    "statistical design of experiments",
+    "software skills",
+    "flexibility",
+    "English fluency"
+  ],
+  "date_posted": null
+}

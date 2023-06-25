@@ -1,0 +1,19 @@
+{
+  "job_title": "Data Product Manager",
+  "company": "Babbel",
+  "location": "10407 Berlin",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "3-4 years of experience as a Product Manager, SCRUM Master or Project Manager (ideally with certification) in the field of Data (Business Intelligence, Data Analytics, Data Science)",
+  "skills": [
+    "data products",
+    "data engineering",
+    "data science",
+    "analytical skills",
+    "problem-solving skills",
+    "communication skills",
+    "interpersonal skills",
+    "negotiation skills"
+  ],
+  "date_posted": null
+}

@@ -1,0 +1,18 @@
+{
+  "job_title": "Data Engineer for eCommerce (m/f/d)",
+  "company": "Trading EU GmbH",
+  "location": "85461 Bockhorn",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "You have a degree with a focus on computer science, business informatics, data engineering, data analytics or a comparable qualification. You have at least three years of professional experience as a data engineer with focus on business intelligence/analytics, data analytics and (cloud) data warehousing. You already have practical experience and sound knowledge in the following areas: Building and operating data pipelines/Big Data frameworks and using relevant tools and concepts in this area. Software development in one or more modern programming and scripting languages (especially SQL, Python). You're fluent in English, German language skills are a plus. An essential requirement, however, is to work within the same time zone (CET +/- two hours).",
+  "skills": [
+    "data engineering",
+    "business intelligence",
+    "data analytics",
+    "cloud data warehousing",
+    "SQL",
+    "Python",
+    "English"
+  ],
+  "date_posted": "current date in yyyy-mm-dd format"
+}

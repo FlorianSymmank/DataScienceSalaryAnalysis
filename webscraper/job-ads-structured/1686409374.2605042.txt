@@ -1,0 +1,14 @@
+{
+  "job_title": "Data Scientist (m/w/d) Natural Language Processing",
+  "company": "Eucon GmbH",
+  "location": "Homeoffice",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Du bringst ein abgeschlossenes Studium, zum Beispiel Informatik, oder eine vergleichbare Ausbildung mit. Du hast Erfahrungen rund um das Thema Data Science, insbesondere im Bereich Natural Language Processing. Du bringst bereits sehr gute Kenntnisse in Python, NLP und Deep Learning mit. Du verfügst über fließende Deutschkenntnisse in Wort und Schrift. Ausgeprägtes analytisches Denkvermögen und konzeptionelle Fähigkeiten sind Attribute, die dich treffend beschreiben.",
+  "skills": [
+    "Python",
+    "NLP",
+    "Deep Learning"
+  ],
+  "date_posted": null
+}

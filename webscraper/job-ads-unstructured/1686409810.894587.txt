@@ -1,0 +1,89 @@
+Senior Software Engineer m/f/d
+Beagle Systems GmbH
+Hamburg
+Vollzeit, Festanstellung
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Festanstellung
+
+YOUR MISSION
+
+We are looking for a Senior Software Engineer in Hamburg (Full-Time) immediately. We are hiring a specialist in C++ programming with knowledge of basic flight control algorithms (or a fast learner who can understand new algorithms and implement them at an exceptional pace).
+
+Your Job Responsibility
+
+Responsible for flight control embedded systems and firmware level driver design, development and maintenance
+
+Responsible for documentation development of flight control firmware
+
+Participate in design and development of other embedded software
+
+Participate in development of related software tools and testing framework
+
+YOUR PROFILE
+
+You have studied communications engineering, embedded software engineering, computer science, automation, or similar
+
+You are a experienced user of Github/Bitbucket or similar platform -> Please provide Github/Bitbucket user name in your application
+
+You have embedded development experience for UAVs
+
+Ardupilot/PX4 Contributor
+
+You are familiar with
+
+development of embedded applications based on micro-chip/ARM/DSP and other platforms
+
+STM32 micro-chip software programming
+
+embedded software development,
+
+basic principles of operating systems, skilled in the use of FreeRTOS, Nuttx, RT-thread, Chibios and other real-time operating systems (one or more)
+
+You are proficient in C/C++, follows good coding practices with solid software engineering, data structure and algorithm design foundation
+
+You master the commonly used system bus interface and typical peripheral development, such as USB, SPI, I2C, CAN, SDIO, etc., have basic hardware skills, can understand the basic schematic and PCB;
+
+You master the cross-compilation environment, familiar with the typical Linux system call and application development;
+
+You are familiar with all kinds of open source flight control algorithms;
+
+You are creative problem solver that can bring multiple disciplines together with the ability to assess risk and make design and development decisions without all available data
+
+You are able to adapt to constant changing work assignments and fast paced work environment
+
+You have excellent communication (written and verbal) and teamwork skills
+
+You have excellent concentration and attention to detail with outstanding work efficiency and accuracy
+
+You can communicate in English
+
+WHY US?
+
+Flexible working hours
+
+Home office is possible
+
+Free drinks
+
+Free lunch
+
+30 days vacation
+
+
+
+
+ABOUT US
+
+
+
+
+
+
+Beagle Systems provides a new aerial data source using unmanned long range drones. We enable our customers to reach any location at the press of a button and provide high resolution data of physical spaces. Join a team of passionate people who work in a fast-paced and ever changing work environment at the leading edge of technology.
+
+Diesen Job melden

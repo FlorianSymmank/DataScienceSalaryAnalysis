@@ -1,0 +1,113 @@
+Software Developer for Eurodrone Ground Mission System (d/f/m)
+Airbus
+85077 Manching
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+
+Job Description:
+
+In order to support our Mission Systems development Airbus Defence and Space is looking for a
+
+Software Developer for Eurodrone Ground Mission System (d/f/m)
+
+With its groundbreaking industrial and commercial setup and its unique certification and flexibility, European Medium Altitude Long Endurance (MALE) Remotely Piloted Aircraft System (RPAS) showcases how European industry can find innovative ways to support strategic autonomy needs and prepare for the Future Combat Air System. European MALE RPAS is not just the first programme to fully implement digital design manufacturing and services (DDMS). It is also seen as a ‘light-house’ programme, not only within Airbus, but also for the entire aeronautics industry in Europe.
+
+Eurodrone is a program in which Airbus has the Prime role. It will be the first AIRBUS Defence and Space programme implementing a complete PDT / IPT setup and AGILE ways-of-working based on the SAFe governance model.
+
+In the department Platform Operational Support we develop software for mission support systems and services for all flying platforms in our portfolio such as Eurofighter, A400M, Eurodrone or FCAS.
+
+Due to the increasing complexity of mission planning, a growing number of mission participants and the need to replan ever faster, new challenges arise for mission planning systems.
+
+We meet these challenges with tailor-made software solutions, which will be further developed for cross-platform collaboration in the future. Join our software development team to take part in the implementation of the Eurodrone Ground Mission System (GMS).
+
+In our agile development teams, you will work hand in hand with experienced software developers, architects and system engineers to directly support the operators of Eurodrone aircraft in their exciting and demanding missions.
+
+Your location
+
+Located about an hour’s drive north of Munich, Manching is an up-and-coming market town that offers a wide range of leisure and cultural activities. Here, you can enjoy the quality of life in the countryside while the pleasures of near-by cities are still within easy reach
+
+Your benefits
+
+Attractive salary including holiday pay, Christmas bonus and profit sharing
+
+30 days holiday and additional days off for special occasions
+
+Excellent upskilling opportunities and great development prospects
+
+Special benefits: employer-funded pension, employee stock options, discounted car leasing, special conditions for insurances, public transport subsidy, discounts at local businesses
+
+On-site-facilities: Medical officer for check-ups and other health-related services, canteen and cafeteria, kindergarten nearby
+
+Possibility of mobile working
+
+At Airbus, we help you work, connect and collaborate more easily and flexibly. Wherever possible, we encourage flexible working arrangements to encourage innovative thinking.
+
+Your tasks and responsibilities
+
+You become part of the evolving development team for the Eurodrone Ground Mission System (GMS), to contribute to the GMS realization
+
+You take over software engineering tasks throughout the GMS life cycle, including software design according to the provided requirements, software implementation, unit and integration testing
+
+You take over responsibility for software and interface design tasks considering aspects like feasibility, reusability, maintainability, safety, technical performance and IT-security
+
+You ensure full compliance with rules and regulations resulting from software and aircraft development standards applicable to our project
+
+You live our agile transformation by following our processes, continuously identifying and leveraging improvement potential and contributing to an increase of automation
+
+Desired skills and qualifications
+
+You have an university degree in computer science or equivalent qualification
+
+You have a thorough foundation as developer in object-oriented programming languages and an overview of current technologies in the Java eco-system
+
+You feel comfortable to develop in a
+
+Java Enterprise and Unix environment
+
+You have experience in following development processes (e. g. Scrum, V-Model) and are a strong team player, able to work self-organised with an ambition for high quality
+
+You master source code management systems as well as UML, OO design and design patterns
+
+You have experience or are interested in data analysis and visualization in the mission planning domain
+
+You speak English at negotiation level, German is a plus
+
+Not a 100% match? No worries! Airbus supports your personal growth with customised development solutions.
+
+Please enclose a cover letter with your application in which you explain your motives and your suitability for this position.
+
+Take your career to a new level and apply online now!
+
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+
+Company:
+
+Airbus Defence and Space GmbH
+
+Contract Type:
+
+Permanent
+
+-
+
+Experience Level:
+
+Professional
+
+Job Family:
+
+Software Engineering <JF-EN-EK>
+
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
+
+Airbus is, and always has been, committed to equal opportunities for all. As such, we will never ask for any type of monetary exchange in the frame of a recruitment process. Any impersonation of Airbus to do so should be reported to emsom@airbus.com .
+
+At Airbus, we support you to work, connect and collaborate more easily and flexibly. Wherever possible, we foster flexible working arrangements to stimulate innovative thinking.
+
+Diesen Job melden

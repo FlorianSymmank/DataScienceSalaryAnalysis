@@ -1,0 +1,10 @@
+{
+  "job_title": "Data Scientist (m/w/d)",
+  "company": "Zentek Services GmbH & Co. KG",
+  "location": "51149 Köln",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Du hast ein Studium mit Data-Science / Analytics-Bezug (z.B. Wirtschaftsinformatik, Betriebswirtschaft o.ä.) erfolgreich abgeschlossen. Alternativ verfügst Du über eine vergleichbare Ausbildung aus dem analytischen Umfeld und die entsprechende erste Berufserfahrung. Studienabsolventen sind herzlich willkommen.",
+  "skills": ["Talend", "Snowflake", "Public Cloud Diensten (z. B. AWS S3, MS Azure)", "MS SQL Server", "DataVault 2.0", "Java", "QlikSense"],
+  "date_posted": "2021-10-22"
+}

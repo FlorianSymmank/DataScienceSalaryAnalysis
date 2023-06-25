@@ -1,0 +1,18 @@
+{
+    "job_title": "Manager, Data Analytics",
+    "company": "Delivery Hero",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "You gained 4-7 years experience as a BI/Data analyst or data scientist working for internet or retail companies",
+    "skills": [
+        "SQL",
+        "Python",
+        "data visualization",
+        "data modeling",
+        "data engineering",
+        "machine learning",
+        "deep learning"
+    ],
+    "date_posted": null
+}

@@ -1,0 +1,10 @@
+{
+    "job_title": "Lead Data Scientist (m/f/d)",
+    "company": "Bayer",
+    "location": "Wuppertal",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "PhD or equivalent in a quantitative discipline (e.g., Bioinformatics, Physics, Computer Science, Statistics, Mathematics) combined with a long-term working experience in drug discovery relevant research areas as well as with applying quantitative methods to solve research questions in life sciences",
+    "skills": ["regression models", "survival analyses", "Bayesian inference", "machine learning", "causal inference"],
+    "date_posted": null
+}

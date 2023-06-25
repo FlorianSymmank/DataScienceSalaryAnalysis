@@ -1,0 +1,20 @@
+{
+   "job_title": "Research Coordinator / Thematic Specialist",
+   "company": "Transparency International",
+   "location": "10559 Berlin",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "University degree in a relevant field of the social sciences, such as political science, sociology, economics, public administration or a related field, with an academic emphasis on research\n5+ years of relevant professional experience in social research with a track record of producing operationally and policy relevant research\nSubstantive experience in research coordination in a multi-country/international setting\nProfessional language proficiency in written and spoken English, additional languages an asset",
+   "skills": [
+      "Research design",
+      "Research methodologies",
+      "Corrupt money flows",
+      "Political integrity",
+      "Governance",
+      "Organizational skills",
+      "Project management",
+      "Data analysis",
+      "Communication"
+   ],
+   "date_posted": "2022-10-05"
+}

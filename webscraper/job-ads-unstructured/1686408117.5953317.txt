@@ -1,0 +1,40 @@
+Data Scientist*in (m/w/d)
+Knuddels GmbH & Co. KG
+Homeoffice
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+
+Wir bei Knuddels haben uns das Ziel gesetzt, soziale Netzwerke wieder wirklich sozial zu machen - mit echter menschlicher Nähe statt bloßen Content-Konsums. In unserer Community soll jedes Mitglied 3 wichtige Menschen für sein echtes Leben finden: Deine Aufgabe ist es, mit Hilfe unserer Daten herauszufinden, welche Menschen zusammenpassen und die richtigen Erkenntnisse zu ziehen, um unsere Vision zu erreichen.
+
+
+Deine Aufgaben:
+
+Du ziehst aus unseren Daten Erkenntnisse, denn wir betreuen komplexe Systeme, in denen 100.000 Mitglieder pro Tag viele Millionen Events erzeugen
+Du bist verantwortlich für das Data Mining mittels Search, Messdaten, Clustering, Recommendation Classification oder Forecasting
+Du leitest Maßnahmen auf Basis deiner Auswertungen ab, damit Knuddels auch in Zukunft erfolgreich bleibt
+Du stellst die Korrektheit unserer Daten in verschiedenen Systemen (Data Warehouse, interne Datensysteme, Analysen,...) sicher
+Du unterstützt das Produktteam mit Analysen und Visualisierungen
+Du arbeitest projektbasiert mit anderen Teammitgliedern
+
+
+
+Was bieten wir dir?
+
+Vielfältige Herausforderungen, an denen du als Data Scientist wachsen kannst
+Unterstützung durch Feedback, Coaching und Mentoring
+Flache Hierarchien, Transparenz sowie Mitsprache bei wichtigen Entscheidungen
+Klimatisiertes Büro in Innenstadtlage, tägliches Frühstück, Fitness Studio, Mystery Lunch (wöchentliches Mittagessen mit einem zufälligen Teammitglied), Workshops mit Fachleuten, gemeinsame Aktivitäten und eine der schönsten Dachterrassen Karlsruhes
+Eine Vision für ein weltweit erfolgreiches Produkt, auf dem sich Menschen aus der ganzen Welt kennenlernen und eine gute Zeit miteinander verbringen
+Du hast ein Studium der Informatik / Mathematik abgeschlossen oder eine vergleichbare Qualifikation
+Du besitzt gute Kenntnisse in Sprachen für statistische Analysen, Datenbanken (Python, SQL,...) und Python Frameworks (pandas,...)
+Zusätzlich super: Kenntnisse in Java und Machine Learning
+
+Du brennst für die Aufbereitung und Durchführung von statistischen Analysen auf Basis großer interner und externer, strukturierter und unstrukturierter Daten
+Du verfügst über eine schnelle Auffassungsgabe und ausgeprägte analytische Intelligenz
+Du hast eine selbstständige, strukturierte und zielorientierte Arbeitsweise
+Du hast Lust darauf, unseren Data Science Bereich mitzugestalten und ihn aufbauend auf unserem Data Warehousing und bisheriger Datenerfassung und -analysen auf das nächste Level zu heben
+Diesen Job melden

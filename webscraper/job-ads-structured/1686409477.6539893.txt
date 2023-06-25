@@ -1,0 +1,10 @@
+{
+   "job_title": "Cloud Network Engineer",
+   "company": "Jacobs",
+   "location": "Stuttgart",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "Clearance Requirements: TS/SCI\nEducation Requirements:\n\nBachelor’s Degree from an accredited college or university in Information Systems, Computer Science, Engineering, a Mathematics-intensive discipline, or a similar field. Significant relevant experience will be considered in lieu of formal education.\n\nCertification Requirements:\n\nDoDD 8570.01-M IAT II or higher\n\nAND\n\nCCNP Collaboration OR\nCCNP Data Center OR\nCCNP Enterprise OR\nCCNP Security OR\nCCNP Service Provider OR\nCCDP OR\nCCIoT OR\nACMP OR\nJuniper Networks Certified Specialist\n\n\nExperience Requirements:\n\n8 years of increasingly complex and progressive experience in computer systems and network engineering\n2 years of specialized experience related to the candidate’s assigned task.\nEngineering enterprise data, voice, and video networks on-premises and in a multi-cloud environment such as AWS Route 53 and between Azure tenants.\nEstablishing and operating cloud connections from on-premises through Cloud Access Points (CAP) to Cloud Service Provider offerings.\nMaintaining a secure transfer of data to multiple locations via internal and external networks\nWorking with vendors, the Government, carriers, and technical staff on the network. implementation, optimization, and ongoing management.\nProviding high-level support and technical expertise in networking technology, including LAN/WAN hardware, switches, bridges, and routers.\nEnsure the SOFNET Cloud adheres to the Secure Cloud Computing Architecture (SCCA) and any other applicable government requirements.",
+   "skills": ["network design", "LAN/WAN interfacing", "security", "Internet protocols", "TCP/IP", "server and network infrastructure"],
+   "date_posted": null
+}

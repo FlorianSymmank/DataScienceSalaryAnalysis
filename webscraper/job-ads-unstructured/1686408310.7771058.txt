@@ -1,0 +1,64 @@
+Data Engineer (m/f/d)
+Thinksurance GmbH
+Frankfurt am Main
+Homeoffice
+Vollzeit, Festanstellung
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Festanstellung
+OUR TEAM WANTS YOU
+Are you striving for innovation based on open source Big Data solutions? Are you an out-of-the box thinker?
+We love technology and excellence, always being open-minded with solutions and aligned with the best practices of the market when talking about data (Data Unit Testing, Clean coding, mixed data stack).
+We value knowledge sharing and improvement (sessions of knowledge sharing and teaching, reserved research time slices). As a team we believe in disruptive solutions, always focusing on the value versus effort.
+AT THINKSURANCE NO TWO DAYS ARE THE SAME! YOUR RESPONSIBILITIES WILL INCLUDE
+Development and maintenance of scalable ETLs (queries, programs, automated process) and building new data organization to support data increases in quality, volume and complexity.
+Collaboration with analytics and business teams to improve insights from a centralized datalake, always keeping in mind the single source of truth, providing data models using business intelligence, data science and other valuable tools, increasing data accessibility and helping to keep the company even more data-driven.
+Writing unit/integrations tests, contribution to engineering wiki and documents work.
+Ensuring data quality and production stability through monitoring technologies and excellence data development methodologies.
+Performance of data analysis required to troubleshoot data related issues and assistance in the resolution of data issues; Design of data integrations and data cleaning process.
+Close collaboration with other teams, product managers and business users.
+WHAT DEFINES YOU
+Extraordinary analytical, problem-solving and self-learning skills along with great team spirit
+Communication skills and out-of-the-box-mindset
+Degree in Computer Science, Informatics or a comparable subject (Machine Learning, Mathematics, Applied Statistics)
+1+ year leading with at least one cloud environment ( GCP, AWS,Azure,..)
+Programming experience in Python; additional experience in Java is a plus
+Familiarity with SQL/NoSQL data management and Kimball Star Model Schema
+2+ years with ETL and Datawarehouse concepts
+German language or Databricks knowledge skills are a plus
+WHAT WE OFFER
+Great place to work:
+
+Job ticket: With the Jobticket Premium, you can travel free of charge in the entire RMV area and benefit from the "Mitnahmeregelung".
+Central office: Our office in the heart of Frankfurt is not only located in the city central. Here you will find workstations with the latest equipment, the best barista coffee, snacks and drinks. We are also giving away trips to our office in Paris to work side by side with Parisian Thinkies and explore the city!
+- FlexLocation: We work in a hybrid home office / office mode - depending on your preference. You are also welcome to work temporarily from other European countries.
+
+Work-Life Choice:
+
+FlexVacation: With our flexible vacation model, you have 30 days of vacation as standard and the option to top up to 45 days at your discretion.
+Sabbatical: If you want to take some time off, we offer a sabbatical of up to 3 months.
+Wellpass: Through our provider EGYM Wellpass, you have nationwide access to a broad sports, fitness, and wellness network with over 6,000 partners in various cities.
+
+Grow@Thinksurance:
+
+Feedback, coaching, and training: we place great emphasis on your personal development and offer you structured support as well as in-house mentoring & coaching.
+New challenges = steep learning curve: With us, you create yourself because many of the challenges of your job will be solved by you for the first time.
+Modern corporate culture: flat hierarchies, quick decisions, and openness for all your ideas.
+
+Support:
+
+Childcare support: Your children should also be well taken care of while you work. Therefore we take over the childcare costs up to 300€ net per month/child.
+- Canteen: Lunch breaks are very important to us - to keep them affordable we subsidize the use of the canteen in our company.
+
+bAV pension plan: We subsidize your company pension plan beyond the statutory minimum.
+Employee benefits: Through our cooperation with Corporate Benefits, you receive monthly changing discounts at a variety of partner companies.
+WHAT DRIVES US
+Thinksurance is an innovative software-startup based in Frankfurt/Main. Our mission is to digitize the market for commercial insurance and revolutionize product development. Our online platform gives customers, brokers and insurers the opportunity to make exhaustive use of digital possibilities.
+The Data Analytics department is the heart of our company and primarily responsible for the build-up of valuable analytics, which serve our clients as critical fundament. In order to further advance the digitization of an entire industry, we are looking for support as soon as possible.
+Your key contact
+Isabelle Richter - Recruiting & HR Manager
+Diesen Job melden

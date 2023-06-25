@@ -1,0 +1,20 @@
+{
+  "job_title": "PhD Students",
+  "company": "CISPA – Helmholtz-Zentrum für Informationssicherheit gGmbH",
+  "location": "Saarbrücken , Deutschland",
+  "salary_euro": {
+    "amount": 4180,
+    "period": "pro Monat"
+  },
+  "employment_type": "Vollzeit",
+  "requirements": "You have a Bachelor’s or Master’s degree from a top-tier, research-oriented institutions of higher education in a subject relevant to our research\nYou should have an outstanding academic record (at or near top of your class)\nYou’re proficient in spoken and written English\nYou have strong letters of recommendation from your academic advisors",
+  "skills": [
+    "Cybersecurity",
+    "Privacy and Cryptography",
+    "Machine Learning and Data Science",
+    "Efficient Algorithms and Foundations of Theoretical Computer Science",
+    "Software Engineering",
+    "Program Analysis and Formal Methods"
+  ],
+  "date_posted": null
+}

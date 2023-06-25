@@ -1,0 +1,76 @@
+Diese Stellenanzeige ist auf Indeed abgelaufen
+Mögliche Gründe: Der Arbeitgeber akzeptiert keine Bewerbungen, ist nicht aktiv auf der Suche nach neuen Mitarbeitern oder prüft derzeit die eingegangen Bewerbungen
+Senior Data Scientist/Machine Learning Engineer
+Luxoft
+Home Office
+
+Project Description
+
+In this project, Luxoft helps the customer, which is a German manufacturer, to develop, train, and deploy Machine Learning models for internal customer needs.
+
+Some of the models include:
+
+Automatic Warranty Claim Approval
+Financial Forecasting
+Automatic anomaly detection in engine signals (IoT on mining trucks)
+Models use both unstructured data (text) and data in tabular format. Knowledge of handling different data types (structured, text, image) is expected.
+
+The customer develops engines for mining trucks, yachts, cruise ships, power generators, etc.
+
+Technologies: Python, unit testing, pandas, NumPy, Machine Learning, Data Science, Azure Databricks, MLFLow, Docker, Gradient Boosting Trees (LightGBM), Pyspark, Tensorflow, Keras, Deep Learning, LSTM, Kanban, Azure DevOps.
+Responsibilities
+
+Build, train, run, own, and validate predictive and explorative analytical AI models
+Analyze large and complex data sets to derive valuable insights
+Write and develop production-level code/pipelines
+Collaborate with DevOps engineer and Data engineer to bring models to production
+Actively monitor AI models during their lifecycle and intervene in case of trouble
+Presentation of qualitative and quantitative results obtained during the development and running of these models
+Delivery of fast, stable, scalable, robust, and future-proof AI microservices
+Skills
+
+Must have
+
+Python
+Unit testing
+Pandas
+Numpy
+Keras
+
+Nice to have
+
+Descriptive statistics (probability distributions, quantiles, etc.)
+Inferential statistics (hypothesis testing)
+Azure Databricks
+MLFLow
+Docker
+Gradient Boosting Trees (LightGBM)
+Pyspark
+Tensorflow
+NLP
+LSTM
+CNN
+Clustering (K-means, K-medoids, etc.)
+Leadership skills
+
+Languages
+
+English: C1 Advanced
+
+Seniority
+
+Senior
+
+Relocation package
+
+If needed, we can help you with relocation process.
+
+Vacancy Specialization
+
+AI/ML
+
+Ref Number
+
+VR-97165
+
+Diesen Job melden

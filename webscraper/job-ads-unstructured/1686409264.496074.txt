@@ -1,0 +1,51 @@
+Early career bioinformatician (f/m/x)
+Deutsches Zentrum für Neurodegenerative Erkrankungen
+72076 Tübingen
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+The German Center for Neurodegenerative Diseases (DZNE) is a world-leading internationally oriented research center, committed to discovering new approaches to prevent and treat neurodegenerative diseases. To this end, researchers at ten DZNE sites across Germany pursue a translational and interdisciplinary strategy comprising five interconnected areas: fundamental research, clinical research, health care research, population health science, and systems medicine. www.dzne.de
+
+Early career bioinformatician (f/m/x)
+Code: 3069/2022/11
+
+Are you an early career data scientist/analyst with strong bioinformatics affinity? This is an outstanding opportunity for a neurogeneticist/data scientist to work in the Global Parkinson’s Genetics Program (GP2). You will support data analysis and management for the Monogenic Data Analysis working group and have the opportunity to work in close collaboration with scientists within GP2 around the globe.
+
+Your tasks
+
+This role will focus on running and refining genomic analyses, data management and data visualization workflows.
+
+Support cloud-based and high-performance computing analyses as well as bioinformatic workflows.
+Support data sharing solutions for large genomics and clinical efforts in neurodegenerative disease research.
+Manage clinical and genomics data flow
+
+
+
+Requirements
+A master degree or BSc with 1-5 years of working experience in computational biology, bioinformatics, computer science, statistics, or similar
+Solid experience in working in a Unix-like and high-performance computing (HPC) environment. Cloud computing competency is a plus.
+Solid skills in R/Python/bash programming and version control/containerization
+Familiar with developing and maintaining bioinformatic workflows (Snakemake, WDL or Nextflow)
+Ideally experience with NGS data analyses
+A basic understanding of genomics/genetics is a plus.
+Strong communication skills that will enable effective participation in an interdisciplinary team of data analysts and biologists
+
+This position will include the opportunities for frequent travels to partner institutes, growing your data science analytic skills and publishing research in collaboration within GP2.
+
+The location for the work will be at the DZNE Tuebingen.
+
+We offer
+An interesting and challenging task in a research center that works on the future topics of health research
+An international environment characterized by a strong focus on science and research
+Targeted personnel development
+A position, initially temporary limited until December 31st, 2024, extension possible
+Company pension plan, health management
+Employment, payment and social benefits are determined by the Public Sector Collective Agreement (Tarifvertrag für den öffentlichen Dienst – TVöD Bund).
+
+Interested candidates should provide the following documents: cover letter, CV and if possible up to three relevant references.
+
+Applications are being accepted on a rolling basis.
+
+For further information contact Zih-Hua Fang at Zih-Hua.Fang@dzne.de
+
+Diesen Job melden

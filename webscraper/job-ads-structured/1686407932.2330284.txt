@@ -1,0 +1,10 @@
+{
+    "job_title": "Working Student Data Analyst",
+    "company": "360 Treasury Systems",
+    "location": "60322 Frankfurt am Main",
+    "salary_euro": null,
+    "employment_type": "Teilzeit",
+    "requirements": "An understanding of how the Foreign Exchange market operates",
+    "skills": ["SQL", "Tableau", "business intelligence", "data mining", "data analysis", "data visualization", "mathematics", "statistics"],
+    "date_posted": "2021-09-22"
+}

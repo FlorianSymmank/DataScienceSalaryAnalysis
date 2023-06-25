@@ -1,0 +1,10 @@
+{
+  "job_title": "Internship CRM Master Data Management (m/f/d)",
+  "company": "Hugo Boss",
+  "location": "Metzingen, Zum Teil im Homeoffice",
+  "salary_euro": null,
+  "employment_type": "Praktikum",
+  "requirements": "You are studying or have already completed a degree in economics or a comparable course of study\nYou count analytical skills and conceptual thinking among your strengths\nYou work in a structured and careful manner\nYou have a very good command of written and spoken English\nYou have a sound knowledge of MS Office (especially Excel) and ideally have a basic understanding of IT applications (CRM system, campaign management system)\nYou enjoy working in a team, have good communication skills and are committed to your work",
+  "skills": ["analytical skills","conceptual thinking","structured work","good command of written and spoken English","MS Office","IT applications","teamwork","communication skills","commitment"],
+  "date_posted": "current_date"
+}

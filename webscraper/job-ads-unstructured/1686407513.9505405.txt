@@ -1,0 +1,67 @@
+Senior Data Scientist (Remote)
+Veeva Systems
+Berlin
+Homeoffice
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $2B in revenue in our last fiscal year with extensive growth potential ahead.
+At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We’re not just any public company – we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors.
+As a Work Anywhere company, we support your flexibility to work from home or in the office, so you can thrive in your ideal environment.
+Join us in transforming the life sciences industry, committed to making a positive impact on its customers, employees, and communities.
+The Role
+Link is a pillar in the Veeva system landscape that envisions “Connecting life sciences and key people to improve research and care.” Our product offers real-time academic, social, and medical data to build comprehensive profiles. These profiles help our life-science industry partners find the right experts to accelerate the development and adoption of new therapeutics. We accelerate clinical trials and equitable care. We are proud that our work helps patients receive their most urgent care sooner.
+Your analysis will shape the product roadmap for a new Link product focused on large-scale semantic analysis and question/answering over heterogeneous documents from the medical domain, such as academic publications, clinical regulation, and therapeutic committee meeting notes. You will design and create an end-to-end pipeline to extract predefined categories of information from big unstructured data in multi-domain and multi-lingual setups. You will create a semantic search capability that can answer user queries regarding certain aspects of data. You will have access to cloud infrastructure to develop your model and support from a team of software developers and DevOps engineers to deploy it to production.
+We want to develop new algorithms to redefine the industry expectations for quality vs. quantity compromise. We train ML models empowered by over 1900 curators to meet both the quality and the scale requirements. ML models complement and learn from continuous curation and scale our solutions to different regions, languages, and medical specialties.
+You can work remotely anywhere in Germany or The Netherlands, but you have to live in Germany or The Netherlands and be legally authorized to work there without requiring Veeva’s support for a visa or relocation. If you do not meet this condition but you think you are an exceptional candidate, please clarify it in a separate note, and we will consider it.
+What You’ll Do
+
+Adopt the latest technologies and trends in NLP to your platform
+Experience with training, fine-tuning, and serving Large Language Models
+Design, develop, and implement an end-to-end pipeline for extracting predefined categories of information from large-scale, unstructured data across multi-domain and multilingual settings
+Create a robust semantic search functionality that effectively answers user queries related to various aspects of the data
+Use and develop named entity recognition, entity-linking, slot-filling, few-shot learning, active learning, question/answering, dense passage retrieval, and other statistical techniques and models for information extraction and machine reading
+Deeply understand and analyze our data model per data source and geo-region and interpret model decisions
+Collaborate with data quality teams to define annotation tasks and metrics and perform a qualitative and quantitative evaluation
+Utilize cloud infrastructure for model development, ensuring seamless collaboration with our team of software developers and DevOps engineers for efficient deployment to production
+
+Requirements
+
+4+ years of experience as a data scientist (or 2+ years with a Ph.D. degree)
+Master’s or Ph.D. in Computer Science, Artificial Intelligence, Computational Linguistics, or a related field
+Strong theoretical knowledge of Natural Language Processing, Machine Learning, and Deep Learning techniques
+Proven experience working with large language models and transformer architectures, such as GPT, BERT, or similar
+Familiarity with large-scale data processing and analysis, preferably within the medical domain
+Proficiency in Python and relevant NLP libraries (e.g., NLTK, SpaCy, Hugging Face Transformers)
+Experience in at least one framework for BigData (e.g., Ray, Spark) and one framework for Deep Learning (e.g., PyTorch, JAX)
+Experience working with cloud infrastructure (e.g., AWS, GCP, Azure) and containerization technologies (e.g., Docker, Kubernetes) and experience with bashing script
+Strong collaboration and communication skills, with the ability to work effectively in a cross-functional team
+Used to start-up environments
+Social competence and a team player
+High energy and ambitious
+Agile mindset
+
+Nice to Have
+
+Background in Medical NLP
+Experience in the life/health science industry, notably pharma
+Having published in AI space in a peer-reviewed journal
+Production-grade Development Skills
+Leadership skills and a solid network to help in hiring and growing the team
+Experience with NoSQL databases, especially MongoDB
+Familiarity with model registry solutions such as MLflow
+
+Perks & Benefits
+
+Work anywhere
+Personal development budget
+Veeva charitable giving program
+Fitness reimbursement
+Life insurance + pension fund
+
+#RemoteGermany
+
+Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world.
+
+Veeva is committed to fostering a culture of inclusion and growing a diverse workforce. Diversity makes us stronger. It comes in many forms. Gender, race, ethnicity, religion, politics, sexual orientation, age, disability and life experience shape us all into unique individuals. We value people for the individuals they are and the contributions they can bring to our teams.
+
+Diesen Job melden

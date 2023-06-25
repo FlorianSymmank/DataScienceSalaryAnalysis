@@ -1,0 +1,15 @@
+{
+  "job_title": "Data Science Consultant",
+  "company": "CONVALID Analytics GmbH",
+  "location": "Homeoffice",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": null,
+  "skills": [
+    "Predictive- und Business-Analytics mit State-of-the-Art Machine Learning Modellen (Transformer Modelle, XAI, NLP, …)",
+    "Konzeption und Implementierung von Datenanwendungen",
+    "Erstellung von MVPs / Proof of Concept Ansätzen",
+    "Mitwirken bei Kundenworkshops"
+  ],
+  "date_posted": null
+}

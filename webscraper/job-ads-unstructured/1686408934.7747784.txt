@@ -1,0 +1,92 @@
+Network Analyst (Telecom) (Vacancy)
+City of Columbus
+Bayern
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Definition
+
+Preferred Experience:
+Cisco Call Manager MACD work, Test & Toning experience with analog phone lines/circuits, Carrier DID porting, General IVR familiarity and support, Fax over IP experience, Cisco Webex experience.
+
+Looking for a seasoned voice engineer who has broad knowledge and adaptability to various voice solutions and able to work in a team environment. Work is primarily onsite with some remote work flexibility. Polygraph required.
+
+Under general supervision, is responsible for performing network infrastructure support activities to maintain integrity, operability, availability, and/or security of the City’s network infrastructure; performs related duties as required.
+
+Examples of Work
+
+(Any one position may not include all of the duties listed, nor do the examples cover all of the duties that may be performed.)
+
+Utilizing the network management system (NMS) and other tools, monitors traffic on local area and wide area computer networks for evaluation of network security, stability, and availability;
+
+Runs network diagnostics to troubleshoot, detect, analyze, and isolate network problems; notifies higher-level personnel of more complex problems;
+
+Resolves routine problems arising from diagnostic checks, from help desk trouble tickets, and/or from less senior support staff; closes help desk tickets as problems/maintenance work are/is resolved/completed; refers more complex issues to higher-level personnel;
+
+Analyzes and evaluates the performance of the network resources including the network operating system, Voice over Internet Protocol (VoIP), wireless technologies, physical LAN/WAN, or applications performance;
+
+Installs, configures, and maintains routers and other system hardware and software; optimizes and tunes the operating system to resolve performance issues;
+
+Assists with the maintenance of accurate documentation and administrative information of all networks including topologies, wiring, network settings, and hardware and software inventories;
+
+Evaluates and tests network accessibility and security; implements security priorities; makes modifications to security system as directed;
+
+Evaluates requirements and components of systems, networks, and software products for applicability, adaptation, and cost effectiveness related to network operations;
+
+Coaches network technicians in the performance of their duties raising their overall technical knowledge;
+
+Assists in the implementation and maintenance of the enterprise network system including WAN, LAN, Internet, intranet, and other network infrastructure components;
+
+Provides network support for the City’s various business application systems;
+
+
+Stays abreast of new technologies and industry standards.
+
+Minimum Qualifications
+
+Three (3) years of experience providing basic network, data communications, or telecommunications support or analysis activities. Substitution(s): Postsecondary coursework (twenty-one (21) semester hours or thirty-two (32) quarter hours) in computer science, management information systems, telecommunications, or a closely related field may substitute for one (1) year of the required experience.
+
+By completion of the probationary period, incumbents must pass the Cisco Certified Network Associate (CCNA) 200-301or other similarly comparable examination.
+
+
+Possession of a valid driver’s license.
+
+.
+
+Test/Job Contact Information
+
+Recruitment #: 23-0521-V2
+Employment Type: Full-Time (Regular)
+
+Should you have questions regarding this vacancy, please contact:
+
+Kim Hetterscheidt
+Department of Technology
+Division of Information Services
+1111 E. Broad Street
+Columbus, Ohio 43215
+P: (614) 645-0367
+E: khetterscheidt@columbus.gov
+
+
+The City of Columbus is an Equal Opportunity Employer
+
+
+
+
+The City of Columbus seeks to promote compensation strategies that maximize the recruitment, performance, development, and retention of quality employees in support of the City's Covenant and strategic plan. In addition to a competitive pay plan, the City offers a comprehensive benefits program that includes the following:
+
+Medical
+Dental
+Vision
+Short-term Disability
+Life Insurance
+Wellness Program
+Tuition Reimbursement
+Specifics about these benefit opportunities and eligibility can be discussed with one of the City's human resources professionals at the time of your interview or by contacting the Department of Human Resources, Labor Relations Office at (614)645-7206 for further information.
+
+Diesen Job melden

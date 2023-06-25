@@ -1,0 +1,19 @@
+{
+    "job_title": "Director Big Data Science",
+    "company": "Reality AI",
+    "location": "Duesseldorf, DE",
+    "salary_euro": null,
+    "employment_type": "Software",
+    "requirements": "7-10 years of Managerial experience.\n12-15 years of relevant experience (e.g. Automotive domain, DevOps, Cloud development).\nBachelor’s degree in a relevant discipline (e.g., computer science, mathematics, statistics, economics) and master’s degree in data science or data analytics.\nExperience in running end to end machine learning pipelines, including deployment to production as well as stakeholder engagement.\nExperience in working with large amounts of data and data systems.\nProficient with Programming languages (Python, Java, JavaScript, SQL)\nExperience with machine learning frameworks (Tensorflow or PyTorch)\nExperience with NLP libraries (NLTK, openNLP, Standord-NLP, WordNet) and with cloud platforms (AWS, GCP, MS Azure, IBM)\nA solid understanding of data sources, data organization and storage\nIn-depth knowledge of statistical methodologies and data analysis techniques",
+    "skills": [
+        "Managerial experience",
+        "Automotive domain knowledge",
+        "DevOps",
+        "Cloud development",
+        "Proficient in Python, Java, JavaScript, SQL",
+        "Experience in machine learning frameworks (Tensorflow or PyTorch)",
+        "Experience with NLP libraries (NLTK, openNLP, Standord-NLP, WordNet) and Cloud platforms (AWS, GCP, MS Azure, IBM)",
+        "Statistical methodologies and data analysis"
+    ],
+    "date_posted": "2021-10-26"
+}

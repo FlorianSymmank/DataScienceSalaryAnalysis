@@ -1,0 +1,21 @@
+{
+   "job_title": "Audio Data Engineer (m/f/d)",
+   "company": "Harman International (gehört zu Samsung Electronics)",
+   "location": "Garching bei München",
+   "salary_euro": {
+      "amount": null,
+      "period": null
+   },
+   "employment_type": null,
+   "requirements": "Bachelor's degree in computer science or comparable practical experience\n3 years of industry engineering experience in big data technologies including data collection and ETL process for extracting value from large datasets from multiple sources\nDemonstrated experience in building and optimizing data pipelines\n",
+   "skills":[
+      "big data technologies",
+      "AI/ML tech stacks",
+      "tool chains",
+      "databases",
+      "data collection",
+      "synthetic data",
+      "simulators (e.g. SageMaker, Kafka, Apache Spark, Hadoop, Python, Java)"
+   ],
+   "date_posted": null
+}

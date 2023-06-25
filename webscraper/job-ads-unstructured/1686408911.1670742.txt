@@ -1,0 +1,78 @@
+Data Scientist (m/f/d) Supply Chain Management
+Alfred Kärcher SE & Co. KG
+74423 Obersontheim
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+Kärcher is the world's leading provider of cleaning solutions with around 13,000 employees in 70 countries and an innovative product offer for commercial and domestic customers alike. Renowned for our innovation, over 90% of our products have been developed in the past 5 years. We owe this success to our employees, their skills, dedication, ideas and commitment. Constant investment in R&D, quality, marketing and design make us a well-known brand and a most attractive employer to develop your career with. Do you want to be part of our growth story?
+
+
+
+
+Extraordinary tasks require extraordinary people. To strengthen our Supply Chain Consulting department in our logistics center in Obersontheim near Schwäbisch Hall, we are looking forward to your committed support.
+
+
+
+
+Your tasks
+
+
+
+
+You will be the resident expert in AI and data engineering, working with a group of seasoned supply chain professionals and analysts from around the world to develop cutting-edge applications and forecasts.
+Your goal will be to take our global operations to the next level of data-driven decision making by defining the AI Roadmap of Kärcher worldwide logistics and making it reality.
+Your responsibilities include utilizing machine learning, simulation, and optimization algorithms to enhance the efficiency of our supply chain.
+You will be responsible for the entire modeling process, including identifying business issues, data engineering, modeling, deployment, and implementation.
+You will implement data delivery solutions to enhance the performance of our internal services, ensuring that they are scalable, fast, and dependable.
+You will create a constant knowledge feed to Kärcher Management as well as Data Science guild informing about trends and possibilities for growth in the data science field.
+
+
+
+Your qualification profile
+
+
+
+
+Degree in computer science, business informatics, engineering, mathematics or a comparable qualification.
+Professional experience in the development of data and AI pipelines. Experience in the area of Supply Chain Management is a benefit.
+Knowledge in areas Data Analytics, Artificial Intelligence, Algorithm creation and modeling. Experience in Python for AI-/ Analytics-libraries such as Scikit, TensorFlow, Keras, PyTorch, Pandas and/or statistical methods will be an advantage. Nice to have: Experience with Causal Machine learning.
+Knowledge of coding languages (e.g., Python, R) and frameworks/systems (e.g. Apache Airflow, KNIME, SQL, AWS or similar cloud technologies).
+Nice to have: practical experience in Data Engineering, building automated ETL pipelines. In-depth knowledge of Big Data Tools & REST APIs.
+Nice to have: knowledge of transactional systems (e.g. SAP ERP, S4HANA, Kinaxis Rapid Response).
+A great communicator, who understands the art of explaining complicated things in simple terms.
+Solution-oriented and pragmatic way of working, hands-on mentality.
+Business fluent English communication skills and good German skills.
+
+
+
+Our offer for you
+
+
+
+
+A company pension plan or direct insurance that supplements your statutory pension insurance from your first day of work.
+Individual working time arrangements (trust-based working hours with the option of working in a home office).
+Up to 32 days of vacation. You have Christmas Eve and New Year's Eve off.
+Be the difference: As part of our holistic sustainability initiatives such as "Zero Emissions" and "Reduce, Reuse, Recycle", you will actively help shape the future with us.
+Health promotion right down the line - from height-adjustable desks to health consultations and mobile massages.
+Regional, award-winning cuisine in our company restaurant.
+
+
+
+Contact
+
+
+
+
+Please send us your complete application documents via our applicant management system. We welcome applications from people with disabilities, whose integration is of particular concern to us.
+
+
+
+
+Your contact person for this position is Juan Sanchez. We will be happy to answer your first general questions about your application in our Recruiting Center at +49 7195 14 5497.
+
+
+
+Alfred Kärcher SE & Co. KG recruiting.center@de.kaercher.com
+
+Diesen Job melden

@@ -1,0 +1,17 @@
+{
+    "job_title": "Praktikantin / Praktikant (w/m/d) im Bereich Montageplanung (Schwerpunkt Data-Science)",
+    "company": "Volkswagen AG",
+    "location": "Hannover",
+    "salary_euro": null,
+    "employment_type": "Praktikum",
+    "requirements":  "Student/in (oder Bachelorabsolvent/in mit Beginn des Master-Studiums zum nächstmöglichen Zeitpunkt) im Bereich Informatik, Ingenieurswissenschaften, Betriebswissenschaften mit technischem Hintergrund oder einer vergleichbaren Fachrichtung",
+    "skills": [
+        "analytischem Denkvermögen", 
+        "MS-Office (MS-Excel, MS-PowerPoint)", 
+        "Programmiererfahrung", 
+        "MS Power Platform", 
+        "Fahrzeugbau", 
+        "Deutsch- und Englischkenntnisse"
+    ],
+    "date_posted": "2021-09-13"
+}

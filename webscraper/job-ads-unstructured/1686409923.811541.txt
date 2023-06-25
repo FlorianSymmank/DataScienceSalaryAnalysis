@@ -1,0 +1,46 @@
+Software Developer with Data Base Expertise for Autonomous Underwater Vehicles (all genders welcome)
+ROSEN Group
+28309 Bremen
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+DESCRIPTION
+For our development team at our location in Bremen we are looking for a
+
+Software Developer with Data Base Expertise for Autonomous Underwater Vehicles (all genders welcome)
+
+The "Subsea Solutions" team is a young team of developers from the fields of computer science, electrical engineering, systems engineering, bionics, mechatronics and shipbuilding. Together we develop maritime technologies for the inspection of critical infrastructure in the water from the idea to the series solution. We use agile working methods at all levels and attach great importance to creative solution ideas.
+
+If you enjoy such tasks, would like to try them out in the field and you like independent and structured working methods, then join our team!
+
+YOUR RESPONSIBILITIES:
+
+Design and maintenance of configuration databases of fleets of mobile autonomous robots
+Support and advice in the design of configuration database systems
+Preparing data analysis on data, designing interfaces to access data for different applications
+Visualization of the data obtained using web technologies
+Cooperation with system engineers; Support for stakeholders and requirements engineers
+Keep up with the latest developments in lightweight databases and the latest trends in the industry
+REQUIREMENTS
+To become part of the ROSEN family, you will use your creativity and skills to develop a system from idea to prototype in an agile team. Moreover, you should bring with you:
+
+Degree in computer science or comparable
+Practical experience in lightweight database technology such as SQLite
+First experience in software development in C++ and/or Python
+Knowledge of web technologies such as JavaScript is advantageous
+Knowledge of robotics, especially Robot Operating System (ROS) is an advantage
+Good written and spoken English knowledge
+OUR OFFER
+Development opportunities and career opportunities in a global, innovative and long-term oriented group of companies with family character
+Flexible working time and Home Office possible
+An open, informal corporate culture, where we celebrate success with social events
+Compatibility of work and family through our company-owned bilingual day care center ROKIDS as well as our bilingual elementary school ROBIGS (optional:
+day care during the holiday)
+Employer funded pension and capital accumulation benefits
+Company Restaurant (only in Lingen) and fresh fruit is available daily
+Various in-house sports activities (EGYM Wellpass and other offers)
+Attractive leasing offers for IT-products and bikes for private use
+Corporate Benefits - employee offers in changing online shops at top conditions
+
+More information regarding the ROSEN group in Lingen (Ems) you can find here:
+www.rosen-lingen.de.
+Diesen Job melden

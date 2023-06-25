@@ -1,0 +1,10 @@
+{
+    "job_title": "Machine Learning Engineer",
+    "company": "MediaMarktSaturn",
+    "location": "Ingolstadt, Berlin, Düsseldorf, Frankfurt, Hamburg, Köln, Leipzig, München, Stuttgart",
+    "salary_euro": null,
+    "employment_type": "Full Time",
+    "requirements": "Bachelor or Master in Computer Science, Machine Learning or a related field. Several years of professional experience in software development. Experience with various database systems, such as OLTP (MySQL, PostgreSQL), column-based OLAP (BigQuery, Snowflake, Redshift) and/or NoSQL (Redis, Google Datastore, MongoDB). Experience writing production-ready code in Python and common ML frameworks (Tensorflow/PyTorch). Experience with workflow orchestration tools, such as Kubeflow or Airflow. Experience working in the Cloud (ideally Google Cloud) and modern engineering approaches incl. MLOps, infrastructure as code (Terraform, Ansible). Experience working in an agile development environment. You are fluent in English and enjoy working with different stakeholders",
+    "skills": ["Python", "SQL", "Tensorflow", "PyTorch", "Kubeflow","Airflow", "MLOps", "Terraform", "Ansible","Object-oriented Programming"],
+    "date_posted": "2021-09-22"
+}

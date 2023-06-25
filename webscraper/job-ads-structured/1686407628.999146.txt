@@ -1,0 +1,26 @@
+{
+  "job_title": "Data Scientist",
+  "company": "workidentity GmbH",
+  "location": "Homeoffice",
+  "salary_euro": {
+    "amount": 90000,
+    "period": "year"
+  },
+  "employment_type": "Vollzeit",
+  "requirements": "Studium oder Promotion in einer quantitativen Fachrichtung, z.B. Informatik, Mathematik, Physik oder Data Science",
+  "skills": [
+    "Python",
+    "AWS Cloud-Technologie",
+    "R",
+    "JavaScript",
+    "SQL",
+    "Pandas",
+    "ETL",
+    "Google Dataflow",
+    "Docker",
+    "Tableau",
+    "PowerBI",
+    "Machine Learning Methoden (Data Cleaning, Feature Engineering, Modelling, Tuning, Visualization)"
+  ],
+  "date_posted": "2021-10-15"
+}

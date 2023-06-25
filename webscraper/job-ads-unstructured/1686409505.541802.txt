@@ -1,0 +1,35 @@
+Bachelor or Master Thesis: Communication Protocols for Data Center Power Supplies (m/f/d)
+Delta Energy Systems
+Soest
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+Delta Energy Systems (Germany) GmbH is belonging to Delta Electronics. Delta, founded in 1971, is a global provider of power and thermal management solutions. Its mission statement, "To provide innovative, clean and energy-efficient solutions for a better tomorrow," focuses on addressing key environmental issues such as global climate change. As an energy-saving solutions provider with core competencies in power electronics and automation, Delta's business categories include Power Electronics, Automation, and Infrastructure. Delta Energy Systems is well known as specialist for Automotive, Industrial, Medical, Electric Vehicle and Server Networking solutions. Delta Energy Systems as solution provider will be your right partner for world class technology and quality, challenging designs, fitting exact to your application.
+
+Bachelor or Master Thesis: Communication Protocols for Data Center Power Supplies (m/f/d)
+Location: Soest
+
+Your challenge
+Development of software for innovative embedded systems
+Projects include power supplies, power shelves and battery shelves for High Performance Computing (HPC)
+FW update, Flash bootloader for MCUs/DSPs (TI, STM, Infineon) via CAN-Bus, RS485/Modbus or I2C/PMbus Interface
+Communication register configuration (senor format, fault limit) and automated C-code generation
+Integrate the generated code with other modules on microcontrollers
+Your profile
+Studies in electrical engineering, communications engineering, computer science or similar
+Knowledge in communication protocols (I2C, UART, CAN-Bus, SMBus/PMbus, Modbus …) is a plus
+Basic experience in embedded C, C++, C# or Python
+Independent working style, commitment, creativity, flexible and ability to work in a team
+Our offer
+You are part of the research and development team
+You get the opportunity to learn from experienced engineers
+You are offered a friendly working atmosphere and a constructive working environment leaving much room for new possibilities and ideas
+
+https://www.deltaenergysystems.com
+
+
+
+
+We are looking forward to hearing from you!
+
+Diesen Job melden

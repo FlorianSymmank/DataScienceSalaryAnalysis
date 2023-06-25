@@ -1,0 +1,18 @@
+{
+    "job_title": "Data Science Manager , Consumer Apps (all genders)",
+    "company": "Delivery Hero",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "You have experience in applying methods from machine learning, operations research and/or statistics to real-world datasets.\n\nYou are capable of managing complex projects with multiple stakeholders and ideally have a successful track record of managing Data Science teams.\n\nYou are a good communicator and are able to filter down requirements coming from many stakeholders to the ones that make an MVP.\n\nAbility to convert a fuzzy business problem into a data science problem.\n\nBefore starting to work on a use-case, you carefully question existing assumptions and care a lot about clean data\n\nFluency in Python and familiarity with its scientific stack such as numpy, pandas, scikit learn, matplotlib, pytorch, keras.\n\nYou can write maintainable code and know how to make your code run in a container so it becomes easily reusable for others.\n\nGreat communication skills and ability to influence beyond the team\n\nFluency in English.\n",
+    "skills": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "scikit-learn",
+        "Matplotlib",
+        "PyTorch",
+        "Keras"
+    ],
+    "date_posted": null
+}

@@ -1,0 +1,50 @@
+(Junior) Data Engineer - Medical Imaging (w/m/d)
+deepeye Medical GmbH
+München
+Zum Teil im Homeoffice
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+What we are doing
+
+Our mission is to prevent vision loss and ultimately blindness by developing AI software that assists eye doctors in therapy planning for their patients. We use computer vision deep learning models(AI) trained on thousands of cases and millions of images to identify and predict disease progression. The decision support algorithm targets popular eye diseases like Age-related Macular Degeneration (AMD, 7.5mio affected in Germany alone).
+
+Tasks
+
+Your responsibilities
+
+
+Your main task is to prepare data for analytical or operational uses, i.e. by integration, consolidation, cleansing and structuring of data
+You are responsible for building and optimizing data pipelines to bring together information from different source systems, i.e. imaging and clinical data
+You are great in your job when your fellow data scientist always have easy access to tools and data needed to carry out their deep learning experiments
+Requirements
+
+What we are looking for
+
+Your must-haves
+
+
+2+ years of applied experience in data engineering related to computer vision and imaging analysis (2D/3D image processing, segmentation, image normalization, ideally medical imaging)
+Experience in data analyis and visualization and working with relational databases (e.g. PostgreSQL)
+2+ years of programming in Python, developing software in AI and data-centric domains, software engineering best practices e.g. code reviews, CI/CD, testing, operations
+Working-level English (C1 or higher)
+Your nice-to-haves
+
+
+Degree in data science/engineering, bioengineering, computer science, medical physics or similar
+Experience with DICOM and PACS
+First experience in Docker
+Benefits
+
+What we offer
+
+
+Payment, startup culture & a great, international team
+High personal responsibility for your project & fast personal growth
+Flexible working hours, remote work & central office in Munich’s startup hub
+Direct impact on improving quality of life for our end users (patients)
+Reach out to us with information about your availability, salary expectation and a link to your conclusive profile (GitHub, LinkedIn, CV). Please share with us in 2-3 sentences why you want to help us in preventing blindness with AI.
+Diesen Job melden

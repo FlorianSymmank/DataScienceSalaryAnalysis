@@ -1,0 +1,64 @@
+PhD Thesis – Industrial Metaverse: Reasoning about interoperable virtual and physical worlds
+Siemens
+81739 München
+Homeoffice
+Teilzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Teilzeit
+
+Mode of Employment: Limited; 20 h/week
+
+
+
+
+Headed to the future? Hop right in.
+
+We are passionate about innovations that mean real progress. We are excited about technologies that still need to be developed. What about you?
+
+The Industrial Metaverse is a world, where real machines and factories, buildings and cities, grids and transportation systems are mirrored in the virtual world. It is a digital environment, where problems can be found, analyzed, and fixed quickly – or better yet, discovered before they arise. This is a world, which enables a whole new level of collaboration, where people can break the barriers of distance, where everyone can try out new ideas easily and quickly – and where innovation takes off. The Industrial Metaverse is a world where virtual reality supports people who are working hands on, on the shop floor. It is a virtual realm where we can travel into the past and even into the future to understand automation problems and processes better and find optimal solutions.
+
+It is also clear that there will not be a single virtual world. Openness and interoperability are therefore the basic prerequisites for building the true Industrial Metaverse. It is the challenge to link data between existing real-world systems, digital twins, and virtual worlds. In other words, it is the challenge to provide the interoperability between virtual worlds and the real world. The Industrial Metaverse will succeed only if it enables users to create contents and experience and distribute them across the digital and real worlds.
+
+In this PhD work, a successful candidate will conduct research related to the Industrial Metaverse relying on Knowledge Graphs - a structured knowledge about virtual artifacts, the domain, environment, and functions provided in a machine-interpretable representation. Knowledge Graphs (KG) will be based on standardized information models. The work will utilize the concept of Digital Twin, which exists and combines the real and the digital worlds to quicken the planning of factories, buildings, and entire city districts. Further on, this PhD work will be based on machine reasoning over Knowledge Graphs using Graph Neural Networks (for the virtual part) and TinyML techniques (to be deployed on devices attached to the physical part). The machine reasoning will be applied over static or dynamic (streaming) data. Existing and novel methods from Semantic Technologies will be explored to achieve the interoperability between virtual worlds and the real world.
+
+What part will you play?
+
+Contribute to the applied research in Machine Learning to reveal insights on Knowledge Graphs in the context of Industrial Metaverse applications
+Devise novel methods for Graph Neural Networks and reasoning over Industrial Knowledge Graphs
+Apply TinyML techniques to automation (constrained) devices
+Research new Semantic Technologies methods aiming to achieve the interoperability between virtual and physical worlds in the context of Industrial Metaverse
+Actively drive the discussion on main research questions and their relevance for Siemens
+Get involved in internal and public funded research projects
+Secure your work through patent filings
+Publish scientific publications in order to present and discuss your findings in internal and external communities
+Supervise interns and master-students
+
+We don’t need superheroes, just super minds.
+
+You already have a master’s degree (or comparable) in Computer Science or related disciplines
+You have a strong achievement drive and genuine desire to discover new things on your own
+You bring a deep understanding of Machine Learning (ML), Graph Neural Networks, and TinyML
+You also have sound knowledge of Semantic Technologies, concepts of Digital Twins, and Internet of Things
+You are familiar with the development of 3D/VR applications (e.g., NVIDIA Omniverse, Unity3D, or Unreal)
+You have very good programming skills in multiple programming languages, e.g., C/C++, C#, Python, Go
+You have good interpersonal communication, writing and presentation skills in English (in German, it is a plus)
+
+Make your mark in our exciting world at Siemens.
+
+www.siemens.de
+if you wish to find out more about Siemens before applying.
+
+Do you have questions about the application? Here you will find answers to frequently asked questions.
+
+If you have more questions please contact: www.siemens.de/fragenzurbewerbung
+
+www.siemens.com/careers
+if you would like to find out more about jobs & careers at Siemens.
+
+As an equal-opportunity employer we are happy to consider applications from individuals with disabilities.
+
+Diesen Job melden

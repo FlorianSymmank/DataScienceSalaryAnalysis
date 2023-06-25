@@ -1,0 +1,18 @@
+{
+   "job_title": "Senior Software Engineer",
+   "company": "PerkinElmer Cellular Technologies Germany GmbH",
+   "location": "Hamburg, Hamburg",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "Completed engineering studies in computer science/physics/electrical engineering or comparable technical studies. Good knowledge of the operating system Microsoft Windows, as well as experience with embedded Linux. Professional experience in the field of hardware-related software development. Good programming skills in Python 3, C/C++, other programming languages such as C#, Javascript or Powershell would be an advantage. Knowledge of CAN bus or similar fieldbus systems and experience with IP-based network programming. Developed communication skills, open-mindedness, and self-motivation to take new tasks. Analytical, planning and problem resolution skills, solution-oriented way of thinking and working.",
+   "skills": [
+      "Python 3",
+      "C/C++",
+      "CAN bus",
+      "Embedded Linux",
+      "TCP/IP",
+      "WebSockets",
+      "CANOpen"
+   ],
+   "date_posted": "2023-04-08"
+}

@@ -1,0 +1,15 @@
+{
+  "job_title": "Senior Data Scientist",
+  "company": "adjoe GmbH",
+  "location": "20095 Hamburg",
+  "salary_euro": null,
+  "employment_type": "Full-time",
+  "requirements": "3+ years of experience manipulating data sets and building statistical and machine learning models, with a Master’s or PhD degree in the STEM field.",
+  "skills": [
+    "Python",
+    "R",
+    "Scala",
+    "SQL"
+  ],
+  "date_posted": "2022-02-04"
+}

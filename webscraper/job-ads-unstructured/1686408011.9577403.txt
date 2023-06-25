@@ -1,0 +1,71 @@
+Research Scientists and Engineers - Machine Learning to Model Biomolecules (f/m/d)
+Bayer
+Berlin
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Research Scientists and Engineers - Machine Learning to Model Biomolecules (f/m/d)
+Bayer - Berlin
+Job
+Unternehmen
+
+At Bayer we’re visionaries, driven to solve the world’s toughest challenges and striving for a world where ,Health for all, Hunger for none’ is no longer a dream, but a real possibility. We’re doing it with energy, curiosity and sheer dedication, always learning from unique perspectives of those around us, expanding our thinking, growing our capabilities and redefining ‘impossible’. There are so many reasons to join us. If you’re hungry to build a varied and meaningful career in a community of brilliant and diverse minds to make a real difference, there’s only one choice.
+
+
+
+
+Research Scientists and Engineers - Machine Learning to Model Biomolecules (f/m/d)
+
+
+
+
+Meeting some of the most pressing healthcare and sustainability needs of our time, at Bayer we are leveraging the most advanced technologies to accelerate the discovery of new medicines. The talented, young and international Machine Learning Research group in Berlin is seeking passionate research scientists and/or engineers (f/m/d) to join our team. Together we will develop innovative machine learning solutions to analyse biomolecules (DNA, RNA, proteins and their connected multi-omics collectives) with the goal of designing optimized molecules and improving our understanding of targets, diseases and patients.
+
+
+
+
+YOUR TASKS AND RESPONSIBILITIES
+
+This is an opportunity to use fascinating machine learning methods to link molecules with their properties, mutual interactions and inducing phenotypes. In this role, we expect you to:
+
+
+Be an active member of a highly interdisciplinary and cross-organizational team
+Stay current with the fast-paced innovation in machine learning, capturing the best advances and proposing new ideas in areas like self-supervised pretraining, language modelling, geometric deep learning, data-efficient optimization or generative modelling
+Process, integrate and interrogate public and internal high-dimensional biological datasets, arising from physics-based simulation, high-throughput sequencing and screening technologies, physical, structural, pharmacological, toxicological and functional characterization assays, and recorded patient health information
+Develop collaboratively a high-quality software toolkit for extracting insight from biomolecular multi-modal data
+Join forces with other machine learning teams to bring together focused expertise into integrative projects involving different modalities like small molecules, biomolecules, and cellular or medical images
+Collaborate closely with our domain experts, learning biological, experimental and technical details to choose the most appropriate solutions for each problem, and helping productionizing the developed machine learning solutions into our discovery pipelines
+Strengthen our external visibility and scientific excellence through publishing, open sourcing code, and engaging with the scientific community
+
+
+
+WHO YOU ARE
+
+
+We believe in diversity, teamwork, blurring the boundaries between science and engineering, and your ability to learn on the job. For this particular role we intend to prioritize either more engineering inclined profiles, who can drive best practices and technical excellence for accelerated research, or more research-inclined profiles, who can drive method application and fundamental research. We encourage you to apply if you have a related background and several of the following traits:
+
+
+
+
+A highly scientific background with a PhD degree and first working experience or an equivalent MSc degree and several years of working experience. Familiarity with pharma-related settings or experience working with biomolecular data would be a plus
+Expertise applying, dissecting and improving upon state-of-the-art machine learning methods
+A sincere interest for the life sciences. In order of importance, great assets would be deep knowledge of bioinformatics, biology, biotechnology or chemistry
+Excellent technical and software engineering skills. Experience building efficient and reusable and software. Good command of the python scientific ecosystem and modern software development tools, from git to continuous integration pipelines. Detailed knowledge of relevant libraries (e.g., for machine learning, bioinformatics, visualization or dashboarding) will be valued. Ability to run and scale well integrated and reproducible scientific workflows in high performance platforms (on-prem clusters and/or cloud platforms) would be useful
+Highly creative person with outstanding problem-solving skills, and the willingness to undertake challenging tasks autonomously, with resilience, and in a timely fashion
+Strong interpersonal skills, ability to work in cross-functional teams
+Fluency in English
+
+
+YOUR APPLICATION
+
+This is your opportunity to tackle the world’s biggest challenges with us: Maintaining our health, feeding growing populations and slowing the rate of climate change. You have a voice, ideas and perspectives and we want to hear them. Because our success begins with you. Be part of something big. Be Bayer.
+
+Bayer welcomes applications from all individuals, regardless of race, national origin, gender, age, physical characteristics, social origin, disability, union membership, religion, family status, pregnancy, sexual orientation, gender identity, gender expression or any unlawful criterion under applicable law. We are committed to treating all applicants fairly and avoiding discrimination.
+
+
+Location: Berlin
+
+Division: Pharmaceuticals
+
+Reference Code: 791212
+
+Diesen Job melden

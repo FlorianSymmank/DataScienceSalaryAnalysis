@@ -1,0 +1,18 @@
+{
+  "job_title": "Master/Bachelor thesis or Internship: Domain Adaptation Lidar (m/f/d)",
+  "company": "AVL Software and Functions GmbH",
+  "location": "Regensburg, DE",
+  "salary_euro": null,
+  "employment_type": "Temporary",
+  "requirements": "Studies in the field of Computer Science, Robotics, Information Technology or Automotive\nBasic knowledge in the field of AD/ADAS\nBasic knowledge of Machine Learning\nGood programming knowledge of Python with prior experience with libraries such as numpy, pandas, scipy and matplotlib\nFirst experience with deep learning frameworks such as PyTorch or TensorFlow\nFirst experience with Linux, version control system such as git\nEnglish skills\nNote: You are encouraged to share your GitHub/HackerRank/LeetCode/Kaggle (also other coding platform) profile, if applicable\nPersonality is more than anything!\n",
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "AD/ADAS",
+    "Deep Learning",
+    "Linux",
+    "Git",
+    "English"
+  ],
+  "date_posted": "2023-05-23"
+}

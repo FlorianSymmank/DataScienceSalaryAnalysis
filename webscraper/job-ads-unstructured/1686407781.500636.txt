@@ -1,0 +1,108 @@
+Diese Stellenanzeige ist auf Indeed abgelaufen
+Mögliche Gründe: Der Arbeitgeber akzeptiert keine Bewerbungen, ist nicht aktiv auf der Suche nach neuen Mitarbeitern oder prüft derzeit die eingegangen Bewerbungen
+IT Data Engineer in Saarbrücken
+ODDO BHF
+Saarbrücken
+Festanstellung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Festanstellung
+
+(Ref. 35113704
+
+
+
+
+
+
+
+
+
+Datum Veröffentlichung : 31/05/2023
+
+Gewünschte Vertragsart : Festanstellung
+
+Tätigkeitsfeld : Information Technology
+
+Land : Deutschland
+
+Standort der Position : Saarbrücken
+
+
+
+
+
+
+
+Beschreibung des Unternehmens
+
+Wir – die ODDO BHF Solutions GmbH – sind ein kürzlich gegründetes und dynamisches Business Solution Center in Saarbrücken. Als Tochter der deutsch-französischen ODDO BHF Gruppe unterstützen wir eine der führenden Privatbanken in Europa dabei, die Bedürfnisse vermögender Privatkunden, mittelständischer Unternehmen sowie institutioneller Investoren zu erfüllen.
+
+Unsere Mission ist es, zukunftsweisende Lösungen sowie ein leistungsstarkes Serviceangebot anzubieten und somit insgesamt maßgeblich zum Erfolg der ODDO BHF beizutragen. Die ODDO BHF Solutions GmbH steht für einen starken kollegialen Zusammenhalt sowie die gelebte Wertschätzung von Vielfalt, Akzeptanz und Toleranz. Mit unserem starken Mutterunternehmen im Rücken haben wir uns ehrgeizige Ziele gesetzt, die wie gerne zusammen mit Dir erreichen wollen.
+
+Stellenbeschreibung
+
+Aufgaben
+
+
+You report to the Group Head of IT Data, to carry out the Group‘s Data ambitions.
+
+IT Department is organized around “Business Verticals” (BV) teams who is each dedicated to one business, and who manage the IT interest of the business, coordinating all relevant IT resources. The BV partners with the Software Development Factory unit, who tackles technical implementation.
+Inside IT, the IT Data transversal team currently encompasses ~15 FTE across Paris and Tunis. The team is highly transversal by nature and has many touch points in the Group : all 4 business lines and all support functions in varying quantities, but also with: each other IT BV teams, the central Data Excellence (DEX) team, the central Marketing team, IT Architecture, IT Ops teams, and finally a few external providers as well.
+
+The mission of the IT Data Team has 3 objectives :
+
+1. Support the Group transformation in partnership with Data Excellence, through IT projects (eg: deploy Data Catalog tool), expertise (organize training session by IT staff), guidance, etc.
+2. Lead the Data Transformation inside IT (eg: Enabling open data access, Reengineering Business Intelligence internal offer, Enable steering of user adoption through KPI framework, Improve efficiency of project delivery operational model, Leverage Cloud technology capabilities…).
+3. Deliver projects and business specific roadmaps, reporting to each business line as your internal clients.
+
+
+As Business Analyst in the IT Data team, you support the team by participating to the business requirements for new data usages in one of the following activities: Asset management, Capital Markets, Private Wealth Management, Securities Services.
+
+You have a strong knowledge in BI and BI tools (ideally IBM Cognos, PowerBI). You are also familiar with IT developments and delivery processes (scoping, testing, deployment phases, agile framework).
+With your experience and skills in data processes, you participate to the Data Transformation in Group IT department by helping on:
+? - broadcasting a data driven culture in the department (data governance, data policies, data quality);
+? - deploying and driving new data technologies projects (data science, ML Ops, data engineering);
+? - accompanying the Software Development Factory in charge of DevOps practices
+
+
+Exciting tasks await you:
+
+Facing the IT Data team:
+
+Support the business on BI and Analytics reporting deployment
+Assist IT Data & BI transformation towards wider data skills, tooling and processes
+Bring data expertise: data-centric approach, acculturation, archi/engineering
+Facilitate improvement of Data Quality, Availability and Governance by IT teams
+
+Facing the Group:
+
+Support the data transformation in the group by helping in adoption of new data principles
+Contribute to the animation of the Data Community and the initiatives for improving data literacy in the Group
+
+Anforderungsprofil
+
+Anforderungen
+
+Functional knowledge of at least one business line: Asset management, Capital Markets, Private Wealth Management, Securities Services
+Data architecture (modeling, design)
+Change Management strategies, tools and techniques
+Data-centric culture: data governance, policies, DQ, data protection/risk coverage
+Big Data concepts, principles and practices: Data storage, cloud computing,
+Software Delivery Life Cycle and Dev(Sec)Ops approach
+Agile approach, principles and frameworks
+Functional Architecture and/or IS Urbanization
+Data concepts and methodologies: Business Intelligence, Data Modelization, Data lifecycle concepts, modern Data platform approach
+Data engineering: ML Ops, Data Science
+Hands-on experience in Data projects
+Hands-on experience in IT service and teams
+Strong soft skills to generate trust, credibility, and vision with all stakeholders
+Fully proficient in English, ideally proficient in German/French
+Master degree in IT or Data Analytics or similar education
+
+Ansprechpartnerin
+
+Frau null null
+
+Diesen Job melden

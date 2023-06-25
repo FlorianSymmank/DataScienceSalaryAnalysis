@@ -1,0 +1,91 @@
+Bioinformatician / Data Scientist (m/f/d), reference: “Bioinformatics/Data Scientist”
+TRON
+55131 Mainz
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+We are looking for committed people with enthusiasm for biomedical research!
+
+TRON is a non-university, biopharmaceutical research institute in the legal form of a non-profit
+
+organization. The company’s aim is to develop highly innovative technologies to address medical needs
+
+in the fields of cancer diagnostics and therapeutics. TRON was founded in Mainz in 2010 and works in
+
+close cooperation with universities and clinics as well as with regional, national and international
+
+research institutions and companies in the pharmaceutical industry.
+
+TRON is currently expanding its personalized cancer genomics area. For this reason, we are searching
+
+continuously highly talented and motivated researcher to support development of the world’s first
+
+personalized cancer vaccine (PCV). With TRON, you will become a global leader in the development of
+
+a completely novel immunotherapy against cancer using personalized tumor cancer vaccines.
+
+As part of our team, you will have the opportunity to work with talented and dedicated colleagues, to
+
+develop and expand your professional experience, and to be at the cutting-edge of translational science
+
+to improve patient lives.
+
+To support our personalized cancer genomics team and our technological knowledge and expertise, we
+
+are looking as soon as possible for a
+
+Bioinformatics/Data Scientist (m/f/d)
+
+DUTIES & RESPONSIBILITIES 
+
+Support in developing, optimizing and testing innovative bioinformatic methods for our
+personalized cancer vaccine platform that you will integrate into existing clinical processes. 
+
+Evaluate bioinformatic analyses in a clinical environment 
+
+Responsibility for programming and analysis of bioinformatic data. Apply numerous bioinformatic
+tools to NGS datasets from various sources 
+
+Design and oversee experiments to test novel algorithms 
+
+Work with “big data” to test novel hypotheses 
+
+Support publishing in scientific journals
+
+QUALIFICATION & EXPERIENCE 
+
+Doctorate in physics, bioinformatics or a comparable subject with a strong background in statistics,
+genomics and a passion for data. 
+
+Excellent command of programming languages such as Java and Python 
+
+At least three years of experience in analysis of NGS datasets and use of bioinformatic tools 
+
+Experience in cancer genomics, data analysis and evaluation of bioinformatic methods in a clinical
+environment would be an advantage 
+
+Experience writing publications in international journals 
+
+Excellent command of English
+
+If you are a self-starter who likes working in a dynamic research & development environment,
+
+enthusiastic about translational science and thrilled by supporting the implementation of personalized
+
+medicine, you will feel home at TRON and within your task. If you have additionally strong visual, verbal
+
+and written communication skills, and besides that, if you are an enthusiastic team player with good
+
+organizational skills, you should not wait any longer to apply for this position.
+
+We are looking forward to receive your application.
+
+Please send your application documents (cover letter, CV, certificates) by email in one single document
+
+of max. 5 MB to the Human Resources Team of TRON: jobs (at) tron-mainz.de, reference
+
+“Bioinformatics/Data Scientist”.
+
+For further information, please visit our homepage www.tron-mainz.de, TRON gGmbH.
+
+Diesen Job melden

@@ -1,0 +1,98 @@
+Diese Stellenanzeige ist auf Indeed abgelaufen
+Mögliche Gründe: Der Arbeitgeber akzeptiert keine Bewerbungen, ist nicht aktiv auf der Suche nach neuen Mitarbeitern oder prüft derzeit die eingegangen Bewerbungen
+Backend Engineer - (all genders)
+Zalando
+Berlin
+THE ROLE & THE TEAM
+
+Are you happy when shopping online and your order arrives the next day, all articles in a single box? And do you get frustrated when every article arrives separately, some even late? We do as well! And our team - Fulfillment Planning - is tackling exactly this challenge. We build the software that decides how fashion items move inside Zalando's Europe-wide logistics network and how they reach your home.
+
+Come and join us! As a backend engineer, you will help us to speed up deliveries, avoid separate shipments, decrease our carbon footprint, and reduce logistic costs. Together we are developing algorithms that choose the best warehouse and carrier for every order of our 48 million active customers. Within a multidisciplinary team of researchers and engineers, you will work on highly critical systems at the heart of Zalando's e-commerce platform.
+
+INCLUSIVE BY DESIGN
+
+At Zalando, our vision is to be inclusive by design. And this vision starts with our hiring - we do not discriminate on the basis of gender identity, sexual orientation, personal expression, ethnicity, religious belief, or disability status. You are welcome to leave out your picture, age, or marital status from your application. We only assess candidates on their qualifications and merit.
+
+We want to provide you with a great candidate experience. Feel free to inform us of any accommodations you may need, so we can best support you throughout the hiring process.
+
+do.BETTER - our diversity & inclusion strategy: https://corporate.zalando.com/en/our-impact/dobetter-our-diversity-and-inclusion-strategy
+
+Our employee resource groups: https://corporate.zalando.com/en/our-impact/our-employee-resource-groups
+
+WHAT WE'D LOVE YOU TO DO (AND LOVE DOING)
+Create high-throughput scalable services with Kotlin
+Write code that your peers praise for its elegance, readability, and maintainability
+Become an expert on the internal operations of e-commerce giants
+Identify new opportunities by closely working with our product managers
+Advance our experimentation capabilities and shape our team's roadmap
+Collaborate with other engineering teams on our journey towards a true platform architecture
+Prepare for massive sales events that put our services under severe stress conditions
+Learn about data analysis and operations research
+Track down anomalies as every customer order counts
+WE'D LOVE TO MEET YOU IF
+Experienced with microservice architectures (like Spring Boot, Kubernetes, AWS, REST)
+Taking ownership for the entire development cycle: Analyse, Design, Implement, Test, Ship, Maintain
+Ensuring great code quality through code reviews and pair programming
+Passionate about operational excellence with a keen attention to monitoring and logging
+Promoting a strong culture of continuous improvement
+Familiar with SQL and relational databases (like PostgreSQL)
+Knowledgeable about computer science fundamentals
+Fluent in English and clear & structured in your presentations
+Comfortable with sharing your knowledge and mentoring peer engineers
+OUR OFFER
+
+Career Development
+
+We offer peer-to-peer performance reviews twice a year
+Learn and develop through our extensive Zalando training platform
+Join regular all-hands, team meetings, Q&A-sessions, and quarterly anonymous employee surveys to ask your questions and provide your feedback
+Support from an international team of experts; mentoring and professional development opportunities
+
+Wellbeing
+
+2 days paid leave per year for volunteering
+Minimum of 27 holiday days per calendar year
+Online sports courses, wellbeing, and nutrition advice offered by Humanoo personal wellbeing coach app
+Mental wellbeing support by our Employee Assistance Program and professional consultants to help you find health resources
+
+Flexibility
+
+Flexible working hours
+Relocation assistance for internationals
+If you work from an office in your role, a choice of office equipment to be delivered to you, to support you working from home due to COVID-19 safety
+
+Financial
+
+Access to the employee shares program
+40% shopping discount on products shipped and sold by Zalando, and 30% discount on Zalando Lounge
+Discounts from a wide range of external partners
+
+Family
+
+Employee parents' forums and employee resource group
+Supported transition into and out of parental leave, with a buddy and re-onboarding plan
+3 fully-paid child sick days per year
+Free counselling, assistance, and referral service for all matters concerning yourself and your family via the Fürstenberg Institute
+
+Learn all about Zalando and our values here: https://jobs.zalando.com/en/?gh_src=22377bdd1us
+
+ABOUT ZALANDO
+
+Zalando is Europe's leading online platform for fashion, connecting customers, brands and partners across 25 markets.
+
+In the Fulfillment Core department, we focus on the entire Network of Logistics Centers. Across this network we plan, track & predict millions of movements to make sure every fashion item across Europe finds its way to our 50 million active customers. Through this mission we are a key enabler to becoming the Starting Point for Fashion.
+
+In our teams we develop and run high performing microservices and optimize algorithms as well as predictive models to innovate on the Convenience, Speed and Cost of our delivery experience.
+
+Our values: https://jobs.zalando.com/en/our-founding-mindset
+
+do.More - our sustainability strategy: https://corporate.zalando.com/en/our-impact/domore-our-sustainability-strategy
+
+Follow us on Instagram: instagram.com/insidezalando
+
+
+
+
+Please note that all applications must be completed using the online form - we do not accept applications via email.
+
+Diesen Job melden

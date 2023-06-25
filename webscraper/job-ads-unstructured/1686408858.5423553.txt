@@ -1,0 +1,47 @@
+Senior Data Analyst (m/w/d)
+Alight
+Deutschland
+Schnellbewerbung
+
+Bei Alight Data-Driven Innovation Services, einem neuen Geschäftsbereich innerhalb der Alight Consulting GmbH, widmen wir uns einem ganzheitlichen Ansatz zur datenbasierten Transformation. Wir bieten eine umfassende Palette von Dienstleistungen an, die Unternehmen dabei unterstützen, die Potenziale von Daten und KI erfolgreich zu nutzen, um neue Geschäftsmöglichkeiten zu eröffnen.
+
+Wir suchen nach einer/m vorausschauenden Senior Data Analyst, die/der sowohl im Presales als auch im Delivery einen Beitrag zum Unternehmenswachstum und zur Unterstützung unserer Kunden in verschiedenen Branchen leisten möchte.
+
+Ihre Aufgaben
+Sie beraten unsere Kunden umfassend bei der Auswahl und Gestaltung der Use Cases.
+Sie geben Empfehlungen für eine geeignete Infrastruktur und Implementierungsstrategie.
+Übersetzung fachlicher Anforderungen in technischen Lösungen und Entwicklung fortschrittlicher ML-Modelle sowie statistischer Ansätze für die Analyse vielfältiger Daten (low-dimensional, high-dimensional, low-volume, high-volume, etc.).
+Sie übernehmen die Verantwortung von Kundenprojekten als primärer Ansprechpartner zum Kunden und als technischer Projektleiter in diesem Bereich.
+Entwicklung und Implementierung von Betriebs- und Governance-Modellen im Bereich Data Analytics und Data Science.
+Sie geben Ihr Wissen und Ihre Erfahrung weiter, indem Sie die Arbeit Ihrer Kollegen begutachten und konstruktives Feedback dazu geben.
+Sie übernehmen Verantwortung für Themen und zeigen Unternehmergeist beim Einbringen neuer Ideen.
+Teilnahme an Presales-Aktivitäten, um potenziellen Kunden zu demonstrieren, wie Data Science und Statistik zum wirtschaftlichen Vorteil eingesetzt werden können.
+Ihr Profil
+Sie haben einen Master-Abschluss in Machine Learning, Informatik, angewandter Mathematik, Informationstechnologie oder einem verwandten Fachgebiet erfolgreich absolviert. Ein Doktortitel in einem relevanten Bereich kann ein zusätzlicher Vorteil sein.
+Praktische Erfahrung in der Gestaltung und Entwicklung von Data-Science-Lösungen für Kunden.
+Verständnis für die Analyse strukturierter und unstrukturierter Daten, Streaming Data, IoT, Verarbeitung natürlicher Sprache und verwandte Themenbereiche der Analytics.
+Sie verfügen über umfassende und vertiefte kommerzielle oder akademische Erfahrungen in der Entwicklung von Algorithmen des maschinellen Lernens.
+Sie haben bereits praktische Erfahrungen und Fähigkeiten in der Entwicklung komplexer Abfragestrukturen mit SQL und/oder NoSQL-Abfragesprachen.
+Nachgewiesene wissenschaftliche Forschungsfähigkeiten (veröffentlichte wissenschaftliche Arbeiten und/oder Präsentationen auf wissenschaftlichen Konferenzen).
+Praktische Erfahrung und Verständnis von Deep-Learning-Techniken (TensorFlow, Theano, MXNet, Microsoft DMTK).
+Sie haben Erfahrung im Umgang mit Big Data Stack (Spark, Hadoop, Storm, Hive & Pig) und NoSQL.
+Erfahrung mit Distributed Machine Learning (RHadoop, Spark MLlib).
+Solide Grundkenntnisse in angewandter Mathematik, insbesondere Optimierung und Graphentheorie sowie Statistik.
+Erfahrung in der Fertigungs-, Finanz-, Einzelhandels- oder Pharmabranche wäre von großem Vorteil.
+Sie treten aktiv mit Kunden in Kontakt und unterstützen sie bei Vertriebs- und Geschäftsentwicklungsmöglichkeiten.
+Sie besitzen außergewöhnliche Problemlösungs- und Analysefähigkeiten.
+Starke Führungsqualitäten mit Erfahrung in der Betreuung und Anleitung jüngerer Teammitglieder.
+Fähigkeit zur effektiven Zusammenarbeit mit funktionsübergreifenden Teams und verschiedenen Interessengruppen.
+Sie überzeugen durch hervorragende Kommunikations- und Präsentationsfähigkeiten in Wort und Schrift.
+Dafür sprechen Sie sehr gutes Englisch und fließend Deutsch für Projekte innerhalb Deutschlands (mindestens B2).
+Ihre Perspektiven
+Offene, vertrauensvolle Arbeitsweise in agilen Teams.
+Moderne Mobilitätslösungen, wie z.B. geleastes Jobrad.
+Hochwertige Geräte wie Microsoft Surface oder Lenovo.
+Flexible und vertrauensvolle Arbeitskultur, in der unsere Mitarbeiter Privatleben und geschäftliche Leistung in Einklang bringen können.
+Möglichkeiten zur persönlichen und beruflichen Weiterentwicklung.
+Flexible und mobile Arbeitsmöglichkeiten.
+
+Sind Sie an dieser Stelle interessiert? Dann senden Sie bitte Ihre vollständigen Bewerbungsunterlagen mit Lebenslauf und Zeugnissen, Ihrer Gehaltsvorstellung und Ihrem frühestmöglichen Eintrittstermin an: karriere@alight.eu
+
+Diesen Job melden

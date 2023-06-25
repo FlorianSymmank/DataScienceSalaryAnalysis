@@ -1,0 +1,19 @@
+{
+  "job_title": "Assistant CRA",
+  "company": "Thermo Fisher Scientific",
+  "location": "Deutschland",
+  "salary_euro": null,
+  "employment_type": "Full-time",
+  "requirements": "Bachelor’s Degree in a life science-related field OR Registered Nurse license along with an Associate’s Degree in Nursing. Prior clinical research experience 0-1 year as well as knowledge of clinical monitoring through classwork/training that provides the required knowledge skills and abilities. Fluency in German and English languages.",
+  "skills": [
+    "Medical/therapeutic area knowledge",
+    "Knowledge of ICH GCPs, applicable regulations and PPD procedural documents",
+    "Effective oral and written communication skills",
+    "Interpersonal and customer service skills",
+    "Good organizational and time management skills",
+    "Critical thinking skills",
+    "Ability to coach and mentor site personnel",
+    "Computer skills with good knowledge of MS Office ability to learn and use appropriate software"
+  ],
+  "date_posted": "2021-10-08"
+}

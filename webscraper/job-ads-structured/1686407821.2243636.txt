@@ -1,0 +1,16 @@
+{
+    "job_title": "PhD candidate (f/m/d) Artificial Intelligence and Medical Imaging",
+    "company": "UKE - Universitätsklinikum Hamburg-Eppendorf",
+    "location": "Hamburg",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": null,
+    "requirements": "Master’s degree in medical informatics, computer science, medical technology or related fields",
+    "skills": [
+        "Strong interest in scientific questions in the fields of artificial intelligence and medical imaging and processing",
+        "Good programming skills as well as experience in the areas of image processing and machine learning are an advantage"
+    ],
+    "date_posted": null
+}

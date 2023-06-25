@@ -1,0 +1,10 @@
+{
+   "job_title": "Data Science Consultant (m/w/d)",
+   "company": "IT-P Information Technology-Partner GmbH",
+   "location": "Hannover",
+   "salary_euro": null,
+   "employment_type": "Vollzeit, Teilzeit, Festanstellung",
+   "requirements": "Mehrjährige Praxiserfahrung in der Beratung von Kunden im Bereich der Datenanalyse und der Entwicklung/Integration von Data-Science-Lösungen bringst du mit. Studienabschluss der (Wirtschafts-) Informatik, (Wirtschafts-) Mathematik, (Wirtschafts-) Ingenieurwesen oder eines vergleichbaren Studiengangs bzw. vergleichbare fundierte Kenntnisse in der Mathematik / Statistik / Stochastik",
+   "skills": ["analyse", "erkennen von Kundenbedürfnissen", "Analyse und Virtualisierung der Daten unserer Kunden", "statistischen Modellen und Data Mining Methoden", "beratend", "methodischen Entscheidungen"],
+   "date_posted": ""
+}

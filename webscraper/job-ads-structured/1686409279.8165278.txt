@@ -1,0 +1,22 @@
+{
+    "job_title": "Software-Entwickler Data Science",
+    "company": "IABG",
+    "location": "Ottobrunn",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "Dein Studium der Informatik oder einer vergleichbaren Fachrichtung hast Du erfolgreich abgeschlossen und konntest idealerweise schon erste Berufserfahrung sammeln",
+    "skills": [
+        "Java",
+        "Hibernate",
+        "Spring",
+        "VueJS",
+        "mySQL",
+        "JIRA",
+        "Confluence",
+        "GitLab",
+        "Docker",
+        "IntelliJ",
+        "Visual Studio Code"
+    ],
+    "date_posted": null
+}

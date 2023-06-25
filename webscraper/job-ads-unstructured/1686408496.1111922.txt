@@ -1,0 +1,105 @@
+Wissenschaftliche Mitarbeiterin bzw. Wissenschaftlicher Mitarbeiter (w/m/d) im Projekt „KI-gestützte Methoden zur synergistischen Erforschung von Krankheitssymptomen und Medikamentennebenwirkungen“
+Universität Hamburg
+20146 Hamburg
+Vollzeit, Teilzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Teilzeit
+Wissenschaftliche Mitarbeiterin bzw. Wissenschaftlicher Mitarbeiter (w/m/d) im Projekt „KI-gestützte Methoden zur synergistischen Erforschung von Krankheitssymptomen und Medikamentennebenwirkungen“ § 28 Abs. 3 HmbHG
+
+EinrichtungFakultät für Mathematik, Informatik und Naturwissenschaften (Fachbereich Informatik), Zentrum für Bioinformatik, Arbeitsgruppe Algorithmisches Molekulares Design (Prof. Dr. M. Rarey)
+WertigkeitEGR. 13 TV-L
+Arbeitsbeginn15.08.2023, befristet bis 28.02.2026 (auf der Grundlage von § 2 Wissenschaftszeitvertragsgesetz)
+Bewerbungsschluss21.06.2023
+Arbeitsumfangteilzeitgeeignete Vollzeitstelle
+
+Aufgaben
+
+Die Aufgaben umfassen wissenschaftliche Dienstleistungen im o. g. Projekt. Außerhalb der Dienstaufgaben besteht Gelegenheit zur wissenschaftlichen Weiterbildung. Es besteht die Möglichkeit, außerhalb der Arbeitszeit eine Promotion zu verfolgen.
+
+Aufgabengebiet
+
+Die präklinische Erforschung neuer Medikamente unterliegt heute einem massiven, durch Data-Science-Methoden geprägten Wandel. Milliarden synthetisch herstellbarer Moleküle werden heute in chemischen Räumen modelliert und stehen als Kandidaten in der Wirkstoffforschung zur Verfügung. Gleichzeitig ergeben sich neue Modellierungsmethoden durch die großen Fortschritte im Bereich der Proteinstrukturvorhersage. Die Arbeitsgruppe AMD (Prof. Rarey) ist international führend in der Entwicklung chemieinformatischer und computergestützt-strukturbiologischer Ansätze zur Wirkstoffsuche. Im Rahmen eines BMBF-geförderten Kooperationsprojektes planen wir die Entwicklung neuer Ansätze zur Identifizierung von Targets und potenziellen Off-Targets für potenzielle Wirkstoffkandidaten. Das Projekt verbindet somit die Bereiche Chemieinformatik und Struktur-Bioinformatik mit moderner Algorithmik und Maschinellem Lernen. Primäre Aufgabe der Stelleninhaberin bzw. des Stelleninhabers ist die Entwicklung wissenschaftlicher Softwarekomponenten und deren Verfügbarmachung für experimentelle Arbeitsgruppen auf der Basis unserer Software-Plattform (NAOMI ChemiBio Library (in C++)) sowie deren prospektive Anwendung.
+
+Einstellungsvoraussetzung
+
+Abschluss eines den Aufgaben entsprechenden Hochschulstudiums.
+
+Gesucht werden Hochschulabsolvent:innen, die sich an der Schnittstelle zwischen der Chemie/den Lebenswissenschaften einerseits und der Informatik andererseits bewegen, beispielsweise Absolvent:innen (Master oder gleichwertig) in den Bereichen:
+
+Chemieinformatik
+
+oder
+
+Bioinformatik mit Schwerpunkt Strukturen
+
+oder
+
+Informatik mit Nebenfach Chemie, Physik oder Lebenswissenschaften
+
+oder
+
+Chemie (Schwerpunkte physikalische/theoretische oder organische Chemie) mit sehr guten Kenntnissen in angewandter Informatik
+
+Sehr gute Kenntnisse in der Softwareentwicklung (C++ und Python) sowie gute Kenntnisse in der organischen Chemie und Biochemie werden erwartet. Erfahrungen in der Entwicklung von Modelling-Applikationen sind von Vorteil. Aufgrund der Tätigkeit in einem interdisziplinären Kooperationsprojekt werden sehr gute kommunikative Fähigkeiten in Englisch vorausgesetzt.
+
+Wir bieten Ihnen
+
+Sichere Vergütung nach Tarif
+Weiterbildungsmöglichkeiten
+Betriebliche Altersvorsorge
+Attraktive Lage
+Flexible Arbeitszeiten
+Möglichkeiten zur Vereinbarkeit von Beruf und Familie
+Gesundheitsmanagement
+Bildungsurlaub
+30 Tage Urlaub/Jahr
+
+Die Universität Hamburg ist als Exzellenzuniversität eine der forschungsstärksten Universitäten Deutschlands. Mit ihrem Konzept der „Flagship University“ in der Metropolregion Hamburg pflegt sie innovative und kooperative Verbindungen zu wissenschaftlichen und außerwissenschaftlichen Partnern. Sie produziert für den Standort – aber auch national und international – die zukunftsgerichteten gesellschaftlichen Güter Bildung, Erkenntnis und Austausch von Wissen unter dem Leitziel der Nachhaltigkeit.
+
+Die FHH fördert die Gleichstellung von Frauen und Männern. An der Universität Hamburg sind Frauen in der Stellenkategorie der hier ausgeschriebenen Stelle, gemäß Auswertung nach den Vorgaben des Hamburgischen Gleichstellungsgesetzes (HmbGleiG), unterrepräsentiert. Wir fordern Frauen daher ausdrücklich auf, sich zu bewerben. Sie werden bei gleicher Eignung, Befähigung und fachlicher Leistung vorrangig berücksichtigt.
+
+Schwerbehinderte und ihnen gleichgestellte behinderte Menschen haben Vorrang vor gesetzlich nicht bevorrechtigten bewerbenden Personen gleicher Eignung, Befähigung und fachlicher Leistung.
+
+Hinweis zur Bewerbung
+
+Kontakt
+
+Prof. Dr. Matthias Rarey
+
+matthias.rarey@uni-hamburg.de
+
++49 40 42838-7351
+
+Melanie Geringhoff
+
+melanie.geringhoff@uni-hamburg.de
+
++49 40 42838-7350
+
+Kennziffer
+
+217
+
+Standort
+
+Bundesstr. 43
+20146 Hamburg
+
+
+Bewerbungsschluss
+
+21.06.2023
+
+Bitte senden Sie Ihre Bewerbung mit den üblichen Unterlagen (Bewerbungsschreiben, Lebenslauf, Hochschulabschluss sowie ggf. einen Schwerbehindertenausweis oder Gleichstellungsbescheid) ausschließlich über das Online-Bewerbungsformular.
+
+Bei technischen Problemen können Sie sich an folgende Adresse wenden: bewerbungen@uni-hamburg.de
+
+
+PDF Download
+
+Diesen Job melden

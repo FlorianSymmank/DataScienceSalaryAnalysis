@@ -1,0 +1,16 @@
+{
+  "job_title": "Head of Data Science",
+  "company": "Bayer",
+  "location": "Monheim",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "University degree with a long track record of relevant experience in data or computer science, bioinformatics, mathematics, or a related field preferably applied to agriculture\nFluent in English, both written and spoken, German is a plus",
+  "skills": [
+    "data analytics",
+    "machine learning",
+    "visual analytics",
+    "pipeline automation",
+    "data science trends and technologies"
+  ],
+  "date_posted": null
+}

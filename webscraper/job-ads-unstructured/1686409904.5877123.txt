@@ -1,0 +1,74 @@
+Claims Data Engineer
+Munich Re
+München
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Claims Data Engineer
+
+
+Location
+Munich , Germany
+
+
+Within the central division Claims, comprising all non-life claims operations globally, we drive digitalisation as a crucial element of our Global Claims Ambition 2025. The team is responsible for collecting and managing loss data, systems and analytics as well as loss data-driven internal and external services.
+
+In this mission, we want to strengthen the usage of loss data within Claims and beyond (especially for underwriting P&C business) in close collaboration with Data & Analytics, Corporate Underwriting and business units.
+
+The advertised position within the Data Analytics and Data Products sub-team offers the exciting opportunity to play a key role in driving the digitalisation and data strategy by leveraging the information that resides in raw data and transforming it into business insights and meaningful data products.
+
+Your job
+
+Using our internal tools and services to cleanse, transform and refine data from various sources and work with the providers to ensure continuous improvements of the services
+Performing data analysis to discover data patterns, understand, visualise and summarise the data, estimate the quality and discover anomalies
+Having a close loop with operative colleagues to discuss insights and generate ideas for further improvement
+Consolidating data from various sources for overarching comparisons and analysis and identifying links to other data sources and data products
+Implementing and maintaining standard and ad hoc data queries and reports
+Maintaining, extending and creating globally used data products and identifying development needs with stakeholders
+Aligning ad hoc data and analytics requests within the team with the Munich Re-wide data strategy initiatives
+Taking ownership and driving analytic topics in agile project teams to support the business and generate insights
+
+Your profile
+
+University degree in computer science, statistics, applied mathematics, data science, physics or a similar qualification
+Experience in (re)insurance – ideally in Claims or Underwriting – of advantage
+Practical experience in wrangling heterogeneous and complex data and high motivation to understand the underlying business and generating process
+Analytical and statistical skills combined with practical experience preferably with Python and the willingness to continuously improve
+Experience with building ETL processes in data lake infrastructure
+Practical experience with Azure Cloud components, especially Databricks, Azure Storage, Cosmos DB, Azure Search, Azure Data Factory
+Versed in Python, SQL, Spark and Scala
+Practical experiences in visualisation tools, preferably Power BI
+Team player, especially in agile project set-ups, and used to collaborating with GIT or similar version control tools
+Ability to work effectively with colleagues across the departments and with different levels of seniority
+Experience as product owner or project manager
+Very high level of motivation paired with the capacity to take responsibility and work independently
+Very good written and spoken German and English and ability to explain complex problems to a diverse audience
+
+About us
+
+As the world's leading reinsurance company with more than 11,000 employees at over 50 locations, Munich Re introduces a paradigm shift in the way you think about insurance. By turning uncertainty into a manageable risk we enable fundamental change. Join us working on topics today that will concern society tomorrow, whether that be climate change, major construction projects, medical risk assessment or even space travel. Together we embrace a culture where multiskilled teams dare to think big. We create the new and the different for our clients and cultivate innovation. Sounds like you? Make it happen and be part of Munich Re.
+
+You will work in an environment where we think big: Change and culture are continuously role-modeled. We create and articulate a compelling and ambitious shared purpose, vision and direction. We pave the way towards success and see failure as learning
+You are going to experience that we care & dare: We are empathetic. We know when to lead and know when to let others lead. We attract, grow and coach future leaders
+We communicate in a clear & authentic way: We interact with a positive and humble spirit. We solicit feedback, ask and listen, learn and unlearn
+You will grow with your clients: Whatever our role, we support business, in an efficient and effective way, to create value for our clients. We embrace new ways of working leveraging digitalization to deliver solutions
+Join us, and experience that we lead the We: We have a passion for winning and growing as a team. We inspire people to be capable of joint performance. We create an inclusive environment where different thoughts, generations, cultures and experiences are valued and encouraged
+
+Münchener Rückversicherungs-Gesellschaft
+Marika Schwertner
+Human Resources
+Königinstraße 107
+80802 München
+GERMANY
+
+
+
+
+Apply now!
+
+Munich Re not only stands for fairness with regard to its clients; it is also an equal opportunities employer. Severely disabled candidates will also be prioritised, if equally qualified.
+Diesen Job melden

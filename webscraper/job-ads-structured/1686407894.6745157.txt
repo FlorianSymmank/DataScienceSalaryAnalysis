@@ -1,0 +1,10 @@
+{
+    "job_title": "Werkstudent Data Science (m/w/d) im Bereich Data Services",
+    "company": "DATALOGUE Schweiz AG",
+    "location": "Hamburg",
+    "salary_euro": null,
+    "employment_type": "Teilzeit",
+    "requirements": "Aktuell absolvierst Du ein Studium im Bereich der Betriebswirtschaftslehre, (Wirtschafts-) Informatik, (Wirtschafts-) Ingenieurwesen oder in einem vergleichbaren Studiengang. Du hast erste Erfahrungen im Bereich Analytics bzw. Data Science sammeln können. Du bist fit bei der Arbeit mit Programmiersprachen (vorzugsweise Python oder R). Du möchtest gerne verschiedene Arten von Daten kennenlernen und mit diesen auch arbeiten. Du wohnst in Hamburg oder Umgebung. Du hast gute Deutschkenntnisse und bringst sehr gute Englischkenntnisse mit. Weitere Fremdsprachenkenntnisse können von Vorteil sein. Last, but not least: Die gängigen MS-Office-Anwendungen sind Dir vertraut.",
+    "skills": ["Data Science", "Analytics", "Python", "R", "Machine Learning"],
+    "date_posted": "2022-08-15"
+}

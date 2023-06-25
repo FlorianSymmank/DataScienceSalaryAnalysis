@@ -1,0 +1,10 @@
+{
+  "job_title": "Data Engineer (m/f/d)",
+  "company": "Raisin",
+  "location": "Home Office",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Bachelors in Mathematics, Computer Science or other relevant quantitative fields",
+  "skills": ["Airflow", "Python programming", "SQL", "AWS services", "kubernetes"],
+  "date_posted": null
+}

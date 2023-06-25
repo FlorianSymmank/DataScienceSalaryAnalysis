@@ -1,0 +1,23 @@
+{
+    "job_title": "Data Scientist",
+    "company": "Creditsafe Deutschland GmbH",
+    "location": "10407 Berlin",
+    "salary_euro": null,
+    "employment_type": "Vollzeit, Festanstellung",
+    "requirements": "Erfolgreich abgeschlossenes Studium der Betriebswirtschaft, Informatik, Mathematik oder eines verwandten Studiengangs",
+    "skills": [
+        "Data Science",
+        "Data Mining",
+        "Reporting",
+        "Daten-Analyse",
+        "A/B Testing",
+        "statistischen Analyseverfahren",
+        "SQL",
+        "Python",
+        "Projektmanagement",
+        "Kommunikation",
+        "Deutsch",
+        "Englisch"
+    ],
+    "date_posted": "unavailable"
+}

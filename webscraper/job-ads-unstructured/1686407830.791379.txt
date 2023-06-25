@@ -1,0 +1,64 @@
+Data Scientist*
+Baumlink
+München
+Festanstellung
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Festanstellung
+
+Data Scientist (m/w) (~85K€ Base)
+
+München- Hybrid
+
+
+
+
+Seit mehr als 20 Jahren sind sie eines der führenden europäischen Digitalunternehmen und eCommerce-Unternehmen im Tourismus.
+
+Eine aufgeschlossene und internationale Unternehmenskultur mit flachen Hierarchien, kurzen Entscheidungswegen und einer offenen 360-Grad Feedbackkultur erwartet dich hier.
+
+Wenn du ein erfahrener Datenwissenschaftler mit einem besonderen Vorsprung bei Clickstream- / Nutzerverhaltensdaten sind , helfen Sie unserem hervorragenden Team in München.
+
+
+
+
+DAS ERWARTET DICH
+
+Sie interagieren eng mit anderen Data Scientists und werden ein wertvoller Teil unseres Data Intelligence Teams
+Sie werden die Verhaltensmuster der Nutzer auf unserer Plattform genau beobachten und Erkenntnisse für unser Geschäft und unsere Produktteams gewinnen
+Sie führen A/B-Tests und deren Auswertungen durch und arbeiten mit, um besser zu verstehen, wie wir abschneiden
+Sie verwandeln Daten in Erkenntnisse, die den Unterschied machen, das urlauberfreundlichste Unternehmen der Welt zu werden
+Sie arbeiten in funktionsübergreifenden Teams zusammen, um neue Produkte zu entwickeln und datengesteuerte Verbesserungen auf unsere Website zu bringen
+
+
+
+
+Das Team:
+
+Unser Team operationalisiert Daten für unsere Kunden und internen Stakeholder. Einige unserer Projekte sind: Hotelempfehlungen, Angebote/Angebotsauswahl, Informationsextraktion von Hotelbewertungen, Kundensegmentierung usw.
+Wir sind ein internationales Team an mehreren Standorten in Zentraleuropa
+Unsere Hauptprogrammiersprache ist Python
+
+DU BRINGST FOLGENDES MIT
+
+Du hast 3+ Jahre Erfahrung in der Analyse und Ableitung von Erkenntnissen aus Clickstream-Daten
+Sie lieben es, Daten auf kreative Weise und mit einem klaren Fokus auf Geschäftsprobleme zu verarbeiten und haben eine unternehmerische und pragmatische Denkweise
+Eine Erfolgsbilanz bei der Interaktion mit hochrangigen Stakeholdern außerhalb Ihres Teams
+Du bist Experte für SQL und BigQuery; z.B. sind dir Fensterfunktionen nicht fremd
+Du verfügst über eine nachgewiesene Erfolgsbilanz bei der erfolgreichen Anwendung statistischer Methoden auf reale Benutzerdaten (Webanalyse)
+Du fühlst dich mit Python (vorzugsweise) und/oder R wohl und hast Erfahrung mit A/B-Test-Setups und -Tools
+Du bist vertraut mit der Einrichtung von Dashboards (idealerweise mit Google Datastudio)
+Du bist mit den Standardkonzepten von Data Science und Machine Learning-Methoden vertraut
+Gute Deutsch- und Englischkenntnisse in Wort und Schrift
+
+
+
+Interesse geweckt?
+
+Dann schreib mir einfach um mehr zu Erfahren !
+
+an@baumlink.com
+
+Diesen Job melden

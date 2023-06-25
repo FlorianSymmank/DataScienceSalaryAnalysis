@@ -1,0 +1,25 @@
+{
+    "job_title": "Senior Data Scientist (m/w/d)",
+    "company": "Ariadne",
+    "location": "München",
+    "salary_euro": {
+        "amount": 70000,
+        "period": "pro Jahr"
+    },
+    "employment_type": "Vollzeit",
+    "requirements": "PhD/MSc in Physics, Maths, Statistics, Data Science, Computer Science, Engineering or other quantitative discipline At least 3-5 years of hands-on experience developing and applying data-driven solutions in a corporate or consulting setting would be greatly appreciated Strong experience with exploratory data analysis & data modelling to derive valuable insights and develop hypotheses, PoC which should lead to production models Experience with Supervised & Unsupervised modelling, Mathematical Optimization techniques (LP/MIP/NLS/Stochastic), localization & sessionization, and/or Networks modelling Proficiency in Python, Git & SQL Additional competence in data engineering, noSQL, Apache Hadoop, Spark or Tensorflow, is appreciated but not required Self-initiative - be able to independently take initiatives without much direction Deep belief in data and ability to rally people behind your findings/recommendations",
+    "skills": [
+        "exploratory data analysis",
+        "data modelling",
+        "supervised modelling",
+        "unsupervised modelling",
+        "mathematical optimization",
+        "localization",
+        "sessionization",
+        "networks modelling",
+        "Python",
+        "Git",
+        "SQL"
+    ],
+    "date_posted": "2021-08-05"
+}

@@ -1,0 +1,20 @@
+{
+    "job_title": "Werkstudent Data Science im Bereich IT (m/w/d)",
+    "company": "Josef WITT GmbH",
+    "location": "Weiden",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": "Teilzeit, Festanstellung",
+    "requirements": "Studium der Mathematik, Statistik, Informatik oder vergleichbares",
+    "skills": [
+        "Machine Learning",
+        "KI Technologien (z.B. XGBoost, Scikit-learn, TensorFlow)",
+        "Python",
+        "Git",
+        "Statistik",
+        "Predictive Analytics"
+    ],
+    "date_posted": null
+}

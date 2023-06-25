@@ -1,0 +1,124 @@
+R&D Data Engineer (m/f/d)
+Yara
+Dülmen
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+Date posted: Jun 1, 2023
+Location: Dülmen, NW, DE
+Job Function: Mining
+Job Type: Permanent
+Job Requisition ID: 16238
+R&D Data Engineer (m/f/d)
+
+We at Yara are part of a global network, collaborating to profitably and responsibly solve some of the world's key challenges - resource scarcity, food insecurity and environmental change.
+
+About the Unit
+
+
+
+
+Yara has an ambitious strategic agenda to be the crop nutrition company for the future and is taking lead in the development towards sustainable agriculture and digital tools, to contribute to solving the challenges which the agricultural industry is facing globally. We have a worldwide presence with sales to ~150 countries and around 17 000 employees. The newly established function, Global Innovation Function, will lead the transformation towards more sustainable and efficient food production, by innovating our offering and the way we work.
+
+
+
+
+The unit is responsible for R&D and agronomic competence within the company. Its objective is to develop and to strengthen Yara’s knowledge regarding Crops, Agronomy, and sustainable Agriculture. It also leads the agronomic input and requirements regarding the development of new and innovative Products, Services and Tools. Yara is driven by a strong scientific and innovative spirit in its products and solutions. We place high importance on cutting-edge research focussing on developing solution paradigms suitable for future farming. The success of new modern Infrastructure model and its solution is a key priority within Yara, and we plan to significantly grow our global business presence in Yara Business areas.
+
+
+
+
+Are you passionate about working with scientific research and development data? As an R&D Data Engineer (m/f/d), you shall focus on designing comprehensive queries for business problems by handling large volumes of data efficiently on the world's best native cloud systems for improved management of R&D Data. Your role shall be within the Agronomic Analytics and Modelling group of the Yara Agronomy R&D unit.
+
+
+
+
+You will work collaboratively with other central IT unit teams to build appropriate infrastructure and data pipeline knowledge for global R&D data management. Your expert knowledge shall enable the R&D unit to use existing platforms and pipelines efficiently. You can work closely with engineers and scientists contributing to the ongoing development and monitoring of research and development cloud infrastructure.
+
+
+
+
+You can be based in Europe or India with flexible working opportunities or join our base team in Dülmen, NRW, Germany. You shall report to Senior Data Engineer, Agronomic Analytics and Modelling group.
+
+Responsibilities
+
+
+
+Understand complex data handling and processing requirements for scientific projects
+Apply state-of-the-art data engineering practices and standards to develop customized solutions
+Actively involve in each segment of the cloud infrastructure implementation life cycle
+Collaborate with researchers/scientists/ stakeholders in joint workshops/ meetings to discuss/ communicate data and infrastructure related topics, update processes etc.
+Develop and structure suitable database/data warehouse/data lakes for newly generated research data and handling procedures such as upgrades, backup, recovery, migration, etc.
+Generate Data Catalogues with scientific/agronomic terminology
+Maintain an overview of the content of research data infrastructure to suggest the appropriate sources to scientists supporting their project requirements
+Develop ad-hoc data ingestion pipelines for consumption of data from external sources/partners
+Profile
+
+
+
+Bachelor’s degree in computer science / Data Engineering/ Information technology, or Master’s degree optional
+2+ years of experience in maintaining database architecture and process flow of data systems.
+Experience in working with databases, particularly PostgreSQL, MongoDB, and familiarity with MS Access, IBM Lotus (for legacy data).
+Good knowledge of ETL technologies, ideally AWS/Azure services and SSIS (SQL server Integration Services) but knowledge of AWS is also sufficient.
+Proven experience in Version Control (Git) process.
+Proficiency in Python (preferred) and/or JavaScript and/or Spark, and basic interface design.
+Basic knowledge of querying structured and unstructured data.
+Familiarity with data warehousing, data marts, and data modelling concepts.
+Profil
+Knowledge of reporting tools (e.g., Power BI/Tableau) is good to have.
+Capacity to work in global and local teams of specialists and willingness to upskill with future technologies.
+Flexible with work timings (ability to work with global teams).
+Good cross-cultural skills, deep respect for different cultures and diversity.
+Fluency in English, knowledge of additional language is preferable.
+Additional Information
+
+
+
+
+We offer at our location in Dülmen:
+
+Flexible work organization
+30 vacation day
+37,5 working hours with a time tracking system
+Occupational pension plan, occupational disability insurance for the chemical industry, accident
+insurance, supplementary long-term care insurance
+Bonussystem
+Occupational health management, Job-Bike, Hanse-Fit
+Coffee/tea and water as well as fresh fruit and canteen at the company location
+
+
+
+Are you interested in this position in our future-oriented and modern company? We are looking forward to receiving your application. Please indicate your earliest possible entry date and salary expectations.
+
+As a global organization we actively strive to reflect the diversity in society. We therefore encourage qualified applicants from all backgrounds to apply. We are committed to creating a work environment that fits gender equality. We expressly welcome applications from persons with a severe disability or persons who are on an equal status with severely disabled persons.
+
+Contact details
+
+
+
+
+Jayalakshmi Nambi
+
+Senior Data Engineer
+
+
+
+
+Sarah Wulf
+
+HR Service Specialist
+
+Apply no later than
+
+16. July 2023
+
+Knowledge grows through differences
+Yara is committed to creating a diverse and inclusive environment and is proud to be an equal opportunity employer. We believe that creating a diverse and inclusive work environment is not only the right thing, but also the smart thing to do. To deliver on this, Yara has firmly anchored Diversity, Equity & Inclusion (DE&I) in our business strategy and has more than 400 employees worldwide involved in D&I ambassadors networks.
+
+
+
+
+
+Job Segment: R&D Engineer, R&D, Sustainable Agriculture, Agricultural, Engineering, Research, Agriculture
+
+Diesen Job melden

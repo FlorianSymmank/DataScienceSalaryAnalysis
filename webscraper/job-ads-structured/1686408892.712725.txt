@@ -1,0 +1,17 @@
+{
+    "job_title": "Telescope engineer or scientist for CTA",
+    "company": "Deutsches Elektronen-Synchrotron DESY",
+    "location": "15738 Zeuthen",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": "Full-time/Part-time",
+    "requirements": "Master's degree in electrical engineering, computer engineering, computer science, physics, or equivalent qualification",
+    "skills": [
+        "Object-oriented programming (e.g. C++, java, python) and data structures",
+        "Operating systems (linux)",
+        "Real-time systems and process communication"
+    ],
+    "date_posted": null
+}

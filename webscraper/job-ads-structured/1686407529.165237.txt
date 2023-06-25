@@ -1,0 +1,10 @@
+{
+  "job_title": "Data Science / ML Engineer (m/f/d)",
+  "company": "Advantest",
+  "location": "71034 Böblingen",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Bachelor/Master's degree in computer science, electrical engineering, or a related field\nSpecialization in data science, data analytics, machine learning, deep learning\nVery good understanding of the complete data pipeline and relevant algorithms, models, and frameworks\nVery good knowledge developing data science solutions using languages like Python\nVery good general SW development skills (Linux, scripting, SQL/NoSQL, Webservices, Cloud)\nVery good knowledge and understanding of data science and ML libraries like Pandas, NumPy, PyTorch, TensorFlow\nAbility and motivation to work self-driven with minimum supervision\nPassion for agile, automation, quality, transparency, continuous improvement\nGood team player with experience working in distributed and cross-functional teams\nIntercultural understanding, experience in working with foreign teams\nVery good communication skills in English",
+  "skills": ["Python", "Linux", "SQL", "NoSQL", "Webservices", "Cloud", "Pandas", "NumPy", "PyTorch", "TensorFlow", "agile", "automation", "quality", "transparency", "team player", "distributed teams", "cross-functional teams", "intercultural understanding", "English"],
+  "date_posted": null
+}

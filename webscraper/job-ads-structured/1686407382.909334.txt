@@ -1,0 +1,16 @@
+{
+   "job_title": "Data Analysis / Data Engineering / Data Science (m/f/d)",
+   "company": "Qimia",
+   "location": "Cologne (HQ),Germany",
+   "salary_euro": null,
+   "employment_type": "Full-Time",
+   "requirements": "Degree in Computer Science, Information Systems or equivalent in Computer Science, Statistics, Operations Research, Bioinformatics, Mathematics or Physics.",
+   "skills": [
+      "Java",
+      "C/C++",
+      "Python",
+      "Scala",
+      "JavaScript"
+   ],
+   "date_posted": "2023-02-01"
+}

@@ -1,0 +1,10 @@
+{
+   "job_title": "Applied Data Scientist",
+   "company": "Glatt Gruppe",
+   "location": "Binzen",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "Sie besitzen ein abgeschlossenes Studium mit Schwerpunkt Data Science oder eine vergleichbare Qualifikation. Sie haben erste Berufserfahrung als Data Steward oder Data Scientist, Branchenerfahrung im Bereich Pharma oder Life Science ist von Vorteil. Sie haben Erfahrung in Datenbank Design und Data Governance.",
+   "skills": ["Data Science", "Künstliche Intelligenz", "Datenbank Design", "Data Governance", "SCADA-Systemen"],
+   "date_posted": null
+}

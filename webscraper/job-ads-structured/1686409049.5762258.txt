@@ -1,0 +1,19 @@
+{
+  "job_title": "Staff Data Engineer",
+  "company": "Billie",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Degree in Computer Science, Engineering or a similar technical field of study, or equivalent practical experience.",
+  "skills": [
+    "Java",
+    "Python",
+    "Flink",
+    "Kafka",
+    "Airflow",
+    "Kubernetes",
+    "AWS",
+    "Snowflake"
+  ],
+  "date_posted": null
+}

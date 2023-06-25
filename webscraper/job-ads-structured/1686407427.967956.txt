@@ -1,0 +1,16 @@
+{
+   "job_title": "Data Scientist",
+   "company": "L. Wallner / Volkswagen Zentrum Rosenheim",
+   "location": "Kassel",
+   "salary_euro": null,
+   "employment_type": null,
+   "requirements": "University or technical college degree in economy / computer science or comparable qualification. Proficiency in English language.",
+   "skills": [
+      "Agile development skills",
+      "Great presentation and communication skills",
+      "Teamwork skills",
+      "Experience with project management",
+      "Data analytical skills"
+   ],
+   "date_posted": null
+}

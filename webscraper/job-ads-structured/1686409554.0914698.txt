@@ -1,0 +1,22 @@
+{
+    "job_title": "Product Master Data Specialist (m/f/d)",
+    "company": "Olympus Europa SE & Co. KG (OEKG)",
+    "location": "Hamburg",
+    "salary_euro": null,
+    "employment_type": "Festanstellung",
+    "requirements": "Bachelor's degree or higher in Data Science, Computer Science, Information Technology, Economics, Information Systems, Statistics, Applied Math, Business Administration (or equivalent and related experience preferred)\n5+ years working experience in data warehousing\nDeep understanding of master data management data governance, and associated technologies\nExperience in Data management, Data modelling and design, and Data analysis and synthesis\nExtensive experience of owning/working with customer or product data and traceability mappings (in a Global setting, preferred)\nExperience in working in an Agile IT environment would be a preference\nAbility to analyze and resolve data incidents and problems\nExcellent verbal, written, and interpersonal communication skills\nAbility to work in a team environment\nDemonstrable analytical and conceptual thinking\nExperience in Data management, Data modelling and design, and Data analysis and synthesis",
+    "skills": [
+        "Data Science",
+        "Computer Science",
+        "Information Technology",
+        "Data warehousing",
+        "Master data management",
+        "Data governance",
+        "Data management",
+        "Data modelling",
+        "Data analysis",
+        "Agile IT",
+        "Communication"
+    ],
+    "date_posted": null
+}

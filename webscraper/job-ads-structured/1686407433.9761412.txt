@@ -1,0 +1,24 @@
+{
+    "job_title": "(Junior) Consultant Data Science & Artificial Intelligence (m/w/d)",
+    "company": "BearingPoint",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": "Festanstellung",
+    "requirements": "Du hast dein Studium der (Wirtschafts-) Informatik, (Wirtschafts-) Mathematik, BWL, Statistik, Physik, des (Wirtschafts-) Ingenieurwesens oder eines vergleichbaren Studiengangs erfolgreich abgeschlossen\nDu hast Kenntnisse auf den Gebieten Machine Learning, Data Science oder Predictive Forecasting und Erfahrung mit Datenbanken und Datenmodellen sowie R oder Python\nIdealerweise hast du erste Kenntnisse auf den Gebieten Supply Chain Management, intralogistische Prozesse, Produktionsmanagement oder Bestandsmanagement etc.\nBereitschaft zu nationaler und internationaler Reisetätigkeit ist für dich eine Selbstverständlichkeit\nSehr gute deutsche und englische Sprachkenntnisse runden dein Profil ab",
+    "skills": [
+        "Machine Learning",
+        "Data Science",
+        "Predictive Forecasting",
+        "Datenbanken",
+        "Datenmodelle",
+        "R",
+        "Python",
+        "Supply Chain Management",
+        "Intralogistik",
+        "Produktionsmanagement",
+        "Bestandsmanagement",
+        "Deutsch",
+        "Englisch"
+    ],
+    "date_posted": "2022-08-03"
+}

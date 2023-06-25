@@ -1,0 +1,22 @@
+{
+  "job_title": "Cloud Data Analyst (m/w/d)",
+  "company": "Deutsche Telekom MMS GmbH",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Abgeschlossenes Studium mit dem Schwerpunkt IT (z.B. Informatik, Wirtschaftsinformatik, Data Science, Mathematik) bzw. eine vergleichbare Ausbildung Berufserfahrung in der Beratung von BI-Lösungen in Kundenprojekten Erfahrung beim Design und der Entwicklung komplexer BI-Lösungen (z.B. unter Verwendung von Microsoft Power BI) Sicherer Umgang mit SQL, DAX und PowerQuery Kenntnisse in Datenmodellierung und -transformation, im Erstellen von ETL-Lösungen und der Visualisierung von Daten im Geschäftskontext",
+  "skills": [
+    "MS Power BI",
+    "Tableau",
+    "Qlik",
+    "SAP SAC",
+    "Datenmodellierung",
+    "Datenintegration",
+    "ETL-Lösungen",
+    "Visualisierung von Daten",
+    "SQL",
+    "DAX",
+    "PowerQuery"
+  ],
+  "date_posted": null
+}

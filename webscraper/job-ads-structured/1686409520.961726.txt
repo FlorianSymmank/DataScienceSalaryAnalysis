@@ -1,0 +1,22 @@
+{
+  "job_title": "Senior Data Scientist/ Senior Analytics Expert (m/w/d)",
+  "company": "DATALOGUE Schweiz AG",
+  "location": "Hamburg",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Du hast dein Studium im Bereich der Betriebswirtschaftslehre, (Wirtschafts-) Informatik, (Wirtschafts-) Ingenieurwesen, (Wirtschafts-) Mathematik, Statistik oder einem vergleichbaren Studiengang abgeschlossen. \nDu hast in der Praxis erprobte Erfahrungen im Bereich Data Science/ Data Analytics oder eine Promotion mit quantitativ-empirischem Fokus. \nAußerdem hast du praktische Erfahrungen in der (fachlichen) Leitung von (kleineren) Projektteams und bist es gewohnt die treibende Kraft in Projekten zu sein. \nDu hast mehrjährige Erfahrung in der Datenaufbereitung mit Python, SQL oder R und verwendest Python oder R sicher sowohl zur deskriptiven als auch fortgeschrittenen Datenanalyse bzw. Machine Learning (Predictive Modelling, Clustering, Classification). \nDie Arbeit mit Git ist für dich selbstverständlich und du hast Erfahrungen im Code Deployment. \nDu hast sichere Deutsch- und Englischkenntnisse.",
+  "skills": [
+    "Data Analytics",
+    "Projektteams",
+    "Data Engineers",
+    "Machine-Learning-Verfahren",
+    "Data Science",
+    "Python",
+    "SQL",
+    "R",
+    "Git",
+    "Code Deployment",
+    "Deutsch- und Englischkenntnisse"
+  ],
+  "date_posted": null
+}

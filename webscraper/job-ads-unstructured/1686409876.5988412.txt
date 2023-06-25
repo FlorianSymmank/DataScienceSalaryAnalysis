@@ -1,0 +1,64 @@
+Data Analyst (m/f/d)
+PLAION GmbH
+München
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Planegg, München
+Berufserfahrung
+Vollzeit
+
+
+PLAION - Munich
+PLAION (formerly known as Koch Media) is an international media company with more than 2000 employees worldwide. As a leading and independent producer and marketer of digital entertainment products in Europe, the USA, Australia and Japan, our business areas include the production of films and games, the purchase and sale of film license rights, the distribution of digital media products and games publishing under the Deep Silver, Prime Matter and Ravenscourt game labels.
+
+For our GamesLab Team we are actively seeking a talented and experienced Data Analyst (m/f/d).
+PLAION's GamesLab operates to provide reliable insights that can be trusted and worked on, both on User Research and Data Science/Analytics topics.
+Our aim is to collaborate with each team in a meaningful way, toadd value to their projects and go together towards a common goal: create the best games possible.
+
+To do so, the GamesLab is structured around two teams of deeply involved experts, each conducting projects in the Data or User Research field.
+Combining these skillsets into one team allows us to better understand our player's behaviour, needs and expectations, enabling a relevant teamwork with our 10+ Game Studios.
+
+Fuelled with passion, aiming for impact - this is the GamesLab.
+
+Do you thrive to make a difference? Then jump onboard and join our crew!
+
+Your Tasks
+Main goals:
+Communicate proficiently, be curious and listen in order to identify valuable data use cases. Then design, plan and develop your analytics projects and share insights following GamesLab's quality standards/procedures and Data Visualisation best practices
+with our User Research Team to ensure reliable, clear and impactful data analysis that benefits the Game Studios and internal teams
+the team address new promising use cases and use new tools/methodologies to guaranty continuous improvement and push innovation forward
+Your responsibilites:
+Query and analyse high volumes of data using an efficient, reliable and commented approach (SQL, R, Python is a plus)
+Choose and define appropriate methodologies, metrics and visualisations to accurately understand our players' behaviour, needs and/or expectations
+Design and develop Dashboards aiming to be clear and impactful using BI Tools (Power BI) or open source libraries (R/Python)
+Help Production Teams in the data collection process to guarantee completeness and reliability of our game's data
+Support the Development Teams through all the stages of their games' lifecycle by providing Prelaunch (tests, QA, alpha, beta, early access) and Postlaunch (Premium and LiveOps games) data analysis
+Ensure relevant integration of both qualitative and quantitative data in User Research/Playtest reports
+Design new tools and help build new methodologies to steer GamesLab's innovation
+Your Profile
+Curious and committed, you have a strong ability to adapt and learn. You are rigorous, have good interpersonal skills and a strong team spirit
+3+ years of experience in analytics and/or data management related role (in the Gaming Industry is a strong plus)
+Advanced degrees in Computer Science, Statistics, Information Systems Management, AI/Machine Learning/Deep Learning, a related discipline, or comparable work experiences
+Effective communication skills, including presenting and sharing information with audiences across a wide array of technical expertise, culture and seniority
+Experience developing production-quality data products in SQL and R (Python is a plus)
+Strong technical skills in BI/visualization tools such as Power BI, Tableau or open source libraries (R/Python)
+Experience working with cloud and/or on premise databases, handling both structured and unstructured data (Google BigQuery, MongoDB, MySQL, Redshift…)
+Passion for both video games and analytics
+What we offer
+Employment in one of the most exciting industries in the world: the film and games industry
+Partnership-oriented working atmosphere in a modern and broad-based media company
+Wide range of training and development opportunities as part of our PLAION Academy
+Company benefits such as employee events, fitness cooperation with Urban Sports, bicycle leasing, flexible working hours, 30 days vacation, company pension plan, free drinks, fresh fruit, etc.
+Opportunity to share your passion for movies and games with colleagues
+Do you want to be part of our success story? We look forward to receiving your application!
+
+The more comprehensive your documents are to us, the better we can get a picture of you. You should upload at least one cover letter and your CV. Please prefer to use our online application form. If you have any further questions, please send an e-mail to jobs@plaion.com.
+
+
+PLAION GmbH - Lochhamer Str. 9 - 82152 Planegg - www.plaion.com
+Diesen Job melden

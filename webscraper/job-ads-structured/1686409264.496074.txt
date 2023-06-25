@@ -1,0 +1,21 @@
+{
+   "job_title": "Early career bioinformatician",
+   "company": "Deutsches Zentrum für Neurodegenerative Erkrankungen",
+   "location": "72076 Tübingen",
+   "salary_euro": {
+      "amount": null,
+      "period": null
+   },
+   "employment_type": null,
+   "requirements": "A master degree or BSc with 1-5 years of working experience in computational biology, bioinformatics, computer science, statistics, or similar",
+   "skills": [
+      "Unix-like and high-performance computing (HPC) environment",
+	  "R/Python/bash programming",
+	  "version control/containerization",
+	  "developing and maintaining bioinformatic workflows (Snakemake, WDL or Nextflow)",
+	  "NGS data analyses",
+	  "basic understanding of genomics/genetics",
+	  "strong communication skills"
+   ],
+   "date_posted": null
+}

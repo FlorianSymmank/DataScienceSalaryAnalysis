@@ -1,0 +1,10 @@
+{
+  "job_title": "Praktikum im Bereich Data Science / Data Analytics",
+  "company": "Mercedes-Benz AG",
+  "location": "Böblingen",
+  "salary_euro": null,
+  "employment_type": "Praktikum",
+  "requirements": "Studiengang im Bereich in (technischer) Informatik, Elektrotechnik, Mechatronik, naturwissenschaftlichen Fächern wie Physik/Mathematik oder vergleichbarer Studiengang (Bachelor oder Masterstudenten)\nErste Kenntnisse in der cloudbasierten Verarbeitung/Analyse großer Datenmengen (z.B. Microsoft Azure)\nIdealerweise Kenntnisse in statischen Methoden\nIdealerweise Kenntnisse im Bereich Machine Learning & Computer Vision\nFortgeschrittene Programmierkenntnisse (vorzugsweise Python/Scala)\nSichere Deutsch- oder Englischkenntnisse in Wort und Schrift\nSelbständige und strukturierte Arbeitsweise",
+  "skills": ["Datenanalyse", "KI-Ansätze", "Computer Vision Algorithmen", "Machine Learning", "Python", "Scala", "statistische Methoden"],
+  "date_posted": "2023-09-01"
+}

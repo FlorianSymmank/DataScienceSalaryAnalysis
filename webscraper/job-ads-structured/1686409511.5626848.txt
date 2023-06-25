@@ -1,0 +1,10 @@
+{
+    "job_title": "Software Engineer (m/f/d)",
+    "company": "Aon Human Capital Solutions GmbH",
+    "location": "20355 Hamburg",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "You have a Bachelor or Master degree (e.g. in IT, Computer Science etc.) or a vocational training in the field of IT or development engineering or a significant amount of experience working in IT\nMultiple years of experience as software developer / software engineer in business environments\nYour English is fluent (intermediate German would be an advantage, but is not requited)\n",
+    "skills": ["C#", "JavaScript", ".net framework", ".net core", "react", "angular", "Asana", "Jira", "Microsoft Azure DevOps"],
+    "date_posted": null
+}

@@ -1,0 +1,10 @@
+{
+    "job_title": "(Senior) Expert Data Science (m/w/d)",
+    "company": "eccelerate GmbH",
+    "location": "München, Frankfurt a.M.",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "über einen Hochschulabschluss in Informatik, Statistik, VWL, Wirtschaftswissenschaften, o.ä. verfügst und mindestens 3 Jahre (Senior >5 Jahre) Berufserfahrung als Data Analyst bei einem „Digital Player“ vorweisen kannst Erfahrung mit „Customer Insights & Marketing Analytics“ sammeln konntest, und sehr gut im Umgang mit MS Excel, SQL, Analyse-Software (z.B. R, SAS. SPSS) und/oder Python bist",
+    "skills": ["Data Science", "Statistics", "MS Excel", "SQL", "R", "SAS", "SPSS", "Python"],
+    "date_posted": "N/A"
+}

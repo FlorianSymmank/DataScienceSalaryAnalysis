@@ -1,0 +1,21 @@
+{
+  "job_title": "Software Engineer",
+  "company": "future demand GmbH",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": "Vollzeit, Festanstellung",
+  "requirements": "A minimum 3 years of work experience with Python and related frameworks (Flask and/or FastAPI), Extensive experience with databases such as Postgres and Dynamo DB, Extensive experience in designing and maintaining REST’ful API endpoints, Good experience in Cloud Infrastructure (ideally AWS), Good understanding of software design principles and Domain-Driven design, Ideally experience with Continuous Delivery and Containerization(Docker), Excellent communication skills and the ability to explain complex topics in a simple manner",
+  "skills": [
+    "Python",
+    "Flask",
+    "FastAPI",
+    "Postgres",
+    "Dynamo DB",
+    "REST’ful API",
+    "AWS",
+    "Domain-Driven design",
+    "Continuous Delivery",
+    "Docker"
+  ],
+  "date_posted": null
+}

@@ -1,0 +1,16 @@
+{
+  "job_title": "Data Product Developer",
+  "company": "Mercedes-Benz Mobility AG",
+  "location": "Stuttgart",
+  "salary_euro": null,
+  "employment_type": "permanent",
+  "requirements": "Completed studies in the field of computer science, business informatics, mathematics, physics, or a comparable qualification",
+  "skills": [
+    "Python",
+    "SQL",
+    "Spark",
+    "Delta Lake",
+    "Apache Airflow"
+  ],
+  "date_posted": "2021-09-14"
+}

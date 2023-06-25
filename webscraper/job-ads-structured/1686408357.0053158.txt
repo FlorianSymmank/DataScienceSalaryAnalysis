@@ -1,0 +1,16 @@
+{
+   "job_title":"Intern for Data Analytics / Data Science at Innovation Think Tank",
+   "company":"Siemens Healthineers",
+   "location":"91301 Forchheim",
+   "salary_euro":null,
+   "employment_type":"Fixed Term / 35/week",
+   "requirements":"Currently studying medical engineering with specialization in data analytics, computer science, data science or any other related field, at least in the 4th bachelor or 1st master semester. Work experience required. Mandatory/obligatory internships only, with a minimum period of 5 months depending on university regulations.",
+   "skills":[
+      "Fluent in English, both written and spoken; knowledge of German is desirable",
+      "Experience in data analytics and/or machine learning",
+      "Open to learning new skills",
+      "Willingness to work on interdisciplinary projects",
+      "Comfortable working in a multicultural, interdisciplinary environment"
+   ],
+   "date_posted":"2021-10-25"
+}

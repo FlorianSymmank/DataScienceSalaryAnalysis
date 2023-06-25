@@ -1,0 +1,35 @@
+Praktikum „Data Science“ im Bereich Master- und Querschnittsdaten
+Deutsche Bundesbank Hauptverwaltung in Baden-Württemberg
+Frankfurt am Main
+Praktikum
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Praktikum
+
+Engagierten und qualifizierten Studierenden bieten wir in unserem Zentralbereich Statistik ein vergütetes Praktikum „Data Science“ im Bereich Master- und Querschnittsdaten.
+
+Ort: Frankfurt am MainBeginn: laufend, nach AbspracheDauer: mindestens 3 Monate, vorzugsweise länger (maximal 6 Monate)
+
+Unser Angebot
+
+Wir bieten Ihnen die Möglichkeit Ihre Fähigkeiten und Kenntnisse im Umgang mit umfangreichen Datenmengen auf Master- und Querschnittsdaten in der Praxis anzuwenden und zu erweitern. Während Ihres Praktikums unterstützen Sie als Teil unseres Teams erfahrene Data Scientists bei der Weiterentwicklung von RIAD (Register of Institutions and Affiliates Data), einer Unternehmensstammdatenbank und der Centralised Securities Database (CSDB), der zentralen Wertpapierstammdatenbank des ESZBs. Wirken Sie bei der Anbindung neuer Datenquellen (Web Scraping, Data Wrangling) oder bei der Entwicklung neuer DQM-Prozesse (Record Linkage, Latent Truth Discovery, Outlier Detection, Imputationsverfahren) mit.
+
+Ihr Profil
+Masterstudierende mit ausgeprägtem quantitativen Hintergrund, vorzugsweise der Bereiche Data Science, (Wirtschafts-)Mathematik, (Wirtschafts-)Informatik
+Begeisterung für die Arbeit mit großen Datenmengen
+gute Kenntnisse in Python oder R und im Umgang mit gängigen Bibliotheken für die Datenanalyse und Transformation (z.B. Pandas oder Tidyverse)
+Praktische Erfahrungen im Umgang mit Datenbanken und in der Analyse von Mikrodaten wünschenswert
+Erfahrungen im Bereich Machine Learning
+Teamfähigkeit und selbstständige Arbeitsweise
+Ihre Bewerbung
+
+Diversität und Chancengleichheit sind wichtige Bestandteile der Personalpolitik der Bundesbank. Schwerbehinderte Menschen werden bei gleicher Eignung bevorzugt berücksichtigt. Teilzeitbeschäftigung ist grundsätzlich möglich. Auch fördern wir die berufliche Gleichstellung von Frauen und Männern und begrüßen daher besonders Bewerbungen von Frauen.
+
+Ihre fachlichen Fragen beantwortet Ihnen gerne Katja Ziprik, Telefon 069 9566-37583. Ihre organisatorischen Fragen beantwortet ihnen gerne unser Karriereteam unter praktikum@bundesbank.de.
+
+Wir freuen uns auf Ihre Online-Bewerbung unter Angabe des von Ihnen gewünschten Zeitraums.
+
+Diesen Job melden

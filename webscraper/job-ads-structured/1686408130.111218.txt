@@ -1,0 +1,22 @@
+{
+  "job_title": "Senior Data Scientist",
+  "company": "Tvarit GmbH",
+  "location": "60327 Frankfurt am Main",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Vollzeit",
+  "requirements": "Ph.D. / (Masters with 2+) years of industrial experience in Computer Science, Industrial or Electrical Engineering, Machine Learning, Mathematical Optimization, Statistics, or Mathematics. Practical experience with ML in research and development projects. Experience with large-scale production code development is a plus.",
+  "skills": [
+    "Python",
+    "Docker",
+    "PyTorch",
+    "sklearn",
+    "pandas",
+    "SQL",
+    "English",
+    "German"
+  ],
+  "date_posted": null
+}

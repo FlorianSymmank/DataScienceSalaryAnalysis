@@ -1,0 +1,19 @@
+{
+  "job_title": "Data Engineering Consultant (w/m/x)",
+  "company": "Avanade",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Du bringst einschlägige Projekterfahrung als Data Engineer in einer der folgenden Branchen mit: Automotive, Life Science, Finance, Manufacturing.",
+  "skills": [
+    "Azure Data Factory",
+    "Azure Data Lake",
+    "Azure SQL",
+    "Databricks",
+    "IoT-Hub",
+    "DevOps",
+    "SQL",
+    "Python"
+  ],
+  "date_posted": null
+}

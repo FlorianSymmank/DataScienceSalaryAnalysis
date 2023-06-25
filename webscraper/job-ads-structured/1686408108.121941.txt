@@ -1,0 +1,20 @@
+{
+  "job_title": "Werkstudent (w/m/d) im Bereich Data Science and Data Engineering (WS 23/24)",
+  "company": "Trumpf",
+  "location": "Ditzingen",
+  "salary_euro": null,
+  "employment_type": "Teilzeit",
+  "requirements": "Studium der Fachrichtung Informatik oder eines vergleichbaren Studiengangs. Erste Erfahrungen in Python oder R. Gute Deutsch- und Englischkenntnisse in Wort und Schrift. Strukturierte und selbständige Arbeitsweise, Eigeninitiative und eine schnelle Auffassungsgabe.",
+  "skills": [
+    "Data Engineering",
+    "Data Science",
+    "Databricks",
+    "Maschinelles Lernen",
+    "Data Mining",
+    "Python",
+    "R",
+    "Datenanalysen",
+    "Auswertungen"
+  ],
+  "date_posted": null
+}

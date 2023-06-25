@@ -1,0 +1,70 @@
+Praktikant (m|w|d) im Bereich Production Data Analytics
+Voith Group
+85748 Garching bei München
+Praktikum
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Praktikum
+
+Über die Voith Group
+
+Die Voith Group ist ein weltweit agierender Technologiekonzern. Mit seinem breiten Portfolio aus Anlagen, Produkten, Serviceleistungen und digitalen Anwendungen setzt Voith Maßstäbe in den Märkten Energie, Papier, Rohstoffe und Transport & Automotive. Gegründet 1867 ist Voith heute mit rund 21.000 Mitarbeiterinnen und Mitarbeitern, 4,9 Milliarden Euro Umsatz und Standorten in über 60 Ländern der Welt eines der großen Familienunternehmen Europas.
+
+
+Unterstützen Sie die Voith Group | Konzernbereich Turbo als
+
+
+Praktikant (m|w|d) im Bereich Production Data Analytics
+Job ID 66636 | Standort Garching | ab sofort für 6 Monate
+
+
+Wie zieht man aus Maschinendaten einen Mehrwert? Wie können Sensorsignale zu einem Maschinen-Cockpit aufbereitet, integriert und visualisiert werden? Wie automatisiert man Prozessabläufe, um die Qualität unserer Produkte zu erhöhen und die Produktion zu beschleunigen? Welche Informationen benötigen unsere Kollegen, um ein ganzes Werk zu steuern? Mit welchen Apps und Services können wir neue Daten akquirieren und die manuelle Arbeit erleichtern? Das sind Fragen, die uns als Team „Production Data Analytics“ beschäftigen. Wir sind ein junges, internationales Team aus Maschinenbauern, Informatikern und Mathematikern. Werde Teil von uns und gestalte mit uns zusammen die Produktion von morgen!
+
+
+Die Aufgabenfelder sind vielfältig und Du musst dich nur in einem wiederfinden.
+
+Entwickle mit uns Dashboards und Web-Apps, in der Softwareentwicklung oder als UI Designer*in oder betreue unsere Microservices (# Docker).
+Sei dabei, Nutzen aus Daten zu destillieren und visualisiere Signale in Echtzeit.
+Integriere neue Sensoren an Werkzeugmaschinen und programmiere Montagestationen mit unserem Field Data Engineer.
+
+
+Welche Aufgaben erwarten Dich?
+
+Als Teil unseres Teams Production Data Analytics in der Abteilung Industrial Engineering, entwickelst Du mit uns Konzepte für Optimierungslösungen in der Produktion und bringst neue Ideen ein.
+Du hilfst uns, den Wust an Daten, der in einer so großen Produktion wie unserer anfällt, zu analysieren, aufzubereiten, zu visualisieren und zu erklären.
+Von strukturierten SAP- und SQL-Daten bis zu unstrukturierten Zeitreihendaten haben wir alles zu bieten. Lass uns den Mehrwert daraus heben!
+Sie werden bei der Entwicklung von Data Analytics und KI-Lösungen kollaborieren sowie bei der Implementierung dieser Lösungen in der Produktion als WebApps oder nativen Apps.
+Wir würden zwar auch gerne den ganzen Tag unseren Code feiern, aber es gibt noch ein Leben abseits davon. Projektmanagement, Beratung und die Softwareentwicklung gehören für dich und uns (die Production Data Analytics Gruppe und die ganze Abteilung Industrial Engineering) genauso zum Tagesgeschäft.
+
+
+Was bringst Du mit?
+
+Universitäts- oder Hochschulstudium (> 4. Semester) in den Bereichen Ingenieurswissenschaften, Informatik, Mathematik, Elektrotechnik, Wirtschaftswissenschaften, Kognitionswissenschaften oder einem vergleichbaren Studiengang. In unserem Team ist ein Informatiker, eine Mathematikerin, drei Maschinenbauer, ein Techniker und eine Wirtschaftsinformatikerin.
+Faszination für den Umgang mit Daten in anspruchsvollen Produktionsprozessen und Interesse an der Entwicklung von Prozessoptimierungen.
+Hohe Motivation an eigenständigem Arbeiten sowie das Erarbeiten von nachhaltigen Lösungen.
+In der Softwareentwicklung erwarten wir erste Kenntnisse in Programmierung in den Python, idealerweise auch in der Softwareentwicklung mit Git, und den Bereichen Datenbanken (SQL, no-SQL) und Datenaufbereitung.
+Im Bereich Data Science erwarten wir, dass du mit Python und Git umgehen kannst, uns die Funktionsweise eines NNs und eines Random-Forest erklären kannst.
+Von einem Student Data Architekt erwarten wir Kenntnisse von Datenbanken, Virtualisierung und Kubernetes. Du solltest schon mal einen eigenen Dockerfile geschrieben haben.
+Als Student Field Data Engineer solltest Du wissen, wie man eine Messkette zusammenstellt und schon mal eine Siemens S7/Beckhoff/Bosch CS9 Steuerung programmiert haben.
+Um uns in der Projektleitung zu unterstützen, setzen wir eine offene Kommunikation und einen exzellenten Umgang mit MS Teams und PowerPoint voraus. Aber das hast Du sowieso.
+Einem Marketing- und Kommunikationsguru stellen wir uns mit Skills in der Videoschnitt und generell Visualisierungen vor.
+
+
+Bewirb Dich jetzt über unser Online-Portal mit Deinen ausführlichen Bewerbungsunterlagen (Anschreiben, Lebenslauf, Zeugnissen, Immatrikulationsbescheinigung).
+
+
+Die J. M. Voith SE & Co. KG | VTA freut sich auf Deine Bewerbung!
+
+
+Dein persönlicher Ansprechpartner
+J.M. Voith SE & Co. KG | VZS
+Global Business Services HR EMEA
+Talent Acquisition • Johannes Hummel • Tel. +49 7321 37 2042
+
+
+Job ID 66636
+
+Diesen Job melden

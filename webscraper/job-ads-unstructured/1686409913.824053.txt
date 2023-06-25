@@ -1,0 +1,114 @@
+Research Software Engineer and Steward (f/m/d) (Ref. 23/10)
+Weierstraß-Institut für Angewandte Analysis und Stochastik
+10117 Berlin
+Vollzeit, Teilzeit, Befristeter Vertrag
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Teilzeit
+Befristeter Vertrag
+
+The Weierstrass Institute for Applied Analysis and Stochastics (WIAS) is an institute of the Forschungsverbund Berlin e.V. (FVB). The FVB comprises seven non-university research institutes in Berlin which are funded by the federal and state governments. The research institutes belong to the Leibniz Association.
+
+Within the framework of its research in the field of applied mathematics, research software is developed at WIAS. To support its scientific projects in this area, WIAS is looking for a
+
+Research Software Engineer and Steward (f/m/d)
+
+(Ref. 23/10)
+
+to start as soon as possible.
+
+The goal of the position is to establish and ensure a sustainable, quality-assuring development of research software according to the rules of Good Scientific Practice and the FAIR4RS principles. The position reports to the Directorate and is part of a cross-sectional structure consisting of the IT department, the library and a steering committee of scientists active in the software field.
+
+The work tasks include:
+
+Support and qualification of scientists in the development and publication of research software
+Structured on- and off-boarding of scientists
+Establishment and structuring of services (continuous integration, issue handling, release management, archiving, etc.) and reproducible environments
+Tracking, evaluation and communication of trends and developments in the field of research software for the scientists of WIAS
+Active participation in national and international Research Software Engineering (RSE) activities as well as in the National Research Data Initiative (NFDI), the Mathematical Research Data Initiative (MaRDI) and the Leibniz Association
+
+We are looking for: Candidates with
+
+Degree (Bachelor, Master or PhD) in the field of applied mathematics or a related field (scientific computing, computational Physics/Chemistry/Biology, Computer Science)
+Experience in the development of scientific software or open source software
+Good knowledge of modern software development methods, such as version control, continuous integration, and documentation tools
+Willingness to provide guidance and training to scientists (including in English).
+
+We offer:
+
+Workplace in Berlin-Mitte at a leading research institution in the field of applied mathematics
+Embedding in an interdisciplinary and international research environment
+Excellent equipment
+Qualified support by scientific colleagues, library and IT
+Opportunity for personal and professional development
+Payment according to the collective agreement for the public service (TVöD Bund) including the usual social benefits (30 vacation days in a 5-day week, company pension plan); subsidy for the company ticket for public transport
+Flexible arrangements for mobile working
+Certified (Audit berufundfamilie) family-friendly working environment.
+International applications are very welcome. WIAS offers free German language courses.
+
+Technical queries should be directed to Dr. J. Fuhrmann (juergen.fuhrmann@wias-berlin.de).
+
+This is a full-time position (39 hours per week), which is in principle suitable for part-time work. The employment is initially limited to 2 years and can be turned into a permanent one upon positive evaluation by the Steering Committee and the Institute's administration.
+
+The Weierstrass Institute is an equal opportunity employer. We explicitly encourage female researchers to apply for the offered position. Among equally qualified applicants, disabled candidates will be given preference.
+
+Please upload complete application documents including cover letter, curriculum vitae, photocopies of certificates, and transcripts as soon as possible via our online job-application facility using the button “Apply online”.
+
+The advertisement is open with immediate effect and will remain open until the position will be filled.
+
+We are looking forward to your application!
+
+Das WIAS ist ein Institut des Forschungsverbundes Berlin e.V. (FVB). Der FVB ist Träger von sieben außeruniversitären naturwissenschaftlichen Forschungsinstituten in Berlin, die von der Bundesrepublik Deutschland und der Gemeinschaft der Länder finanziert werden. Die Forschungsinstitute gehören der Leibniz-Gemeinschaft an.
+
+Im Rahmen seiner Forschung auf dem Gebiet der Angewandten Mathematik wird im WIAS Forschungssoftware entwickelt. Zur Unterstützung seiner wissenschaftlichen Projekte in diesem Bereich sucht das WIAS zum nächstmöglichen Zeitpunkt eine/n
+
+Research Software Engineer and Steward (m/w/d)
+
+(Kennziffer 23/10)
+
+Ziel der Stelle ist die Etablierung und Sicherung einer nachhaltigen, qualitätssichernden Entwicklung von Forschungssoftware gemäß den Regeln der Guten Wissenschaftlichen Praxis und den FAIR4RS Prinzipien. Die Stelle ist dem Direktorat unterstellt und ist Teil einer Querschnittsstruktur aus IT-Abteilung, Bibliothek und einem Steering Committee aus im Softwarebereich aktiven Wissenschaftler:innen.
+
+Zu den Arbeitsaufgaben gehören:
+
+Unterstützung und Qualifikation der Wissenschaftler:innen bei der Entwicklung und Publikation wissenschaftlicher Software
+Strukturiertes On- und Off-boarding von Wissenschaftler:innen
+Aufbau und Strukturierung von Diensten (Continuous Integration, Issue Handling, Release Management, Archivierung etc.) und reproduzierbaren Umgebungen
+Verfolgung, Bewertung und Kommunikation von Trends und Entwicklungen im Bereich wissenschaftlicher Software für die Wissenschaftler:innen des WIAS
+Aktive Beteiligung an nationalen und internationalen Aktivitäten im Bereich des Research Software Engineering (RSE) sowie der nationalen Forschungsdateninitiative (NFDI), der vom WIAS koordinierten mathematischen Forschungsdateninitiative (MaRDI) und der Leibniz-Gemeinschaft
+
+Wir suchen: Kandidat:innen mit
+
+Abschluss (Bachelor, Master oder Promotion) im Bereich der Angewandten Mathematik oder einem verwandten Gebiet (wissenschaftliches Rechnen, Computational Physics/Chemistry/Biology, Informatik),
+Erfahrungen in der Entwicklung von wissenschaftlicher Software oder Open-Source-Software,
+Guten Kenntnissen zu modernen Methoden der Softwareentwicklung, wie Versionskontrolle, Continuous Integration und Dokumentationswerkzeuge, und
+Bereitschaft zur Anleitung und Schulung von Wissenschaftler:innen (auch in englischer Sprache).
+
+Wir bieten:
+
+Arbeitsplatz in Berlin-Mitte an einer führenden Forschungseinrichtung im Bereich Angewandter Mathematik.
+Einbettung in ein interdisziplinäres und internationales Forschungsumfeld
+Exzellente Ausstattung
+Qualifizierte Unterstützung durch wissenschaftliche Kolleg:innen, Bibliothek und IT
+Möglichkeit zur persönlichen und fachlichen Weiterentwicklung
+Bezahlung nach dem Tarifvertrag für den öffentlichen Dienst (TVöD Bund) einschließlich der üblichen Sozialleistungen (30 Urlaubstage in der 5-Tage-Woche, betriebliche Altersvorsorge); Zuschuss zum Firmenticket für den ÖPNV oder Deutschlandticket
+Flexible Regelungen zu Mobilem Arbeiten
+Zertifiziertes (Audit berufundfamilie) familienfreundliches Arbeitsumfeld
+
+Internationale Bewerbungen sind uns sehr willkommen. Das WIAS bietet kostenlose Deutschkurse an.
+
+Fachliche Rückfragen sind an Herrn Dr. J. Fuhrmann (juergen.fuhrmann@wias-berlin.de) zu richten.
+
+Es handelt sich um eine Vollzeitstelle (39 Wochenstunden), welche grundsätzlich für Teilzeit geeignet ist. Das Beschäftigungsverhältnis ist zunächst auf 2 Jahre befristet und kann bei positiver Evaluierung durch das Steering Committee und die Institutsleitung entfristet werden.
+
+In Anbetracht der angestrebten Erhöhung des Frauenanteils im Wissenschaftsbereich sind Bewerbungen qualifizierter Interessentinnen besonders willkommen. Schwerbehinderte werden bei gleicher Qualifikation bevorzugt.
+
+Bitte laden Sie Ihre vollständigen Bewerbungsunterlagen mit Anschreiben, Lebenslauf und Zeugnissen über unser Bewerber-Portal schnellstmöglich hoch, indem Sie den Knopf „Online bewerben“ klicken.
+
+Die Bewerbungsfrist beginnt sofort und endet erst, wenn die Stelle besetzt ist.
+
+Wir freuen uns auf Ihre Bewerbung!
+
+Diesen Job melden

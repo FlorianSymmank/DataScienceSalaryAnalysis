@@ -1,0 +1,10 @@
+{
+    "job_title": "IT Support Lead",
+    "company": "RepRisk AG",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Bachelor’s degree in computer science, information systems, or related field\nAt least 5 years of experience in IT support, with at least 2 years in a leadership role\nKnowledgeable in BCMS, endpoint security software, cybersecurity, and information security best practices including incident management\n",
+    "skills": ["Microsoft 365 Admin centres (SharePoint, Exchange, Teams, etc.)", "Atlassian tools (Jira, Confluence)", "MySQL", "Linux CLI", "PostgreSQL", "programming", "PowerShell", "1Password", "AWS", "GitLab"],
+    "date_posted": null
+}

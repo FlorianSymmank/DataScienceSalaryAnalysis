@@ -1,0 +1,24 @@
+{
+   "job_title": "Masterand:in (m/w/d) im Bereich Data Science, Prozesssimulation oder -optimierung",
+   "company": "Eggersmann - Gruppe",
+   "location": "Aachen",
+   "salary_euro": null,
+   "employment_type": "Werkstudent",
+   "requirements": "Du studierst Automatisierungstechnik, Data Science, Simulations Science, Verfahrenstechnik, Mathematik, Informatik oder einen vergleichbaren Studiengang\nDu verfügst über Erfahrung im Bereich Machine Data Analytics und/oder (Prozess)Simulation\nDu hast gute Kenntnisse in Mathematik, Programmierung, Datenvisualisierung und AI-Tools\nDich zeichnen eine strukturierte Arbeitsweise und Verantwortungsbewusstsein aus\nDu hast Spaß an konzeptionellem Denken",
+   "skills": [
+      "Automatisierungstechnik",
+      "Data Science",
+      "Simulations Science",
+      "Verfahrenstechnik",
+      "Mathematik",
+      "Informatik",
+      "Machine Data Analytics",
+      "Prozesssimulation",
+      "Datenvisualisierung",
+      "AI-Tools",
+      "struktierte Arbeitsweise",
+      "Verantwortungsbewusstsein",
+      "konzeptionelles Denken"
+   ],
+   "date_posted": null
+}

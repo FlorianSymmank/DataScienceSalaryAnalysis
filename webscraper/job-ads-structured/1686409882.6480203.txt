@@ -1,0 +1,10 @@
+{
+    "job_title": "Senior Statistical Analyst",
+    "company": "Grünenthal",
+    "location": "Aachen, Germany",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "A Bachelor’s or Master’s Degree in Computer Science, Mathematics, Statistics or a related quantitative/ analytical field. At least 5 years experience in SAS programming in clinical studies in the pharmaceutical industry including experience programming datasets and Tables/Figures/Listings utilizing CDISC standards. Advanced proficiency in SAS programming and knowledge of other programming languages like R or Phython is a plus. Basic understanding of statistical methods commonly used in pharmaceutical clinical trials. Thorough knowledge of and experience with CDISC standards. Knowledge of ICH-GCP and other applicable legislation, with good understanding of clinical data and pharmaceutical development. Experience in a highly outsourced working environment collaborating with external service providers to ensures quality and timely deliverables.",
+    "skills": ["SAS Programming", "CDISC Standards", "Statistical Methods", "ICH-GCP", "Pharmaceutical Development", "Outsourcing", "Data Science"],
+    "date_posted": "2023-05-31"
+}

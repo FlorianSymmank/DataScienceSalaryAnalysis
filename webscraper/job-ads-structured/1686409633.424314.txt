@@ -1,0 +1,26 @@
+{
+    "job_title": "Senior Data Engineer",
+    "company": "Hewlett Packard Enterprise",
+    "location": "München",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": "Vollzeit",
+    "requirements": "Academic degree in computer science or similar\n5+ years of experience administering any flavor of Linux\n3+ years of experience in architecting, administrating, configuring, installation and maintenance of Open Source Big-data applications, f.ex. MapR/ CDP/ Hortonworks/ and Hadoop ecosystem technologies such as Hive / HBase / Spark / Oozie / Kafka, etc…\nFamiliarity with commercial IT infrastructures including storage, networking, security, virtualization, and systems management\nGood understanding of high availability\nAble to implement Hadoop Data Security using Groups/Roles\nImplement and manage cluster security and monitor cluster connectivity\nCluster maintenance as well as creation and removal of nodes\nPerformance tuning of Hadoop clusters and Hadoop MapReduce routines\nCollaborating with application teams to install operating system and Big Data Platform updates, patches, version upgrades when required\nIntegration with other Hadoop platforms\nFamiliarity with automation tools Ansible, Puppet or Chef\nFamiliarity with Kubernetes and MLOps\nBusiness fluency in German and English language.",
+    "skills": [
+        "Linux administration",
+        "Big data technologies",
+        "Hadoop ecosystem",
+        "IT infrastructures",
+        "High availability",
+        "Security",
+        "Hadoop cluster performance tuning",
+        "Ansible",
+        "Puppet",
+        "Chef",
+        "Kubernetes",
+        "MLOps"
+    ],
+    "date_posted": null
+}

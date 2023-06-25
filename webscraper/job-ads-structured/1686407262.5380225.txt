@@ -1,0 +1,10 @@
+{
+  "job_title": "Data Scientist",
+  "company": "Hypatos GmbH",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Ph.D., M.Sc. or equivalent experience in Computer Science, Engineering, Statistics, or another relevant technical field",
+  "skills": ["Python", "R", "Matlab", "Torch", "TensorFlow", "Keras", "Scikit-learn", "CRAN", "SQL", "No-SQL databases"],
+  "date_posted": null
+}

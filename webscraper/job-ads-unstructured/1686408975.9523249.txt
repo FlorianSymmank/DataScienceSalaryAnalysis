@@ -1,0 +1,81 @@
+Diese Stellenanzeige ist auf Indeed abgelaufen
+Mögliche Gründe: Der Arbeitgeber akzeptiert keine Bewerbungen, ist nicht aktiv auf der Suche nach neuen Mitarbeitern oder prüft derzeit die eingegangen Bewerbungen
+Wissenschaftler*in (m/w/d) Stallklima- und Emissionsmodellierung
+Leibniz-Gemeinschaft
+Potsdam
+Teilzeit, Befristeter Vertrag
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Teilzeit
+Befristeter Vertrag
+
+10.05.2023
+
+Wissenschaftler*in (m/w/d) Stallklima- und Emissionsmodellierung
+Leibniz-Institut für Agrartechnik und Bioökonomie (ATB), Potsdam
+
+Das Leibniz-Institut für Agrartechnik und Bioökonomie e. V. (ATB) ist Pionier und Treiber der Bioökonomieforschung. Wir schaffen wissenschaftliche Grundlagen für die Transformation von Agrar-, Lebensmittel-, Industrie- und Energiesystemen in eine umfassende biobasierte Kreislaufwirtschaft.
+
+Wir entwickeln und integrieren Technik, Verfahren und Managementstrategien im Sinne konvergierender Technologien, um hochdiverse bioökonomische Produktionssysteme intelligent zu vernetzen und wissensbasiert, adaptiv und weitgehend automatisiert zu steuern.
+
+Wir forschen im Dialog mit der Gesellschaft – erkenntnismotiviert und anwendungsinspiriert.
+
+Im Programmbereich Individualisierte Tierhaltung richten wir unsere anwendungsorientierte Grundlagenforschung im Sinne des One-Health-Ansatzes zur Verbesserung von Tierwohl, Haltungsumwelt, Tier- und Umweltschutz sowie auf die Wettbewerbsfähigkeit der Landwirtschaft aus. Dazu gehört auch die Entwicklung und Umsetzung eines betrieblichen Energiemanagements auf Basis erneuerbarer Energiesysteme. Unsere Forschungsziele sind: objektive Tierschutzstandards, flexible und regional angepasste Konzepte zur Lösung von Umweltkonflikten, eine transparente Tierhaltung, Verbraucherakzeptanz und regionale Wertschöpfung.
+
+Für das Europäische Forschungsprojekt “Development of a practical data management system with embedded sensors for improved environmental management and transparency of dairy farming (ET4D)”
+
+suchen wir zur Unterstützung unserer Arbeitsgruppe Stallklima- und Emissionsmodellierung – Abteilung Sensorik und Modellierung eine*n
+
+Wissenschaftler*in (m/w/d) (65 %)
+
+Das interdisziplinäre Projekt ET4D verbindet Unternehmen, akademische Forschungseinrichtungen und Universitäten aus Deutschland, Dänemark, Estland, Finnland, Polen, Ungarn, der Türkei und Israel. Kernziel ist es zu zeigen, dass durch die Weitergabe von Umweltinformationen von landwirtschaftlichen Betrieben an verschiedene Interessengruppen die Transparenz des Milchproduktionssystems erhöht und nachhaltige Entscheidungsfindung unterstützt werden kann. Wir wollen dabei auch aufzeigen wie Landwirte direkt von der Weitergabe der auf ihren Betrieben gesammelten Daten profitieren können. Wir werden datenwissenschaftliche Ansätze verwenden, um bekannte Ursache-Wirkungs-Beziehungen im Produktionssystem zu modellieren, basierend auf ausgewählten Sensorinformationen, die in Beispielbetrieben an verschiedenen Standorten in Europa gesammelt werden. Die Dynamik von Schlüsselmerkmalen innerhalb eines bestimmten Unsicherheitsbereichs wird in maßgeschneiderten Berichten mit unterschiedlichen Ebenen der Aggregation, Filterung und Anonymisierung von Daten/Informationen dargestellt.
+
+Ihr Aufgabengebiet
+
+Verarbeitung von Sensordaten aus Beispielbetrieben (einschließlich Tier- und Umweltdaten sowie Energiebedarf und Datenübertragung)
+Anpassung und Auswertung von Regressionsmodellen
+Definition von Scoring-Schemata und Bewertungsindikatoren für ein maßgeschneidertes Reporting auf Basis von Gesellschaftsdiagnosen
+Implementierung einer Webanwendung für maßgeschneiderte Berichte
+Kommunikation mit internationalen Projektpartnern & Unterstützung des Projektmanagements
+Präsentation der Projektergebnisse auf Konferenzen / Workshops
+Veröffentlichung der Ergebnisse in wissenschaftlichen Zeitschriften mit Peer-Review-Verfahren
+Sammeln von Beiträge und verwalten der Einreichung von Projektberichten
+
+Ihr Qualifikationsprofil
+
+Erfolgreich abgeschlossenes Promotions- oder Hochschulstudium (Diplom / Master) in einem naturwissenschaftlich-technischen Studiengang im Bereich Informatik, Ingenieurwissenschaften, Physik, Mathematik oder vergleichbar
+Sehr gute Kenntnisse in Data Science / Statistik, insbesondere rekurrente und Zeitreihenmodelle
+Sehr gute Programmierkenntnisse (z.B. R oder Python)
+Erfahrung in der Frontend-Entwicklung wünschenswert
+Nachweisliche Befähigung zum Verfassen wissenschaftlicher Publikationen wünschenswert
+Starkes Interesse an interdisziplinärer Forschung, Erfahrung in Umweltmonitoring und/oder Sozialdiagnostik wünschenswert
+Sehr gute Englischkenntnisse in Wort und Schrift
+Selbstständige und zielorientierte Arbeitsweise, persönliches Engagement, Zuverlässigkeit, hohes Verantwortungsbewusstsein, Fähigkeit zur Arbeit in einem großen internationalen Team und Kooperationsbereitschaft
+Bereitschaft zur Durchführung von Dienstreisen
+Europäischer Führerschein Klasse B ist wünschenswert
+
+Wir bieten Ihnen
+
+Ein starkes interdisziplinäres, multinationales Netzwerk
+Möglichkeiten zur Teilnahme an internationalen Konferenzen
+Attraktives, interdisziplinäres Arbeitsumfeld und sehr gute Bedingungen für die Entwicklung Ihrer wissenschaftlichen Karriere und Ihres Netzwerks
+Beste Voraussetzungen für eigenständige, interdisziplinäre Forschung in einem ambitionierten Team und mit moderner und exzellenter Infrastruktur
+Möglichkeit zur Promotion im Rahmen eines strukturierten Programms und begleitender Fortbildungen
+Flexible Arbeitszeiten und umfangreiche Möglichkeiten des mobilen Arbeitens
+Familienfreundliche Arbeitsbedingungen, die die Vereinbarkeit von Beruf und Familie fördern
+Beteiligung am VBB-Firmenticket
+Betriebseigene Elektrofahrräder zur Durchführung von Dienstreisen
+Unser Institut liegt am Rande einer malerischen parkähnlichen Landschaft und ist auch mit öffentlichen Verkehrsmitteln oder dem Rad gut zu erreichen
+
+Die Stelle ist in Teilzeit (65 %) und bis zum 30.04.2026 befristet zu besetzen. Die Vergütung erfolgt in Abhängigkeit von Ihrer Qualifikation und Berufserfahrungen bis zu Entgeltgruppe 13 TV-L.
+
+Nähere Auskünfte erhalten Sie von FrauDr. Sabrina Hempel(Email: shempel(at)atb-potsdam.de) sowie im Internet unter www.atb-potsdam.de.
+
+Wenn Sie sich mit Ihrer Fachkompetenz in unsere interdisziplinäre Forschung einbringen möchten, freuen wir uns über Ihre aussagekräftigen Bewerbungsunterlagen. Bitte bewerben Sie sich bis zum 06.06.2023 online über unser Bewerbungsformular zur Stellenausschreibung, Kennzahl 2023-5-2, unter https://www.atb-potsdam.de/de/karriere/offene-stellen. Nach Bewerbungsschluss eingehende Bewerbungen können nicht mehr berücksichtigt werden.
+
+Chancengleichheit ist Bestandteil unserer Personalpolitik. Schwerbehinderte Menschen werden bei gleicher Eignung bevorzugt berücksichtigt.
+
+Mit der Abgabe einer Bewerbung erklären Sie sich damit einverstanden, dass Ihre Bewerbungsunterlagen auch im Falle einer erfolglosen Bewerbung für die Dauer von sechs Monaten aufbewahrt werden. Weitere Informationen zur Verarbeitung, Speicherung und Schutz Ihrer Daten finden Sie unter: https://www.atb-potsdam.de/de/special/datenschutzerklaerung-fuer-den-bewerbungsprozess.
+
+Diesen Job melden

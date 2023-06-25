@@ -1,0 +1,10 @@
+{
+  "job_title": "Praktikum Statistik/ Data Science",
+  "company": "Boehringer Ingelheim",
+  "location": "Biberach an der Riß",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Studierende im mindestens 4. Semester der Mathematik, Statistik, Data Science oder vergleichbarer Studiengänge. Sehr gute theoretische Statistikkenntnisse und praktische Erfahrungen in der Nutzung der Statistiksoftware R oder SAS. Strukturierte und lösungsorientierte Arbeitsweise sowie hohe Lernbereitschaft, Zuverlässigkeit und Teamfähigkeit. Sehr gute Englischkenntnisse in Wort und Schrift.",
+  "skills": ["Mathematik", "Statistik", "Data Science", "R", "SAS"],
+  "date_posted": null
+}

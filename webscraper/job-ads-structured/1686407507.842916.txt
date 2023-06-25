@@ -1,0 +1,17 @@
+{
+  "job_title": "Data Scientist",
+  "company": "Flexxter GmbH",
+  "location": "Hannover",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Bachelor's or Master's degree in Data Science or a related field. Proven project or professional experience in data analysis. Hands-on experience with AWS resources and tools. Strong communication skills and a collaborative mindset. Ability to work independently and achieve agreed-upon goals. Proficiency in English, both written and spoken.",
+  "skills": [
+    "data analysis",
+    "AWS",
+    "communication",
+    "collaboration",
+    "independence",
+    "English"
+  ],
+  "date_posted": "2021-10-07"
+}

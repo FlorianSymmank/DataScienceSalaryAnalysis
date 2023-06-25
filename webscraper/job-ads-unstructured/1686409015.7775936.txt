@@ -1,0 +1,58 @@
+Data Scientist (m/w/d)
+Robotron Datenbank-Software
+01189 Dresden
+Vollzeit, Festanstellung
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Festanstellung
+Stellenbeschreibung
+
+Als Data Scientist im Bereich Technologie und Services analysieren Sie bereitgestellte Datenströme. Dabei schaffen Sie aus Rohdaten eine strukturierte Datenbasis für weitere tiefgreifende Datenanalysen.
+
+Mit Hilfe von Methoden des maschinellen Lernens sowie Künstliche Intelligenz gelingt es Ihnen, Muster zu erkennen, Vorhersagen zu treffen sowie Empfehlungen aufgrund der zur Verfügung stehenden Daten auszusprechen.
+
+Sie erstellen und realisieren Konzepte für ML und AI-Lösungen und setzen diese selbstständig oder im Team in Zusammenarbeit mit unseren Kunden um.
+
+Um die Datenqualität im Betrieb zu gewährleisten bzw. zu erhöhen, passen Sie regelmäßig Modelle und Algorithmen an.
+
+Für unser Team suchen wir zum nächstmöglichen Zeitpunkt einen Data Scientist im Bereich Technologie und Services.
+
+Standort
+Dresden (DE)
+Unternehmen
+Robotron
+Karrierelevel
+Professional
+Young Professional
+Kategorie
+Systemberatung
+Fachgebiet
+Data Analytics
+Geschäftsbereich
+Technologie & Services
+Vertrag
+unbefristet
+Zeitmodell
+Vollzeit
+Tätigkeitsschwerpunkte
+Erstellung von Datenpipelines
+Implementierung von ETL-Prozessen und Anbindung von Datenquellen
+Bereitstellung von Visualisierungen und Dashboards
+Erstellen von Regeln, Entscheidungsbäume und neuronale Netze
+Generieren und Trainieren von AI Modellen
+Organisatorische und fachliche Kompetenz bei der Kundenberatung zu Infrastruktur und betrieblichen Themen
+Durchführung von Workshops und Erstellung technischer Dokumentationen
+Anforderungen
+eine abgeschlossene IT-Ausbildung (z.B. Studium der Informatik, Fachinformatiker/in für Systemintegration oder vergleichbare Ausbildung)
+Erfahrungen mit den Datenplattformen Splunk und Elasticsearch
+Kenntnisse in der Script-Programmierung (Shell, Perl, Python, SQL)
+Grundlagen in der Verwendung von Regulären Ausdrücken
+Erfahrungen mit Data Science Frameworks (z.B. TensorFlow, PyTorch)
+analytisches Verständnis, profunde Kommunikationsfähigkeiten und eine teamorientierte, aber auch selbständige Arbeitsweise
+ausgeprägte Service- und Kundenorientierung mit ständiger Weiterbildungsbereitschaft
+Interesse zur Zertifizierung in der eingesetzten Technologie
+Diesen Job melden

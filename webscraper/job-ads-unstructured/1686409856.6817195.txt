@@ -1,0 +1,67 @@
+Junior DevOps / MLOps / Software Engineer (f/m/d)
+Kineo GmbH
+10407 Berlin
+Zum Teil im Homeoffice
+45.000 € – 55.000 € pro Jahr - Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Gehalt
+45.000 € – 55.000 € pro Jahr
+Anstellungsart
+Vollzeit
+We are Kineo, a Berlin-based AI-as-a-service startup developing machine learning solutions that bring real, tangible business value to our clients. Through our expertise, mindset, culture and most importantly with your help we are turning the German AI landscape upside down. Are you up for the challenge?
+
+Our proposition to you
+
+
+We vouch to create a space where you can explore different sets of complex problems and infrastructure challenges across industries and verticals.
+To support you in your personal development, everyone at Kineo has a mentor. When you grow, so does Kineo.
+Your decisions matter! You will not have a boss who decides things for you. At Kineo we believe that decisions are best made locally, by the people closest to the problem at hand.
+Transparent salary and career planning from day one.
+A beautiful office in the center of Kreuzberg, with tons of benefits, such as free drinks, snacks, consoles etc. We also love to bring it to life with all kinds of team activities.
+Flexible, family friendly work environment - we have parents in the team and support them.
+Success in the role means that you will have
+
+
+After 2 months: You established yourself as a member of the team and have already contributed to one of our client projects. You have a clear understanding of how we work and can independently navigate our technical architecture.
+After 6 months: You are a key member of the team and fully involved in the development of a client project. You will have made notable contributions to our codebase and internal processes.
+After 12-24 months: With your experience from multiple use cases, you lead the development of our tools and improve things for everyone. You are a trusted expert in a wide variety of technologies and you are able to transfer that knowledge to more junior members of the team. Others turn to you, when they are frustrated. You navigate our infrastructure, pipelines and clusters across multiple clouds with confidence and joy.
+Your Character Traits
+
+
+Strong inner drive to get things done: you’re not waiting for others to manage or tell you what to do. You are self-driven and you like to work autonomously.
+You hate boxes: You don’t stop when your thing is done, you don’t point to the other side. Instead, you are eager to learn and support in areas that may not be your core expertise.
+Quality ambassador: you combine an obsession with quality with a highly pragmatic prioritisation of tasks to maximize your project throughput.
+Exceptional communicator: you have excellent communication, presentation and interpersonal skills that enable you to quickly establish an emotional bond.
+You fit in with our team-culture if you
+
+
+Enjoy working in an environment that combines pragmatic, commercial thinking with a strong desire to learn and grow together. We value team players, not tech ninjas.
+Have a highly ambitious, curious and driven mindset while being able to convey humility and respect for different opinions.
+Feel like a global citizen with a strong passion for openness and diversity.
+See open feedback, accountability and independent thinking as the foundation for exceptional (team) work.
+Tasks
+
+
+You will support our machine learning scientists in delivering great solutions. You will be the enabler to make sure that they feel that they have everything they need to deliver amazing ML products, by providing them access to great infrastructure.
+Automation is your game. When things run slowly or manual work is needed, you step up and automate and design sustainable solutions
+You will own machine learning solutions from the first drop of raw data, all the way into production serving millions of inference requests.
+Requirements
+
+
+An advanced quantitative degree - Computer Science or closely related fields.
+You feel at home in cloud infrastructure: Good knowledge of one of the larger cloud providers
+Comfortable in managing infrastructure as Code: Preferably experienced with Terraform or similiar languages.
+Kubernetes experience is great, but not expected
+Programming skills in Python are helpful. We love other languages too, but Python is what most of our engineers use.
+Experience in operating ML solutions on production is helpful, however if you identify more as a DevOps who is curious about building ML solutions, that also works.
+Excellent written and verbal communication, with the ability to work cross-functionally with non-scientific experts.
+Last but not least, keep in mind that we are hiring value based, not skill based. That being said, please tell us the following in your contact message:
+
+
+Why we would love to work with you
+Why you want to work with us
+Include the word "Bumblebee" in your cover letter. ;)
+Finally, hardly anyone leaves University with a DevOps background. If you are a great junior Software Engineer, who wants to develop in this direction, let's get to know each other.
+Diesen Job melden

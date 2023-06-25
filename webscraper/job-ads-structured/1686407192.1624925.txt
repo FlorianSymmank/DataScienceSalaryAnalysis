@@ -1,0 +1,10 @@
+{
+  "job_title": "Data Science Intern (m/f/d)",
+  "company": "Alocai GmbH",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Enrolled in a master’s degree in engineering, computer science, or machine learning. Experienced understanding of and ability to implement algorithms using both toolkits and self-developed code. Experience with Python. Extensive knowledge of AI/ML and basic experience in the development of such systems. Initial relevant experience/internship in a software development environment. Analytical reasoning and complex problem solving involving mathematical programming and big data problems. Software development skills.",
+  "skills": ["Python", "JavaScript", "Flask", "TypeScript", "SQL", "Pandas", "scikit-learn", "Tensorflow", "Keras", "AWS"],
+  "date_posted": "2021-09-22"
+}

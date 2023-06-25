@@ -1,0 +1,19 @@
+{
+  "job_title": "Werkstudent im Bereich Data Science / Data Engineering (m/w/d)",
+  "company": "Testsieger.de Vergleichsportal GmbH",
+  "location": "Osnabrück",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Master-Studium oder fortgeschrittenes Bachelor-Studium im Bereich Informatik, Mathematik / Statistik, Physik oder einem vergleichbaren Studiengang\r\nGrundkenntnisse in SQL, Machine Learning und Statistik\r\nIdealerweise erste Erfahrung mit Data Science-spezifischer Softwareentwicklung in Python\r\nBegeisterung für Machine Learning und idealerweise erste Erfahrungen mit pandas, scipy, scikit-learn oder pytorch\r\nGute Deutsch- und Englischkenntnisse",
+  "skills": [
+    "SQL",
+    "Machine Learning",
+    "Statistik",
+    "Python",
+    "pandas",
+    "scipy",
+    "scikit-learn",
+    "pytorch"
+  ],
+  "date_posted": null
+}

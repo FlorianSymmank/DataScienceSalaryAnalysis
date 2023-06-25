@@ -1,0 +1,52 @@
+MASTER THESIS – NAMED DATA NETWORKING FOR MOBILE IIOT ENVIRONMENTS (M/F/D)
+fortiss GmbH
+München
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+fortiss GmbH Jobportal
+München, fortiss GmbH
+Bachelor- /Master- /Diplomarbeiten
+Bachelor-/Master-/Diplom-Arbeiten
+IT
+Who are we?
+fortiss is the research institute of the Free State of Bavaria for the development of software-intensive systems with headquarters in Munich. The scientists at the institute cooperate in research, development and transfer projects with universities and technology companies in Bavaria, Germany and Europe. The focus is on research into state-of-the-art methods, techniques and tools for the development of software- and AI-based technologies for dependable, secure cyber-physical systems such as the Internet of Things (IoT). fortiss is organized in the legal form of a non-profit limited liability company. Shareholders are the Free State of Bavaria (majority shareholder) and the Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V. www.fortiss.org.
+
+The IIoT competence center of fortiss focuses on the development of computational and networking architectures for advanced IoT applications and use-cases in sectors such as Mobility, Smart Cities, Manufacturing, etc. Areas of interest include, but are not limited to: Edge computing, in particular decentralised edge architectures; deterministic wireless networking; dynamic container orchestration; information-centric networking; Edge AI.
+
+Master Thesis – Named Data Networking for Mobile IIoT Environments (M/F/D)
+
+Today there are several vendor-based smart home applications which are being applied into controlling and automating several aspects of both consumer (e.g., home automation) and industrial (e.g., warehouses) environments. Often, such environments benefit from a direct communication approach, where objects (Things) can directly exchange data. However, the communication between the different elements of IoT connected environments is based on different protocols, being often the choice IP-based communication, due to the interoperability advantages provided by IP in heterogeneous environments.
+
+Information-centric paradigms such as the Named Data Networking (NDN) architecture, which are being applied in the context of Internet of Things (IoT) environments, bring in the advantage of a receiver-driven, decentralized Publisher/Subscriber architecture. NDN implements a receiver-driven publish/subscribe communication model based on stateful forwarding. As NDN is focused on information and not on the hosts (machines), its architecture brings in relevant features for IoT which shall be explored and evaluated in this work.
+
+fortiss is currently developing a demonstrator which integrates NDN across embedded devices for the purpose of exploring NDN as an advanced PubSub approach that can support many to many communication in manufacturing environments.
+
+This master thesis is focused on the integration of NDN across a mobile, collaborative Industrial IoT scenario comprising multiple Automated Guided Vehicles (AGVs) in a warehouse. The purpose is to rely on NDN to be able to support the real-time data exchange across different AGVs, to reach a new level of decentralization for AGV control.
+
+
+Your tasks:
+Get acquainted with the novel paradigm of information-centric networking, in particular with the Named Data Networking (NDN) project.
+Get acquainted with the NDN-IioT demonstrator at the fortiss IioT Lab, including if required setting up and configuring hardware and software components of an IIoT prototype involving NDN, and other PubSub approaches (OPC UA, MQTT).
+Conceive and implement interfaces to allow for ICN to interoperate across the proposed scenario.
+Support experimentation and performance evaluation allowing for a robust comparison of different PubSub approaches.
+Your profile:
+Completed Bachelor's degree and currently enrolled in a Master’s degree in computer science, information systems or similar.
+Practical experience in programming languages such as Java, C, C++.
+Basic knowledge on IoT aspects.
+Good knowledge on TCP/IP.
+Excellent communication skills in English.
+Our offer:
+An exciting and inspiring open research environment.
+An international and dynamic work environment with highly qualified and motivated colleagues.
+Close collaborations with industrial leaders and other research groups.
+Possibility to engage in future projects and to cooperate with top quality international peers in the field.
+Please notice that this Master thesis is not remunerated.
+Did we catch your interest?
+Please submit your application with a motivational statement, a detailed CV and a current transcript of records.
+
+Job-ID: IIoT-MA-01-2023
+Contact: Rute C. Sofia
+
+Ralf Kohlenhuber
+Human Resources Administrator
+Diesen Job melden

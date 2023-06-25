@@ -1,0 +1,16 @@
+{
+    "job_title": "Data Analyst (m/w/d)",
+    "company": "Getränke Hoffmann West GmbH & Co. KG",
+    "location": "Berlin-Blankenfelde",
+    "salary_euro": null,
+    "employment_type": "Festanstellung",
+    "requirements": "Studium der (Wirtschafts-) Mathematik, (Wirtschafts-) Informatik oder vergleichbare IT-Kenntnisse sowie Berufserfahrung als Data oder Business Analyst",
+    "skills": [
+        "Erfahrung im Umgang mit Power BI",
+        "Ausgeprägte analytische Fähigkeiten und sehr gute SQL Kenntnisse",
+        "Idealerweise erste Erfahrung im Umgang mit analytischen Datenbanken wie Exasol oder Snowflake",
+        "Erfahrung in agiler Softwareentwicklung wie Scrum oder Kanban sind wünschenswert",
+        "Sehr gute Deutschkenntnisse sind ein Muss und gute Englischkenntnisse runden dein Profil ab"
+    ],
+    "date_posted": "2023-02-14"
+}

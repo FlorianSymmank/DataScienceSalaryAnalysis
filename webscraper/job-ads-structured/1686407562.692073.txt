@@ -1,0 +1,16 @@
+{
+  "job_title": "Werkstudent Data Science & Künstliche Intelligenz (m/w/d)",
+  "company": "Sopra Steria SE",
+  "location": "München",
+  "salary_euro": null,
+  "employment_type": "Teilzeit, Werkstudent",
+  "requirements": "Immatrikulation in einem Studiengang der Informatik, Mathematik, Naturwissenschaften oder einem vergleichbaren Studiengang\nErste Erfahrungen im Bereich Artificial Intelligence und Data Science durch Studienveranstaltungen und / oder studentische Tätigkeiten\nKenntnisse im Programmieren, idealerweise in Python oder R\nAnalytisches Denkvermögen und Problemlösungskompetenz\nSelbstständige Arbeitsweise und Interesse eigene Ideen einzubringen und umzusetzen\nGute Deutsch- und Englischkenntnisse",
+  "skills": [
+    "analytical thinking",
+    "data science",
+    "python",
+    "r",
+    "self-motivated"
+  ],
+  "date_posted": "yyyy-mm-dd"
+}

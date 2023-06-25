@@ -1,0 +1,10 @@
+{
+  "job_title": "Data Science / ML Engineer",
+  "company": "Code Gaia",
+  "location": "Munich",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "have a broad view of data science methods, with at least one area where you have practical experience (such as deep learning methods, natural language processing, etc.). have 2+ years of experience working in a data science, data engineering or related role, or comparable experience. are a proficient Python developer and open to learning new technologies. take ownership of your solutions end-to-end, including debugging, deployment and maintenance. are a good communicator who enjoys reaching out to others and gathering constructive feedback. are based in Germany.",
+  "skills": ["Python", "machine learning", "data science", "data engineering", "natural language processing"],
+  "date_posted": "2021-10-08"
+}

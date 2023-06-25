@@ -1,0 +1,104 @@
+Software Engineer (NonStop)
+comforte AG
+Deutschland
+Festanstellung
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Festanstellung
+We are dedicated to our People
+
+We care. We put people first and we promote individual freedom. It is why we strive to secure personal data with integrity and passion to make our customer’s everyday life more comfortable and secure.
+
+We empower our people to grow and to learn from their experience, and in return we are rewarded with team spirit and great results.
+
+Software Engineer (NonStop)
+
+Purpose of the role
+In your role as a Software Engineer you will join a small globally-dispersed team in maintaining, developing and supporting a range of comforte products used both internally and by our customers on their mission-critical NonStop servers.
+This role would be a great opportunity for a NonStop developer who has a personal interest or some professional experience with Windows and/or Java development.
+Key responsibilities and tasks
+Analysis of new feature requests and implementation into products
+Analysis of software defects, design, implementation and testing of defect repairs
+Providing additional NonStop expertise to the rest of the company
+Providing product expertise to the rest of the company for products maintained by the team
+Providing 2nd and 3rd level support to customers for a variety of comforte products
+Specification of tests for QA team to build
+Professional skills and knowledge
+
+Required
+
+Development skills on the NonStop in C, C++ or TAL
+Solid understanding of the NonStop platform and the most common subsystems
+Desire to learn new tools, skills and products
+Some experience developing off-NonStop in one or more of C++, C#, Java
+
+Desirable
+
+The skills and knowledge listed below are used within the team. Knowledge that you don’t already have in these areas may be acquired as you need it for a specific product.
+
+C++ development skills
+Development skills in one or more of C, TAL, Java, C#, VB.NET and COBOL
+Experience with any of the following technologies in a development situation would be advantageous:
+Pathway
+SQL/MP
+TCP/IP sockets programming.
+Inter-process messaging.
+TLS
+REST
+SOAP
+Windows or Java development
+git
+SQL/MP
+Scripting (Python, Bash, PowerShell, TACL)
+make
+Docker
+Fluency in languages other than English may be valuable, comforte have a global customer base and are happy to use your skills in both your regular role and across teams where this helps
+
+
+
+Personal skills
+
+Value driven professional
+
+Humble
+
+Ready to listen and to share expertise and best practice across own team
+Open for feedback and flexibility to adapt
+
+Ambitious
+
+Taking accountability to drive results
+Going the extra mile for great customer experience
+
+Smart
+
+Ability to prioritize multiple tasks and to set focus
+Passionate to find pragmatic solutions and to innovate
+
+Humane
+
+Caring for other’s well-being in a remote working environment
+Advocates diversity and fairness
+Additional personal skills:
+
+Willing to continuously learn and improve skills to keep up with technology changes
+Happy to take on a leadership role as and when circumstances dictate
+Comfortable discussing technical topics directly with customers
+Open to dealing with new and old technologies
+Self-learner with an ability to work independently under minimal supervision
+
+
+Qualification
+5+ years of experience in development roles on the NonStop
+Degree in computer science, mathematics, engineering or a pure science
+Why join us
+Individual freedom – tell us what’s important for YOU!
+Culture of trust, appreciation, innovation and opportunities
+The opportunity to make a difference in an agile and fun environment
+Work with clients in various industries around the world
+The opportunity to grow continuously as our technology field is so dynamic
+Competitive compensation and benefits package including profit sharing
+Diesen Job melden

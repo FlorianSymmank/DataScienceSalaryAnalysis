@@ -1,0 +1,35 @@
+Diese Stellenanzeige ist auf Indeed abgelaufen
+Mögliche Gründe: Der Arbeitgeber akzeptiert keine Bewerbungen, ist nicht aktiv auf der Suche nach neuen Mitarbeitern oder prüft derzeit die eingegangen Bewerbungen
+Machine learning engineer (Computer vision)
+Schaffhausen Institute of Technology
+Bayern
+
+We are building the Rolos Platform – an intelligent collaborative platform which aims to improve research team productivity. We believe that an era of data-driven research is coming, and the classical trial and error approach can no longer give satisfactory results without computational methods.
+
+Duties and responsibilities:
+
+Deploying of computer vision machine learning models in products.
+Optimizing computer vision machine learning models.
+Increasing accuracy and performance of computer vision machine learning algorithms.
+Developing pipelines for data collection and preparation.
+Algorithms quality validation and monitoring.
+Developing services for machine learning models launch.
+Bug fixing support.
+
+
+
+Qualifications and experience:
+
+BSc in Computer Science, Mathematics, Physics or similar field, Master’s degree is a plus.
+2+ years of ML models developing experience.
+Solid knowledge of Python.
+Experience with modern deep learning frameworks like Pytorch, Tensorflow.
+Knowledge of main methods of supervised learning (regression, classification) and unsupervised learning (cluster analysis, dimensionality reduction).
+Experience in algorithms developing for image classification, object detection, object tracking, segmentation.
+Experience with MLOps tools (CVAT, Label studio, DVC, MLflow, Weights & Biases).
+Experience with C++ is a plus.
+Experience in developing cloud service Azure/GCP/AWS.
+Experience with Git, Linux.
+Vacancy Priority
+High
+Diesen Job melden

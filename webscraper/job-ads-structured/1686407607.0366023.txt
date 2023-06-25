@@ -1,0 +1,8 @@
+{"job_title": "Data Analyst",
+"company": "Occam Solutions",
+"location": "70567 Stuttgart",
+"salary_euro": null,
+"employment_type": "Vollzeit",
+"requirements": "- Possess a minimum of a bachelor's degree in a computer science discipline.\n\n· - Experience providing services similar in required tasks, scope, and complexity.\n\nDirect hands on experience as a Data Analyst is required\nExperience with working for or in support of SOF (Special Operations Forces)\nExperience with coding and understanding algorithms\n\n·- MUST HAVE Current TS/SCI or TS clearance and eligible for SCI access and ACCM read-on.",
+"skills": ["data mining","data analysis","data modeling","predictive analytics","visualization tools","R","Python","C++","JavaScript","Go"],
+"date_posted": "2021-11-11"}

@@ -1,0 +1,77 @@
+Lead Data Scientist (m/f/d)
+Bayer
+Wuppertal
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Lead Data Scientist (m/f/d)
+Bayer - Wuppertal
+Job
+Unternehmen
+
+At Bayer we’re visionaries, driven to solve the world’s toughest challenges and striving for a world where ,Health for all, Hunger for none’ is no longer a dream, but a real possibility. We’re doing it with energy, curiosity and sheer dedication, always learning from unique perspectives of those around us, expanding our thinking, growing our capabilities and redefining ‘impossible’. There are so many reasons to join us. If you’re hungry to build a varied and meaningful career in a community of brilliant and diverse minds to make a real difference, there’s only one choice.
+
+
+
+
+Lead Data Scientist (m/f/d)
+
+
+
+
+Biomedical Data Science is a group within Pharmaceuticals R&D at Bayer. Its objective is to deliver novel, data-driven insights for therapeutic mechanisms and patient populations through analysis of large-scale, complex datasets (e.g., omics, imaging, electronic health records) in collaboration with internal and external partners.
+
+
+
+
+As Senior Data Scientist (m/f/d) you will design and conduct complex analyses in order to gain insights relevant for translation of research projects into clinical development stages. This will cover all indication areas of Bayer pharmaceuticals with a focus on cardiovascular indications.
+
+
+
+
+YOUR TASKS AND RESPONSIBILITIES
+
+
+
+
+Develop quantitative models for relationships between molecular data (genetics, omics, biomarkers) and clinical endpoints
+Identify novel targets, disease mechanisms, biomarkers in large scale human genetic, transcriptomics, metabolomics, proteomics and electronic health record data
+Assess the causality of identified associations using Mendelian Randomization and other methods
+Initiate and lead cross-functional and cross-disciplinary research projects, also in collaboration with external collaborators
+Supervise scientific personnel (PhD students, PostDocs) and give guidance to (junior) data scientists
+Liaise and interface with researchers from various backgrounds (biology, medicine, pharmacology, chemistry, statistics) in order to identify critical points in drug discovery projects and provide appropriate solutions for such critical points through analyses of available complex datasets
+Contribute to improving the available set of state of the art analytical tools (for both scientists with or without a data science background) and identify additional appropriate data sources and datasets, including for example through collaboration with external institutions
+
+
+
+WHO YOU ARE
+
+
+
+
+PhD or equivalent in a quantitative discipline (e.g., Bioinformatics, Physics, Computer Science, Statistics, Mathematics) combined with a long-term working experience in drug discovery relevant research areas as well as with applying quantitative methods to solve research questions in life sciences
+Demonstrated extensive knowledge and application of inferential and exploratory analysis skills (e.g., regression models, survival analyses, Bayesian inference, machine learning, causal inference)
+Demonstrated application of analysis skills to biobank-scale human data sets, including genetic and biomarker as well as strong experience in integrating and analyzing multi-omics data combined with extensive programming and computing skills (e.g., R and Python)
+Experience with clinical trial and/or biomarker data analysis in the context of drug development as well as some knowledge of indication areas relevant to Bayer (e.g. cardiovascular, kidney, inflammatory diseases)
+Demonstrated leadership experience, for example in leading multi-disciplinary collaborations
+Highly self-motivated, highly responsible as well as a keen interest to develop field further and to strive for scientific excellence and to exceed goals regularly
+Very good communications skills, including for example, capability to present even very complex issues clearly and convincingly to project teams or decision bodies
+Fluent in English, both written and spoken
+
+
+
+#LI-DE
+
+YOUR APPLICATION
+
+This is your opportunity to tackle the world’s biggest challenges with us: Maintaining our health, feeding growing populations and slowing the rate of climate change. You have a voice, ideas and perspectives and we want to hear them. Because our success begins with you. Be part of something big. Be Bayer.
+
+Bayer welcomes applications from all individuals, regardless of race, national origin, gender, age, physical characteristics, social origin, disability, union membership, religion, family status, pregnancy, sexual orientation, gender identity, gender expression or any unlawful criterion under applicable law. We are committed to treating all applicants fairly and avoiding discrimination.
+
+
+Location: Wuppertal-Aprath
+
+Division: Pharmaceuticals
+
+Reference Code: 782628
+
+Diesen Job melden

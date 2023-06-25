@@ -1,0 +1,17 @@
+{
+  "job_title": "Data Engineer (m/f/d)",
+  "company": "Flix SE",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "2+ years of industry experience in data engineering, with strong skills in Python and SQL.",
+  "skills": [
+    "Python",
+    "SQL",
+    "Apache Airflow",
+    "Datadog",
+    "Kubernetes",
+    "Docker"
+  ],
+  "date_posted": null
+}

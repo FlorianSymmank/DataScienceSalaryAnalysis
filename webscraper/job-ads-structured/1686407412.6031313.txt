@@ -1,0 +1,17 @@
+{
+  "job_title": "Data Science Manager , Consumer Apps",
+  "company": "Delivery Hero",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "We are looking for a Data Science Manager to join our Consumer Apps Data Science (CADS) domain that is working on solving multiple data problems like Ranking and Personalisation.",
+  "skills": [
+    "Fluency in Python and familiarity with its scientific stack such as numpy, pandas, scikit learn, matplotlib, pytorch, keras.",
+    "Ability to convert a fuzzy business problem into a data science problem.",
+    "Great communication skills and ability to influence beyond the team",
+    "You have experience in applying methods from machine learning, operations research and/or statistics to real-world datasets.",
+    "You are capable of managing complex projects with multiple stakeholders and ideally have a successful track record of managing Data Science teams.",
+    "Before starting to work on a use-case, you carefully question existing assumptions and care a lot about clean data"
+  ],
+  "date_posted": null
+}

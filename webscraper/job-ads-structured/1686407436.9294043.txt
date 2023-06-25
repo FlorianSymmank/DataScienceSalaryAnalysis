@@ -1,0 +1,18 @@
+{
+   "job_title": "Werkstudent im Bereich Data Science (m/w/d)",
+   "company": "AstraZeneca",
+   "location": "22763 Hamburg",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "Aktuelles Studium mit analytischem Bezug, zum Beispiel der Mathematik/Statistik, (Wirtschafts-) Informatik, Gesundheitsökonomie o.ä.",
+   "skills": [
+      "Programmierung",
+      "Big Data",
+      "Machine Learning",
+      "Business Intelligence Lösungen (z.B. MicroStrategy)",
+      "CRM-Systemen (z.B. Veeva)",
+      "RWE Daten und   Datenbankabfragen (z.B. SQL)",
+      "Python oder R"
+   ],
+   "date_posted": "Unspecified"
+}

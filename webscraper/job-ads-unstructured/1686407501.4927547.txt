@@ -1,0 +1,41 @@
+Data Scientist (gn) 100% Remote
+workidentity GmbH
+Homeoffice
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Einleitung
+
+Für eines unserer Partnerunternehmen suchen wir Dich als Data Scientist (gn) - 100% Remote
+
+Deine Aufgaben
+
+Du bist für die Entwicklung von technischen Lösungen für fachliche Herausforderungen bei Kunden zuständig
+Du bist für den Aufbau von ETL-Prozessen, Data Warehouses und Datenmodellen zuständig
+Du bist für die Visualisierung und Aufbereitung der Ergebnisse sowie Ableitung von Handlungsempfehlungen verantwortlich
+Du entwickelst und optimierst die Machine-Learning-Modelle Deployment in Cloud-Systemen und Begleitung von Praxis-Tests
+
+Dein Profil
+
+Sicherer Umgang mit Python und den einschlägigen Bibliotheken sowie erste Erfahrungen mit AWS Cloud-Technologie
+Tech Stack: R, JavaScript, SQL, Pandas, ETL, Google Dataflow, Docker, Tableau, PowerBI
+Vertieftes Verständnis von Machine Learning Methoden (Data Cleaning, Feature Engineering, Modelling, Tuning, Visualization)
+Analytische Fähigkeiten, Denken in Daten und Strukturen, die Fähigkeit, komplexe Probleme zu verstehen und Lösungsansätze mit Daten und Algorithmen zu entwickeln
+Studium oder Promotion in einer quantitativen Fachrichtung, z.B. Informatik, Mathematik, Physik oder Data Science
+
+Benefits
+
+Flexible Arbeitszeitgestaltung, Homeoffice/Remote und 30 Tage Urlaub
+Ein attraktives Gehaltspaket, je nach Erfahrung bis 90.000€
+Individuelle Weiterbildungen, eine betriebliche Altersversorgung, Kostenlose Getränke, Dienstfahrrad - Mitgliedschaft sowie kostenlose Krankenzusatzversicherungen
+Diverse Mitarbeitervergünstigungen, Mitarbeiter- Events, Off- Sites
+HVV-Profi Card
+Modernste Hard- und Software
+Nicht zuletzt warten eine entspannte Arbeitskultur, ein sympathisches Team und vieles mehr auf Dich
+
+Wir liefern die Strategie im War For Talents!
+Creating your workidentity: als Hamburger Unternehmens- und Personalberatung besetzen wir deutschlandweit Suchmandate bei führenden Tech-Unternehmen. Gleichzeitig beraten wir bei aktuellen Themen wie "New Work" oder "Work-Life-Integration". Über uns
+Diesen Job melden

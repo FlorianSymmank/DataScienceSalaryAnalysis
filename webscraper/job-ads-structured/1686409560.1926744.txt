@@ -1,0 +1,20 @@
+{
+    "job_title": "DATA SCIENTIST",
+    "company": "GC Großhandels Contor",
+    "location": "Stuhr",
+    "salary_euro": null,
+    "employment_type": "unspecified",
+    "requirements": "Abgeschlossenes IT-bezogenes Studium oder eine vergleichbare Qualifikation",
+    "skills": [
+        "Machine Learning",
+        "Statistik",
+        "Datenvisualisierung",
+        "Python",
+        "Scikit-learn",
+        "pandas",
+        "numpy",
+        "Git",
+        "Containerisierungstools"
+    ],
+    "date_posted": "unspecified"
+}

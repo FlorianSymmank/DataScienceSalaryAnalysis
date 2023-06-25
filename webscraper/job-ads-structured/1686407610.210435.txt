@@ -1,0 +1,16 @@
+{
+  "job_title": "Data Engineer",
+  "company": "Adecco Group",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Degree in Computer Science, Statistics or relevant field preferred",
+  "skills": [
+    "Python",
+    "Apache Spark",
+    "cloud architecture (Azure, AWS)",
+    "databases (SQL/NoSQL) and data modeling",
+    "CI/CD environment"
+  ],
+  "date_posted": null
+}

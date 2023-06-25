@@ -1,0 +1,48 @@
+Data Architect (m/f/d)
+Olympus Europa SE & Co. KG (OEKG)
+Hamburg
+Festanstellung
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Festanstellung
+
+Your responsibilities
+
+Co-ordinate team members to resolve data related problems that occur as well as implement solutions and preventive measures
+Collaborate with the delivery teams to design and develop an end-to-end analytics solution
+Work with Data SMEs and business to understand business requirements and design models accordingly
+Design, create and test data models and data pipelines
+Review data models and data pipelines designed by internal and external Data SMEs, architects and developers
+Research new technologies, data modeling methods and information management systems and produce reports
+Develop and set the data standards for Olympus' data architecture, ensuring that products under development are in line with chosen languages, data processes and principles
+Participate in key decision-making bodies within the Insights & Analytics team to ensure alignment with the digital architecture
+Functional leadership, motivation, development and assessment of team members so that their individual and collective performance is of the required standard and meets the current and future needs of the business
+
+Your qualification
+
+Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, Mathematics, or other related field (or equivalent in working experience)
+Long-standing experience as a solution architect in a data-related area and with data warehouse / data lakes solutions
+Strong background in Star Schema or Data Vault based data modelling
+Good knowledge of SQL and demonstrated ability to apply SQL creatively to a wide variety of business requirements
+Experience in understanding and implementing data solutions using technologies such as Azure Data Factory, Matillion, Synapse Analytics and Power BI
+Familiarity with data visualization tools such as Power BI and visualization standards (e.g. IBCS)
+Good knowledge of data governance principles and system analysis
+Basic knowledge and experience in project management, process modelling
+Experienced and comfortable leading highly technical teams through agile development methodology
+Several years of experience in managing staff, including work review, performance reviews and day-to-day coaching
+Demonstrable interpersonal, problem-solving and coordinating skills
+
+Your benefits
+
+Flexible working hours with up to 60% mobile working
+Light notebooks as well as modern open space offices
+Employee restaurant with live cooking and healthy food (subsidized)
+HVV Profiticket (100%) or parking space
+Bike leasing
+Employee discounts
+Sport activities and company gym
+30 vacation days
+Diesen Job melden

@@ -1,0 +1,10 @@
+{
+    "job_title": "Berater:in Data Science mit Fokus Advanced Analytics & AI",
+    "company": "metafinanz Informationssysteme GmbH",
+    "location": "München",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "Studienabschluss im Bereich (Wirtschafts-) Informatik / Mathematik / Psychologie o.ä.\nMehrjährige Berufserfahrung im Bereich Data Science, Erfahrungen in der Anwendung von Machine Learning und statistischen Methoden\nAufbereitung & Analyse großer Datenbestände (u.a. mit SQL) sowie deren Visualisierung\nGute Kenntnisse in mind. einer Programmiersprache wie Python, R oder Java\nNeugier sich in neue Technologien einzuarbeiten wie z.B. Spark, AWS, Azure oder im Bereich Natural Language Processing\nDank deiner offenen Persönlichkeit und Kommunikationsstärke baust du schnell eine Bindung zu bestehenden sowie potenziellen Kunden auf\nSehr gute Deutschkenntnisse und verhandlungssichere Englischkenntnisse runden dein Profil ab",
+    "skills": ["Data Science", "Machine Learning", "SQL", "Python", "R", "Java", "Spark", "AWS", "Azure", "Natural Language Processing", "Kundenbindung", "Deutschkenntnisse", "Englischkenntnisse"],
+    "date_posted": null
+}

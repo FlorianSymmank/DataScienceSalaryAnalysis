@@ -1,0 +1,13 @@
+{
+    "job_title": "MR Scientist (m/f/d) in the field of Natural Science",
+    "company": "Otto-von-Guericke-Universität Magdeburg",
+    "location": "39106 Magdeburg",
+    "salary_euro": {
+        "amount": 13,
+        "period": "TV-L"
+    },
+    "employment_type": "Vollzeit",
+    "requirements": "Diploma or master’s degree in neuroscience, psychiatry, medical engineering, physics, computer science, or related areas. Preferably a PhD. Solid knowledge of MRI, ideally experiences in multi-center studies and protocol harmonization. Experiences with MR image processing. Profound knowledge of statistics and modeling. Programming skills, ideally in python or R. Experience with brain imaging studies is desired.",
+    "skills": ["MRI", "Python", "R", "statistics", "modeling", "brain imaging"],
+    "date_posted": "next possible date"
+}

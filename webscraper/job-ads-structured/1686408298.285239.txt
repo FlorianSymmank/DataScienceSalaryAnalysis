@@ -1,0 +1,10 @@
+{
+  "job_title": "Student im Bereich Data Science (m/w/d)",
+  "company": "TWT Science & Innovation",
+  "location": "Ingolstadt",
+  "salary_euro": null,
+  "employment_type": "Praktikum, Werkstudierendentätigkeit oder Abschlussarbeit",
+  "requirements": "Fortgeschrittenes Studium der Mathematik, Physik, Informatik, Ingenieurwissenschaften oder Ähnliches",
+  "skills": ["Python", "Matlab", "englisch"],
+  "date_posted": null
+}

@@ -1,0 +1,83 @@
+Doktorandin / Doktorand (w/m/d) zum Thema "Data Science & Analytics" im Bereich Konzern After Sales
+Volkswagen AG
+Kassel
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+Apply now!
+
+To my favorites
+
+Share
+
+Print
+
+Info for similar jobs
+
+Your working environment
+
+Volkswagen versorgt die Kunden seiner Fahrzeuge über sehr lange Zeiträume mit Original Teilen. Die über 460.000 angebotenen Teile werden von rund 6.000 Lieferanten bezogen.
+Die Steuerung der Bestände im Konzern After Sales obliegt dabei der Abteilung Inventory Managment, die im Zusammenspiel mit anderen Abteilungen die Versorgung unter Berücksichtigung wirtschaftlicher Aspekte gewährleistet.
+
+Your tasks
+
+Durch gestiegene Risiken in den globalen Lieferketten, sowie dem Technologiewechsel zur E-Mobility ist das Inventory Managment mit neuen spannenden Herausforderungen konfrontiert, denen fundiert durch neue datengetriebene Analysen und Methoden begegnet wird.
+In diesem Umfeld entwickeln und implementieren Sie im Rahmen des Promotionsvorhabens Predictive Analytics Algorithmen, welche durch die frühe Erkennung und Bewertung von Risiken ein Exeption-Based Inventory Management ermöglichen. Unsere umfangreich verfügbaren Datenbestände ermöglichen Ihnen einen direkten Einstieg in die Analysearbeit. Dabei werden Sie eng von unserem Data-Science Team unterstützt. Ihre Ideen gestalten die Datenzukunft der Originalteileversorgung mit, und Sie sind Teil einer der größten Transformationen im Inventory Management hin zu einer modernen Cloud-Infrastruktur.
+
+Inhalte des Promotionsvorhabens:
+
+
+Entwicklung und Validierung von Algorithmen und Modellen zur Vorhersage von kurz und langfristigen Ersatzteilbedarfen, sowie zur Früherkennung von Versorgungsrisiken
+
+Einsatz von Machine-Learning-Algorithmen und Modellen zur Aufdeckung von logistisch relevanten Zusammenhängen, Trends und Mustern
+
+Erstellung von Forschungsberichten und Veröffentlichung von Forschungsergebnissen in relevanten Fachzeitschriften
+
+Zusammenarbeit mit anderen Forschern und Teams innerhalb und außerhalb des Unternehmens
+
+
+
+Your qualifications
+
+Gut bis sehr gut abgeschlossenes Studium mit Promotionsberechtigung der Fachrichtung Data Science, (Wirtschafts-)Informatik, Mathematik, Statistik, oder einem verwandten Bereich
+
+Nachweisbare Methodenkompetenzen im Bereich Datenverarbeitung und -Analyse (insbesondere probabilistischer Modelle): Statistik, Big Data, Machine-Learning, oder Ökonometrie
+
+Kenntnisse einer höheren Programmiersprache, vorzugsweise Python und/oder R
+
+Kenntnisse in Datenbanken (SQL) wünschenswert
+
+Fähigkeit zur Entwicklung von theoretischen Modellen und zur Durchführung von Experimenten
+
+Idealerweise Kenntnisse im Supply Chain Management bzw. Lagerhaltungsmodellen
+
+Darüber hinaus erwarten wir:
+
+Analytische Denkweise, selbständige Arbeitsweise, Neugier, Kreativität, out-of-the-Box-Denken und schnelle Auffassungsgabe
+
+Team- und Kommunikationsfähigkeit, idealerweise in Deutsch und in Englisch
+
+
+
+
+Das genaue Promotionsthema wird mit dem Professor (m/w/d) gemeinsam definiert. Die Voraussetzung für die Zusammenarbeit ist die Betreuungszusage sowie eine bestätigte Themenabgrenzung seitens des Professors (m/w/d) einer promotionsberechtigten Universität oder Forschungseinrichtung. Der Kontakt wird über Volkswagen hergestellt.
+
+Further information
+
+This position is with the
+Volkswagen AG
+in
+Kassel
+to fill.
+Employment is possible from:
+31.07.2023
+Reference code:
+E-2486/2023
+Your questions answered
+
+Herr Fabian Wenzel
+under the telephone number
+
+
+05361-9-36363
+Diesen Job melden

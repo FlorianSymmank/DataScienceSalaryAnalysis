@@ -1,0 +1,19 @@
+{
+    "job_title": "Data Analyst",
+    "company": "Glooko",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "A degree in a quantitative field, such as Statistics, Economics, Mathematics, Computer Science, Engineering, Quantitative Social Science, or Data Science. See experience requirements for each of the different Levels below.",
+    "skills": [
+        "SQL",
+        "Python",
+        "BI dashboards",
+        "Version control tools",
+        "Bonus: Experience with Metabase",
+        "Bonus: Automated testing frameworks (e.g., Pytest, Unittest, or Nose)",
+        "Bonus: Coding in an IDE (e.g., Pycharm, Visual Studio)",
+        "Bonus: Agile software development experience"
+    ],
+    "date_posted": null
+}

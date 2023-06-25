@@ -1,0 +1,54 @@
+Research Associate (f/m/x)
+Universitätsklinikum Carl Gustav Carus
+Dresden
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+
+The University Hospital Carl Gustav Carus Dresden offers medical care at the highest level of care and covers the entire spectrum of modern medicine. It combines 26 specialist clinics, 17 interdisciplinary centres and six institutes that work closely with the clinical theoretical institutes of the Faculty of Medicine. With 1.410 beds and 201 places for the day-care treatment of patients, it is one of the largest Hospitals in Saxony and the same time the only maximum-care Hospital in eastern Saxony. The National Centre for Tumor Diseases Dresden (NCT/UCC) is a Joint Institution of the German Cancer Research Centre, the University Hospital Carl Gustav Carus Dresden, the Medical Faculty of the Technical University of Dresden and the Helmholtz Centre Dresden-Rossendorf. Our research group Translational Surgical Oncology includes disciplines like computer science, engineering and medicine. Our research goal is to develop and evaluate computer-and robot-assisted systems wich optimize the surgical therapy of the individual patient by turning the available data into useful Information.
+
+At the next possible Point of Start
+
+Research Associate (f/m/x)
+
+Medical Informatics
+
+This full-time-Position is limited for 24 months. An extension is possible.
+
+Scientific collaboration in the department of Translational Surgical Oncology in the area of research transfer into clinical practice, in particular research, development, and integration of translational software components based on artificial intelligence (AI) in the area of robot-assisted surgery:
+
+Development of research designs as well as subsequent scientific processing of the associated research question
+Delvelopment of translational AI software components in the field of robot-assisted surgery with a focus on robustness, accuracy, and real-time capability, taking into account regulatory framework conditions
+Integration of the various software components into the translational ROS Pipeline as well as documentation and bug fixes
+Publication of researach results in scientific Journals
+Initiation and organisation of activities such as scientific lectures, retreats or Seminars
+Scientific exchange and establishment of cooperations with interdisciplinary research partners with regard to translation
+
+Your Profile:
+
+very good programming skills (e.g. Python, C++,...)
+Excellent skills and practical experience in one or more of the following research areas are an advantage: Machine Learning, Computer Vision, Robotics
+Fluency in written and spoken English
+Ability to collaborate in an interdisciplinary environment
+Knowledge of the rules of good scientific practice; basic knowledge of computer applications
+
+We offer:
+
+Activity in leading medical research, teaching and patient care combined with a highly specialised working Environment
+Implementation of own ideas and work in an innovative interdisciplinary Team
+Arrangement of flexible working hours to make the combination of family and career a reality
+Care for your children through partnerships with children´s facilities in the area near of the University Hospital
+Use of company prevention offers, courses and fitness in our health centre Carus Vital
+Retirement for the time after your active working life in the form of a company-supported pension scheme
+Career-oriented further and advanced training with individual planning of your professional Career
+A Position according to the TV-L conditions
+
+Application of women is appreciated. Disabled persons with equal qualification will be preferred.
+
+We kindly ask you to apply preferably via our online form to make the selection process faster and more effective. Of course, we also consider your written application without any disadvantages. We look forward to receiving your application until June 30th, 2023 online with registration number TMO0923717. For further information please contact Ricarda Abdel Bary by telephone 0351-458-5595 or by E-Mail: ricarda.abdelbary@uniklinikum-dresden.de
+
+Diesen Job melden
