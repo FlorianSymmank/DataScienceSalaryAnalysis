@@ -1,0 +1,17 @@
+{
+  "job_title": "Data Engineer",
+  "company": "Raisin GmbH",
+  "location": "10997 Berlin-Kreuzberg",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Bachelors in Mathematics, Computer Science or other relevant quantitative fields",
+  "skills": [
+    "Airflow",
+    "Python programming",
+    "SQL",
+    "AWS",
+    "kubernetes",
+    "Data Engineering"
+  ],
+  "date_posted": "2021-09-22"
+}

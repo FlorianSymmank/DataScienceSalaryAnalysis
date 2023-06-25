@@ -1,0 +1,45 @@
+Educational Data Scientist (m/w/d)
+StackFuel GmbH
+10407 Berlin
+Schnellbewerbung
+Jobbeschreibung
+
+In dieser Position arbeitest Du in einem Team aus Educational Data Scientists an der Erstellung von Lerninhalten auf Basis relevanter Szenarien für Business und Industrie. Du Entwickelst Inhalte für unsere interaktiven Programmieraufgaben im Data Lab sowie Text-, Quiz- und Videoeinheiten für unsere Online-Trainings. Durch deinen Einsatz gestaltest Du das Unternehmen aktiv mit und legst damit den Grundstein für deine Karriere in einem aufstrebenden Startup.
+
+Aufgabenbereiche:
+
+Du bist für die Entwicklung und Umsetzung von interaktiven Lerneinheiten verantwortlich und arbeitest hier bei vornehmlich mit Python (Jupyter)
+Du erstellst Videoskripte, Lehrtexte und Projektaufgaben, die auf realen Datensets und echten Business-Szenarien basieren
+Du konzipierst fachliche Curricula und eine Auswahl von Inhalten aus den Bereichen Data, Coding und AI
+Du bist für die logische Strukturierung und Modularisierung unserer Inhalte verantwortlich, damit unsere Teilnehmenden ihre Lernziele erreichen
+Du entwickelst Storyboards für Projekteinheiten
+Du bist maßgeblich an der Qualitätssicherung und kontinuierlichen Weiterentwicklung bestehender Trainings beteiligt
+Du evaluierst unsere Lerneinheiten datengetrieben
+Du unterstützt unsere Lernenden aktiv über verschiedenste Kanäle
+Das bringst Du mit
+
+
+Du hast ein abgeschlossenes Studium (Master oder PhD) im Fachbereich Data Science, Ökonometrie, Informatik, Wirtschaftsinformatik, Statistik oder ähnliches
+Du verfügst über 1 - 2 Jahre Berufserfahrung im Bereich Data Science, Data Analytics, Business Intelligence oder angrenzenden Fachbereichen
+Idealerweise hast du Erfahrungen als Tutor: in oder wissenschaftliche: r Mitarbeiter: in
+Du beschäftigst dich mit Python und statistischen Verfahren. Du nutzt bereits pandas und sklearn. Weitere Erfahrungen mit Algorithmen der künstlichen Intelligenz, Natural Language Processing und Zeitreihenanalysen sind wünschenswert.
+Kenntnisse in der Back-End-Programmierung und Erfahrung mit Django sind ein Plus
+Du bist in der Lage, die Perspektive unserer Kursteilnehmenden einzunehmen und unterstützt sie gerne im Lernprozess
+Du kannst adressatengerechte Texte auf hohem Niveau verfassen
+Dich zeichnet eine selbstständige und strukturierte Arbeitsweise aus
+Du hast gute Kommunikationsfähigkeiten, Spaß an projektbezogener Arbeit im Team und eine Hands-on-Mentalität
+Du sprichst und schreibst Deutsch auf hohem Niveau (C2)
+Das bieten wir Dir
+
+
+Du erhältst eine hervorragende Perspektive in einem aufstrebenden, schnell wachsenden Unternehmen in der Learning & Development Branche, das sich täglich mit Zukunftsthemen wie Big Data, künstlicher Intelligenz und innovativen Technologien befasst
+Wir bieten dir regelmäßige Schulungen und Workshops auf höchstem Niveau als festen Bestandteil deiner Weiterbildung. Du kannst jederzeit unsere Online-Trainings absolvieren und dich selbst zum Datenexperten weiterbilden
+Du übernimmst vom ersten Tag an Verantwortung und bringst deine eigenen Ideen ein
+Du arbeitest in einem hochmotivierten und smarten Team, das ständig wächst
+Bei uns erlebst du eine offene Feedbackkultur, flexible Organisationsstruktur und Kommunikation auf Augenhöhe
+Du genießt eine flexible Einteilung deiner Arbeitszeit, egal ob du aus dem Home Office arbeitest oder unser cooles Büro im Bergmannkiez in Berlin-Kreuzberg nutzt
+Du entscheidest mit welchem Gerät du in Zukunft arbeiten willst. Lieber Apple oder Windows, du hast die Wahl.
+Arbeiten wo andere Urlaub machen? Nutze unsere Workation Regelung. Mehr dazu erfährst du in deinem ersten Gespräch
+Schone deinen Rücken durch unsere höhenverstellbare Tische im gesamten Büro
+\*Stackfuel gewährleistet die berufliche Gleichstellung von Frauen und Männern. Schwerbehinderte Menschen werden bei gleicher Eignung besonders berücksichtigt\*
+Diesen Job melden

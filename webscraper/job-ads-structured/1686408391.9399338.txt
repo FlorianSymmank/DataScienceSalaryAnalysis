@@ -1,0 +1,18 @@
+{
+    "job_title": "Data Scientist (m/w/d)",
+    "company": "trendtours Touristik GmbH",
+    "location": "Eschborn",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "Erfolgreich abgeschlossenes Studium, z.B. im Bereich Informatik / Mathematik oder vergleichbare Ausbildung Mehrjährige Berufserfahrung im Bereich Data Science, Data Analytics oder Data Engineering Kenntnisse in Aufbau und Erweiterung von skalierbaren Data Warehouses Erfahrung in der Entwicklung und im Betrieb analytischer Anwendungen wie ML-Modelle mittels Python und Cloud-Technologien Erfahrung in Datenmodellierung (Kimball / Dimensionale Modellierung und/oder Data Vault Modelling) Grundverständnis und Freude an der stetigen Weiterentwicklung relationaler Datenbanken Gute Deutsch- und Englischkenntnisse (in Wort und Schrift)\r\n",
+    "skills": [
+        "Python",
+        "Machine Learning",
+        "Data Warehousing",
+        "Data Science",
+        "Cloud Computing",
+        "Data Engineering",
+        "Data Analytics"
+    ],
+    "date_posted": null
+}

@@ -1,0 +1,47 @@
+Software Developer - Backend C++
+Smart Steel Technologies GmbH
+12489 Berlin
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+YOUR TASKS
+
+Design and develop high-performance backend systems using C++ C17 or higher
+Work closely with the development team to ensure seamless integration of the backend with frontend and other components
+Collaborate with the product team to implement and maintain automated deployment pipelines and infrastructure
+Analyze and optimize system performance to ensure that it meets the scalability and availability requirements
+Participate in code reviews and contribute to the development of best practices and coding standards
+Research and implement new technologies and techniques to improve the system
+
+YOUR PROFILE
+
+At least 5 years of experience in developing backend systems
+Strong expertise in C++ programming language and object-oriented design principles
+Solid understanding of database concepts and experience working with SQL databases
+Familiarity with Linux environment and command line interface
+Knowledge of version control systems such as Git
+Experience working in Agile development methodologies
+Excellent problem-solving skills and ability to work in a team environment
+Bachelor's degree in Computer Science or a related field is preferred
+
+BENEFITS
+
+Transparency of business strategies
+Working in our Berlin Office (incl. 2 Home Office days/week)
+Autonomy balanced by responsibility
+Cohesive, multidisciplinary team
+Meaningful industrial problems
+Modern machine learning techniques
+Modern software stack
+Sleek, new office located in Berlin Treptower Park
+Professional educational opportunities
+German language courses and public transport included
+
+About us
+
+Smart Steel Technologies supplies ready-to-use artificial intelligence software products for process optimization in steel mills that lead to improved quality, reduction of energy cost and improvement of CO2 efficiency. The machine learning and data science we employ comes in several varieties: image processing, signal processing, classical supervised modeling, unsupervised methods, and fundamental statistics and probability. We are hiring a talented Engineers and Developer to join our team and help us to further develop our industry leading solutions.
+
+Diesen Job melden

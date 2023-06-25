@@ -1,0 +1,87 @@
+Consultant Data Fabric (w/m/x)
+IBM
+Berlin
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Consultant Data Fabric (w/m/x)
+IBM - Berlin
+Job
+Unternehmen
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Introduction
+IBM Application Consultants arbeiten im Rahmen wichtiger Initiativen direkt mit unseren Kunden. Dabei erhalten Sie die Möglichkeit, sich ein detailliertes Bild ihrer geschäftlichen Problemstellungen zu machen und organisationsbezogene Strategien für die angestrebten Änderungen umzusetzen. Diese umfangreichen Veränderungen erstrecken sich auf Geschäftseinheiten und Branchen rund um den Globus. Dazu benötigen wir Experten, die im Kontakt mit unseren Kunden für Glaubwürdigkeit und Vertrauen sorgen und über Wissen verfügen, mit dem sich ganz individuelle und spezifische Geschäftsanforderungen erfüllen lassen.
+
+Your Role and Responsibilities
+
+
+Daten und künstliche Intelligenz – alle reden darüber, bei uns steckst du mittendrin! Im Bereich IBM Data & AI Expert Labs helfen wir unseren Kunden mit unseren innovativen Softwareprodukten ihre Analytics-Projekte zum Erfolg zu führen. Unsere Mitarbeitenden unterstützen unsere Kunden bei den täglichen Herausforderungen in der IT mit großen Datenmengen.
+
+Wir suchen…
+Zur Verstärkung des Teams suchen wir neue Mitarbeitende an verschiedenen Standorten in Deutschland:
+
+Du zeigst Begeisterung für modernste Software, hast Freude an Innovation und den Willen, dein Können und Wissen einzusetzen und zu erweitern
+
+In deiner Rolle führst du beim Kunden vor Ort anspruchsvolle Projekte zum Erfolg (z.B. Data Fabric Anwendungen, Cloud Data-Lösungen, Big Data und Data Science Projekte, etc.)
+
+Idealerweise zeigst Du auch über Datenbanken hinaus Interesse für Softwarelösungen und unterstützt beim Gestalten von IT-Landschaften im agilen Kundenumfeld oder in Public und Private Clouds
+
+
+Dein Aufgabengebiet…
+
+Beratung rund um IBM DataStage und IBM Watson Knowledge Catalog
+Technische Konzeptionierung von ETL Lösungen, Data Governance Lösungen und Data Fabric Architekturen
+Entwicklung von komplexen ETL Anwendungen
+Entwicklung von umfassenden Data Governance Anwendungen
+Analyse und Optimierungen bestehender Anwendungen
+
+
+Wir bieten dir…
+
+Spannende Projekte bei namhaften Kunden
+
+Ein kollegiales Team auf das man sich verlassen kann
+
+Ein speziell auf dich zugeschnittener Einstieg, der deine persönlichen Interessen und Stärken berücksichtigt
+
+Persönliche Karriereentwicklung in einem global agierenden Unternehmen, die sich deiner Lebensplanung anpasst
+
+Großen Freiraum, deine eigene Kreativität einzubringen und Verantwortung zu übernehmen
+
+Mentoring und zielgerichtete Ausbildung in neuen Themen
+
+Eine Umgebung, in der Wachstum und neue Ideen erwünscht sind
+
+
+Required Technical and Professional Expertise
+
+Bachelor- oder Masterabschluss in (Wirtschafts-)Informatik mit Schwerpunkt auf Informatik, und/oder Big Data / Datenbanken / Datenmanagement oder vergleichbare Kenntnisse und Erfahrungen
+Möglichst Kenntnisse und Erfahrungen zu Datenintegrations- und Datenkatalog Software, vorzugsweise IBM DataStage und IBM Watson Knowledge Catalog
+Möglichst Kenntnisse und Erfahrungen zu Datenbanken (Datenmodellierung, SQL), vorzugsweise IBM DB2
+Kenntnisse zu Programmierung mit Python
+Kenntnisse zu Dev Ops Prinzipien
+Kenntnisse zu Linux (möglichst RHEL, Bash Scripting), Kubernetes und allgemeine Container-Technologien (möglichst OpenShift), Microservices
+Eigenverantwortliches Arbeiten, hohe Leistungsbereitschaft, Teamfähigkeit und Flexibilität
+Sehr gute Deutschkenntnisse und sehr gute bzw. gute Englischkenntnisse
+
+Preferred Technical and Professional Expertise
+
+
+About Business Unit
+IBM’s Cloud and Cognitive software business is committed to bringing the power of IBM’s Cloud and Watson/AI technologies to life for our clients and ecosystem partners around the world. IBM provides you with the most comprehensive and consistent approach to development, security and operations across hybrid environments—with complete software solutions for business and IT operations, development, data science, security, and management. Our experts and software capabilities help organizations develop applications once and deploy them anywhere, integrate security across the breadth of their IT estate, and automate operations with management visibility. With IBM, you also have access to new skills and methods, governance and management approaches, and a deep ecosystem of industry experts and partners.
+
+Your Life @ IBM
+Was ist für dich wichtig auf der Suche nach deiner nächsten beruflichen Herausforderung? Du willst mit deiner Arbeit die Welt verändern und suchst einen spannenden Job, der dir vielfältige Karriere- und Entwicklungsmöglichkeiten bietet? Du suchst einen Arbeitgeber mit passenden Werten, wie Offenheit, Respekt und Vertrauen - wo jeder eine Stimme hat? In diesem Fall könnte IBM deine nächste berufliche Herausforderung sein.
+
+About IBM
+Unsere größte Erfindung sind die IBMer. Wir glauben daran, dass Fortschritt durch progressives Denken, Führen, Lenken und Handeln entsteht. IBMer glauben, dass Intelligenz, Verstand und Wissenschaft die Wirtschaft, die Gesellschaft und die Lebensbedingungen aller verbessern. Uns unermüdlich neu erfindend sind wir seit 1911 der größte Technology und Consulting Arbeitgeber der Welt – mit 380.000 IBMern sind wir für unsere Kunden aus über 170 Ländern der Welt da.
+
+Location Statement
+IBM ist es wichtig, Ihnen ein Arbeitsumfeld zu bieten, in dem Sie Ihr ganzes Potenzial voll entfalten können und die Möglichkeit haben, Ihren Arbeitstag flexibel zu gestalten. Wenn Sie Interesse daran haben, sprechen Sie uns bitte an, um herauszufinden, welche Gestaltungsmöglichkeiten im aktuellen Arbeitsumfeld bestehen.
+
+Being You @ IBM
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+Diesen Job melden

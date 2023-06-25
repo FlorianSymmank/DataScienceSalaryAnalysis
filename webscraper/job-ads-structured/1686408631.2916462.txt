@@ -1,0 +1,15 @@
+{
+	"job_title": "Master's Thesis on Multi-dimensional Classification",
+	"company": "Tomra",
+	"location": "22880 Wedel",
+	"salary_euro": null,
+	"employment_type": "Praktikum",
+	"requirements": "Student in the field of Computer Science, Electrical Engineering, Mechatronics, Robotics, or a related field of study\nGood technical understanding\nStrong interest in new technologies\nHighly motivated and self-driven\nAbility to work analytically\nGood written and spoken English",
+	"skills": [
+		"Computer Science",
+		"Electrical Engineering",
+		"Mechatronics",
+		"Robotics"
+	],
+	"date_posted": null
+}

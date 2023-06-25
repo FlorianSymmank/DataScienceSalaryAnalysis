@@ -1,0 +1,20 @@
+{
+  "job_title": "Scientist/DevOps in E-Science Section",
+  "company": "Leibniz Institut für Astrophysik",
+  "location": "14482 Potsdam",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": null,
+  "requirements": "A university degree is required.",
+  "skills": [
+    "Python",
+    "Web Technology",
+    "RDBMs",
+    "SQL",
+    "Astrophysics",
+    "Natural Sciences"
+  ],
+  "date_posted": null
+}

@@ -1,0 +1,20 @@
+{
+   "job_title": "PhD student in Cognitive neuroscience of real-world vision",
+   "company": "Justus-Liebig-Universität Gießen",
+   "location": "Deutschland",
+   "salary_euro": {
+      "amount": null,
+      "period": null
+   },
+   "employment_type": "Befristeter Vertrag",
+   "requirements": "Completed Master‘s or equivalent university degree in Psychology, Neuroscience, Computer Science, Biology (or a related discipline), with very good grades",
+   "skills": [
+      "Knowledge in (visual) cognitive neuroscience",
+      "Experience with collecting neuroscientific data (EEG and/or fMRI)",
+      "Experience with EEG and/or fMRI data analysis",
+      "Good programming skills (in Matlab and/or Python)",
+      "Excellent command of the written and spoken English language",
+      "Ability to work reliably and independently, as well as within a team"
+   ],
+   "date_posted": "2023-06-09"
+}

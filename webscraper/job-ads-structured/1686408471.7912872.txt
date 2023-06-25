@@ -1,0 +1,14 @@
+{
+    "job_title": "Senior Data Scientist",
+    "company": "ESE Engineering und Software-Entwicklung GmbH",
+    "location": "Frankfurt am Main",
+    "salary_euro": null,
+    "employment_type": "Full-time employee",
+    "requirements": "Abgeschlossenes Studium der Informatik, Physik, Mathematik o.ä.\nMehrjährige Berufserfahrung in der Datenanalyse und Datenmodellierung\nFundierte Fachkenntnisse in R, Python, Matlab o.ä.\nKenntnisse in den Bereichen Data-Mining, Predictive-Analytics und Machine Learning\nKenntnisse im Bereich der Object Detection\nSelbstständige und prozessorientierte Arbeitsweise sowie Kommunikations- und Teamfähigkeit\nDu besitzt eine gute Aufnahmefähigkeit und Interesse daran, Dir Wissen in unterschiedlichsten Domänen anzueignen\nSehr gute Deutsch- und Englischkenntnisse in Wort und Schrift",
+    "skills": [
+        "Data Science",
+        "Machine Learning",
+        "Predictive Maintenance"
+    ],
+    "date_posted": "2021-10-11"
+}

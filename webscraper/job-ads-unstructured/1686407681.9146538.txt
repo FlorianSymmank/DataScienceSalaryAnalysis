@@ -1,0 +1,63 @@
+Werkstudent:in Data Science
+esentri AG
+76275 Ettlingen
+Teilzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Teilzeit
+Unsere DNA ist digital.
+
+Und das nutzen wir, um die Zukunft zu gestalten. Als Architekt:innen der digitalen Zukunft. Wir richten Kund:innen umfassend auf die Anforderungen der digitalen Welt aus und beraten Sie entlang ihrer gesamten Wertschöpfungskette - immer mit dem Menschen im Mittelpunkt unserer Überlegungen. Denn für uns ist digital nicht nur eine Frage der Technologie, sondern auch der Kultur und des Mindsets aller Mitarbeiter:innen. So bringen wir IT-Projekte zum Erfolg und gestalten die Skyline der Digitalisierung.
+
+Das Coole an dem Job?
+
+Im Geschäftskreis Enterprise Analytics & Sustainabilty helfen wir unseren Kund:innen, aus ihren Daten nachhaltigen, messbaren Mehrwert zu erzeugen. Wir unterstützen im Data Engineering bei der Integration heterogener Datenquellen und dem Aufbau einer modernen Infrastruktur, sowie im Bereich Data Science bei der Lösung konkreter Probleme mit modernen analytischen Methoden. Das Thema Nachhaltigkeit liegt uns dabei sehr am Herzen - direkt, z.B. durch Reduktion von Ausschuss mithilfe smarter Optimierungen, oder indirekt durch die geeignete Auswahl von ressourcenschonenden Tools und Modellen.
+
+Deine Aufgaben: daran kannst Du bei uns mitgestalten
+
+Du unterstützt uns bei internen oder Kundenprojekten und wendest dabei Data Science Technologien an.
+Du erarbeitest anhand verschiedener Modelle Lösungen für unterschiedlichste Fragestellungen.
+Du kümmerst Dich an der Seite unserer erfahrenen Kollegen um Data Engineering, Prescriptive Analytics und die Entwicklung und Anwendung von Modellen des maschinellen Lernens.
+Du bringst Dich ins Team ein und saugst Wissen auf – langweilig wirdes Dir bei uns nicht!
+
+Was wir uns von Dir wünschen
+
+Du studierst Informatik, Wirtschaftsinformatik, Mathematik, Physik oder Wirtschaftsingenieurwesen (oder vergleichbar) und bist schon in einem fortgeschrittenen Semester (idealerweise im Masterstudium).
+Du bringst erste Praxiserfahrung im IT-Umfeld mit.
+Du verfügst bereits über gute Kenntnisse im Bereich Data Science / Machine Learning.
+Gute Kenntnisse in Python und den gängigen Frameworks (numpy, pandas, scikit-learn, matplotlib, etc.).
+Ein klares Bild von Selbstorganisation, Transparenz und hohes Verantwortungsbewusstsein zeichnen Dich aus.
+Du verfügst über sehr gute Deutschkenntnisse.
+
+Darum willst Du Teil unseres Teams werden
+
+Bei uns hast Du Raum für Gestaltung und Weiterentwicklung: mit spannenden Projekten, intensivem Wissensaustausch, individueller Weiterbildung und unseren Duesentrieb Camps.
+Du bekommst ein tolles Rundum-Paket: mit attraktivem Gehalt & tollen Benefits, der Möglichkeit remote zu arbeiten und mit einer hervorragenden technischen Ausstattung.
+Wir ermöglichen Dir die Flexibilität, die Du brauchst: weil uns Deine Work-Life-Balance wichtig ist. Wir halten Schritt mit Deinem Leben und schauen gemeinsam, was Dir wichtig ist und wie viel Flexibilität Du brauchst.
+Du trägst Verantwortung: - genau wie jede:r hier, denn wir leben das Prinzip der kollegialen Führung und zwängen niemanden in strenge Hierarchien. Jede:r von uns gestaltet eigenverantwortlich mit.
+
+Deine Team-Kolleg:innen freuen sich auf Dich
+
+Matthias ist Experte für analytisches Customer Relationship Management und entwickelt mit unseren Kunden Strategien im Bereich Data & AI.
+Nico hat seinen Hintergrund im Bereich Recommender Systems / CRM und analysiert aktuell in einem Industrial-Analytics-Projekt Sensordaten mithilfe statistischer Methoden.
+Gregor kümmert sich in seiner Rolle als Data Engineer darum, dass Daten zeitnah, automatisch, korrekt und nutzerfreundlich zur Verfügung stehen.
+Wolfgang hat in seiner über 30-jährigen Erfahrung als Software-Entwickler eine Vielzahl an verschiedenen Sprachen und Systemen entwickelt und integriert.
+
+...und Einige mehr!
+
+Wir sehen Vielfalt als Bereicherung. So vielfältig wie unsere spannenden IT-Projekte, sind auch unsere Mitarbeiter:innen!
+
+Wie wir zusammenkommen
+
+Wenn Du im Herzen Tekkie bist und Bock hast auf (persönliche) Entwicklung, dann komm in unser Team und mach mit uns alles möglich!
+
+Noch Fragen? Dein:e Ansprechpartner:in
+
+Moritz Reid
+Senior HR Expert | Future Relations
+0151-51518725
+Zukunft@esentri.com
+
+Diesen Job melden

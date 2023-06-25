@@ -1,0 +1,25 @@
+{
+    "job_title": "Technical Project Manager (Service Packaging)",
+    "company": "Tesla",
+    "location": "Grünheide (Mark)",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": "Vollzeit",
+    "requirements": "Master’s degree in science or engineering or equivalent experience or evidence of exceptional ability. solid experience in packaging function, material planning, supply chain, manufacturing, or business operations. Working knowledge of material flow, supply chain, purchasing and transportation management systems Structured, data-driven and quantitative problem solving approach. Experience with process improvement toolkits (Lean, Six Sigma, Kaizen etc.) SAP or Oracle ERP knowledge, paired with ability to apply it to custom built systems. SQL, Programming (R, Python) and Tableau skills",
+    "skills": [
+        "data analysis",
+        "project management",
+        "packaging engineering",
+        "supply chain management",
+        "process optimization",
+        "problem solving",
+        "ERP systems",
+        "SQL",
+        "R",
+        "Python",
+        "Tableau"
+    ],
+    "date_posted": null
+}

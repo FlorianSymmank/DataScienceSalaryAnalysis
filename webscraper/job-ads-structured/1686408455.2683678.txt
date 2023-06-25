@@ -1,0 +1,19 @@
+{
+   "job_title": "Praktikum im Bereich Digital Transformation - Data Analytics / Data Science",
+   "company": "A. Lange und Söhne",
+   "location": "Glashütte, SN, DE",
+   "salary_euro": null,
+   "employment_type": "Praktikum",
+   "requirements": "Sie haben mindestens drei Fachsemester eines Studiums der Mathematik, Wirtschaftsmathematik, Statistik, Informatik, Wirtschaftsinformatik, Wirtschaftsingenieurwesen oder BWL absolviert Idealerweise bringen Sie erste relevante praktische Erfahrung durch vorhergehende Praktika mit Sie besitzen Kenntnisse von Tools zur Datenauswertung und -visualisierung Sie haben mindestens fundierte Excel-Kenntnisse, vielleicht haben Sie schon erste Programmierkenntnisse (Python, R) gesammelt Das Analysieren komplexer Zusammenhänge ist Ihre Stärke und Sie haben Spaß am Lösen von herausfordernden Problemstellungen. Sie besitzen ein hohes Maß an Selbstständigkeit und Proaktivität Sie sind teamfähig, offen und kommunikationsstark Ihre Deutschkenntnisse belaufen sich mindestens auf Level B2",
+   "skills": [
+      "Data Analytics",
+      "Data Science",
+      "Optimierung von Geschäftsprozessen",
+      "Datenanalyse und -interpratation",
+      "Tools zur Datenauswertung und -visualisierung",
+      "Analyse von großen und unstrukturierten Datenbeständen",
+      "Dashboard und Reporting-Erstellung",
+      "Präsentation von Ergebnissen"
+   ],
+   "date_posted": null
+}

@@ -1,0 +1,21 @@
+{
+  "job_title": "Student Research Assistant – Online Experiments on AI and Culture",
+  "company": "Max-Planck-Institut für Bildungsforschung",
+  "location": "14195 Berlin",
+  "salary_euro": {
+    "amount": 14.33,
+    "period": "hour"
+  },
+  "employment_type": "part_time",
+  "requirements": "Currently enrolled in a Master's program at a German university, pursuing social science, computer science, or a related field",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "Web development",
+    "Machine learning",
+    "Statistical methods",
+    "Data visualization",
+    "Behavioral studies"
+  ],
+  "date_posted": "2023-05-28"
+}

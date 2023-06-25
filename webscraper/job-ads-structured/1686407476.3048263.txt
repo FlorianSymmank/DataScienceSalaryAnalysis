@@ -1,0 +1,10 @@
+{
+    "job_title": "Data Scientist",
+    "company": "AppLike GmbH",
+    "location": "Hamburg",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Master’s or PhD degree in the STEM field, 2 years of experience manipulating data sets and building statistical and machine learning models",
+    "skills": ["Python", "R", "Scala", "Spreadsheets", "SQL"],
+    "date_posted": null
+}

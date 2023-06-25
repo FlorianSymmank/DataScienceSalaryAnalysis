@@ -1,0 +1,10 @@
+{
+  "job_title": "Software Developer Backend (m/f/d)",
+  "company": "CID GmbH",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": "Vollzeit, Festanstellung",
+  "requirements": "University or technical college degree in computer science or comparable discipline and practical experience with C# and/or C/C++ and common software design patterns. Good spoken and written German and English complete your profile.",
+  "skills": ["C#", "C/C++", "data structures", "technical systems", "Service-oriented architecture (SOA)"],
+  "date_posted": "null"
+}

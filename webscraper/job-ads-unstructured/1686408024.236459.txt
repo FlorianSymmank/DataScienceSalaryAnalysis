@@ -1,0 +1,47 @@
+Machine Learning Engineer (m/f/d)
+delphai by AtomLeap GmbH
+10999 Berlin-Kreuzberg
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Schichten und Arbeitszeiten
+Überstunden
+Your mission
+
+Apply advanced knowledge of data extraction and processing and build machine learning models that leverage our unique firmographics data
+Implement cutting-edge NLP models from research in practical and scalable algorithms
+Build and own end-to-end infrastructure from exploring data, designing, training, testing and deploying models to monitoring accuracy rates over time
+Be a self-starter, eager to learn, and motivated by a passion for developing the best possible solutions to problems
+Closely collaborate with a talented cross-functional team of data, MLOps, and software engineers to bring your algorithms to life
+
+Your profile
+
+Bachelor or master’s degree in statistics, econometrics, computer science, electrical or computer engineering, computational linguistics, or a related field
+Minimum of 3 years hands-on-experience developing and deploying ML or DL models and developing applications using AI and NLP in a professional industrial setting
+Demonstrated ability to design, implement, and evaluate information extraction models (NEL, key phrase extraction, relation extraction)
+Experience working with and processing large text data sets or doing large-scale quantitative analysis
+Proficiency in Python and experience with common ML frameworks and tools, libraries, data structures, and data modeling
+Ability to write robust, production-ready code and familiarity with software engineering and architecture best practices
+Up-to-date with state-of-the-art NLP breakthroughs, models, and architectures
+A proactive, self-motivated, and flexible approach with the ability to work in a fast-paced startup environment
+Strong communication skills and ability to work with multiple stakeholders
+Excellent interpersonal skills and ability to work independently as well as within your team
+
+Why us?
+
+High level of responsibility and autonomy with a steep learning curve
+Generous educational budget tailored to your personal career goals
+Flat hierarchies and short decision paths
+Five weeks of paid vacation per year
+Fruit basket and breakfast cereal bar
+Language courses
+Generous budget to spend on healthcare needs
+
+About us
+
+delphai is a market intelligence software platform that uses AI to provide insights on global innovation trends, market developments, and companies. Our customers are business leaders working in the strategy, innovation, and digitization departments of SMBs and large corporations. delphai helps them make informed decisions, answer strategic questions, and mitigate risks.
+
+Diesen Job melden

@@ -1,0 +1,65 @@
+Quantitative Developer (m/f/d) | Frankfurt | Berlin
+Solactive AG
+60325 Frankfurt am Main
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Company Description
+
+Solactive AG is a FinTech company operating globally and growing at a fast pace, headquartered in Frankfurt. Since 2007, we develop tailor-made and multi-asset class index solutions for ETFs and other index-linked investment products for the leading global investment banks and asset managers as our clients. Flexibility, efficiency and the highest quality are at the heart and soul of our business philosophy. We are now hiring!
+
+Job Overview
+
+We at Solactive are successfully challenging the status quo in the financial industry for over 15 years now. Are you interested in becoming a part of our story?
+
+Are you an experienced developer who is open to applying your skills, passion and curiosity to the Fintech industry?
+Does building and implementing diverse financial index strategies of different degrees of complexity sound interesting to you?
+Do you want to be part of the Index Architecture Team that develops, extends and maintains Solactive’s index modelling platform?
+If you can find yourself in these questions and this sounds like an interesting domain for your next step in your career, we are looking forward to your application!
+
+
+Your Tasks
+
+Identify and implement various index strategies as part of Solactive’s Data Mesh
+Develop and maintain Python libraries to improve Solactive’s toolset landscape
+Build and maintain CI/CD pipelines for automated deployment and calculation of indices
+Research new solutions to improve our technical setup on a continuous basis
+Collaborate with others on the team as well as the wider company by sharing your learnings and have the opportunity to become an in-house consultant for technical excellence and software engineering best practices
+
+
+Your Profile
+
+Proficiency with Python or any low-level programming language such as C++, Java or Rust
+Detail-oriented, diligent and creative with a keen interest in challenging the status quo
+Intrigued with the financial indexing industry
+Academic degree in Computer Science, Mathematics, Physics, or equivalent field
+You can work well in a team as well as independently
+Good oral and written communication skills in English
+
+
+Our Offer
+
+Be part of the Solactive family, a motivated team with an international setting
+Get to know the dynamics of an established, successful FinTech company
+Free choice of your gears to work comfortably and effectively
+Experience a modern start-up culture with a flat hierarchy
+Seize the opportunity to develop personally and take over responsibility from day one
+Flexible work environment with a hybrid work model and 30 annual vacation days
+Receive numerous benefits (e.g. jobticket, regular staff parties, access to Corporate Benefits, ergonomic set-up, employee lounge)
+
+Your Application
+
+Interested? Don’t miss your chance and directly apply online by clicking the “Apply now” button on our website and filling in the application form. Please make sure to also upload your CV, a cover letter is not compulsory. Your contact person is Roopali Sahoo (careers@solactive.com). We are looking forward to hearing from you!
+
+For further information, please visit: www.solactive.com/career/
+
+To all recruitment agencies: We do not accept unsolicited CVs/Candidate Profiles. Please do not forward any CVs/Candidate Profiles to any Solactive employee in any location. Any requests for cooperation have to be addressed directly to HR. Any costs associated with unsolicited CVs/Candidate Profiles are not being covered by Solactive.
+
+About us
+
+Solactive AG is a FinTech company operating globally and growing at a fast pace, headquartered in Frankfurt. Since 2007, we develop tailor-made and multi-asset class index solutions for ETFs and other index-linked investment products for the leading global investment banks and asset managers as our clients. Flexibility, efficiency and providing the highest quality are at the heart and soul of our business philosophy. We are now hiring!
+
+Diesen Job melden

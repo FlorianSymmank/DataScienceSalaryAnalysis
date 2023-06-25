@@ -1,0 +1,10 @@
+{
+    "job_title": "Student assistant for the programming of laboratory experiments",
+    "company": "Max-Planck-Institut zur Erforschung von Gemeinschaftsgütern",
+    "location": "53113 Bonn",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Interest in experimental research",
+    "skills": ["programming", "Python", "data science"],
+    "date_posted": "2021-10-11"
+}

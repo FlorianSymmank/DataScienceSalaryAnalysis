@@ -1,0 +1,10 @@
+{
+    "job_title": "Machine Learning Engineer",
+    "company": "Redcley",
+    "location": "München",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "BS in computer science (with Machine Learning focus)\n3+ years experience in software development\nStrong algorithm development experience\nSkills with Java, Python, R or similar programming language\nPredictive maintenance experience\n",
+    "skills": ["Java", "Python", "R", "predictive maintenance", "numeric and visual anomaly detection", "training a deep neural network", "predictive modeling and analysis"],
+    "date_posted": null
+}

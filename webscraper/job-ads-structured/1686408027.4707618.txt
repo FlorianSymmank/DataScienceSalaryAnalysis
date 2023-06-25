@@ -1,0 +1,20 @@
+{
+    "job_title": "Data Scientist",
+    "company": "Receeve GmbH",
+    "location": "20099 Hamburg",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Minimum 3 years of experience within data science. Proficiency in Python, SQL, TensorFlow. Excellent storytelling and visualization skills. Understanding of Domain Driven Design and Event Driven Architecture. Experience with multi-tenant Big Data in the cloud. Experience productizing work with engineers. Ability to build and improve various ML models (Tensorflow, Scikit-learn).",
+    "skills": [
+        "Python",
+        "SQL",
+        "TensorFlow",
+        "storytelling",
+        "visualizations",
+        "Domain Driven Design",
+        "Event Driven Architecture",
+        "Big Data",
+        "machine learning"
+    ],
+    "date_posted": "2022-10-13"
+}

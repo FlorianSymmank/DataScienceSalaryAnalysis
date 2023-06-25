@@ -1,0 +1,16 @@
+{
+    "job_title": "»Quantum computing - potential applications for the manufacturing industry«",
+    "company": "Fraunhofer-Gesellschaft",
+    "location": "Aachen",
+    "salary_euro": null,
+    "employment_type": "thesis",
+    "requirements": "You are studying mechanical engineering, electrical engineering, physics, computer science, CES or a comparable subject\nYou are interested in the use of future technologies and their strategic implications for the industry\nVery good language skills in German and/or English",
+    "skills": [
+        "mechanical engineering",
+        "electrical engineering",
+        "physics",
+        "computer science",
+        "CES"
+    ],
+    "date_posted": null
+}

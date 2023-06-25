@@ -1,0 +1,59 @@
+Data Integration Analyst (f/m/d)
+Awin
+Berlin
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+Purpose of Position:
+
+As a Data Integration Analyst, your responsibility is to plan, define, and coordinate the integration of new data points, data applications and/or external data from various sources into Awin's data warehouse environment. Within the role, you take over the responsibilities of a Product Owner in a small developer group.
+
+Key Tasks:
+
+Collect requirements/requests for any type of data warehouse enhancement or data project in a structured and focused way
+Outline business and technical specification documents in order to translate data projects into action
+Manage data projects and oversees engineering work in order to support and remove impediments
+Present findings, specifications and project plans clear and confident to stakeholders
+Proactively identify additional data points, data quality issues, reporting gaps and improvement potential
+Manage daily requests and oversees ticket backlog towards engineering teams
+Test deploy packages in order to assure the best data quality possible
+Manage projects, conflicts and escalation across teams and departments by following processes in line with the department strategy
+Provide guidance and support to less senior team members
+
+Skills & Expertise:
+
+2+ years' working experience as Data Integration Analyst, (Business) Data Analyst, Data Engineer or similar
+Bachelor degree or higher in data science, data engineering, business intelligence, business administration or similar, or strong work experience with a focus on data/business intelligence/analytics is preferred
+SCRUM/Kanban experience (PO certificate is a plus)
+Advanced data and data modelling skills, and knowledge of dimensional modelling is preferred
+Advanced database and SQL skills
+Profound knowledge of analytics tools, in-house reporting (Tableau, Power BI) & processes, ETL, and Data Warehousing concepts
+Experience with Microsoft tech stack (SSIS/ADF and SSAS/AAS) and Microsoft Modern Data Warehouse technology
+Interested in cloud solutions (Azure and AWS), real-time BI, data lake infrastructures, big data, data mining, machine learning and other data science related topics
+Data bricks, Python, Spark, JSON experience is a plus
+Proactive approach to tasks & challenges, and a strong customer focus and service attitude
+Fluency in English is required, German is a plus
+
+Our Offer
+
+Flexi-Week and Work-Life Balance: We prioritise your mental health and wellbeing, offering you a flexible four-day Flexi-Week at full pay and with no reduction to your annual holiday allowance. We also offer a variety of different paid special leaves.
+Flexi-Office: Do you prefer to work from our cool office, from home, or in a completely different environment? With us, the choice is yours. We offer the flexibility to work wherever you want within our Awin locations.
+Welfare: We provide you with a life assurance, travel insurance and a private health insurance that covers several types of health, vision, and dental treatments. Furthermore, you can take advantage of our Cycle to Work Scheme or Season Ticket Loan.
+Health & Well Being: With our support and access to various initiatives and sports offers, you can devote yourself to your mental and physical well-being.
+Development: We've built our extensive training suite Awin Academy to cover a wide range of skills that nurture you professionally and personally, with trainings conveniently packaged together to support your overall development. You can also improve your English skills by participating in our local language course.
+Remote Working: You will receive a monthly allowance to cover part of your running costs. In addition, we will support you in setting up your remote workspace appropriately.
+Appreciation: Thank and reward colleagues by sending them a voucher through our peer-to-peer program and show your appreciation for colleagues who have gone the extra mile to support you.
+
+
+
+Established in 2000, Awin is proud of our dynamic, social and inclusive culture.
+
+Like all businesses, we've had to adapt and nurture our culture in a virtual environment. Our virtual 'Life @ Awin' hub brings our colleagues from across the globe together for various social activities.
+
+Diversity & Inclusion are paramount to us, and we proudly pursue and hire diverse team members. We champion uniqueness and authenticity; this is who we are at our core. Our network of affiliate partnerships are diverse and transparent, as are the employees powering our vision to build the world's leading open partner ecosystem. We welcome all backgrounds, identities, and experiences. If you need support at any point in the application or interview process, please let us know.
+
+Apply now to begin the next stage of your career at a progressive company that supports both your professional and personal development.
+
+#LI-AM1
+
+Diesen Job melden

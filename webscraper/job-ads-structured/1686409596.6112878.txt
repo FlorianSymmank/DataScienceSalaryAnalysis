@@ -1,0 +1,21 @@
+{
+    "job_title": "DevOps for Biometric Devices",
+    "company": "Mühlbauer GmbH & Co. KG",
+    "location": "93426 Roding",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": null,
+    "requirements": "BSc/MSc in computer science, engineering or relevant field",
+    "skills":  [
+        "C++",
+        "STL",
+        "OpenCV",
+        "Crypto++",
+        "gSOAP",
+        "OpenSSL",
+        "ICAO 9303"
+    ],
+    "date_posted": null
+}

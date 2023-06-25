@@ -1,0 +1,38 @@
+PhD Position for Pulse Sequence Programming and Image Reconstruction (m/f/w)
+Universitätsklinikum Freiburg
+79110 Freiburg
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Schichten und Arbeitszeiten
+Montag bis Freitag
+The group Experimental Radiology at the Department of Radiology in the University Medical Center Freiburg is looking to fill a
+PhD Position for Pulse Sequence Programming and Image Reconstruction (m/f/w)
+Background:
+In our research program we try to improve the diagnostic potential of MRI by introducing novel methods and technology and translate those to cutting edge clinical and scientific research. We combine our expertise in MR physics, computer science, radio frequency and microwave engineering, electromagnetics, microstructure technology, and image processing to overcome the challenges of the diagnostic and interventional MRI and introduce innovative techniques and hardware that can shape the future of healthcare. In our department we are working on MRI technologies and applications since the 1980s. Therefore, we operate up-to-date research and clinical MRI systems, covering a magnetic field range from 1.5T to 9.4T, and fully-equipped chemical, electronics, mechanical, radio frequency and electromagnetic compatibility labs.
+This project focuses on pulse sequence and image reconstruction for highly accelerated MRI based on previous work (Ilbey S, et al. Magn Reson Med. 2022; 87(6):2685-96) using high-frequency gradient inserts, and multi-component complex model to extract myelin fraction using machine learning.
+What we offer:
+emerging field of research in an interdisciplinary dynamic research environment
+national and international co-operations (visits supported)
+competitive salary (TV-L, 65%)
+What you will be doing:
+developing data acquisition techniques using Siemens’ pulse sequence development environment in C++
+performing quantitative and functional MRI measurement
+improving image reconstruction technique
+presenting these results in form of scientific publications and conference papers
+The successful candidate should have an interest and some initial experience/background in:
+medical physics
+programming (C++ and/or MatLab)
+The starting date is negotiable.
+If you have an interest and/or experience in MRI, motivation to develop high quality image acquisition and reconstruction tools using cutting-edge hardware and facilities, please submit your application and documents (short CV, 2 references, B.Sc. and M.Sc. transcripts) until 16.06.2023.
+For further Information write us an email:
+Prof. Dr. Michael Bock
+michael.bock@uniklinik-freiburg.de
+Dr. Ali C. Özen
+ali.oezen@uniklinik-freiburg.de
+General information: Salary is assigned according to a pay scale. Unless prevented by operational or legal reasons, full-time positions are generally open to those wishing to job share. Where two candidates are equally suitable for a post, severely disabled candidates are given priority. Employment decisions are made by the Personnel Department.
+Diesen Job melden

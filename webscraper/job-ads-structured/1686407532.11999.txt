@@ -1,0 +1,10 @@
+{
+    "job_title": "Junior Frontend developer (m/f/d)",
+    "company": "AlignTech",
+    "location": "14167 Berlin",
+    "salary_euro": null,
+    "employment_type": "Full-time",
+    "requirements": "1+ years of relevant experience as a Frontend Developer, strong knowledge of TypeScript & React technology stack and building and maintaining complex React codebases (VueJS is a plus), self-confident and open-minded and see yourself as a team player towards customers and colleagues, fluent in English, experienced in automated tests, mathematical / algorithmic background, knowledge of 2D/3D graphics, Canvas and WebGL are good pluses, practical communication skills, ability to communicate concepts and ideas",
+    "skills": ["TypeScript", "React", "VueJS", "automated tests", "mathematical / algorithmic background", "2D/3D graphics", "Canvas", "WebGL"],
+    "date_posted": "2021-10-25"
+}

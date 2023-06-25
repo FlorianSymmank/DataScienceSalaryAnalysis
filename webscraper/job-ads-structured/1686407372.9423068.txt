@@ -1,0 +1,17 @@
+{
+    "job_title": "LifeSaver Software Engineer or Data Scientist Working Student / Intern (d/f/m)",
+    "company": "Airbus Urban Mobility GmbH",
+    "location": "München",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": "Teilzeit",
+    "requirements": "Pursuing Master’s or Bachelor's degree in Computer Science, Engineering, Mathematics or a related field",
+    "skills": [
+        "Python",
+        "Java",
+        "JavaScript"
+    ],
+    "date_posted": null
+}

@@ -1,0 +1,15 @@
+{
+  "job_title": "Proteomics data scientist (m/f/d)",
+  "company": "Bruker",
+  "location": "28359 Bremen",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Academic degree in proteomics with a strong emphasis on data analysis",
+  "skills": [
+    "data science",
+    "computational bioinformatics",
+    "biostatistics",
+    "Python programming"
+  ],
+  "date_posted": "2021-11-01"
+}

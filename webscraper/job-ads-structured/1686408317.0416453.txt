@@ -1,0 +1,19 @@
+{
+  "job_title": "Research Fellow for a project on \u201cResponsible Algorithms\u201d (f/m/d)",
+  "company": "Berlin Institute of Health at Charit\u00e9 (BIH)",
+  "location": "10178 Berlin",
+  "salary_euro": {
+                  "amount": null, 
+                  "period": null
+                  },
+  "employment_type": "Teilzeit",
+  "requirements": "Successfully completed scientific university studies (Master) in artificial intelligence, computer science with a focus on artificial intelligence, (health) data science, ethics, medicine, a life science or another relevant discipline. Very good English skills - both written and spoken.",
+  "skills": [
+            "Conduct of systematic reviews",
+            "Workshop facilitation",
+            "Design, especially of digital health and/or AI tools",
+            "(AI) ethics",
+            "Applied machine learning based AI methodologies, preferably in the healthcare context"
+            ],
+  "date_posted": null
+}

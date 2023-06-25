@@ -1,0 +1,10 @@
+{
+  "job_title": "Clinical Programmer (MDR)",
+  "company": "Cytel, Ingress-Health HWM GmbH",
+  "location": "Deutschland",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Bachelor’s degree or equivalent, preferably in a scientific discipline such as Statistics, Computer Science, Mathematics, etc.\nAdvanced Data Visualisation tool experience (Spotfire, PowerBI, Tableau)\nClinical knowledge and/or knowledge of different data models.\nSolid experience of CDISC Standards (SDTM/ADaM)\nAbility to work effectively and successfully in a globally dispersed team environment with cross-cultural partners.",
+  "skills": ["CDISC", "SDTM", "ADaM", "Data Visualisation", "Spotfire", "PowerBI", "Tableau"],
+  "date_posted": null
+}

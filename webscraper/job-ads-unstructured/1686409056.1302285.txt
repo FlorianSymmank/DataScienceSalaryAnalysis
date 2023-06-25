@@ -1,0 +1,42 @@
+Bachelorand/Masterand (m/w/d)
+VARTA Storage GmbH
+86720 Nördlingen
+Homeoffice
+Vollzeit, Teilzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Teilzeit
+In order to grow together and to take on the challenges of tomorrow, we are looking for you for our location in Nördlingen
+
+Bachelorand/Masterand (m/w/d)
+
+We are empowering independence.
+
+For our customers through our battery technologies. Our employees benefit from more perspective. As a traditional company, VARTA offers you a secure job in a strong community. And as a technology-leading global brand, VARTA gives you creative freedom in exciting projects and tasks in the future market of innovative energy solutions.
+
+Your tasks
+
+
+Simulation of next generation secondary battery cells
+Development of a first-generation electro-chemical cell model as support of our product pre-development process
+Parametrization and adaption of a pseudo-two-dimensional (P2D) - Newman model based on provided experimental data and existing cell models
+First simulations of cell performance based on the new cell model
+Development of next steps for simulations in the field of batteries cells in close collaboration with our product pre-development team
+Your skills
+
+
+Industrial engineering, material science, computer science, physics, chemistry, or comparable education profiles
+High affinity to simulation and modelling tasks and willingness to do a deep dive in battery cell chemistry
+Experience in FEM tools like COMSOL or PyBaMM is advantageous
+Good communication skills, team–minded, ability to work independently
+What we offer
+Direct impact in state-of-the-art battery pre-development processes
+Supervision by our cell simulation engineers
+We are offering you home office possibility & flexible working times
+Kontakt: Stefanie Rosplesch, HR Business Partner (09081 24086-6970)
+
+VARTA Storage GmbH | Nürnberger Straße 65 | 86720 Nördlingen | Germany | www.varta-ag.com
+Diesen Job melden

@@ -1,0 +1,57 @@
+Working student Software Engineering (m/f/d)
+LYNX Berlin
+10117 Berlin
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+LYNX is seeking a highly motivated working student for our software engineering department in Berlin. As a working student at LYNX, you will get to know our internal software systems that we use to provide all our departments with data insights so that decisions can be made based on our knowledge about the clients and financial markets. You will be part of the data engineering team that is processing Gigabytes of data on a daily basis through customized pipelines into our data warehouse. Part of your tasks will be to help optimize the data processing, find congestions in our queries and even build new pipelines from scratch. At the same time, you will gain insights into the operations of an online broker as well as financial markets and products.
+
+Are you interested in joining the LYNX team?
+
+Here´s what we are looking for:
+
+Must-Have:
+
+Studying computer science or informatics, with understanding of Python and object-oriented programming
+Knowledge of relational database concepts and SQL
+Proficiency in English (written and spoken)
+
+Nice to have:
+
+Basic understanding of financial markets and product
+Familiarity with Django framework
+Proficiency in German (written and spoken)
+What we offer:
+
+At LYNX, we value your growth and development; we'll provide you with a supportive work environment and opportunities for your professional development.
+
+Flexible working hours in alignment with your study schedule
+Relaxed and informal working environment
+Life-long learning: At LYNX we give everybody the means to learn, grow and continue on your personal development journey with a fixed budget of €2.000 per year
+In-house language courses financially supported by LYNX at very favourable conditions
+Free snacks, soft drinks, fruits & vegetables and a daily lunch from our chef - for meat eaters, vegetarians and vegans
+Discounts at Urban Sports Club
+Summer & Christmas party with the whole branch and team events
+About us:
+
+"LYNX helps you invest in yourself"
+
+"Working at LYNX means joining the LYNX family"
+
+"The development opportunities make LYNX the best place to work"
+
+This is what the employees say about LYNX and it is exactly what we want to offer: a work environment where you can get the best out of yourself. At our office in the heart of Amsterdam, Ghent, Berlin and Prague, we work every day to offer both private and professional clients the best trading opportunities, with a fast, user-friendly and reliable trading platform.
+
+The best choice for anyone who takes investing seriously.
+
+LYNX is an international FinTech that offers you a relaxed and informal work environment, where you can get the best out of yourself and where 300 people contribute together to the success of our customers since 2006.
+
+In 2006 LYNX entered the investor market with two spearheads: very low rates and an extensive product range. This makes the online broker not only successful in the Netherlands, but also abroad. After opening offices in Belgium, Germany and the Czech Republic, LYNX now offers its services in ten different countries, making it a European broker of size.
+
+In 2019 the product of LYNX, and therefore the offer for investors, has been greatly improved. For example, a highly advanced mobile and tablet app is available, the LYNX Masterclass webinars can be watched weekly via the Knowledge Portal, and thanks to the Morning Call, investors are quickly daily informed about the latest news on the financial markets.
+
+How to apply:
+
+We look forward to your application! Send your resume, motivation letter and relevant references to Lena Kawka.
+
+Diesen Job melden

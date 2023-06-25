@@ -1,0 +1,15 @@
+{
+   "job_title": "(Senior) Data Engineer",
+   "company": "SIXT Germany",
+   "location": "Berlin",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "You have a university degree in (business) informatics, engineering, business administration or comparable education",
+   "skills": [
+      "BI systems",
+      "databases",
+      "analysis methods",
+      "MS Office"
+   ],
+   "date_posted": null
+}

@@ -1,0 +1,107 @@
+Knowledge Engineer
+World Health Organization
+Berlin
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Grade : P4
+Contractual Arrangement : Fixed-term appointment
+Contract Duration (Years, Months, Days) : 2 years
+
+Job Posting : Jun 1, 2023, 3:58:17 AM
+Closing Date : Jun 23, 2023, 4:59:00 PM
+Primary Location : Germany-Berlin
+Organization : HQ/WSE Health Emergency Intelligence & Surveillance Systems
+Schedule : Full-time
+
+
+IMPORTANT NOTICE: Please note that the deadline for receipt of applications indicated above reflects your personal device's system settings.
+OBJECTIVES OF THE PROGRAMME
+
+The mission of WHO's Health Emergencies Programme (The Programme) is to build the capacity of Member States to manage health emergency risks and, when national capacities are overwhelmed, to lead and coordinate the international health response to contain outbreaks and to provide effective relief and recovery to affected populations. The Health Emergency Intelligence and Surveillance Systems division (WSE) is responsible for building a system of collaborative intelligence enabling better decisions to avert and manage public health threats and risks. Its goal is to enable, strengthen and support countries, regional and global actors in averting and managing public health threats and risks through collaborative problem solving and decision-making for short-term action and long-term policies, informed by better data and analytics. The WHO Hub for Pandemic and Epidemic Intelligence is a new office of WHO, located in Berlin. It works with partners to enable the generation of public health relevant information to provide timely actionable insights and improve decision making to prepare for, avert and respond to public health threats. It also aims to reduce fragmentation and inefficiency by creating an ecosystem that promotes collaboration across multiple professional disciplines, sectors, and initiatives; and empower decision makers, public health professionals, and civil society to make informed public health decisions.
+
+DESCRIPTION OF DUTIES
+
+Within the framework of the delegated authority, the incumbent is assigned all or part of the following duties which are performed according to the needs of the unit and department:
+
+Lead and manage knowledge engineering initiatives and projects from assessment and conception to delivery through continuous, incremental design, development, evaluation, maintenance and improvement of knowledge-based systems using AI and NLP technologies, including knowledge graphs and semantic web technologies.
+Work with subject matter experts to identify needs and relevant data and knowledge sources and integrate them into models and algorithms.
+Develop strategies for integrating and managing data across different sources and formats.
+Coordinate, lead and manage the creation and implementation of data models and ontologies to support knowledge representation through the organization of large volumes of data into knowledge structures.
+Test and evaluate models to identify areas for improvement and optimization.
+Collaborate with cross-functional teams to integrate knowledge engineering systems into new and existing applications.
+Develop and implement quality control measures to ensure the integrity, accuracy and completeness of knowledge-based systems.
+Develop and maintain documentation for knowledge graphs and semantic web technologies, knowledge engineering processes and systems.
+Stay up-to-date with the latest developments in knowledge graph and semantic web technologies.
+Perform other related duties as assigned, including replacing and back stopping for others as required.
+REQUIRED QUALIFICATIONS
+Education
+
+Essential:
+
+Advanced university degree (Masters or higher) in Information Science, Logic, Knowledge Engineering, Artificial Intelligence or related field OR advanced university degree (Masters or higher) in Computer Science, Information Technology, Engineering or related field with additional certification in knowledge representation, ontologies, reasoning, artificial intelligence or similar.
+Desirable:
+
+Certifications in technologies related to graph theory and analytics.
+
+Experience
+
+Essential:
+
+A minimum of 7 years of relevant professional experience in knowledge engineering, ontology development and semantic web technologies.
+Demonstrated experience integrating and managing large volumes of data across different sources and formats.
+Demonstrated experience with graph databases, RDF, OWL, SPARQL, and other semantic web technologies.
+Demonstrated experience in data modelling and ontology development.
+Demonstrated experience in complex international contexts involving technical, cultural and political elements.
+Desirable:
+Demonstrated experience in the public health domain.
+Skills
+Expert understanding of knowledge graphs and semantic web technologies.
+Knowledge of programming languages such as Python, R or Java.
+Familiarity with data mapping, transformation, and querying.
+Strong knowledge and expertise in the use of diverse large-scale database management systems.
+Strong knowledge of artificial intelligence and natural language processing technologies.
+Excellent analytical and problem-solving skills.
+Ability to work independently and in a team environment.
+Strong communication and project management skills.
+WHO Competencies
+
+Teamwork
+Respecting and promoting individual and cultural differences
+Communication
+Producing results
+Knowing and managing yourself
+
+Use of Language Skills
+
+Essential: Expert knowledge of English.
+Desirable: Intermediate knowledge of WHO Language.
+
+REMUNERATION
+
+WHO salaries for staff in the Professional category are calculated in US dollars. The remuneration for the above position comprises an annual base salary starting at USD 77,326 (subject to mandatory deductions for pension contributions and health insurance, as applicable), a variable post adjustment, which reflects the cost of living in a particular duty station, and currently amounts to USD 2797 per month for the duty station indicated above. Other benefits include 30 days of annual leave, allowances for dependent family members, home leave, and an education grant for dependent children.
+
+ADDITIONAL INFORMATION
+This vacancy notice may be used to fill other similar positions at the same grade level
+Only candidates under serious consideration will be contacted.
+A written test may be used as a form of screening.
+In the event that your candidature is retained for an interview, you will be required to provide, in advance, a scanned copy of the degree(s)/diploma(s)/certificate(s) required for this position. WHO only considers higher educational qualifications obtained from an institution accredited/recognized in the World Higher Education Database (WHED), a list updated by the International Association of Universities (IAU)/United Nations Educational, Scientific and Cultural Organization (UNESCO). The list can be accessed through the link: http://www.whed.net/. Some professional certificates may not appear in the WHED and will require individual review.
+According to article 101, paragraph 3, of the Charter of the United Nations, the paramount consideration in the employment of the staff is the necessity of securing the highest standards of efficiency, competence, and integrity. Due regard will be paid to the importance of recruiting the staff on as wide a geographical basis as possible.
+Any appointment/extension of appointment is subject to WHO Staff Regulations, Staff Rules and Manual.
+Staff members in other duty stations are encouraged to apply.
+For information on WHO's operations please visit: http://www.who.int.
+The WHO is committed to creating a diverse and inclusive environment of mutual respect. The WHO recruits and employs staff regardless of disability status, sex, gender identity, sexual orientation, language, race, marital status, religious, cultural, ethnic and socio-economic backgrounds, or any other personal characteristics.
+The WHO is committed to achieving gender parity and geographical diversity in its staff. Women, persons with disabilities, and nationals of unrepresented and underrepresented Member States (https://www.who.int/careers/diversity-equity-and-inclusion)are strongly encouraged to apply for WHO jobs.
+Persons with disabilities can request reasonable accommodations to enable participation in the recruitment process. Requests for reasonable accommodation should be sent through an email to reasonableaccommodation@who.int
+An impeccable record for integrity and professional ethical standards is essential. WHO prides itself on a workforce that adheres to the highest ethical and professional standards and that is committed to put the WHO Values Charter into practice.
+WHO has zero tolerance towards sexual exploitation and abuse (SEA), sexual harassment and other types of abusive conduct (i.e., discrimination, abuse of authority and harassment). All members of the WHO workforce have a role to play in promoting a safe and respectful workplace and should report to WHO any actual or suspected cases of SEA, sexual harassment and other types of abusive conduct. To ensure that individuals with a substantiated history of SEA, sexual harassment or other types of abusive conduct are not hired by the Organization, WHO will conduct a background verification of final candidates.
+Mobility is a condition of international professional employment with WHO and an underlying premise of the international civil service. Candidates appointed to an international post with WHO are subject to mobility and may be assigned to any activity or duty station of the Organization throughout the world.
+WHO also offers wide range of benefits to staff, including parental leave and attractive flexible work arrangements to help promote a healthy work-life balance and to allow all staff members to express and develop their talents fully.
+The statutory retirement age for staff appointments is 65 years. For external applicants, only those who are expected to complete the term of appointment will normally be considered.
+WHO has a smoke-free environment and does not recruit smokers or users of any form of tobacco.
+In case the website does not display properly, please retry by: (i) checking that you have the latest version of the browser installed (Chrome, Edge or Firefox); (ii) clearing your browser history and opening the site in a new browser (not a new tab within the same browser); or (iii) retry accessing the website using Mozilla Firefox browser or using another device. Click the link for detailed guidance on completing job applications: Instructions for candidates
+Diesen Job melden

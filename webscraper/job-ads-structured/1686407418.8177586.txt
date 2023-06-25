@@ -1,0 +1,16 @@
+{
+  "job_title": "Business & Data Analyst",
+  "company": "dkb",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Ein Studium der Wirtschaft, Informatik, Mathematik oder eine vergleichbare Ausbildung. Erfahrung im Anforderungsmanagement. Solide Kenntnisse in Oracle SQL. Fachliches Wissen über Bankprodukte. Erfahrung in Softwareentwicklungsprozessen. Praktische Erfahrung im Umgang mit BI-Tools.",
+  "skills": [
+    "Analytisch denken und abstrahieren",
+    "Geschäftsprozesse und Daten erstehen",
+    "Eigeninitiativ arbeiten und fundiert Entscheidungen treffen",
+    "Dienstleistungsverständnis und eine hohe Leistungsbereitschaft",
+    "Teamfähigkeit, Kommunikationsstärke und Hands-on-Mentalität"
+  ],
+  "date_posted": null
+}

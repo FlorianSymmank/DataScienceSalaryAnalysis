@@ -1,0 +1,16 @@
+{
+    "job_title": "(Senior) Data Scientist",
+    "company": "Emma – The Sleep Company",
+    "location": "Frankfurt am Main",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "You have a Master’s degree or PhD in computer science, applied mathematics, statistics or other related fields.",
+    "skills": [
+        "Python",
+        "machine learning",
+        "software engineering",
+        "database fundamentals",
+        "cloud computing"
+    ],
+    "date_posted": "2021-08-22"
+}

@@ -1,0 +1,14 @@
+{
+  "job_title": "Advanced Data Analytics Intern / Working Student (m/w/d)",
+  "company": "OMMAX GmbH",
+  "location": "80801 München",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Immatrikulation in einem Hochschulstudium der Fachrichtungen Mathematik, Informatik, Data Science, BWL/VWL, Statistik, Marketing oder einer verwandten Fachrichtung",
+  "skills": [
+    "Visualisierungs- und Dashboarding-Tools (z.B. PowerBI, Tableau)",
+    "Python, SQL",
+    "Google Analytics, Google Tag Manager, APIs, Konnektoren, Web-Parsing und ähnlichen Tools oder Datenquellen"
+  ],
+  "date_posted": null
+}

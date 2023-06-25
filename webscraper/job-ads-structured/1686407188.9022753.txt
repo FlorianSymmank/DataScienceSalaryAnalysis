@@ -1,0 +1,21 @@
+{
+   "job_title": "Werkstudent*in Data Science",
+   "company": "Toll Collect GmbH",
+   "location": "10785 Berlin",
+   "salary_euro": {
+      "amount": 15,
+      "period": "pro Stunde"
+   },
+   "employment_type": "Teilzeit",
+   "requirements": "Sie sind eingeschriebene*r Student*in der Statistik, Mathematik, (Geo-) Informatik oder eines vergleichbaren Studiengangs. Sie haben erste Erfahrung in der prototypenbasierten Programmierung, z.B. Python oder Java. Sie haben erfolgreich erste Aufgaben im Data Science Bereich abgeschlossen, z.B. im Rahmen eines Tutoriums oder anhand eines Lehrbuchs. Sie verfügen über eine sorgfältige, strukturierte und teamorientierte Arbeitsweise. Sie sind bereit uns für mindestens 12 Monate 15 – 20 Stunden pro Woche zu unterstützen.",
+   "skills": [
+      "Datensätze-Analyse",
+      "große Datenmengen",
+      "Statistik",
+      "Machine Learning",
+      "Data Science",
+      "Python",
+      "Java"
+   ],
+   "date_posted": null
+}

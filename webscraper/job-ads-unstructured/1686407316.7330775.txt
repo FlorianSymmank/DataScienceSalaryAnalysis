@@ -1,0 +1,52 @@
+Data Engineer - Veeva Link
+Veeva Systems
+Berlin
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $2B in revenue in our last fiscal year with extensive growth potential ahead.
+At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We’re not just any public company – we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors.
+As a Work Anywhere company, we support your flexibility to work from home or in the office, so you can thrive in your ideal environment.
+Join us in transforming the life sciences industry, committed to making a positive impact on its customers, employees, and communities.
+The Role
+Veeva Link supports the life sciences industry to connect with key people to improve research and care. It helps professionals to find the right people for, e.g., clinical trials, education programs, or advisory boards. This streamlined access helps to reduce the time-to-market of important drugs, conduct trials with the most relevant experts in the respective field, and spread information about new treatments to key people in the life science community. You can read more about Veeva Link on our product pages at https://www.veeva.com/products/veeva-link/.
+As a data engineer, you focus on our data pipelines and take responsibility for a major part of the Link data processing platform. We value end-to-end ownership, which puts you into the sweet spot of finding, designing, and implementing improvements to the product’s data pipelines and adjusting them to changing demands of the market.
+You take responsibility for features and innovation using SOLID and clean software principles, take part in the architectural enhancement process and care for the quality of the outcome. Monitoring, metrics, and general observability are part of the feature design process.
+We hire the same role for different engineering domains: Sourcing, Tagging, Matching, and Provisioning.
+Depending on the engineering domain, you will focus on different aspects. We decide together which domains fit best for you.
+What You’ll Do
+
+Work on Veeva Link’s next-gen Data Platform
+Improve our current environment with features, refactoring, and innovation
+Work with JVM-based languages or Python on Spark-based data pipelines
+Operate ML models in close cooperation with our data science team
+Experiment in your domain to improve precision, recall, or cost savings
+
+Requirements
+
+Expert skills in Java or Python
+Experience with Apache Spark or PySpark
+Experience writing software for the cloud (AWS or GCP)
+Speaking and writing in English enables you to take part in day-to-day conversations in the team and contribute to deep technical discussions
+
+Nice to Have
+
+Experience with operating machine learning models (e.g., MLFlow)
+Experience with Data Lakes, Lakehouses, and Warehouses (e.g., DeltaLake, Redshift)
+DevOps skills, including terraform and general CI/CD experience
+Previously worked in agile environments
+Experience with expert systems
+
+Perks & Benefits
+
+Comprehensive benefits package
+Annual allocations for continuous learning, development & charitable contributions
+Fitness reimbursement
+Veeva Work-Anywhere
+
+#RemoteGermany
+
+Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world.
+
+Veeva is committed to fostering a culture of inclusion and growing a diverse workforce. Diversity makes us stronger. It comes in many forms. Gender, race, ethnicity, religion, politics, sexual orientation, age, disability and life experience shape us all into unique individuals. We value people for the individuals they are and the contributions they can bring to our teams.
+
+Diesen Job melden

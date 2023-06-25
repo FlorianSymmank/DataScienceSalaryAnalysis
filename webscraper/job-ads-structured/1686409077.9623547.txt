@@ -1,0 +1,17 @@
+{
+   "job_title": "Data Scientist (w/m/d)",
+   "company": "WILO SE",
+   "location": "Dortmund",
+   "salary_euro": null,
+   "employment_type": null,
+   "requirements": "Abgeschlossenes Hochschulstudium im Bereich Data Science / Informatik / Naturwissenschaft o.ä.; Fortgeschrittene Erfahrung in der Implementierung und Operationalisierung von ML-Lösungen; Fortgeschrittene Erfahrung in der Programmiersprache Python und üblichen DataScience / KI Bibliotheken; Erfahrung mit BI-Tools (Tableau, PowerBI, o.ä.); Hohe Einsatzbereitschaft und systematische Arbeitsweise; Ausgeprägte Team- und Kommunikationsfähigkeit",
+   "skills": [
+      "Advanced Analytics",
+      "KI",
+      "maschinellem Lernen",
+      "Python",
+      "Tableau",
+      "PowerBI"
+   ],
+   "date_posted": null
+}

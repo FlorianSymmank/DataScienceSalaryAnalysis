@@ -1,0 +1,19 @@
+{
+   "job_title": "MASTERTHESIS ON AUTONOMOUS SYSTEMS AND ARTIFICIAL INTELLIGENCE",
+   "company": "Fraunhofer-Gesellschaft",
+   "location": "85051 Ingolstadt",
+   "salary_euro": null,
+   "employment_type": null,
+   "requirements": "student in Computer or Data Science, Mathematics, Physics, Electrical and Information Engineering, or a related field\nstrong background in the areas of Machine Learning, Deep Learning, and\/or Computer Vision\nexcellent academic performance\nvery good programming skills in Python and\/or C++\nexperience with frameworks such as ROS and PyTorch\/TensorFlow\nstructured, self-dependent and result-oriented way of working\nambition, creativity and commitment in the daily work routine\nhigh motivation and ability to work in a team",
+   "skills": [
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Python",
+      "C++",
+      "ROS",
+      "PyTorch",
+      "TensorFlow"
+   ],
+   "date_posted": null
+}

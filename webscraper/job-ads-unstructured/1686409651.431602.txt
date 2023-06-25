@@ -1,0 +1,45 @@
+Senior Machine Learning Engineer
+Blue Yonder
+Hamburg
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Do you have a passion for machine learning and want to make a real-life impact? Are you interested in working collaboratively in a team with other engineers and data scientists to implement AI in supply chain applications? If so, we are looking for a Machine Learning Engineer to join our team!
+
+As one of a few companies worldwide, we have solved the tough problem of bringing data science to production while keeping costs and operations at bay. We will continue to relentlessly drive innovation to pursue our vision of the autonomous supply chain. On the way, we have solved, and will solve plenty of interesting and challenging problems, and we would love to have you on board for that journey.
+What to expect
+Design, develop, and implement machine learning pipelines and algorithms.
+Build and maintain data pipelines for training and testing machine learning models.
+Write clean, maintainable, and efficient code that adheres to software development best practices.
+Understands machine learning infrastructure costs of their products and services, monitors actual costs, and optimizes resource consumption.
+Actively provides feedback during code reviews.
+Collaborate with data scientists and engineers to evaluate and improve the performance of machine learning models.
+Keeps up to date with technology and researches latest trends in the industry.
+Your experience
+Relevant experience with Machine Learning frameworks (e.g. pytorch, tensorflow)
+Great understanding of computer architecture and how it impacts machine learning algorithms.
+Good knowledge of Python development, including experience with popular Python frameworks.
+Strong understanding of software development principles and practices.
+Strong problem-solving and analytical skills.
+Excellent communication and teamwork abilities.
+
+Nice to have
+Relevant job experience working with distributed systems.
+Deep knowledge of math, probability, statistics and algorithms.
+Hands-on experience with training machine learning models on GPUs
+Our Values
+
+If you want to know the heart of a company, take a look at their values. Ours unite us. They are what drive our success – and the success of our customers. Does your heart beat like ours? Find out here:
+Core Values
+Diversity, Inclusion, Value & Equality (DIVE)
+is our strategy for fostering an inclusive environment we can be proud of. Check out Blue Yonder's inaugural
+Diversity Report
+which outlines our commitment to change, and our
+video
+celebrating the differences in all of us in the words of some of our associates from around the world.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.
+Diesen Job melden

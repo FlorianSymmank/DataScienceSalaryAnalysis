@@ -1,0 +1,20 @@
+{
+  "job_title": "Senior Data Analyst, Global Insights & Behavioural Analytics",
+  "company": "Yara",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "At least a Bachelor’s degree in a quantitative discipline, e.g. Mathematics, Statistics, Computer Science, Economics. At least 3 years of experience as a data analyst or similar quantitative role. Hands on experience in quantifying user journey. Ability to apply scientific thinking to solve business problems with data and analytics. Ability to translate insights/tell a story with the data and analysis. Proficiency in SQL, R and Python. Hands-on experience with BI tools (e.g. PowerBI). Excellent communication and presentation skills.",
+  "skills": [
+    "quantitative analysis",
+    "data analytics",
+    "business intelligence",
+    "SQL",
+    "R",
+    "Python",
+    "PowerBI",
+    "communication",
+    "presentation"
+  ],
+  "date_posted": "2023-06-09"
+}

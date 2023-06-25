@@ -1,0 +1,10 @@
+{
+    "job_title": "IT Data Engineer",
+    "company": "ODDO BHF",
+    "location": "Saarbrücken",
+    "salary_euro": null,
+    "employment_type": "Festanstellung",
+    "requirements": "Functional knowledge of at least one business line: Asset management, Capital Markets, Private Wealth Management, Securities Services\nData architecture (modeling, design)\nChange Management strategies, tools and techniques\nData-centric culture: data governance, policies, DQ, data protection/risk coverage\nBig Data concepts, principles and practices: Data storage, cloud computing,\nSoftware Delivery Life Cycle and Dev(Sec)Ops approach\nAgile approach, principles and frameworks\nFunctional Architecture and/or IS Urbanization\nData concepts and methodologies: Business Intelligence, Data Modelization, Data lifecycle concepts, modern Data platform approach\nData engineering: ML Ops, Data Science\nHands-on experience in Data projects\nHands-on experience in IT service and teams\nStrong soft skills to generate trust, credibility, and vision with all stakeholders\nFully proficient in English, ideally proficient in German/French\nMaster degree in IT or Data Analytics or similar education",
+    "skills": ["BI", "BI tools", "data processes", "data governance", "data policies", "ML Ops", "Data Science"],
+    "date_posted": "2023-05-31"
+}

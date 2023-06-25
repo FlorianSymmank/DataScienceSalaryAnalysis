@@ -1,0 +1,54 @@
+Data Engineer
+Symbiotic Research
+Berlin
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+
+Tentamus Group is a global product and safety firm with a core presence in Europe, UK, Israel, China and the USA. Tentamus tests and consults on products involving the human body with strong focus on food, nutraceuticals and cosmetics. Tentamus is represented in over 90 locations worldwide with more than 4,000 highly-trained staff members.
+
+Summary/Objective
+
+Our laboratory is currently looking to fill a full-time position for a
+
+Data Engineer
+Full-Time
+Location: Berlin, Germany
+
+As a team leader, you will be responsible for building the analytics team and business and product analytics vision. You are going to support our teams through collection, delivering and interpreting data. Overseeing business operations and product data collection. Providing actionable insights to our marketing and sales teams on the user acquisition frontend on how people use our products on the delivery front. Help us to stay up to date with industry trends through market research. This role will collaborate cross-functionally with product, marketing, and sales teams. You are a curious, technology-minded person with a passion for using data to inform decisions. You are driven by improvement and are aiming success thinking in a bigger picture for business. Your ability to take data and build an informed perspective is critical to success in this role.
+
+Primary Responsibilities
+Driving data warehouse architecture design, modeling and ETL development
+Collecting and combining data from various sources (Engineering, Finance, Sales, Marketing and laboratory (LIMS)) and presenting them to be business relevant
+Making the data available and visualizing insights for everyone in Tentamus and external partners
+Providing technical mentorship to non-data-engineer colleagues to create their own reports
+Building advanced analytical models (behavior segmentation, churn prediction, purchase propensity, recommendation engine, etc…) for engineering, finance, sales, marketing and lab teams
+Skills Required
+A Bachelors or master’s degree in computer science or related field
+Professional experience working in a Data Engineering role (+3 years)
+Deep technical understanding of data architectures and data warehousing principles
+Previous experience in life sciences, food, health or pharma is a plus.
+Relational database knowledge and experience. BigQuery experience or experience with other kind of databases (Online, NoSQL) is a plus
+Proficiency with Python and SQL
+Experience with ETL / orchestration / data pipelining tools like Fivetran, dbt, Airflow etc
+Understanding of modern BI tools and their integration with the data warehouse
+Understanding of modern software development practices such as CI/CD, GIT, DevOps
+Self-motivated and able to work independently
+Excellent spoken and written communication skills
+Other Duties
+
+Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.
+
+WE OFFER
+Challenging tasks, a motivated team, and long-term prospects in a healthy owner-managed family business
+A motivated team, flat hierarchies, and a very family-friendly working environment
+Individual training offers (Tentamus Academy) and the opportunity to help shape the growth of a medium-sized company
+Joint team events and leisure opportunities
+
+If you are looking for a new challenge in an exciting, fast-growing environment and enjoy goal-oriented work in a dynamic team, we look forward to receiving your complete documents (with the note “IT”), stating your availability and your salary expectations, to application@tentamus.com
+
+Diesen Job melden

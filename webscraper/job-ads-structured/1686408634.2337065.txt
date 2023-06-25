@@ -1,0 +1,10 @@
+{
+  "job_title": "Doktorandin / Doktorand (w/m/d) zum Thema \"Data Science & Analytics\" im Bereich Konzern After Sales",
+  "company": "Volkswagen AG",
+  "location": "Kassel",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Gut bis sehr gut abgeschlossenes Studium mit Promotionsberechtigung der Fachrichtung Data Science, (Wirtschafts-)Informatik, Mathematik, Statistik, oder einem verwandten Bereich Nachweisbare Methodenkompetenzen im Bereich Datenverarbeitung und -Analyse (insbesondere probabilistischer Modelle): Statistik, Big Data, Machine-Learning, oder Ökonometrie Kenntnisse einer höheren Programmiersprache, vorzugsweise Python und/oder R Kenntnisse in Datenbanken (SQL) wünschenswert Fähigkeit zur Entwicklung von theoretischen Modellen und zur Durchführung von Experimenten Idealerweise Kenntnisse im Supply Chain Management bzw. Lagerhaltungsmodellen Analytische Denkweise, selbständige Arbeitsweise, Neugier, Kreativität, out-of-the-Box-Denken und schnelle Auffassungsgabe Team- und Kommunikationsfähigkeit, idealerweise in Deutsch und in Englisch",
+  "skills": ["Data Science", "Wirtschafts-Informatik", "Mathematik", "Statistik", "Datenverarbeitung", "Analyse", "Python", "R", "SQL", "Machine-Learning", "Ökonometrie", "Supply Chain Management", "Lagerhaltungsmodelle"],
+  "date_posted": "None"
+}

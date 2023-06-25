@@ -1,0 +1,18 @@
+{
+  "job_title": "Data Science Internship in Portfolio Management Central Europe (m/f/d)",
+  "company": "Statkraft",
+  "location": "Düsseldorf",
+  "salary_euro": null,
+  "employment_type": "Praktikum",
+  "requirements": "Student of engineering, science, economics, finance or computer science",
+  "skills": [
+    "Strong analytical and numerical skills",
+    "Experience in data science, statistics and econometrics",
+    "Programming experience (preferably Python)",
+    "Commercial mind-set with good communicative skills",
+    "Proactive and independent way of working",
+    "Attention to detail",
+    "Fluent in English, fluent German is an advantage"
+  ],
+  "date_posted": null
+}

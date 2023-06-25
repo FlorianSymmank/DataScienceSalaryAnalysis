@@ -1,0 +1,31 @@
+{
+  "job_title": "6 PostDoc positions Research Center Trustworthy Data Science and Security f/m/d",
+  "company": "Technische Universität Dortmund",
+  "location": "44227 Dortmund",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Vollzeit",
+  "requirements": "Excellent degree (doctorate) in psychology, statistics, computer science, mathematics, or similar programs. High degree of creativity, commitment, analytical competence, and interdisciplinary teamwork. Interdisciplinary research project with fundamental theoretical research or practical applications in data science.",
+  "skills": [
+    "Causal Inference",
+    "Interpretable Machine Learning",
+    "Fairness and Transparency of Intelligent Systems",
+    "Mathematical and Statistical Theory of Machine Learning",
+    "Privacy for the Digital Society",
+    "Human aspects in Cybersecurity",
+    "Cybersecurity and Machine Learning",
+    "Reliability Guarantees for Artificial Intelligence",
+    "Human-AI Collaboration",
+    "Interactive Natural Language Systems",
+    "Designing AI systems for diverse audiences",
+    "User-centric Design of Speech and Text Assistants",
+    "Human Understanding of Technology: Theory of the Artificial Mind",
+    "AI-assisted Software Synthesis",
+    "Formal Methods, Verification and Model Checking",
+    "Reinforcement Learning from Data to Trustworthy Actions",
+    "Automated Tuning of Parameters for Complex Machine Learning Models"
+  ],
+  "date_posted": null
+}

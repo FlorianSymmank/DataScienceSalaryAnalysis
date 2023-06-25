@@ -1,0 +1,21 @@
+{
+  "job_title": "Duales Studium Data Science und Künstliche Intelligenz (m/w/d) - Start 01.10.2024",
+  "company": "Husqvarna",
+  "location": "Ulm",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "allgemeine oder fachgebundene Hochschulreife (Studierfähigkeitstest der DHBW notwendig)\nsehr gutes analytisches und logisches Denken\ngute Noten in Mathematik und Informatik\ngute Sprachkenntnisse (Deutsch und Englisch)\nGrundkenntnisse in Microsoft Office\nFaszination für die Themen Digitalisierung im Allgemeinen sowie Data Science und Künstliche Intelligenz im E-Commerce\ndu bist offen, kommunikationsfähig und arbeitest gerne im Team",
+  "skills": [
+    "Data Science",
+    "Künstliche Intelligenz",
+    "Digitalisierung",
+    "E-Commerce",
+    "Data Engineering",
+    "Machine Learning",
+    "Intelligence Engineering",
+    "Mathematik",
+    "Informatik",
+    "Microsoft Office"
+  ],
+  "date_posted": null
+}

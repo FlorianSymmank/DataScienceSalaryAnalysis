@@ -1,0 +1,22 @@
+{
+  "job_title": "Azure Data Engineer (m/w/d)",
+  "company": "scieneers GmbH",
+  "location": "20095 Hamburg",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Teilzeit",
+  "requirements": "Dich begeistern die genannten Tätigkeiten und Du bringst Erfahrung in vielen Bereichen mit? Dann lass uns gemeinsam herausfinden, ob wir zueinander passen!",
+  "skills": [
+    "Azure Data Services",
+    "Synapse Analytics",
+    "Data Lake",
+    "Data Science",
+    "Künstliche Intelligenz",
+    "SQL",
+    "Azure DevOps",
+    "Power BI"
+  ],
+  "date_posted": null
+}

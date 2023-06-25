@@ -1,0 +1,20 @@
+{
+    "job_title": "PhD Position (f_m_x) in Mineral Crystallization",
+    "company": "Deutsches GeoForschungsZentrum - GFZ",
+    "location": "Potsdam",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": "Fixed-term",
+    "requirements": "MSc degree (or equivalent) in material sciences, chemical engineering, or (geo)chemistry",
+    "skills": [
+        "hands on experience in laboratory experimental procedures",
+        "strong knowledge and experience in reaction kinetics ideally with mineralogical or environmental applications",
+        "hands on experience in a range of solid characterization techniques (e.g., diffraction, imaging or spectroscopy) is an advantage",
+        "experience in inorganic chemical / mineral synthesis is an asset",
+        "capacity for interdisciplinary and international teamwork and excellent communication skills",
+        "proficiency in spoken and written English"
+    ],
+    "date_posted": "2023-06-18"
+}

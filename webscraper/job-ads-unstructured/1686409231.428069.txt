@@ -1,0 +1,95 @@
+(Senior) Software Engineer- Intermediary (m/w/d)
+AVIV Group
+Berlin
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Company Description
+
+
+You'll be joining one of the world’s largest privately owned real estate tech companies and a subsidiary of Axel Springer. Our mission is to unlock everyone’s perfect place! You'll work across some of Europe’s best known digital real estate brands including: Meilleurs Agents, Groupe SeLoger, Immoweb, Immowelt, Housell and Yad2.
+
+You’re most productive when you have the autonomy to work with true flexibility.
+
+That’s what we offer you here at AVIV Group.
+
+You’ll be offered the opportunity to work remotely/hybrid with the freedom to tell us which tools you need to be successful.
+
+
+
+Job Description
+
+
+What we do in Intermediary
+
+The Intermediary organisation helps tens of thousands of real estate agents in Germany, France and Belgium deliver outstanding service to property owners and seekers along all transaction stages. We provide tools which allow agents to build a strong online presence, digitise their workflows, and amplify their local expertise and relationships with access to AVIV’s huge user base and treasure trove of data.
+
+What you can expect
+
+Together with your colleagues, you will design and develop the new generation of our successful real estate portals in an agile environment based on Node.js, Type and Javascript and Amazon Web Services.
+
+We create the basis for innovative products and for the next generation of property search
+
+We put great emphasis on the automation of build, deployment and release processes as well as on quality through code reviews, tests and analysis
+
+We share our knowledge and experience and actively support each other to continuously improve our technical level
+
+You can do more than type and javascript? We are open for new technologies and give the opportunity to get involved in company wide initiatives
+
+You work in B2C and e-commerce environments, and your successes are immediately visible in key business metrics
+
+
+
+Qualifications
+
+
+About you
+
+You have a degree in computer science, media informatics or a comparable education as well as several years of professional experience as a software engineer
+
+You have several years of experience in the development of (micro)services using Javascript and/or Typescript and are familiar with the Node.js ecosystem. Knowledge about .net core would be a plus.
+
+As an experienced developer you know how to design, implement, test and operate great software
+
+You already have experience with cloud technologies (ideally with AWS) and are open to new technologies and development approaches and your passion for modern technologies is what makes you stand out
+
+You want to create the next generation of our successful products with us and bring all your knowledge and skills to play a part in it
+
+You show high commitment in the continuous improvement of the products and team maturity
+
+You have high technical standards and are willing to openly share your knowledge with your colleagues
+
+You appreciate working in an agile, cross-functional environment and like to work on your own responsibility
+
+You speak English fluently
+
+
+Additional Information
+
+
+Next steps
+
+Unlock your perfect job with us today and make an application. The recruitment process includes:
+
+Phone call with recruiter (expectations and circumstances)
+Video interview with hiring manager
+Skills based test
+Technical Interview with team
+Decision
+
+This role is only based in either Berlin, Hamburg or Nuremberg. Anyone else who live in other cities in Germany and can relocate to either of these cities are most welcome.
+
+About us
+
+At Aviv, we are an equal opportunities employer and an organisation where everyone is welcomed to be their authentic selves. We strongly encourage individuals with visible and non visible disabilities, all educational backgrounds, people from minority backgrounds, those from the LGBTQIA+ community and parents and carers to apply. If you need reasonable adjustments at any point in the application or interview process, or wish to discuss part time or flexible working requirements, please let us know.
+
+In your application, please feel free to note which pronouns you use (For example - she/her/hers, he/him/his, they/them/theirs, etc).
+
+Our ambition is to be the leading Employer in PropTech across Europe and this is a pivotal time to join us and unlock your perfect job!
+
+#LI-Hybrid
+
+Diesen Job melden

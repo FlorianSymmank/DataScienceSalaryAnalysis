@@ -1,0 +1,32 @@
+Machine Learning Engineer
+Redcley
+München
+Schnellbewerbung
+
+Are you passionate about machine learning and its impact on business and technology? Are you a prolific software engineer wanting to expand your skills and experience in data science? Do you want to apply your skills to real world challenges? Are you excited about learning new technologies, tools, and languages? We are looking for leading engineers capable of leveraging machine learning and other techniques to architect and implement state-of-the-art solutions for innovative problems.
+
+We are looking for top engineers who want to apply what they have learned in their Masters or PhD programs and their hands-on engineering, to tackle challenging problems and, who have the passion and capacity to quickly learn new skills.
+
+Our challenges span cloud, embedded, application development, and IoT. If you want to dive deeper into Machine Learning, are a strong communicator and collaborator, have solid engineering fundamentals, and are an innovator, we should talk.
+
+Basic Qualifications:
+
+BS in computer science (with Machine Learning focus)
+3+ years experience in software development
+Strong algorithm development experience
+Skills with Java, Python, R or similar programming language
+Predictive maintenance experience
+
+Preferred Qualifications
+
+Numeric and Visual Anomaly detection experience
+Experience training a deep neural network
+Masters or PhD in computer science (with Machine Learning focus)
++5 years of relevant experience in industry and/or academia
+hands-on experience in predictive modeling and analysis
+
+
+
+Please send your resume and information to jobs@redcleypartners.net.
+
+Diesen Job melden

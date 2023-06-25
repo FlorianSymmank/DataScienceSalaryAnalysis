@@ -1,0 +1,113 @@
+Internship: Data Scientist in the field of autonomous driving - Perception (m/f/d)
+AVL
+Regensburg
+Praktikum
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Praktikum
+
+ADAS - Internship: Data Scientist in the field of autonomous driving - Perception (m/f/d)
+
+
+
+
+YOUR RESPONSIBILITIES:
+
+
+
+
+Analysis and validation of camera and lidar data of the AVL Dynamic Ground Truth System
+
+Implementation of new solutions in the field of object recognition and their improvement
+
+Identification of patterns and anomalies within the data
+
+Development of new tooling for data analysis
+
+Documentation and presentation of the analysis results
+
+
+
+
+YOUR PROFILE:
+
+
+
+
+Enrolled student in computer science, artificial intelligence, robotics, autonomous driving or similar.
+
+Practical experience in Python or C++
+
+Knowledge of computer vision, machine learning (Tensorflow, Pytorch, Panda, Matplotlib, SciPy, and OpenCV) would be an advantage.
+
+Good English skills
+
+Personality is more than anything!
+
+
+
+
+WE OFFER:
+
+
+
+
+Be part of our pioneering work– together with our customers we shape the future of mobility!
+
+International and innovative collaboration rings a bell? That’s how we work.
+
+Our technical and personal onboarding concept will help you to hop on easily.
+
+We support lifelong learning: educate yourself, apply your knowledge and get creative.
+
+Mobile working, flex-time and modern workplaces are part of our DNA.
+
+We are deeply rooted in our values: respectful communication, care, openness, passion and trust
+
+
+
+
+
+
+
+
+AVL Software and Functions GmbH is the center of competence for Powertrain Software- and Function Development, as well as Electronics and Systems integration. Our fields of activity include highly innovative projects in the area of Combustion Engines, E-Mobility and ADAS / AD.
+
+
+
+
+Our vision “Why not – move different!” is challenging us to develop solutions for the future of mobility.
+
+About AVL
+
+AVL is one of the world’s leading mobility technology companies for development, simulation and testing in the automotive industry, and beyond. We provide concepts, solutions and methodologies in fields like vehicle development and integration, e-mobility, automated and connected mobility (ADAS/AD), and software for a greener, safer, better world of mobility.
+
+Find out more: www.avl.com
+
+You are interested in a job at AVL but you are not sure how to apply or want to know what happens after you send your application?
+
+Check out our step-by-step guide
+
+AVL is not just about cars. It's about changing the future. Together.
+Location: Regensburg, DE
+Company: AVL Software and Functions GmbH
+Job Function: ADAS/AD
+Contract Type: Temporary
+Posting Date: May 23, 2023
+Job ID: 35530
+About AVL
+
+AVL is one of the world’s leading mobility technology companies for development, simulation and testing in the automotive industry, and beyond. We provide concepts, solutions and methodologies in fields like vehicle development and integration, e-mobility, automated and connected mobility (ADAS/AD), and software for a greener, safer, better world of mobility.
+
+Find out more: www.avl.com
+
+
+
+
+
+Job Segment: Computer Science, Intern, Scientist, Scientific, Technology, Entry Level, Automotive, Science, Engineering
+
+Diesen Job melden

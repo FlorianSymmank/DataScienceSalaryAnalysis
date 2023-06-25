@@ -1,0 +1,10 @@
+{
+   "job_title": "Data Engineer (m/f/d)",
+   "company": "Thinksurance GmbH",
+   "location": "Frankfurt am Main",
+   "salary_euro": null,
+   "employment_type": "Vollzeit, Festanstellung",
+   "requirements": "Degree in Computer Science, Informatics or a comparable subject (Machine Learning, Mathematics, Applied Statistics) 1+ year leading with at least one cloud environment ( GCP, AWS,Azure,..) Programming experience in Python; additional experience in Java is a plus Familiarity with SQL/NoSQL data management and Kimball Star Model Schema 2+ years with ETL and Datawarehouse concepts German language or Databricks knowledge skills are a plus",
+   "skills": ["Python", "Java", "SQL", "NoSQL", "ETL", "Data Warehouse"],
+   "date_posted": "2021-10-18"
+}

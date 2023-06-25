@@ -1,0 +1,50 @@
+Co-Founder / Machine Learning Engineer
+Cultway
+10407 Berlin
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+We are looking for a Co-Founder with extensive experience in machine learning, who is passionate about generative AI and wants to work closely on the development of our technical innovation. Are you interested in AI-powered content creation? Are you ready to roll up your sleeves and use your skills and imagination to build your own company? Then you might be our dream team member ;)
+
+About Cultway
+
+Every day people spend millions of hours creating documents or slides by hand. This will be much easier in the future! We develop the next generation of business software that uses artificial intelligence to help users create high-quality content rapidly.
+
+To do this, we are building a cloud-based software that transforms text to slides or an animated video presentation. This allows people to communicate important content effectively to their target groups. For example, our software can be used for onboarding new colleagues, for creating training content or for compiling information for sales.
+
+To make our vision possible, we work with the latest AI technologies (GPT-3 for content creation, spaCy for NLP, neural networks with TensorFlow and synthetic voices e.g. from Microsoft Azure). We are constantly developing new innovative ideas to make our product even better. We have freshly set up our tech stack and paid attention to a modern, secure and easily scalable infrastructure.
+
+The market for our software is huge: the business model has unicorn potential and is interesting for many VCs. SaaS is one of the most attractive investment areas right now and Generative AI is a brand new trend that is just picking up steam. We founded Cultway in February 2022 and have already received an initial investment from the Seed Fund of the Hasso Plattner Institute and funding from Media Lab Bayern, MIZ Babelsberg and the Investment Bank Berlin.
+
+We have a highly trained and motivated team and plan to collect a pre-seed investment by summer 2023. Your role will be to further develop the potential of our algorithms and thus increase our competitive advantage.
+
+Tasks
+
+
+Picking up the latest trends and technologies in generative AI to be able to actively participate in the creative development of our product strategy
+Checking the feasibility of individual aspects of our product vision and select suitable technologies to implement them
+Developing own algorithms for selected core areas of our product, preparing the relevant data and training and testing the models
+Working closely with our development team to deploy new models and building our cloud infrastructure to ensure solid product performance
+Building our team of AI experts and data engineers and taking over the product management for our algorithms
+Requirements
+
+
+German residency (ideally Berlin-based)
+Passionate about founding your own company - please note that the role of co-founder is fundamentally different than a regular employee position : )
+Graduated from a leading university, for example in the field of computer science, mathematics, physics or machine learning
+At least 2-3 years of full-time work experience (e.g. own startup founding or work in a fast-growing startup or an international tech company)
+Experience in training/fine-tuning and deploying ML algorithms in production with a focus on NLP, large language models, generative models, deep learning
+Experience with cloud infrastructures for AI projects and common AI tools (e.g. Kaggle / Huggingface, TensorFlow / Keras, spaCy / Haystack)
+Independent and structured work style, ability to perform well under time pressure and to deal with uncertainties
+Very good communication in English or German
+Benefits
+
+
+Substantial shares in a startup that has already gained initial success and has a good chance of becoming the next big thing
+Opportunity to use your knowledge and creativity to drive your own business and build a product that will be used by thousands of people
+Working in a cool team and an unforgettable experience that you will tell your grandchildren about ;)
+Does that sound like a challenge that appeals to you? We would be happy to arrange a call to get to know each other!
+Diesen Job melden

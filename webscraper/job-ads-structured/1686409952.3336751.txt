@@ -1,0 +1,29 @@
+{
+    "job_title": "Data Scientist / Data Analyst (w/m/d)",
+    "company": "D&TS GmbH",
+    "location": "58332 Schwelm",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "Du hast ein abgeschlossenes Studium der Mathematik, Statistik, Informatik, Wirtschaftsinformatik, Physik, des Ingenieurwesens, alternativ auch eine vergleichbare technische Ausbildung.\nDu bringst die nötigen Programmierkünste (VBS, Python, R, Java, Scala) mit, um dein analytisches Know-how in Codes zu verwandeln.\nDu besitzt fundierte Kenntnisse in Microsoft Office, vor allem sehr gute Excel-Kenntnisse.\nDas Analysieren komplexer Zusammenhänge ist deine Stärke und du hast Spaß am Lösen von Problemstellungen.\nDu bist offen gegenüber neuen Konzepten, Geschäftsmodellen und Technologien.\nEin hohes Maß an Eigenverantwortung und Qualitätsbewusstsein zeichnet dich aus.\nErste Kenntnisse in unseren Themengebieten Standardisierung und Klassifizierung von Stammdaten (nach dem Klassifikationsstandard ECLASS) sind wünschenswert.\nTechnisches Verständnis z. B. durch eine technische Ausbildung zum Mechaniker oder Elektroniker sind von Vorteil.\nFließendes Deutsch und gute Englischkenntnisse runden Dein Profil ab.",
+    "skills": [
+        "Mathematik",
+        "Statistik",
+        "Informatik",
+        "Wirtschaftsinformatik",
+        "Physik",
+        "Ingenieurwesen",
+        "VBS",
+        "Python",
+        "R",
+        "Java",
+        "Scala",
+        "Microsoft Office",
+        "Excel",
+        "Standardisierung",
+        "Klassifizierung von Stammdaten",
+        "technisches Verständnis",
+        "Deutsch",
+        "Englisch"
+    ],
+    "date_posted": null
+}

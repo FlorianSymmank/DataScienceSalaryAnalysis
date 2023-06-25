@@ -1,0 +1,13 @@
+{
+  "job_title": "Software Developer for Eurodrone Ground Mission System (d/f/m)",
+  "company": "Airbus",
+  "location": "85077 Manching",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Vollzeit",
+  "requirements":  "You have an university degree in computer science or equivalent qualification",
+  "skills": ["Java Enterprise", "Unix environment", "source code management systems", "UML", "OO design", "design patterns"],
+  "date_posted": null
+}

@@ -1,0 +1,19 @@
+{
+  "job_title": "Data Scientist mit Schwerpunkt Softwareentwicklung - Customer Facing",
+  "company": "getML",
+  "location": "04179 Leipzig",
+  "salary_euro": {
+    "amount": 60000,
+    "period": "pro Jahr"
+  },
+  "employment_type": null,
+  "requirements": "Du hast Erfahrung in der Entwicklung von Machine Learning Modellen. Du bringst ein ausgeprägtes Verständnis von gängigen Machine Learning Methoden und Überblick über verfügbare ML-Frameworks mit. Du beherrscht die Programmiersprache Python und möchtest dich in Golang einarbeiten. Du bist in der Lage in deutscher (B2) und englischer Sprache sicher zu kommunizieren.",
+  "skills": [
+    "Machine Learning",
+    "Python",
+    "Golang",
+    "Deutsch",
+    "Englisch"
+  ],
+  "date_posted": null
+}

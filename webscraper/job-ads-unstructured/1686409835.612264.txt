@@ -1,0 +1,40 @@
+Senior C++ developer
+TechHunt
+Homeoffice
+130.000 € pro Jahr - Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Gehalt
+130.000 € pro Jahr
+Anstellungsart
+Vollzeit
+This is a German computer software company headquartered in Berlin, Germany. The company's main product aims to facilitate the creation of charts, e.g., bar charts, waterfall charts, Marimekko charts and Gantt charts, on Microsoft PowerPoint presentation slides from Microsoft Excel data sheets.
+
+Language: Everything we do is C++. Even our customer portal is written in C++. There is some Assembler glue code where it is necessary, and our build scripts are written in Python, but other than that think-cell is all about C++. We closely track the latest versions of our compilers, Visual C++ and Xcode, so we can always use the latest C++ standard features as soon as they become available. We fund the working group for programming languages of the German Institute for Standardization (DIN). Some of our employees are members of this committee and vote in the international standardization process of ISO/IEC C++. We sponsor the Standard C++ Foundation helping them to promote the understanding and use of modern Standard C++ on all compilers and platforms.
+
+Tasks
+
+
+You will work largely independently and will be responsible for the whole range of activities when implementing a new feature.
+You should be able to look at a problem from the user's perspective and discuss abstract concepts with fellow developers.
+We expect each of our developers to do architecture, design, implementation, customer feedback and bug fixing, rather than splitting these activities between several people. We thus put everyone in control of their own work
+Requirements
+
+We are looking for smart, creative developers with solid theoretical backgrounds. The team of developers consists of those with 15+ years of commercial experience in various fields, to fresh graduates in Computer Science, Physics and Mathematics
+
+
+A university degree or work experience with C++, together with a fresh and creative problem-solving approach would be an excellent combination for this role.
+Benefits
+
+
+A wide array of extremely challenging C++ development tasks
+An international team of brilliant minds
+A working environment that makes this team stay and grow
+Enough time to make sure that every detail of your solution is perfect
+A flat organization and plenty of room for your ideas
+No scheduled meetings
+Family-friendly working hours, no deadlines, no overtime
+Support for relocation
+A competitive salary from the start and a raise to EUR 130,000 annually after only one year
+Diesen Job melden

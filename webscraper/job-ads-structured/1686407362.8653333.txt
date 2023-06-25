@@ -1,0 +1,10 @@
+{
+  "job_title": "Mid-Level Data Scientist in a GreenTech Startup",
+  "company": "Green Fusion GmbH",
+  "location": "10407 Berlin",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "You have successfully completed a degree in data science or a science-oriented subject (e.g. business informatics, mathematics, physics or statistics). You have at least 3+ years of professional data science experience where you ideally applied machine learning and deep learning algorithms for energy systems (optimization, forecasting). You are familiar with deep (reinforcement) learning frameworks (e.g. Tensorflow, PyTorch) and standard data science libraries (e.g. Pandas, SciPy, SciKit-Learn). Considered a plus: Knowledge of Big Data architectures (Apache Hadoop, Hive, Spark) and best practice experience in model deployment and operation.",
+  "skills": ["Machine Learning", "Deep Learning", "Data Science", "Python", "Tensorflow", "PyTorch"],
+  "date_posted": "null"
+}

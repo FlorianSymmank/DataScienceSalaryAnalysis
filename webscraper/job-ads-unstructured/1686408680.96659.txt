@@ -1,0 +1,60 @@
+(Senior) Data Scientist / Researcher
+TERAKI GmbH
+10785 Berlin
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+
+Teraki is a Berlin based tech driven company enabling AI to be fully scalable to novel automotive applications. We stand for innovation in the rapidly developing connected car, self-driving and 3D mapping world. Teraki provides the data reduction and data processing solution for Automotive (IoT) applications and enables the launch of new applications by reducing costs. We help our customers on the challenges that are posed by the exploding amounts of data in connected cars for all sensor, video and 3D mapping data.
+
+To accelerate the development of TERAKI's technology, we are expanding our research team with a Data Scientist / Researcher position. We are looking for a Machine Learning expert with a strong background in Computer Vision and algorithm development.
+
+In this role, you will have a direct impact on shaping TERAKI's stack for train applications. You will perform research on new deep learning and processing technologies and create working prototypes. You will also work in close collaboration with software engineers to develop efficient embedded implementations of your ideas.
+
+
+
+
+
+To learn more about the project, please go through the links below:
+
+https://www.teraki.com/news/berdiba/
+
+https://www.teraki.com/news/berdiba-second-phase/
+
+
+Your Responsibilities
+
+Becoming a member of a vibrant R&D team of researchers and data scientists
+Developing pipelines related to advanced neuromorphic vision system
+Developing filters related to event-based cameras for noise reduction
+Fusing and correcting data for self-motion and vibration effects
+Developing algorithms for processing of event-based cameras
+
+
+
+Requirements
+
+Master's degree or PhD, preferably in mathematics, computer science, physics, engineering or a similar field.
+Demonstrated professional experience in machine learning-driven applications.
+Strong Python programming skills and solid knowledge of C++ are required.
+Deep understanding of mathematics, in particular of linear algebra.
+Experience in image processing and deep learning is a huge plus.
+Experience with event-based cameras is a huge plus.
+Experience with spiking neural networks is a huge plus.
+It is a bonus if you are experienced in Embedded System, FPGA, OpenCL, GPU-based implementation and parallelization.
+Fluency in English (written and spoken) is necessary.
+
+
+
+What we offer
+
+A unique opportunity to actively contribute to the IoT revolution and the emerging of novel data driven automotive platforms
+To increase your technical know-how in current very hot topics in autonomous driving development: Algorithmic methods in Machine Learning, Embedded Design
+To work on cutting-edge research with immediate industrial applications
+To work closely with top class European, US and Asian companies in Automotive and leading the pace in autonomous driving and novel connected car applications
+To work in a vibrant startup environment and share insights within an international team positioned between Berlin and the Bay Area
+
+Diesen Job melden

@@ -1,0 +1,10 @@
+{
+    "job_title": "Consultant Data Science",
+    "company": "NIELSEN+PARTNER",
+    "location": "Hamburg",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "Mehrjährige Erfahrung im Bereich Data Analytics, Data Science oder Data Engineering",
+    "skills": ["Python","R", "SQL", "NoSQL","Spark","Kafka", "SCRUM", "Test-Driven Development", "ML", "Cloud"],
+    "date_posted": null
+}

@@ -1,0 +1,24 @@
+{
+  "job_title": "MACHINE LEARNING ENGINEER",
+  "company": "IconPro GmbH",
+  "location": "52070 Aachen",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Degree in a STEM subject incl. programming and machine learning courses\nAt least one year (if you have a degree in data science or a related field, otherwise - two years) of experience as full-time employee in professional software engineering or data science\nOver-average grades\nAdvanced practical programming skills in Python from experiences outside of university\nAdvanced skills in machine learning from theoretical AND practical experiences\nYou developed software in a team using Git\nOpen-mindedness, learning-by-doing and 100 % motivation",
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Git",
+    "Databases",
+    "Docker",
+    "Kubernetes",
+    "OpenAPI",
+    "Parquet",
+    "RabbitMQ / AsyncAPI",
+    "Apache Spark",
+    "Apache Drill",
+    "MLFlow",
+    "SHAP / CXPlain"
+  ],
+  "date_posted": "CURRENT_DATE"
+}

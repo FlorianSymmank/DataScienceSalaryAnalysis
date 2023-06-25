@@ -1,0 +1,49 @@
+NLP & ML Researcher (m/f/d)
+CID GmbH
+Freigericht
+Vollzeit, Festanstellung
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Festanstellung
+Full-Time Permanent Employment at the Earliest in Freigericht
+
+Company
+
+CID GmbH is part of a fast-growing, innovative business group focused on process optimisation and information management. Our international workforce partners with global brands in delivery, telecommunication, automotives and insurance.
+
+Together with our science and research partners, we turn smart thinking and strategy into solutions that overcome challenges in information search, management and categorisation.
+
+Through our constantly expanding global network, CID is continuously strengthening its market position by releasing more and better offerings for customers around the world.
+
+Your responsibilities
+
+Our product Affinity makes it easy for Asset & Wealth Managers to enrich their fundamental and quantitative data with unstructured data insights. It’s an insights hub that helps investors maximise investment performance, business value and market knowledge. Affinity unlocks a continuous stream of relevant thematic insights that enrich asset allocation, internal processes and much more — all through an easy-to-use platform. We keep researching in the fields of Natural Language Processing, Information Retrieval, Machine Learning, Deep Learning, Content Extraction, Information Presentation, Graph Technology, and Big Data Analysis.
+
+Your responsibilities will include continuous monitoring of scientific developments in order to extend and improve features of our language technology products in different areas, such as Part of Speech Tagging, Named Entity Recognition and Disambiguation, Word Sense Disambiguation and Sentiment Analysis. You will be evaluating suitable methods and algorithms (with a focus on Machine Learning), fine-tuning them and adapting them to the requirements of the task in hand. After the prototypical implementation of these algorithms, you will support our software developers during the integration into our products.
+
+Your profile
+
+You hold a good or very good master’s degree (doctoral degree is a plus) in a relevant field, such as Computational Linguistics or Computer Science. You have a very good working knowledge of different Machine Learning methods in the context of Natural Language Processing. In particular, you should be familiar with the use of noisy, unstructured training data in different languages. Furthermore, you have good software development skills – preferably in Python – in the described context. Good spoken and written German and English complete your profile.
+
+Your opportunities at CID …
+
+Are what you make of them. If you want to make a difference, we can help. CID can offer you opportunities, experience and growth within a stable and ever-improving organisation. Besides the daily roles and responsibilities on offer, working at CID offers you bigger challenges and the chance to actively shape the future of the business.
+
+You’ll be part of a flexible, customer-obsessed and hungry-to-learn team, prioritising open communication and a welcoming culture. Our offices and working practices are designed to make joining as easy and productive as possible.
+
+You’ll work on a rich variety of groundbreaking projects and products for major companies in different industries, supported by continuous communication and your ability to make key decisions. From the types of assignments you’ll be tasked with, through to the collaboration opportunities with leading technology vendors, working at CID offers fantastic conditions to further your professional development. We’re always keen to find and retain engaged employees, and will offer a permanent contract after a successful trial period.
+
+We offer a results-based remuneration package, with the opportunity to take on additional training to boost your personal development.
+
+Other benefits include flexible working, 30 days annual vacation time, an optional company pension, regular team events, a modern canteen/cafeteria and free drinks.
+
+If this sounds like the opportunity for you, we’d love to hear from you. Please send us a full application, in either German or English, and your salary expectations.
+
+
+Send your application and we’ll be in touch.
+
+Diesen Job melden

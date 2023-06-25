@@ -1,0 +1,10 @@
+{
+  "job_title": "Full Stack Developer",
+  "company": "Kerith",
+  "location": "Düsseldorf",
+  "salary_euro": {"amount":null, "period": null},
+  "employment_type": null,
+  "requirements": "Degree in Computer Science, related field, or equivalent practical experience. Experience with databases, troubleshooting problems across services and functional areas, GCP projects, web app development, Linux, Cloud native, Kubernetes, Security, writing tests, CI/CD Tools (Github Actions), sharing thoughts, and working in a flexible environment.",
+  "skills": ["Database Management", "API Development", "Security", "Web App Development", "Linux", "Cloud Native", "Kubernetes", "CI/CD", "Teamwork"],
+  "date_posted": null
+}

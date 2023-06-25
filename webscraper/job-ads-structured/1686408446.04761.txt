@@ -1,0 +1,17 @@
+{
+    "job_title": "Senior Data Scientist (w/m/d)",
+    "company": "Leibniz-Gemeinschaft",
+    "location": "Dresden",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": "befristet für drei Jahre gemäß WissZeitVG mit der Option einer Entfristung",
+    "requirements": "Abgeschlossenes wissenschaftliches Hochschulstudium (Master/Diplom) und Promotion der (Geo-)Informatik, Mathematik, Statistik, Physik oder einem Abschluss mit inhaltlicher Nähe zur Thematik (z.B. Architektur, Bauingenieurwesen, Geografie). Daneben kommen auch Bewerber*innen aus verwandten Fächern in Frage, wenn Sie entsprechende Vorkenntnisse mitbringen bzw. bereit sind, sich diese anzueignen",
+    "skills": [
+        "Predictive Analytics",
+        "Know-how in der Datananalyse (bspw. SQL, Python, R etc.)",
+        "wünschenswert: maschinelles Lernen, Künstliche Intelligenz, Gebäudemodellierung"
+    ],
+    "date_posted": "2023-06-01"
+}

@@ -1,0 +1,50 @@
+Diese Stellenanzeige ist auf Indeed abgelaufen
+Mögliche Gründe: Der Arbeitgeber akzeptiert keine Bewerbungen, ist nicht aktiv auf der Suche nach neuen Mitarbeitern oder prüft derzeit die eingegangen Bewerbungen
+Senior Data Scientist (w/m/d)
+Bauer Media Group
+20095 Hamburg
+Senior Data Scientist (w/m/d)
+
+Burchardstraße 11, 20095 Hamburg
+
+Unter dem Dach der Bauer Media Group entstehen Tag für Tag Produkte, die Millionen von Menschen auf der ganzen Welt begeistern. Unser Portfolio reicht dabei von Print- und Online-Publikationen über Radiostationen und Online-Vergleichs-Portale bis hin zu Vertriebs- und Marketing-Dienstleistungen. Als Familienunternehmen in der fünften Generation legen wir großen Wert auf zukunfts- und kundenorientiertes Handeln. Dies spiegelt sich auch in unserem immer vielfältiger werdenden Portfolio wider. Mit großer Leidenschaft entwickeln unsere 16.000 Mitarbeitenden jeden Tag Inhalte und Dienstleistungen, die genau auf die Bedürfnisse unserer Kunden und Partner einzahlen.
+
+Die Bauer Systems KG ist der interne Full Service-IT-Dienstleister der Bauer Media Group. An unserem Stammsitz in Hamburg führen wir mit ca. 150 Mitarbeitenden die gesamte Bandbreite von IT-Dienstleistungen aus – vom Rechenzentrums-Betrieb über die Software-Entwicklung und den Anwendungs-Betrieb bis zum Arbeitsplatz-Support. Ob in komplexen Projekten oder bei der Umsetzung einzelner Anforderungen bieten wir unseren Kunden aus den Bereichen Redaktion, Vertrieb und Distribution in jeder Angelegenheit einen umfassen Service an.
+
+WER IST DAS TEAM DATA SCIENCE?
+Das Data Science Team entwickelt innovative und intelligente Datenprodukte für die verschiedenen Geschäftsbereiche der Bauer Media Group. Dabei agiert das Team in agilen Projekten mit cross-funktionalen Projektteams bestehend aus Data Scientists, Data Engineers, Frontend Entwicklern und Produkt Ownern aus dem Fachbereich. Die Umsetzung aller Data Science-Projekte erfolgt auf der zentralen Data & Analytics-Plattform der Bauer Media Group in der Azure Cloud.
+
+Wir suchen zum nächstmöglichen Zeitpunkt Unterstützung für unser Team am Standort Hamburg.
+Deine Aufgaben
+Als erfahrener Data Scientist (w/m/d) konzipierst und entwickelst Du anspruchsvolle (Machine Learning-)Anwendungen in Python
+Zudem bringst Du unsere Lösungen insbesondere in den Bereichen Computer Vision und Natural Language Processing weiter voran
+Dabei bist Du in alle Phasen des Entwicklungsprozesses eingebunden
+Du stehst in engem Austausch mit den Fachbereichen und übersetzt fachliche Anforderungen in technische Lösungen
+Du arbeitest im Rahmen von Projekten interdisziplinär eng mit anderen IT Teams zusammen
+Darüber hinaus betreust Du bestehende Verfahren, Modelle und Anwendungen und entwickelst diese im Betrieb stetig weiter (MLOps)
+Gemeinsam mit dem Team arbeitest Du an einer kontinuierlichen Verbesserung unserer Data Science-Architektur sowie der bestehenden Entwicklungsstandards und -prozesse
+Du teilst Dein Wissen aktiv im Team und auch darüber hinaus – z.B. im Rahmen der Python Community@Bauer
+Dein Profil
+Du hast ein abgeschlossenes Studium der (Wirtschafts-)Informatik, Mathematik oder in einem vergleichbaren Studiengang
+Du verfügst nachweislich über mehrere Jahre praktische Berufserfahrung im Bereich Data Analytics, Data Science oder Data Mining
+Du verfügst über sehr gute (Programmier-)Kenntnisse in Python sowie im Umgang mit SQL/NoSQL-Datenbanken
+Du bringst durch Deine fundierte Erfahrung ein hohes Datenverständnis sowie die Fähigkeit zur Datenaufbereitung mit
+Du hast praktische Erfahrung in der Entwicklung von KI-Anwendungen in den Bereichen Computer Vision und Natural Language Processing
+Du bist kommunikationsstark und hilfsbereit, arbeitest eigenverantwortlich, übernimmst gerne Verantwortung und bist ein Teamplayer
+Du beherrschst die deutsche Sprache in Wort und Schrift und verfügst über gute Englisch-Kenntnisse
+Wir bieten
+Wir wollen nicht nur unsere Kundinnen und Kunden, sondern auch unsere Kolleginnen und Kollegen begeistern. Wie? Indem Du bei uns Verantwortung übernehmen kannst und wir Dir eine langfristige Perspektive bieten.
+Zudem kannst Du von unseren vielen attraktiven Angeboten profitieren:
+Individuelle Lösungen für die flexible Gestaltung von Arbeitszeit und Arbeitsort
+Gezielte und individuelle Trainings für Deine fachliche und persönliche Weiterentwicklung
+Eine zentrale Lage in Hamburgs Innenstadt mit guter Verkehrsanbindung (Bus & Bahn)
+Zuschuss zum HVV ProfiTicket & Bike-Leasing
+Effektives Gesundheitsmanagement (z.B. Gesundheitswoche, kostenfreie Sportprogramme & Gympass)
+30 Tage Urlaub & regelmäßige Events für Mitarbeiterinnen und Mitarbeiter
+Abwechslungsreiches Betriebsrestaurant, kostenfreie Zeitschriften-Abos & diverse Vergünstigungen über Corporate Benefits
+Eine Kultur, in der Eigenverantwortung, Teamwork und Kreativität geschätzt werden und Du Gestaltungsspielraum für spannende und herausfordernde Aufgaben hast
+Solltest Du auf der Suche nach einer eigenverantwortlichen Tätigkeit sein und unser bestehendes Team durch frische Impulse bereichern wollen, dann freuen wir uns auf Deine vollständigen Bewerbungsunterlagen.
+
+Deine Ansprechpartnerin für dieses Stellenangebot ist Katrin Ammazzalorso.
+Kennziffer: 2023-BSKH/09
+Diesen Job melden

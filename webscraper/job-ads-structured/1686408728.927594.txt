@@ -1,0 +1,10 @@
+{
+   "job_title": "UX Researcher",
+   "company": "home24 SE",
+   "location": "Berlin",
+   "salary_euro": null,
+   "employment_type": null,
+   "requirements": "Several years of relevant experience and ideally a degree in psychology, cognitive science, HCI, UI/UX, data analysis or relevant field. Fluent in German and English.",
+   "skills": ["user experience design","user research","qualitative research","quantitative research","HCI","UI/UX","psychology","data analysis"],
+   "date_posted": null
+}

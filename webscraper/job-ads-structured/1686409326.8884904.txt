@@ -1,0 +1,10 @@
+{
+   "job_title": "Data Scientist",
+   "company": "dwins GmbH",
+   "location": "60316 Frankfurt am Main",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "Du hast mindestens drei Jahre Erfahrung im Bereich Data Science.\nDu hast sehr gute Kenntnisse in SQL.\nDu hast Erfahrung mit Python und Spark, idealerweise hast du auch schon mit Scala gearbeitet.\nDu hast Erfahrung mit Cloud Technologien (AWS, Azure, oder GCP).\nDu hast bereits bewiesen, dass du den komplette Lifecycle von Machine Learning Modellen - von der Konzeption bis zur Produktion - erfolgreich und eigenständig umsetzen kannst.\nDu bist in der Lage, komplexe Zusammenhänge durch gute Kommunikation einfach greifbar zu machen.\nDu sprichst Deutsch (mindestens level B2)",
+   "skills": ["Data Science", "SQL", "Python", "Spark", "Scala", "Cloud Technologien", "Machine Learning Modelle"],
+   "date_posted": "2022-09-21"
+}

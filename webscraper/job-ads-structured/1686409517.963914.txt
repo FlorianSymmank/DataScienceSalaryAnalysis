@@ -1,0 +1,10 @@
+{
+    "job_title": "Technical Product Owner",
+    "company": "Turbine Kreuzberg GmbH",
+    "location": "10969 Berlin-Kreuzberg",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Being well-versed with different tools, frameworks, and application integrations that facilitate their work within the project teams. As well as being able to read and understand documentation like wireframes data models, and architectural and interface diagrams.",
+    "skills": ["software architecture", "data structures", "databases", "dataflows", "coding", "automated testing", "data science", "mathematics"],
+    "date_posted": "2021-11-03"
+}

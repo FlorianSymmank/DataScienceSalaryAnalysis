@@ -1,0 +1,19 @@
+{
+  "job_title": "Cellular Software Engineer",
+  "company": "Apple",
+  "location": "München",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Masters or PhD Degree in Computer Science/Informatics, Computer/Electrical Engineering or equivalent",
+  "skills": [
+    "Strong Software Engineering skills including design, programming (C or C++), debugging and testing is required",
+    "Experience in analyzing system logs and resolving issues working with cross functional teams is required",
+    "Experience in development of tools and scripting for verification/analysis of a product is required",
+    "Experience in software performance optimization on ARM based platforms is required",
+    "Understanding of network protocols such as (TCP/UDP/IP)",
+    "Good understanding of OS concepts (heap/stack/threads/mutex/memory/scheduling) is a plus",
+    "Solid understanding of 3GPP Specifications related to 5G NR and LTE Data protocols (including SDAP/PDCP/RLC/MAC and relevant PHY Layer Specifications).",
+    "Experience with silicon prototyping, emulation systems, and virtual platforms is a plus"
+  ],
+  "date_posted": "2023-04-25"
+}

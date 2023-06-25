@@ -1,0 +1,14 @@
+{
+    "job_title": "Praktikant Data Science (m/w/d)",
+    "company": "Schwarz Dienstleistungen",
+    "location": "74172 Neckarsulm",
+    "salary_euro": null,
+    "employment_type": "Praktikum",
+    "requirements": "Fortgeschrittenes Studium im Bereich (Wirtschafts-) Informatik, Mathematik / Statistik oder einem vergleichbaren Studiengang Grundlegende Kenntnisse in Statistik und Machine Learning...",
+    "skills": [
+        "Python",
+        "R",
+        "Scala"
+    ],
+    "date_posted": null
+}

@@ -1,0 +1,69 @@
+Praktikum im Bereich Data Science / Data Analytics ab September 2023
+Mercedes-Benz AG
+Böblingen
+Praktikum
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Praktikum
+Aufgaben
+
+Gestalten Sie mit uns die Zukunft der Mobilität rund um das Automatisierte Fahren! Dafür legen wir in unserem Center die Grundlagen, indem wir neueste Technologien und Algorithmen in unsere Fahrzeuge und Off-Board Systeme integrieren. Als Team “Curation and Scene Recognition“ entwickeln wir Ansätze, mit denen wir in einer großen Menge von Daten die relevanten Daten finden können. Damit versorgen wir unseren Kunden mit den passenden Daten und Werkzeugen, mit denen sie datengetrieben entwickeln können.
+
+Im Rahmen dieses Themenfeldes bieten wir Ihnen die Möglichkeit zu einem spannenden Praxiseinsatz. Sie werden mithilfe von Daten aus der Kundenflotte von Mercedes-Benz und mithilfe von Daten unseres Fahrzeugaufbaus verschiedene Datenanalysen durchführen und die Experten bei ihren Aufgaben unterstützen.
+Für die Analysen werden Sie verschiedene statistische Methoden sowie KI-Ansätze verwenden.
+
+Konkret beschäftigen Sie sich dabei mit folgenden Aufgaben:
+
+
+
+Einarbeitung in die verwendeten Daten und Datensammlungen
+
+Verbesserung und Erweiterung von aktuellen Datensammlungen
+
+Analyse und Bereinigung von Datensätzen
+
+Vergleiche zwischen unseren Daten und Daten aus externen Quellen
+
+Klassifizierung und Clustering von Daten mithilfe von ML-Ansätzen
+
+Nutzung von Computer Vision Algorithmen auf Bild- und Lidardaten
+
+
+
+Die Aufgabenstellung kann je nach persönlicher Neigung und Fertigkeiten angepasst werden. Beispielsweise ist ein Praktikum mit Analysefokus, mit ML-Fokus oder mit Datensammlungsfokus möglich.
+
+Qualifikationen
+
+Studiengang im Bereich in (technischer) Informatik, Elektrotechnik, Mechatronik, naturwissenschaftlichen Fächern wie Physik/Mathematik oder vergleichbarer Studiengang (Bachelor oder Masterstudenten)
+
+Erste Kenntnisse in der cloudbasierten Verarbeitung/Analyse großer Datenmengen (z.B. Microsoft Azure)
+
+Idealerweise Kenntnisse in statischen Methoden
+
+Idealerweise Kenntnisse im Bereich Machine Learning & Computer Vision
+
+Fortgeschrittene Programmierkenntnisse (vorzugsweise Python/Scala)
+
+Sichere Deutsch- oder Englischkenntnisse in Wort und Schrift
+
+Selbständige und strukturierte Arbeitsweise
+
+
+
+Zusätzliche Informationen:
+
+Ganz ohne Formalitäten geht es natürlich auch bei uns nicht. Daher bitten wir Sie, sich ausschließlich online zu bewerben und Ihrer Bewerbung einen Lebenslauf, aktuelle Immatrikulationsbescheinigung mit Angabe des Fachsemesters, aktueller Notenspiegel, relevante Zeugnisse, ggf. Pflichtpraktikumsnachweis und Nachweis über die Regelstudienzeit (max. Gesamtgröße der Anhänge 5 MB) beizufügen sowie im Online-Formular Ihre Bewerbungsunterlagen als "relevant für diese Bewerbung" zu markieren.
+
+Weiterführende Informationen zu den Einstellkriterien finden Sie hier.
+Angehörige von Staaten außerhalb des europäischen Wirtschaftsraums schicken ggf. bitte ihre Aufenthalts-/Arbeitsgenehmigung mit.
+
+Wir freuen uns insbesondere über Onlinebewerbungen schwerbehinderter und ihnen gleichgestellter behinderter Menschen. Bei Fragen können Sie sich unter SBV-Sindelfingen@mercedes-benz.com zudem an die Schwerbehindertenvertretung des Standorts wenden, die Sie gerne nach Ihrer Bewerbung im weiteren Bewerbungsprozess unterstützt.
+
+Bitte haben Sie Verständnis dafür, dass wir keine Papierbewerbungen mehr entgegennehmen und es keinen Anspruch auf Rückversand gibt.
+
+Fragen zum Bewerbungsprozess beantwortet Ihnen gerne HR Services per Mail an hrservices@mercedes-benz.com o der auf unserer Karriereseite der Chat-Bot über das PLUS-Symbol.
+
+Diesen Job melden

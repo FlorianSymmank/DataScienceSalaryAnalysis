@@ -1,0 +1,52 @@
+Software Engineering Working Student/ Internship at AI Startup trail ml
+trail ml
+München
+Praktikum, Freie Mitarbeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Praktikum
+Freie Mitarbeit
+
+trail is an early-stage startup in Munich on the mission to build the management platform for AI projects. We bridge the gap between business & tech stakeholder to enable efficient and trustworthy AI development.
+
+The founders studied at LMU & TUM and we would love to have fellow Munich students on board!
+
+We are looking for you
+
+Join us in turning our AI management platform from a functioning MVP into a great product. We are open for working students, internships and freelance positions.
+
+Your work will vary based on your interest, our users’ needs and strengths of the team. We are looking for a bright and proactive mind that wants to be involved in feature discovery and implementation, system design, infrastructure planning, and development operations. Join our engineering team and actively shape our engineering culture.
+
+What you will work on
+
+Develop features: Actively participate in our user discovery journey to learn what our users need. Implementing what we have learned from front to back. Rapidly ship prototypes and features in short iteration cycles.
+Build and run the code: You are responsible to test, deploy, and monitor your own code. This involves work for example with our infrastructure, CI/CD pipeline, and testing suites. All within a culture of code review & support from the whole team.
+
+What makes you a good fit
+
+Clear ideas and a proactive mindset on how to shape the future of trail
+Independent management of your own engineering projects while supporting daily operations
+Strong solution mindset for challenging tasks and bugs
+Being disposed to challenging the standard way of doing things and happy to try out new things
+Structured and productive working style
+Transparent communication and feedback within the team
+Interested and experienced in software engineering and data science
+You are motivated to work with our tech stack: python, flask, mongoengine, mongoDB, react, MUI, Apollo (graphql)
+
+Benefits of working at trail
+
+As one of our first employees you have huge impact on the product, culture & future of trail
+Experience the craziness of life of an early-stage startup
+Highly motivated team with lots of fun & cool team events
+Office in the center of Munich (Maxvorstadt)
+
+Interested? Reach out!
+
+Just shoot us a message ✉️ anna@trail-ml.com along with your CV and your Git-repo or a recent coding project. We are happy to answer any questions you may have!
+
+Check out this page for more information about the role & working at trail.
+
+Diesen Job melden

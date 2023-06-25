@@ -1,0 +1,22 @@
+{
+   "job_title": "PhD candidate (f_m_x) Research on Properties of carbonate glasses at high pressure",
+   "company": "Deutsches GeoForschungsZentrum - GFZ",
+   "location": "Potsdam",
+   "salary_euro": {
+      "amount": null,
+      "period": null
+   },
+   "employment_type": "Teilzeit",
+   "requirements": "Master's degree (or equivalent) in Geosciences, Physics, Chemistry, or a related discipline",
+   "skills": [
+      "geophysics",
+      "experimental work",
+      "optical",
+      "infrared",
+      "Raman spectroscopies",
+      "English",
+      "diamond anvil cell",
+      "programming"
+   ],
+   "date_posted": "2023-07-30"
+}

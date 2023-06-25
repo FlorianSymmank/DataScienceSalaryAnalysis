@@ -1,0 +1,10 @@
+{
+    "job_title": "Internship (m/f/div) /Thesis in IT Full Stack Development/Data Science/Data Engineering/Machine Learning",
+    "company": "Evonik",
+    "location": "Marl",
+    "salary_euro": null,
+    "employment_type": "Teilzeit",
+    "requirements": "Advanced studies (ideally master studies) with a background in information technology\nFirst work experience (e.g. internships)\nGerman and English language skills (written and spoken)\nHigh level of teamwork and communication skills\nMotivation and initiative",
+    "skills": [],
+    "date_posted": null
+}

@@ -1,0 +1,13 @@
+{
+    "job_title": "Threat Analytics Data Scientist (m/w/d) – Anti-Financial Crime",
+    "company": "Deutsche Bank",
+    "location": "Frankfurt am Main",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": "Vollzeit, Festanstellung",
+    "requirements":  "Bachelor oder Master-Abschluss in Mathematik, Computerwissenschaft, Data Science, oder einer anderen quantitativen/wissenschaftlichen Disziplin Kenntnisse von Big-Data-Plattformen und umfassende praktische Erfahrung in der Datenanalyse sowie in der Datenaufbereitung und -auswertung, wünschenswert Erfahrung in der Prävention von Finanzkriminalität oder im Risikomanagement innerhalb des Finanzsektors, wünschenswert Erfahrung in der statistischen Analyse (SAS, R, Python) und in Datenvisualisierungstools, z. B. Tableau oder Qlik; wünschenswert Verhandlungssicheres Deutsch sowie gute Englischkenntnisse in Wort und Schrift",
+    "skills": ["Datenanalyse", "Big-Data-Plattformen", "Risikomanagement", "statistische Analyse", "Datenvisualisierung"],
+    "date_posted": null
+}

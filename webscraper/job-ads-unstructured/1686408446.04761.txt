@@ -1,0 +1,66 @@
+Senior Data Scientist (w/m/d)
+Leibniz-Gemeinschaft
+Dresden
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+01.06.2023
+
+Senior Data Scientist (w/m/d)
+Leibniz-Institut für ökologische Raumentwicklung (IÖR), Dresden
+
+Das Leibniz-Institut für ökologische Raumentwicklung e. V. (IÖR) schreibt die folgende, vorerst auf drei Jahre befristete Stelle gemäß WissZeitVG mit der Option einer Entfristung aus, die schnellstmöglich besetzt werden soll:
+
+Senior Data Scientist (w/m/d)
+
+Modellierung der gebauten Umwelt für zirkuläre und resiliente Städte und Regionen
+
+TV-L E 13, 100 % (40 Wochenstunden)
+
+Das Leibniz-Institut für ökologische Raumentwicklung (IÖR) ist eine außeruniversitäre Forschungseinrichtung und Mitglied der Leibniz-Gemeinschaft. Wir erforschen die Charakteristika, die Dynamik und die Steuerung raumbezogener Nachhaltigkeitstransformationen und deren Beschleunigung im Kontext der globalen human-ökologischen Krise.
+
+Eine besondere Bedeutung kommt dabei einer nachhaltigen Flächennutzung und Raumstruktur zu. Zur Beantwortung der damit verbundenen Fragestellungen werden für Forschungszwecke und zur Entscheidungsunterstützung in diversen Kontexten kleinräumige Daten, Analysen, Simulationen, Szenarien und Bewertungen benötigt. Basierend auf seinen etablierten Forschungsdateninfrastrukturen „Monitor der Siedlungs- und Raumentwicklung (IÖR-Monitor)“ und „Informationssystem gebaute Umwelt (ISBE)“ baut das IÖR ein Forschungsdatenzentrum (IÖR-FDZ) auf.
+
+Stellenspezifischer Hintergrund
+
+Sie entwickeln forschungsdatenbasierte Modellierungsansätze im Themenfeld Zirkularität und Resilienz der gebauten Umwelt und arbeiten gemeinsam mit anderen Wissenschaftler*innen an der (Daten-) Publikation der Ergebnisse. Sie forschen an aktuellen Fragestellungen des Forschungsbereichs „Gebaute Umwelt – Ressourcen und Umweltrisiken“ und sind zugleich Teil eines interdisziplinären, bereichsübergreifenden Teams, welches das IÖR-FDZ aufbaut und betreibt.
+
+Der Forschungsbereich untersucht die Entwicklung und Nutzung der gebauten Umwelt (Gebäude, Infrastrukturen und anthropogen überformte Freiräume) hinsichtlich ihrer Nachhaltigkeit. Der Fokus liegt auf Materialität, Zirkularität, Resilienz und Umweltrisiken. Bezüge zur Flächenentwicklung und der Einfluss räumlicher Strukturen und Prozesse auf die Gestaltung einer Nachhaltigkeitstransformation sind von besonderer Bedeutung.
+
+Ausgehend von vorhandenen Daten, Modellen und Werkzeugen (wie z. B. Schadens- und Risikomodellen für Hochwasser und Hitze sowie Kataster für anthropogene Ressourcen) erarbeiten Sie neue Analyse- und Modellierungsansätze, um damit Möglichkeiten der Transformation hin zu zirkulären und resilienten Städten und Regionen aufzuzeigen und zu verstehen. Damit greifen Sie aktuelle Themen mit Bezug zu Ressourvcenschonung und Klimaschutz auf und speisen diese in die Diskussion mit Wissenschaft, Zivilgesellschaft, Politik und Planung ein. Sie entwickeln Ideen und Aktivitäten zur laufenden Erweiterung der Datenangebote und Werkzeuge des IÖR-FDZ und veröffentlichen die Ergebnisse zeitnah in wissenschaftlichen Zeitschriften. Außerdem aquirieren Sie thematisch passende Drittmittelprojekte und betreuuen die darin tätigen Wissenschaftler*innen.
+
+Erwartete Fähigkeiten und Kompetenzen
+
+Abgeschlossenes wissenschaftliches Hochschulstudium (Master/Diplom) und Promotion der (Geo-)Informatik, Mathematik, Statistik, Physik oder einem Abschluss mit inhaltlicher Nähe zur Thematik (z.B. Architektur, Bauingenieurwesen, Geografie). Daneben kommen auch Bewerber*innen aus verwandten Fächern in Frage, wenn Sie entsprechende Vorkenntnisse mitbringen bzw. bereit sind, sich diese anzueignen
+Umfangreiche Erfahrungen im Bereich (Spatial) Data Science, u. a.:
+Predictive Analytics,
+Know-how in der Datananalyse (bspw. SQL, Python, R etc.)
+wünschenswert: maschinelles Lernen, Künstliche Intelligenz, Gebäudemodellierung
+Freude daran, komplizierte technische Zusammenhänge für unterschiedliche Stakeholder aufzubereiten und zu vermitteln
+Erfahrungen bei der Einwerbung von Forschungsmitteln
+Analytisches und prozessorientiertes Denkvermögen sowie eine strukturierte und lösungsorientierte Arbeitsweise
+Starkes Interesse an interdisziplinären Fragestellungen und ausgeprägte Teamfähigkeit
+Deutsch- und Englischkenntnisse (CEFR Level C1 oder höher).
+
+Wir unterstützen Forscher*innen aktiv durch Qualifizierungs- und Karriereentwicklungsmaßnahmen, einschließlich eines kontinuierlichen Mentorings sowie durch Weiterbildungsmöglichkeiten, z. B. in Bezug auf wissenschaftliche Methoden und Veröffentlichungen.
+
+Wir bieten Ihnen
+
+Mitarbeit in einem führenden Forschungsinstitut der Leibniz-Gemeinschaft
+motivierendes Arbeitsumfeld
+flache Hierarchien und Partizipationsmöglichkeiten
+Offenheit und vertrauensvolles Miteinander
+lebendige Sozialkultur und Diversität
+Familiengerechtigkeit und flexible Arbeitszeitmodelle
+Chancengleichheit (mehrfach Total-E-Quality-zertifiziert)
+Nachhaltigkeits-Management
+Jobticket
+zusätzliche Absicherung durch eine betriebliche Altersversorgung (VBL)
+
+Der Arbeitsort ist Dresden.
+
+Das IÖR fördert die berufliche Gleichstellung von Frauen und Männern sowie Diversität und setzt sich besonders für die Vereinbarkeit von Familie und Berufsleben ein. Frauen sind ausdrücklich zur Bewerbung aufgefordert. Bewerbungen anerkannt schwerbehinderter Menschen sind erwünscht.
+
+Bitte senden Sie Ihre vollständigen Bewerbungsunterlagen (Motivationsschreiben, Lebenslauf, Zeugnisse, Arbeitszeugnisse, Referenzen und wichtige Qualifikationen) unter dem Kennwort „FDZ FBR Senior Data Scientist“ in Form einer einzelnen PDF-Datei bis zum 23. Juni 2023 per E-Mail an jobs(at)ioer.de.
+
+Diesen Job melden

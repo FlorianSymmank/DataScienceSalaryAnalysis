@@ -1,0 +1,13 @@
+{
+  "job_title": "(Senior) Data Scientist Pricing & Forecasting (m/f/d)",
+  "company": "InstaFreight GmbH",
+  "location": "10999 Berlin",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Previous experience with pricing, price elasticity estimation, and forecasting is essential. Bachelor (or higher) degree in Statistics, Econometrics, Economics, Computer Science, Engineering or Mathematics with a strong quantitative background. 4+ years of relevant Data Science experience. Industry expertise in road transportation/logistics is a plus.",
+  "skills": [
+    "SQL",
+    "R or Python"
+  ],
+  "date_posted": null
+}

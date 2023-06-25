@@ -1,0 +1,24 @@
+{
+  "job_title": "Werkstudent/in Data Science (m/w/d)",
+  "company": "BANKSapi GmbH",
+  "location": "München",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Werkstudent",
+  "requirements": "Du bist eingeschriebene/r Student/in in Data Science, Computerlinguistik, Informatik, Wirtschaftsinformatik, Mathematik, Physik, Statistik oder einem vergleichbaren Studiengang\nDu verfügst über solide Programmiererfahrung in Python und hast bereits Erfahrung mit Data Science Bibliotheken wie Pandas, scikit-learn, TensorFlow, PyTorch, spaCy und NLTK gesammelt\nIdealerweise hast Du erste Erfahrung im Umgang mit relationalen Datenbanken (insb. SQL) und der Entwicklung von APIs\nDu verfügst über hervorragende Englischkenntnisse und gute Deutschkenntnisse (mindestens B1)\n",
+  "skills": [
+    "Python",
+    "Data Science",
+    "Pandas",
+    "scikit-learn",
+    "TensorFlow",
+    "PyTorch",
+    "spaCy",
+    "NLTK",
+    "SQL",
+    "API"
+  ],
+  "date_posted": null
+}

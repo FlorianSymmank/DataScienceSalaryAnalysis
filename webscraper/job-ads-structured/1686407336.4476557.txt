@@ -1,0 +1,21 @@
+{
+    "job_title": "Junior Data Engineer (f/m/d)",
+    "company": "Honic",
+    "location": "Home Office",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "University degree in Computer Science, Computer Engineering, or related fields or similar work experience\nFirst experience with data management, data modeling, and data cleansing\nExperience working with Python (pandas / polars / seaborn) and R programming\nKnowledge of eHealth standards such as HL7, FHIR, openEHR, DICOM is an advantage\nStrong awareness of data protection and data security\nFluent in German or English",
+    "skills": [
+        "Python",
+        "R programming",
+        "SQL/NoSQL",
+        "GitLab",
+        "JIRA",
+        "Confluence",
+        "pandas",
+        "polars",
+        "seaborn",
+        "eHealth standards such as HL7, FHIR, openEHR, DICOM"
+    ],
+    "date_posted": null
+}

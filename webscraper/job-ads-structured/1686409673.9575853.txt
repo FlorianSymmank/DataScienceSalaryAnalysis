@@ -1,0 +1,19 @@
+{
+    "job_title": "Postdoc (m/f/d) in the research area \"Visual neuroscience and neurostimulation\"",
+    "company": "Justus-Liebig-Universität Gießen",
+    "location": "Deutschland",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": "Befristeter Vertrag",
+    "requirements": "Completed Master‘s or equivalent university degree in Psychology, Neuroscience, Computer Science, Biology (or a related discipline) Completed PhD Theoretical foundations in the field of (visual) cognitive neuroscience Experience with using neurostimulation methods (preferably TMS) Experience with independently collecting neuroscientific data (EEG and/or fMRI) Experience with EEG and/or fMRI data analysis Excellent programming skills (in Matlab and/or Python) Excellent command of the written and spoken English language Ability to work reliably and independently, as well as within a team",
+    "skills": [
+        "Programming skills in Matlab and/or Python",
+        "Experience with using neurostimulation methods (preferably TMS)",
+        "Experience with independently collecting neuroscientific data (EEG and/or fMRI)",
+        "Experience with EEG and/or fMRI data analysis",
+        "Excellent command of the written and spoken English language"
+    ],
+    "date_posted": null
+}

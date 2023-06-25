@@ -1,0 +1,10 @@
+{
+  "job_title": "MS Data Analyst: Power BI",
+  "company": "areto consulting GmbH",
+  "location": "51063 Köln",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Keine passenden Job-Präferenzen",
+  "skills": ["Power BI", "Power Platform", "Data-Analytics-Lösungen", "Self-Service-Lösungen", "Reports", "Datenströme", "strukturierten Datenquellen", "unstrukturierten Datenquellen", "Datasets", "Sicherheitskonzepten", "Berechtigungen", "Authentifizierung", "DAX", "M", "DWH-Konzepte", "Reports für Kund*innen", "Zertifizierung", "SQL", "Azure", "Microsoft On-Premises", "Power BI Administration"],
+  "date_posted": null
+}

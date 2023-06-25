@@ -1,0 +1,10 @@
+{
+  "job_title": "Data Analyst",
+  "company": "Betterbits GmbH & Co. KG",
+  "location": "Darmstadt",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Keine passenden Job-Präferenzen",
+  "skills": ["SQL", "MongoDB", "Tableau"],
+  "date_posted": null
+}

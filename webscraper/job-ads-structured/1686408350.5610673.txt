@@ -1,0 +1,10 @@
+{
+   "job_title": "Business Intelligence/Data Analyst (m/w/d)",
+   "company": "Würth Industrie Service GmbH & Co. KG",
+   "location": "97980 Bad Mergentheim",
+   "salary_euro": null,
+   "employment_type": null,
+   "requirements": "Sie verfügen über fundierte Erfahrung im Umgang mit ETL- und BI-Systemen sowie über Grundkenntnisse mit relationalen Datenbanksystemen. Zudem haben Sie Projekterfahrung im Bereich der Analyse und Optimierung von Geschäftsprozessen. Sie haben sehr gute konzeptionelle und analytische Fähigkeiten. Darüber hinaus bringen Sie sehr gute Deutsch- und Englischkenntnisse mit.",
+   "skills": ["Data Analytics","Microsoft Power BI","Business Intelligence","IT","Data-Science"],
+   "date_posted": null
+}

@@ -1,0 +1,10 @@
+{
+"job_title": "Doktorand im Bereich Data Science, AI & Fahrzeuganalyse: Maschinelles Lernen / DeepLearning (w/m/x)",
+"company": "BMW",
+"location": "80809 München",
+"salary_euro": null,
+"employment_type": "Vollzeit",
+"requirements": "Masterabschluss in Informatik, Mathematik, Naturwissenschaften, Ingenieurwissenschaften oder einem vergleichbaren Studiengang. Grundlegende Kenntnisse in maschinellem Lernen und Deep-Learning-Algorithmen Erfahrung in Python und bekannten Analytik/AI-Bibliotheken, Erfahrung in Tensorflow, PyTorch und idealerweise SPLUNK Kenntnisse über Fahrzeugproduktion, Fahrzeugelektronik und deren Prüfungen sind von Vorteil, die Bereitschaft, sich in dieses Gebiet einzuarbeiten, ist ein Muss. Gute Team- und Kommunikationsfähigkeiten, sowie eine selbstständige und strukturierte Arbeitsweise. Verhandlungssicheres Deutsch und Englisch. Neugierde und Ausdauer.",
+"skills": ["maschinelles Lernen", "Deep Learning", "Python", "Tensorflow", "PyTorch", "SPLUNK", "Fahrzeugproduktion", "Fahrzeugelektronik", "Teamwork", "Kommunikation", "Selbstständigkeit", "Strukturierte Arbeitsweise"],
+"date_posted": "2021-09-21"
+}

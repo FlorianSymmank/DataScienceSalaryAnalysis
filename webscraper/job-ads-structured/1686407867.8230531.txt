@@ -1,0 +1,16 @@
+{
+   "job_title": "Data Science Interns",
+   "company": "Conxai Technologies GmbH",
+   "location": "München",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "Pursuing a Master's degree in Data Science or related field",
+   "skills": [
+      "Python",
+      "data analysis",
+      "visualization",
+      "analytics",
+      "SQL"
+   ],
+   "date_posted": "2021-08-18"
+}

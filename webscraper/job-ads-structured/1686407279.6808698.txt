@@ -1,0 +1,23 @@
+{
+  "job_title": "Data Scientist (m/f/d)",
+  "company": "Cuculus GmbH",
+  "location": "98693 Ilmenau",
+  "salary_euro": null,
+  "employment_type": "Vollzeit, Teilzeit",
+  "requirements": "You hold a degree in physics, computer science, engineering, or a related discipline. You have a confident knowledge of the German and English languages - written and spoken. You have in-depth programming knowledge in Python, and ideally knowledge in TypeScript, Angular, Javascript, HTML, or shell scripting. You have good mathematical knowledge and experience in mathematical modeling and simulation. You ideally have knowledge of time series analysis, Fourier analysis, and causality analysis. You ideally have basic knowledge of smart metering.",
+  "skills": [
+    "Python",
+    "TypeScript",
+    "Angular",
+    "Javascript",
+    "HTML",
+    "Shell scripting",
+    "Mathematical modeling",
+    "Simulation",
+    "Time series analysis",
+    "Fourier analysis",
+    "Causality analysis",
+    "Smart metering"
+  ],
+  "date_posted": "2021-10-12"
+}

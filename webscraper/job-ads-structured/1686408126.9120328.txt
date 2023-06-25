@@ -1,0 +1,10 @@
+{
+    "job_title": "PhD position in Machine Learning and Information Processing Group on DNA Data Storage",
+    "company": "Technische Universität München",
+    "location": "80333 München",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "You must hold a master’s degree in Electrical Engineering, Computer Science, Mathematics, or similar.",
+    "skills": ["mathematical", "coding", "coding theory", "information theory", "algorithm"],
+    "date_posted": null
+}

@@ -1,0 +1,22 @@
+{
+    "job_title": "Data Scientist",
+    "company": "Iron EagleX",
+    "location": "70569 Stuttgart",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Bachelors in STEM field or Master’s Degree in Operations Research, Industrial Engineering, Applied Mathematics, Statistics, Physics, Computer Science, or related fields is required. An active Top Secret Security Clearance is Required",
+    "skills": [
+        "data analysis",
+        "data mining",
+        "machine learning",
+        "cloud-native platforms",
+        "natural language programming",
+        "statistics",
+        "algorithms",
+        "R",
+        "Python",
+        "Agile Development",
+        "Git Operations"
+    ],
+    "date_posted": null
+}

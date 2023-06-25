@@ -1,0 +1,19 @@
+{
+   "job_title":"Data Analyst",
+   "company":"Tanner AG",
+   "location":"88131 Lindau",
+   "salary_euro":null,
+   "employment_type":"unknown",
+   "requirements":"Du hast Data Science, Informatik, Wirtschaftsinformatik oder ähnliches studiert oder bringst einschlägige Erfahrung in Big-Data-Analysen mit.",
+   "skills":[
+      "Programmiersprachen",
+      "Machine Learning",
+      "Data Mining",
+      "Business Intelligence",
+      "Power-BI",
+      "RapidMiner",
+      "Tableau",
+      "Hadoop"
+   ],
+   "date_posted":"unknown"
+}

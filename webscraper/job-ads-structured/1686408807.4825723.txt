@@ -1,0 +1,10 @@
+{
+"job_title": "Duales Studium Data Science / Master of Science (m/w/d)",
+"company": "VR Bank in Holstein eG",
+"location": "Schleswig-Holstein",
+"salary_euro": null,
+"employment_type": "Berufsausbildung",
+"requirements": "Bachelorabsolvent aller Fachbereiche mit und ohne Berufspraxis. Abgeschlossene kaufmännische Ausbildung wäre wünschenswert. Sichere Anwendung von MS Office und die Bereitschaft, sich in weitere Programmiersprachen und Anwenderprogramme einzuarbeiten. Ausgeprägtes betriebswirtschaftliches Verständnis und eine hohe Zahlenaffinität. Spaß am Erstellen von Konzepten, analytischem Denken sowie partnerschaftlichem Arbeiten. Hohes Maß an Eigeninitiative, Kommunikationsfähigkeit und strukturierter Arbeitsweise.",
+"skills": ["MS Office", "Programmiersprachen", "Betriebswirtschaft", "Analytisches Denken", "Eigeninitiative", "Kommunikationsfähigkeit", "Strukturierte Arbeitsweise"],
+"date_posted": "2021-06-08"
+}

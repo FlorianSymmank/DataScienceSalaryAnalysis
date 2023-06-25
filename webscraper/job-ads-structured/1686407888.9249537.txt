@@ -1,0 +1,20 @@
+{
+  "job_title": "Werkstudent: Data Science & Project Management Office (w/m/div)*",
+  "company": "Infineon Technologies",
+  "location": "Warstein",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Teilzeit, Befristeter Vertrag",
+  "requirements": "Derzeit Betriebswirtschaftslehre , Wirtschaftsingenieurwesen , Wirtschaftsinformatik oder einen artverwandten Studiengang studieren",
+  "skills": [
+    "analytische Arbeitsweise",
+    "Interesse an technischen Themen",
+    "Erfahrung und Umgang mit Daten aus verschiedenen Datenquellen und Formaten besitzen",
+    "Gute Kenntnisse in MS Excel, idealerweise auch in Tableau sowie Access und SQL mitbringen",
+    "Schnelle Auffassungsgabe",
+    "Sehr gute Deutschkenntnisse und gute Englischkenntnisse vorweisen können"
+  ],
+  "date_posted": null
+}

@@ -1,0 +1,75 @@
+Senior Data Scientist - Vehicle Data & Services
+Luxoft
+Homeoffice
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+Project Description
+
+The Luxoft Automotive Connected Mobility Practice includes the center of competences for Data Insights, Advanced Diagnostics, Telematics, Connected Vehicle Platforms, Connected Services and Automotive Edge / IoT Solutions.
+Our goal is to help our customers leverage the rapidly increasing amount of data ingested from their connected fleet to create data-driven development solutions like digital twins, AI-enabled applications, and the next generation of software-defined vehicles. We aim to support our customers on all levels ranging from the ideation use cases to the implementation of those.
+As a Lead Data Scientist at Luxoft's Data Insights Center of Competency, you will take part in shaping and defining a new offering where we will combine our automotive domain knowledge with data science, machine learning, and artificial intelligence to enable our customers to extract maximum business value from their connected fleet data. You will be a part of a small core team of solution architects that will design, define, and build our vehicle data analytics and machine learning capability and solutions offering.
+
+Responsibilities
+
+As an expert and a trusted advisor, you will be working closely with our customers to help them find business value in their data and become more data driven. You align with our domain experts to define and extract use-cases from the OEMs and convert them into solutions that meet the requirements and developer feedback goals of the customer.
+In your role as Lead Data Scientist at Luxoft Automotive, you will design and define the analytics and data engineering capability as well as assist in recruitment and mentoring of data analytics engineering resources.
+You will work together with our presales solution team, supporting the creation of RFP responses and conducting customer presentations in the field of vehicle big data and analytics.
+On the technical side, you will be a part of the early phases in our customer projects. You will act as lead architect, coaching the teams to successfully implement advanced analytics platforms and services. You will also lead other data scientists and engineers.
+
+Skills
+
+Must have
+
+Mindset:
+You are a life-long-learner curious about innovation, value creation and problem solving. You like to stay ahead of the curve and work on cutting edge problems. You appreciate getting challenged, you thrive under uncertainty and you enjoy working on complex problems. You are willing to wear multiple hats and work both on technical and business topics.
+Working Experience:
+At least 5 years of experience in data analysis, data management, quantitative and qualitative research, analytics, advanced signal processing, algorithm development, robotics or similar.
+At least 2 years in a leadership position, leading a team of data scientists and/or engineers.
+Academic Background:
+Master’s Degree in Data Science, Computer Science, Electrical Engineering, Physics, mathematics or related fields. Additional PhD. or MBA qualifications are highly desired and welcomed.
+Expertise:
+
+Profound knowledge of statistics, statistical modeling, and probability theory, machine learning, deep learning and artificial intelligence (NLP, etc.)
+Experience in business needs assessments, prioritization techniques, and business case development and customer facing experience
+Excellent analytical and problem-solving skills
+Deep end-to-end understanding of how to manage and optimize the data flow from ETL through to a trained and validated ML model.
+Proven experience in building, deploying, and maintaining data science models or products
+Expert knowledge of languages and tools like Python or R with focus on data science, machine learning, artificial intelligence (e.g. TensorFlow, Keras, pandas, Scikit-learn and others) as well as experience with designing and working with complex algorithms.
+Experience with cloud services like AWS, Microsoft Azure, Google Cloud
+Experience with databases: SQL, NoSQL, Graph, time-series
+Experience with working with a wide range of both structured and unstructured data (e.g. images, video, time series, natural language and others)
+Excellent communication and presentation skills and an ability to work with people with different backgrounds, for example, data engineers and automotive engineers, sales and marketing and with people of various levels of seniority
+English C1 (advanced)
+
+Nice to have
+
+German C1 (advanced)
+Prior experience at a global OEM and understand business processes in the automotive industry
+Experience with predictive maintenance
+Edge computing experience
+Product development experience (software/hardware)
+Experience working with IoT devices and technologies
+Languages
+
+English: B2 Upper Intermediate
+
+German: C1 Advanced
+
+Seniority
+
+Senior
+
+Relocation package
+
+If needed, we can help you with relocation process.
+
+Vacancy Specialization
+
+Data Science
+
+Ref Number
+
+VR-97179
+
+Diesen Job melden

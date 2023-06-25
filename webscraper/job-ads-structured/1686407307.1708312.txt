@@ -1,0 +1,20 @@
+{
+    "job_title": "Environmental Data Scientist",
+    "company": "Klim",
+    "location": "10407 Berlin",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": null,
+    "requirements": "Hold a master's degree in an environmental field, agriculture, soil science, or a related discipline, demonstrating a strong academic background\nPossess experience in R and/or Python scripting for modelling and data science, showcasing your technical proficiency\nExhibit expertise in calibration and validation of environmental or agricultural models\nShowcase strong analytical skills, enabling you to derive insights and make data-driven decisions\nIt would be great if you also have an agricultural background, providing valuable domain knowledge and context to your work\nFluent in both German and English, facilitating effective communication and collaboration with our diverse team",
+    "skills": [
+        "R scripting",
+        "Python scripting",
+        "model optimization",
+        "environmental data analysis",
+        "agricultural background",
+        "fluent in German and English"
+    ],
+    "date_posted": null
+}

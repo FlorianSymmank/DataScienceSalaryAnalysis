@@ -1,0 +1,10 @@
+{
+   "job_title": "DATA SCIENCE DEVELOPER (M/W/D)",
+   "company": "ixto",
+   "location": "10117 Berlin",
+   "salary_euro": null,
+   "employment_type": null,
+   "requirements": "Abgeschlossenes Studium oder eine vergleichbare Berufsausbildung – wichtig sind uns Ihre ausgeprägten Fähigkeiten in wissenschaftlich-analytischem Denken, Kenntnisse in einer der folgenden Sprachen: Python, Java, PowerShell, C# oder JavaScript, Erfahrungen mit Cloud-Plattformen wie Microsoft Azure, AWS und GCP sind von Vorteil, Erfahrungen im Bereich Datenbankentwicklung sind von Vorteil, Selbstbewusstes Auftreten und Kundenorientierung, Kommunikationsstärke und Teamfähigkeit, Reisebereitschaft, Sprachkenntnisse: Deutsch (C1), Englisch (C1)",
+   "skills": ["Python", "Java", "PowerShell", "C#", "JavaScript", "Cloud-Plattformen", "Datenbankentwicklung", "Kundenorientierung", "Kommunikationsstärke", "Teamfähigkeit"],
+   "date_posted": null
+}

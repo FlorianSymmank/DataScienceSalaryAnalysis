@@ -1,0 +1,10 @@
+{
+    "job_title": "Wissenschaftler Berater Digitalisierung in Bildung & Wissenschaft / Data Science (d/m/w)",
+    "company": "VDI/VDE Innovation + Technik GmbH",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": "Vollzeit, Teilzeit",
+    "requirements": "Keine passenden Job-Präferenzen",
+    "skills": null,
+    "date_posted": null
+}

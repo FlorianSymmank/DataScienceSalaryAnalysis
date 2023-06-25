@@ -1,0 +1,15 @@
+{
+    "job_title": "Software Engineer- Intermediary",
+    "company": "AVIV Group",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Degree in computer science, media informatics or a comparable education as well as several years of professional experience as a software engineer. Several years of experience in the development of (micro)services using Javascript and/or Typescript and are familiar with the Node.js ecosystem. Knowledge about .net core would be a plus.",
+    "skills": [
+        "Javascript",
+        "Typescript",
+        "Node.js",
+        "AWS"
+    ],
+    "date_posted": "2021-09-17"
+}

@@ -1,0 +1,18 @@
+{
+    "job_title": "Big Data Architect",
+    "company": "MaibornWolff GmbH",
+    "location": "10117 Berlin",
+    "salary_euro": null,
+    "employment_type": "Vollzeit, Teilzeit",
+    "requirements": "Du hast ein abgeschlossenes Informatik-Studium oder einen vergleichbaren Abschluss. Du hast mindestens 5 Jahre einschlägige Berufserfahrung im Big-Data-Umfeld gesammelt.",
+    "skills": [
+        "Big Data",
+        "ETL/ELT",
+        "DWH",
+        "Analytics",
+        "Cloud",
+        "DevOps",
+        "agile"
+    ],
+    "date_posted": "2021-09-23"
+}

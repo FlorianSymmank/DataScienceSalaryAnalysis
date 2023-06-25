@@ -1,0 +1,46 @@
+Diese Stellenanzeige ist auf Indeed abgelaufen
+Mögliche Gründe: Der Arbeitgeber akzeptiert keine Bewerbungen, ist nicht aktiv auf der Suche nach neuen Mitarbeitern oder prüft derzeit die eingegangen Bewerbungen
+Data Scientist (m/w/d)
+PlanB. GmbH
+73460 Hüttlingen
+Vollzeit
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Das erwartet dich
+
+Als (Junior) Data Scientist bei uns erwarten Dich abwechslungsreiche und vielseitige Aufgaben in einem dynamischen Umfeld. Dabei wirst Du in enger Zusammenarbeit mit unseren Kunden an der Entwicklung und Umsetzung von datenbasierten Lösungen arbeiten. Du wirst Daten analysieren und hieraus Erkenntnisse ableiten, um Geschäftsentscheidungen unserer Kunden zu unterstützen. Außerdem wirst Du bei der Entwicklung von Machine-Learning-Modellen und der Implementierung von Big-Data-Architekturen mitwirken. Du entwickelst performante Machine Learning Algorithmen mit den gängigen Frameworks, wie TensorFlow und Keras. Außerdem arbeitest Du an vollständigen Lebenszyklen produktiv eingesetzter KI-Lösungen mit.
+
+Das bringt du mit
+
+Ein abgeschlossenes Studium der Informatik, Mathematik, Physik oder einer vergleichbaren Fachrichtung
+Erste praktische Erfahrungen im Bereich Data Science oder Machine Learning (z.B. durch Praktika oder Nebenjobs)
+Gute Programmierkenntnisse in mindestens einer der folgenden Sprachen: Python, R oder Java
+Erfahrung im Umgang mit Datenbanken und SQL
+Freude am eigenständigen Arbeiten, analytisches Denkvermögen und eine Hands-On-Mentalität
+Neugierde und Interesse an neuen Technologien und digitalen Trends
+
+Warum wir?
+
+In der einzigartigen Arbeitswelt von PlanB. duzen wir uns alle und schaffen gemeinsam eine wertschätzende, freundschaftliche und hilfsbereite Arbeitsatmosphäre in der Wissen geteilt und Autonomie gefördert wird: Entscheidungen werden dort getroffen, wo sie anfallen. Die wöchentlichen OKR-Meetings sind der hybride Treffpunkt für das gesamte PlanB.-Team, um über Projekte und Ziele zu informieren und offenes Feedback zu teilen.
+
+Für einen fairen Wohlfühlfaktor bieten wir u.a. folgende weitere Benefits:
+
+
+Work-Life-Blending: durch eigenverantwortliche - wenngleich kundenorientierte - Steuerung von Arbeits- und Privatleben, flexible Arbeitszeitmodelle und hybrides Arbeiten
+31 Tage Urlaub (+ zusätzlicher Mehrurlaub nach Betriebszugehörigkeit)
+Unser helles und modernes Bürozuhause bietet ideale Umgebungsbedingungen für Kreativität und Innovation
+CYOD: Freie Wahl von Laptop und Smartphone
+Raum und Budget für persönliche Entwicklung
+Jede Menge Spaß: Teamevents, Weihnachtsfeier, Feierabend-Bier und gemeinsame Koch-Meetings
+Getränke und etwas Vitamine gehen auf’s Haus
+Treue wird belohnt: nach 2 Jahren Betriebszugehörigkeit erwarten dich weitere Goodies, wie z.B. Private Krankenzusatzversicherung oder die Nutzung einer Spendit-Card.
+
+Über uns
+
+Wir sind Macher mit Leidenschaft für digitale Produkte und Lösungen für unsere Kunden im Bereich moderner Arbeitswelten
+Auf Augenhöhe mit unseren Kunden helfen wir dabei, die Chancen der Digitalisierung zu nutzen und Menschen für neue Technologien zu begeistern. Dabei haben wir nicht nur die innovative Softwarelösung als solche im Blick, sondern stets die Transformation unseres Kunden in ein digitales Unternehmen.
+Wir fördern lebendige Neugierde und Empathie. Gemeinsam machen wir digitale Produkte für unsere Kunden erfolgreich. In unserer offenen Kultur sind alle aufgefordert, sich einzubringen. So lernen wir voneinander und schaffen gemeinsam ein innovatives Arbeitsumfeld basierend auf den individuellen Stärken unseres Teams.
+
+Diesen Job melden

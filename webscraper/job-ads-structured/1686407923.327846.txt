@@ -1,0 +1,10 @@
+{
+  "job_title": "Software Engineer - Medical Data & Video Science",
+  "company": "Snke OS",
+  "location": "München",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Degree in Computer Science or related discipline. Experience with object-oriented programming, in particular in developing software with modern C++. Knowledge in other programming languages like Python, C#, JavaScript and web development (HTML5) is a plus. Basics in state-of-the-art web technologies like HTTP, REST, JSON, gRPC or services and micro-services are nice to have. Experience with AWS and the deployment of (micro) services is a plus. Passion for developing software. Strong problem-solving skills with the ability to analyze complex issues and provide effective solutions. Strong inclination to work on a wide variety of topics and technical challenges, enjoying variety, experimenting and learning. Well-organized, self-initiated and clearly structured, agile working style. Entrepreneurial mind-set: develop creative solutions for challenges and define our own way of working. Very good communication skills in English.",
+  "skills": ["C++", "Python", "C#", "React", "TypeScript", "web development", "HTTP", "REST", "JSON", "gRPC", "AWS"],
+  "date_posted": "2021-09-07"
+}

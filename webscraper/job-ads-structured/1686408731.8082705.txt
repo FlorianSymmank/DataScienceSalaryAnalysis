@@ -1,0 +1,18 @@
+{
+  "job_title": "Doctoral Research Associate",
+  "company": "Westfälische Wilhelms-Universität Münster",
+  "location": "Münster",
+  "salary_euro": {
+    "amount": 45000,
+    "period": "year"
+  },
+  "employment_type": "Teilzeit",
+  "requirements": "A master’s level degree (or equivalent) in political science, social science or economics; Demonstrable knowledge of research methods, ethics and good international scientific practices; Demonstrable knowledge of the field of sustainability governance; Excellent command of English, both verbal and written, as well as Spanish and/or Portuguese.",
+  "skills": [
+    "research methods",
+    "ethics",
+    "sustainability governance",
+    "multilingualism"
+  ],
+  "date_posted": "2021-06-10"
+}

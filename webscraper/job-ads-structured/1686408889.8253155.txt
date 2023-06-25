@@ -1,0 +1,25 @@
+{
+  "job_title": "Research Associate",
+  "company": "Karlsruher Institut für Technologie",
+  "location": "76131 Karlsruhe",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "limited to three years",
+  "requirements": "Master in civil engineering, mechanical engineering, material science, mathematics or similar Already gained fundamental understanding of programming numerical methods such as finite element and finite volume methods Familiar with or willing to learn about Multiphysics modelling of coupled processes in porous media. Good experience in programming with C++, python, MATLAB or Fortran Familiar with use of linux based system and version controlling using git. Fluent spoken and written English and preferably good command on spoken and written German.",
+  "skills": [
+    "programming",
+    "numerical methods",
+    "multiphysics modelling",
+    "C++",
+    "Python",
+    "MATLAB",
+    "Fortran",
+    "Linux",
+    "Git",
+    "English",
+    "German"
+  ],
+  "date_posted": null
+}

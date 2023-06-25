@@ -1,0 +1,17 @@
+{
+    "job_title": "Machine Learning ENGINEER / Data SCIENTIST",
+    "company": "YOONA Ventures GmbH",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": "By project",
+    "requirements": "4+ years of experience working in large scale data science environments",
+    "skills": [
+        "significant experience applying machine learning to real business problems",
+        "significant programming experience in Python",
+        "worked with Generative Adversarial Networks, Diffusion Models or Transformers in your past with a focus on Computer Vision",
+        "interested in Data Processing and Analysis Pipelines, in best case even have setup your own already",
+        "know what Bias in Data Sets, how to detect and visualise it",
+        "(Bonus) You can translate a research paper into a PoC if the code does not exist"
+    ],
+    "date_posted": "yyyy-mm-dd"
+}

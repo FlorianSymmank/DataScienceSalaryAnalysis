@@ -1,0 +1,10 @@
+{
+  "job_title": "Data Engineer - Veeva Link",
+  "company": "Veeva Systems",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Expert skills in Java or Python.Experience with Apache Spark or PySpark.Experience writing software for the cloud (AWS or GCP).Speaking and writing in English enables you to take part in day-to-day conversations in the team and contribute to deep technical discussions",
+  "skills": ["Java", "Python", "Apache Spark", "PySpark", "AWS", "GCP", "English"],
+  "date_posted": null
+}

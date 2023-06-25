@@ -1,0 +1,45 @@
+Full Stack Developer (m/f/d) for true climate impact (Remote in DE/EU possible)
+Kerith
+Düsseldorf
+Homeoffice
+Schnellbewerbung
+We orchestrate a sustainable energy transformation of manufacturers worldwide with our sustainable energy ecosystem. We provide manufacturers with an ecosystem for long- and short-term energy decision-making and execution.
+Leading manufacturers base their energy strategy on our software to reduce energy costs and fulfill their emission goals. We are finalizing our seed round with exceptional VCs and are excited to grow our world-class team. We want to build something meaningful with you - Join us!
+
+Tasks
+
+We are looking for full-stack developers who are impact driven and bring fresh ideas. A reliable infrastructure is mission-critical for the success of our product and mission. As a full-stack developer, you would work on our cloud-native infrastructure and set up new services, APIs, and databases. You would work in close collaboration with the product team.
+
+Your responsibilities are to:
+
+Set up scalable databases for time-series data.
+Develop APIs.
+Security improvements.
+Be versatile and enthusiastic about taking on new problems across the full stack.
+Requirements
+
+
+You have a Degree in Computer Science, a related field, or equivalent practical experience.
+You have experience with databases and in troubleshooting problems across services and functional areas.
+You have experience in GCP projects or application architecture projects.
+You have knowledge and experience with: web app development, Linux, Cloud native, Kubernetes, and Security.
+You are not too shy to write tests and are familiar with CI/CD Tools (Github Actions).
+You love to share your thoughts and grow with others.
+You are a team player and ready to work in a flexible working environment
+You are highly motivated and driven by our mission
+Benefits
+
+
+You will work in a young, fast-changing start-up and have the opportunity to express yourself with direct ownership from day 1.
+You have the chance to tackle the most urgent problem: the climate crisis and will be part of the solution
+Attractive compensation package (depending on experience)
+Location & schedule flexibility in accordance with the agreement of the Product team (TLA)
+With us, you have the opportunity to live your enthusiasm for sustainability and disrupt the energy industry
+As one of the early employees, you have the possibility to shape our organization
+Everyone loves a straightforward and quick process. That's why we've broken our approach into three steps, each allowing you to contact us with any questions or concerns. After your application, you can expect initial feedback within the 3 working days.
+
+This is what the individual steps look like:
+1. Initial chat: to get to know each other, understand the current situation, and your expectations with one of our Founders (30 min)
+2. Technical interview: to test your abilities and learn more about your technical skills with Niklas, Max, and Elias (60 min).
+3. Personal meeting: to find out if we click together, whether it’s during lunch or a remote call with all founders - Elias, Joshua, and Philipp (approx. 45 min)
+Diesen Job melden

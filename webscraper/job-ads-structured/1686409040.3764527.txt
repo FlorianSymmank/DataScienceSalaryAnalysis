@@ -1,0 +1,21 @@
+{
+  "job_title": "Data Engineer ERP BI (m|w|d)",
+  "company": "BayWa r.e.",
+  "location": "72072 Tübingen",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Hochschulabschluss, vorzugsweise im Bereich der Informatik, Data Science, Wirtschaftsinformatik, Wirtschaftsingenieurwesen oder eine vergleichbare Ausbildung. Praktische Erfahrung im Data Engineering mit ETL/ELT Prozessen, Data Mining oder Data Analytics. Erfahrungen im Bereich ERP, BI, Datenbanken, SQL oder Azure Data Stack sind wünschenswert. Gute Kommunikationsfähigkeit und englische Sprache.",
+  "skills": [
+    "ERP Data Extrahierung",
+    "Business Intelligence (BI)",
+    "Power BI Reports Entwicklung",
+    "Prozessanalyse (Process Mining)",
+    "Datenbankentwicklung",
+    "Datenanalyse",
+    "ETL/ELT Prozesse",
+    "Data Mining",
+    "Azure Data Stack",
+    "SQL"
+  ],
+  "date_posted": "2022-04-12"
+}

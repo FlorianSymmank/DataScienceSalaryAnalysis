@@ -1,0 +1,19 @@
+{
+  "job_title": "Research Associate (m/f/x) as 'AI-Engineer'",
+  "company": "Ruhr Universität Bochum",
+  "location": "44801 Bochum",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Vollzeit",
+  "requirements": "Master's degree in computer science, electrical engineering, or related field.",
+  "skills": [
+    "Deep understanding of machine learning algorithms and models for low-power and edge devices.",
+    "Experience in designing and implementing custom AI solutions for embedded systems.",
+    "Proficiency in programming languages such as Python, C/C++, and CUDA.",
+    "Experience with machine learning frameworks such as Tensorflow, PyTorch, or Keras.",
+    "Knowledge of software development best practices such as Agile methodologies, version control (Git), code reviews, and test automation."
+  ],
+  "date_posted": "2021-07-12"
+}

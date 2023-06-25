@@ -1,0 +1,25 @@
+{
+  "job_title": "Data Scientist (d/f/m) – Data Analytics",
+  "company": "TK Elevator GmbH",
+  "location": "40472 Düsseldorf",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "You have a degree in Math, Computer Science, Engineering, Physics or in a related field\nYou bring in a quantitative background with 3+ years of experience applying data science to solve real-world business problems\nYou stand out through your exceptional analytical, conceptual, and problem-solving abilities\nYou comprehend and work with relational and dimensional database structures, theories, principles, and practices\nYou have advanced knowledge of Python, Scala, SQL, or R\nYou are experienced using data visualization tools such as Tableau, Qlik, or Power BI\nYou’re familiar with Pandas, PySpark, Databricks or an equivalent tool",
+  "skills": [
+    "Mathematics",
+    "Computer Science",
+    "Engineering",
+    "Physics",
+    "Data Science",
+    "Analytical",
+    "Python",
+    "Scala",
+    "SQL",
+    "R",
+    "Data Visualization",
+    "Pandas",
+    "PySpark",
+    "Databricks"
+  ],
+  "date_posted": null
+}

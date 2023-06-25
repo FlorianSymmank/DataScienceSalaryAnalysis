@@ -1,0 +1,52 @@
+Data Engineer for Sustainability (m/f/d)
+msg global solutions
+Walldorf
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+What we do
+
+
+The Business Unit Profitability and Performance Management (PaPM) provides consulting, implementation, training, architecture, and installation services for profitability and sustainability management based on SAP’s analytics solutions SAP Analytics Cloud (SAC), PaPM and Data Warehouse Cloud (DWC). We co-develop the SAP PaPM application and content packages providing standard functionality for various use cases and industries. Our team combines functional, technical, and industry expertise on cost allocations, intercompany transfer pricing, product and service costing, IT costing, tax calculations, funds and liquidity transfer pricing, cost-to-serve, planning simulation, and sustainability. We help our clients in many industries across the globe become more profitable and sustainable, increase operational transparency and control, and create a better basis for decision-making. We are a global, diverse, and inspiring team and offer the opportunity to extend personal and professional capabilities, by working for a leading strategic SAP partner.
+
+
+What you will do
+
+
+Participate in the whole development lifecycle of our SAP PaPM sustainability solutions and cloud services and manage customer expectations.
+Partner with the sustainability team (team leads, solution managers, product owners, SMEs, etc.) to identify core data gaps, needs to sufficiently achieve a reasonable level of dataset completeness.
+Design and development data architecture for SAP PaPM sustainability solutions and services for internal users as well as customers.
+Coordinate a data curation and management process in alignment with SAP PaPM and/or SAP Business Technology Platform (BTP) data management best practices.
+Collaborate with and provide support to the sustainability team in the process of seeking and obtaining data from the internal sources, external sources, vendors, etc.
+Perform data preparation, transformation, and modelling to deliver high-quality data sets for analytical solutions and reporting.
+Implement and complete processes, as agreed with the sustainability team to ingest data and integrate data into the centralized sustainability data repositories, strategies, and cloud platform.
+Author and maintain technical documentation, data user guides and best practices.
+
+
+What we are looking for
+
+
+University degree in data management, data engineering, data science, computer science, statistics, mathematics, or a related field at the time of application.
+A minimum of 3 years related work experience, preferred in SAP data management, in particular data migration, data transformation and data integration.
+Solid knowledge of traditional relational databases (SQL) and at least one of data science languages, e.g., Python, R, Julia, etc.
+Demonstrated experience with APIs (RESTful APIs, Odata Services, etc.) and/ or SAP BTP.
+Excellent understanding of data models, ETL, data wrangling techniques and data pipelines.
+Demonstrated experience collaborating with others to obtain, ingest, organize, and clean data sets to enable analysis and reporting.
+Demonstrated experience in sustainability area and desire to promote the adoption of sustainable business practices as well as willingness to develop a deep understanding of SAP cloud for sustainable enterprises, incl. SAP PaPM.
+Intellectually curious self-starter with the ability to learn quickly, excellent aptitude for analytical thinking and data literacy.
+Willingness to work team-oriented and organized, with the proven ability to manage multiple tasks with a broad range of stakeholders to deliver results in a dynamic and high-performance environment with short deadlines and shifting priorities.
+Good oral and written communication skills as well as the ability to articulate issues, give presentations, and prepare formal written reports.
+
+
+What we offer
+
+
+A place where individuals are equally valued and where diversity and cultural differences are cherished.
+A global team of highly respected SAP and industry experts where you can make a difference.
+Competitive salaries and a broad range of benefits, some of which are highlighted below.
+A challenging and multi-cultural working environment with ongoing support by buddies, mentors, colleagues, and managers.
+Diesen Job melden

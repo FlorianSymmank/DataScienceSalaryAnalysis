@@ -1,0 +1,16 @@
+{
+  "job_title": "Applied Scientist II, Search Navigation",
+  "company": "Amazon Development Center DEU",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "PhD in Computer Science, Applied Mathematics, or Statistics (alternatively, MSc. and 3+ years in an ML scientist role)\\n2 + years of experience of building machine learning models for business application",
+  "skills": [
+    "Experience with modeling tools such as R, scikit-learn, Spark MLLib, MxNet, Tensorflow, numpy, scipy etc.",
+    "Experience programming in Scala and Python",
+    "Solid Machine Learning background",
+    "Experience with deep learning framework such as TensorFlow or Keras",
+    "Experience with end-to-end development of complex projects (e.g., Robotics, IT, ML apps, Optimization software)"
+  ],
+  "date_posted": null
+}

@@ -1,0 +1,23 @@
+{
+  "job_title": "Werkstudent (m/w/d) IT | Data Analytics & Business Intelligence",
+  "company": "thyssenkrupp Automotive Systems GmbH",
+  "location": "Leipzig",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Teilzeit",
+  "requirements": "Du absolvierst gerade ein Bachelor- oder Masterstudium mit einem digitalem Schwerpunkt z.B. (Wirtschafts-) Informatik, Computer Science, Physik oder Mathematik.\nDu stehst uns mindestens für zwei Semester zur Verfügung.\nDu kannst 20h/Woche arbeiten.\nDu kannst erste praktische Erfahrung mit Datenbanken und SQL sammeln und dein Wissen in diesem Bereich vertiefen.\nKenntnisse in der Datenmodellierung und Datenbankskalierung sind von Vorteil und können bei uns weiterentwickelt werden.\nDu erhältst Einblicke in Data Science Konzepte und Big Data Technologien, um deine Kenntnisse in diesem Bereich zu erweitern.\nWir fördern dein analytisches Denkvermögen und deine Problemlösungsfähigkeiten, indem du komplexe Datenherausforderungen löst.\nDu arbeitest als Teamplayer in einem motivierten Umfeld, kannst aber auch eigenständig arbeiten und Verantwortung übernehmen",
+  "skills": [
+    "Datenbanken",
+    "SQL",
+    "Datenmodellierung",
+    "Datenbankskalierung",
+    "Data Science",
+    "Big Data",
+    "analytisches Denkvermögen",
+    "Problemlösungsfähigkeit",
+    "Teamfähigkeit"
+  ],
+  "date_posted": null
+}

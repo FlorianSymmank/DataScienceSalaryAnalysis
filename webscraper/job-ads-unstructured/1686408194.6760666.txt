@@ -1,0 +1,39 @@
+Senior Data Scientist/ Machine Learning Expert (m/w/d)
+T-Systems on site services GmbH
+13505 Berlin
+Vollzeit, Festanstellung
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Festanstellung
+Your task
+
+Daten sind bekanntlich das Gold des 21. Jahrhunderts. Du bist ein moderner Goldgräber, du suchst und findest das neue Gold in den Datenspeichern unserer Kunden. Durch dein Wissen über Datenzusammenhänge und Analysemethoden kannst du Prognosen für die Zukunft ableiten und somit unseren Kunden einen echten Wettbewerbsvorteil verschaffen. Dabei hast du folgende Aufgaben und Verantwortungsbereiche:
+
+Mitarbeit an Data-Science-/ Machine-Learning-Kundenprojekten als Lead-Entwickler
+Beratung zu Anwendungsgebieten von Künstlicher Intelligenz bzw. Machine Learning
+Technische und fachliche Datenanalyse und deren visuelle Darstellung
+Bereinigung, Vorverarbeitung und Augmentation der Daten
+Training und Evaluation von Machine-Learning Modellen
+Aktive Mitarbeit in der internen Gilde für Data-Science und Machine-Learning
+Your Profile
+
+Neben einem abgeschlossenen Studium der (Wirtschafts-)Informatik, angewandten Mathematik oder einer vergleichbaren Qualifikation verfügst du als Senior zusätzlich über mehrjährige Projekterfahrung und einem sicheren Auftreten vor dem Kunden. Darüber hinaus überzeugst du mit folgenden Kompetenzen:
+
+Sehr gutes generelles Know-how im Bereich Machine Learning und Data-Science
+Gute Kenntnisse in folgenden Sprachen/ Bibliotheken: SQL, Python, Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib, TensorFlow (Keras)
+Kenntnisse im Umgang mit Metriken zum Vergleich von Modellen
+Vertrauter Umgang mit GIT und JupyterLab
+Linux Know-how
+Software-Engineering-Kenntnisse und Programmiererfahrung
+Erfahrung mit Cloud-Umgebungen wie AWS und MS-Azure
+Agile Arbeitsweise (z.B. Scrum)
+Neugierde und Fähigkeit, sich selbständig und schnell neue Wissensgebiete anzueignen
+About us
+
+Wir, die T-Systems on site services GmbH, verändern gemeinsam mit unseren Kunden deren digitale Welt und verhelfen ihnen damit zum geschäftlichen Erfolg. Als 100%ige Tochter der T-Systems International GmbH verfügen wir über Technologie-Know-how in modernen Software-Architekturen, Frontend-Technologien, Cloud sowie Big Data. In unseren Teams, im Management und in der Zusammenarbeit mit unseren Kunden nutzen wir agile Methoden, wie Management 3.0, Lean Startup und Design Thinking. Bei uns wird Agilität mit den damit verbundenen Werten täglich gelebt. Gemeinsam mit dir wollen wir den Weg in die neuen, digitalen Arbeitswelten gestalten. Wir freuen uns auf deine Bewerbung.
+
+Diesen Job melden

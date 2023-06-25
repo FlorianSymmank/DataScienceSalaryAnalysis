@@ -1,0 +1,46 @@
+Data Engineer (m|w|d) remote
+Karriere.Now - Jobportal
+Homeoffice
+57.000 € pro Jahr
+Schnellbewerbung
+Werde Teil eines Teams, welches die Forschung im Bereich der personalisierten Medizin vorantreibt!
+
+Unser Kunde – ein junges, innovatives Unternehmen aus Innsbruck - bringt bisher unstrukturierte klinische Daten für Gesundheitszentren, Pharmaunternehmen & Universitätskliniken in eine strukturierte Form & liefert damit wichtige Voraussetzungen für zukünftige medizinische Forschung im Bereich der personalisierten und patientenzentrierten Medizin.
+
+Du hast Lust deine Expertise in einem motivierten & innovativen Team langfristig einzubringen und mit deinem Wirken zu Bedingungen beizutragen, die wegweisend sind für den zukünftigen medizinischen Fortschritt?
+
+Dann nimm nun eine Schlüsselposition als Data Engineer (m|w|d) ein!
+
+Aufgaben
+
+
+Selbstständiges Entwerfen, Entwickeln und Bereitstellen von Datenverwaltungskomponenten einer hybriden, Cloud-basierten Analyse- und Deep-Learning-Plattform
+Entwicklung, Testung, Wartung und Bereitstellung von production quality codes
+Zusammenarbeit mit medizinischen Fachleuten, Entwicklern und Forschern im Bereich Deep Learning
+Qualifikation
+
+
+Master in MINT-Fächern, Computer- oder Datenwissenschaften oder vergleichbarem
+Min. 3 Jahre Erfahrung im DevOps/Data Engineering Bereich
+Erfahrung mit Python, Docker, Git(Lab), REST, (Postgre)SQL sowie Hybrid Cloud Computing, CI/CD, DevOps und testgetriebener Entwicklung
+Fließend Deutsch & Englischkenntnisse in Wort und Schrift (ab C1)
+Fähigkeit, komplexe Probleme zu analysieren und selbstständig Lösungsstrategien zu entwickeln
+Nice-to-have: Erfahrung im klinischen Data Science Bereich
+Nice-to-Have: Erfahrung mit Google Cloud Plattform, föderierte Analytik/Lernen & OMOP CDM
+Benefits
+
+
+100% remote-Möglichkeit
+Flexible Arbeitszeitgestaltung
+“Du”-Kultur
+Ein Office mitten in Innsbruck, umgeben von zahlreichen Wander- & Skigebieten
+Weiterbildungs- & Technikbudget (neueste Hard- & Software)
+Mobilitätsticket
+Regelmäßige online & offline Teamevents
+Mitarbeiter- /Gewinnbeteiligung & Boni
+Work-Life-Balance: Mutter-/Vaterschaftsurlaub, Sabbatical, Sportkurse - Vereinbarkeit von Beruf, Familie und Freizeit ist unserem Kunden wichtig
+Mindestgehalt AB 57.000€ brutto jährlich (Überzahlung nach Qualifikation und Erfahrung)
+Du hast Lust langfristig ein Teil dieses dynamischen Teams zu werden & mit deinem Wirken tatsächlich etwas zu bewegen.
+
+Dann bewirb dich jetzt!
+Diesen Job melden

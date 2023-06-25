@@ -1,0 +1,31 @@
+{
+  "job_title": "Werkstudent (m/w/d) Data Engineering / Data Science",
+  "company": "abl solutions GmbH",
+  "location": "90411 Nürnberg",
+  "salary_euro": null,
+  "employment_type": "Teilzeit",
+  "requirements": "Du studierst Informatik, Wirtschaftsinformatik oder ein ähnliches relevantes Fachgebiet (Bachelor oder Master)\nDu stehst während der Vorlesungszeit ab sofort für 20 Stunden/ Woche für uns zur Verfügung\nWenn du bereits erste Erfahrung in der IT/im Software Development hast, ist das ein Pluspunkt\nDu bringst Organisationsgeschick, Kommunikationsstärke sowie technisches Verständnis mit\nDu bist sicher im Umgang mit MS-Office-Anwendungen\nDu verfügst über gute Englischkenntnisse und sehr gute Deutschkenntnisse in Wort und Schrift\nOb selbstständig oder gemeinsam im Team: Du arbeitest organisiert, sorgfältig und verantwortungsbewusst\nIntegrität und Diskretion im Umgang mit sensiblen Daten runden dein Profil ab",
+  "skills": [
+    "Python",
+    "Java",
+    "Scala",
+    "R",
+    "Pandas",
+    "Jypyter",
+    "RDBMS",
+    "MongoDB",
+    "BigQuery",
+    "Starburst",
+    "Trino",
+    "DataHub",
+    "Streaming",
+    "Batch-Verarbeitung",
+    "Apache Beam",
+    "Spark",
+    "Flink",
+    "DataFlow",
+    "NiFi",
+    "Kafka"
+  ],
+  "date_posted": "2022-11-01"
+}

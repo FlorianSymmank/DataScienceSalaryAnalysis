@@ -1,0 +1,70 @@
+High-Performance Computing “Data Scientist” (m/f/d) Reference code: WA 23/23 100% - TV-L Berlin, up to E14.
+Zuse Institute Berlin
+Berlin
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+
+Zuse Institute Berlin - High-Performance Computing
+The Zuse Institute Berlin (ZIB) is a non-university research institute under public law of the State of Berlin. We conduct research and development in applied mathematics and computer science as well as the analysis and processing of complex data in conjunction with high-performance computing.
+High-Performance Computing “Data Scientist” (m/f/d)
+Reference code: WA 23/23
+100% - TV-L Berlin, up to E14.
+English
+
+Since January 2021, the ZIB has been extending its scientific services by offering HPC consulting for scientists in Germany and international projects as part of the nationwide HPC initiative “Nationales Hochleistungsrechnen” (NHR). We operate compute and storage resources at a top level. Currently, our HPC system “Lise”, with its 8 PFLOP/s peak performance, provides a platform to realize demanding computational tasks and data analysis workflows to solve complex scientific questions. The “Lise” system comprises 120,000 compute cores, 500 TB distributed memory, and 8 PB persistent online storage.
+
+Working field:
+With an opportunity to start at the earliest possible date, this vacancy offered is a fixed-term contract until December 31, 2025. Subsequently, there is the possibility of a permanent contract.
+
+The applicant will help users across multiple scientific domains to implement data-intensive workflows efficiently on NHR HPC systems. The position requires collaborative interaction with users who develop and apply software frameworks for machine learning, AI, and related parts in data-driven science projects as well as focusing on performance aspects on the current and next-generation technology platforms. The applicant is encouraged to conduct his/her own research program in a data science related field.
+
+We are looking for a candidate with a strong background in method development and software frameworks for data analytics who is highly motivated to work in the converging area of high-performance computing and data analytics.
+
+Your Responsibilities:
+
+guiding the nationwide NHR user community to implement efficiently data-intensive and machine learning, AI, and other data-driven workloads,
+developing best-practice solutions for efficient multi-tiered data management,
+evaluating, adapting and contributing to optimized versions of machine learning/AI software, working jointly with other HPC experts to migrate code to next-generation supercomputer architectures,
+installing machine learning/AI software frameworks and developing best-practice solutions and documentation,
+contributing to nationwide NHR training activities for users of data analytics frameworks,
+conducting your own research in the respective field, including the acquisition of third-party funded projects,
+publishing scientific results at international conferences and in journals (travelling will be supported by the ZIB).
+Requirements:
+a university degree with proven expertise in a data-science related field, preferably on the interfaces between machine learning and simulation or optimization, in bioinformatics or similar areas,
+a doctoral degree / PhD would be favorable,
+longtime professional experience in this field of activity, such as:
+1) Good technical background on state-of-the-art technologies for machine learning / AI (AI-
+specific hardware and software), and parallel computer architectures (processors, high-
+performance interconnects, memory hierarchies, and storage systems),
+2) Experience in using frameworks for data processing / machine learning / AI software
+frameworks on parallel computer systems,
+3) Background in parallel programming (multi-threading, message passing) using C/C++ and
+Python; experience with accelerators (GPU, FPGA) would be desired,
+
+good understanding of data management technologies including parallel file systems, memory and multi-tier storage hierarchies,
+strong focus on self-reliance, pro-activity, creativity and the ability to work in a team.
+What we offer:
+access to the next-generation HPC infrastructure,
+comprehensive training in a competent and cooperative team,
+an additional pension scheme (VBL),
+30 days annual leave, flexible working hours (flexitime),
+a salary in accordance with TV-L (Collective Agreement for the Public Service of the Federal States),
+taking into account the relevant professional experience,
+
+an end-of-year bonus,
+discounted BVG (public transport) ticket as part of the capital city allowance,
+and the use of canteens and sports programs of the Freie Universität Berlin (FUB) at reduced rates.
+How to apply:
+Female applicants are highly encouraged to apply. Since women are underrepresented in information
+technology, the ZIB is trying to increase the proportion of women in this research area.
+Applicants with disabilities will be preferred as long as equally qualified.
+Please send your application, quoting the reference code WA 23/23, including a cover letter containing a statement of your research interests, your CV with a list of publications, academic transcripts and contact details of two references, by July 2nd, 2023 (date of receipt) as one PDF to jobs@zib.de
+Our private policy statement regarding application data is available at www.zib.de/impressum.
+For further information on the area of responsibility, please contact Dr. Thomas Steinke (steinke@zib.de).
+For further job offers please visit our website at www.zib.de/jobads.
+Diesen Job melden

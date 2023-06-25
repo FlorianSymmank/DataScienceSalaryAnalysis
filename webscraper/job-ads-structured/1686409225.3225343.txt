@@ -1,0 +1,22 @@
+{
+    "job_title": "Koordinator/in Abteilung Informatik und Data Science (m/w/d)",
+    "company": "Hochschule Bochum",
+    "location": "Bochum",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": "Befristeter Vertrag",
+    "requirements": "Überdurchschnittlich abgeschlossenes wissenschaftliches Hochschulstudium, Promotion erwünscht",
+    "skills": [
+        "Eigene Forschungserfahrung in oder Affinität zu einem in der Abteilung repräsentierten Bereich erwünscht",
+        "Erfahrungen im Wissenschaftsmanagement",
+        "Erfahrung in der Konzeption, Durchführung und Evaluation von wissenschaftlichen Veranstaltungen",
+        "Teamfähigkeit, hohe Kommunikationskompetenz, sehr gute schriftliche und mündliche Ausdrucksfähigkeit",
+        "Erfahrung in der Pressearbeit",
+        "Gute Englischkenntnisse",
+        "Sicherer Umgang mit gängigen Software-Programmen",
+        "Die Bereitschaft zu Dienstreisen im In- und Ausland wird vorausgesetzt."
+    ],
+    "date_posted": null
+}

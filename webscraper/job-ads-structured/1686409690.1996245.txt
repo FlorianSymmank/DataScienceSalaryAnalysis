@@ -1,0 +1,10 @@
+{
+  "job_title": "Software Developer Image Processing",
+  "company": "MOBOTIX",
+  "location": "Langmeil",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "finished studies in science, technology, engineering or mathematics",
+  "skills": ["C/C++", "image processing", "teamwork", "English"],
+  "date_posted": null
+}

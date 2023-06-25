@@ -1,0 +1,10 @@
+{
+"job_title": "IT Delivery Manager",
+"company": "Awin",
+"location": "Hannover",
+"salary_euro": null,
+"employment_type": null,
+"requirements": "Experience in working with cross-functional teams including technical teams and business stakeholders\nExperience in influencing and driving project meetings and gather business and company requirements\nExperience in delivering transformational projects and programmes of work, process and change management. Proven track record as a project manager or product manager and familiar with project management methods\nVery Strong knowledge of agile development processes and current best practices especially in the area of product management. Ideally experience in rolling out agile methodology guided setups across multiple teams (current product owner certification).\nExperience working in IT Operations, data science and/or systems engineering (4+ years)\nStrong interest in current technology topics like AI and Cloud Services (Experience in AWS is a plus)\nExperience in leading and guiding people in project teams without direct line management (2+ years)\nExperience working in a fast-moving environment, dealing with ambiguity and change\nStrong analytical skills, solution-driven and results-oriented. Able to independently pre-empt, structure ambiguous problems and take action to solve them\nCollaborative attitude and superb organizational skills, a problem-solving mindset and the ability to make project decisions combined with a get-things-done mentality\nComfortable in a senior management environment\nStrong written and verbal communication skills, fluent in English",
+"skills": ["agile development processes", "product management", "IT Operations", "data science", "systems engineering"],
+"date_posted": null
+}

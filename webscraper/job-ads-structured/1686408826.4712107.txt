@@ -1,0 +1,16 @@
+{
+    "job_title": "Ausbildung zum Fachinformatiker (m/w/d) Anwendungsentwicklung",
+    "company": "index Internet und Mediaforschung GmbH",
+    "location": "10117 Berlin",
+    "salary_euro": null,
+    "employment_type": "Vollzeit, Berufsausbildung",
+    "requirements": "Du begeisterst Dich für die digitale Welt, bist zuverlässig und engagiert. Neben Teamgeist und logischem Denkvermögen zeichnen Dich folgende fachliche Kompetenzen aus: (Fach-)Hochschulreife oder ein überdurchschnittlich guter Realschulabschluss",
+    "skills": [
+        "Informatik",
+        "Softwareentwicklung",
+        "Webtechnologien (HTML, JavaScript, CSS, xml/json, API)",
+        "SQL-Datenbanken",
+        "technisch-mathematisches Verständnis"
+    ],
+    "date_posted": null
+}

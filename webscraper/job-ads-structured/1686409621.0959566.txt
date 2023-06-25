@@ -1,0 +1,15 @@
+{
+  "job_title": "Business Analyst DACH (m/w/d)",
+  "company": "Unilever",
+  "location": "Hamburg",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "B.S. or M.S level qualifications, preferred (but not a requirement) disciplines include Operations Research, Economics/Mathematics, Business Studies/MBA, Engineering. Overall experience of +2 years and FMCG experience preferred. Mandatory fluency in German and English.",
+  "skills": [
+    "passion for empirical research",
+    "ability to communicate complex quantitative insights in a precise, and actionable manner",
+    "knowledge of an analysis tool such as Microsoft PowerBI desired",
+    "growth mind-set and a bias for action"
+  ],
+  "date_posted": null
+}

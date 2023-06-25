@@ -1,0 +1,61 @@
+Lead Data Engineer / Consultant (m/w/d)
+Thoughtworks
+20355 Hamburg
+Schnellbewerbung
+Lead Data Engineer / Consultant (m/w/d)
+Thoughtworks - 20355 Hamburg
+Job
+Unternehmen
+
+Data Engineers develop modern data architecture approaches to meet key business objectives and provide end-to-end data solutions. You might spend a few weeks with a new client on a deep technical review or a complete organizational review, helping them to understand the potential that data brings to solve their most pressing problems. On other projects, you might be acting as the architect, leading the design of technical solutions, or perhaps overseeing a program inception to build a new product. It could also be a software delivery project where you're equally happy coding and tech-leading the team to implement the solution.
+
+Job responsibilities
+You might spend a few weeks with a new client on a deep technical review or a complete organizational review, helping them to understand the potential that data brings to solve their most pressing problems
+You will partner with teammates to create complex data processing pipelines in order to solve our clients' most ambitious challenges
+You will collaborate with Data Scientists in order to design scalable implementations of their models
+You will pair to write clean and iterative code based on TDD
+Leverage various continuous delivery practices to deploy, support and operate data pipelines
+Advise and educate clients on how to use different distributed storage and computing technologies from the plethora of options available
+Develop and operate modern data architecture approaches to meet key business objectives and provide end-to-end data solutions
+Create data models and speak to the tradeoffs of different modeling approaches
+On other projects, you might be acting as the architect, leading the design of technical solutions, or perhaps overseeing a program inception to build a new product
+Seamlessly incorporate data quality into your day-to-day work as well as into the delivery process
+Assure effective collaboration between Thoughtworks' and the client's teams, encouraging open communication and advocating for shared outcomes
+Job qualifications
+Technical skills
+You are equally happy coding and leading a team to implement a solution
+You have a track record of innovation and expertise in Data Engineering
+You're passionate about craftsmanship and have applied your expertise across a range of industries and organizations
+You have a deep understanding of data modelling and experience with data engineering tools and platforms such as Kafka, Spark, and Hadoop
+You have built large-scale data pipelines and data-centric applications using any of the distributed storage platforms such as HDFS, S3, NoSQL databases (Hbase, Cassandra, etc.) and any of the distributed processing platforms like Hadoop, Spark, Hive, Oozie, and Airflow in a production setting
+Hands on experience in MapR, Cloudera, Hortonworks and/or cloud (AWS EMR, Azure HDInsights, Qubole etc.) based Hadoop distributions
+You are comfortable taking data-driven approaches and applying data security strategy to solve business problems
+You're genuinely excited about data infrastructure and operations with a familiarity working in cloud environments
+Working with data excites you: you have created Big data architecture, you can build and operate data pipelines, and maintain data storage, all within distributed systems
+Professional skills
+Advocate your data engineering expertise to the broader tech community outside of Thoughtworks, speaking at conferences and acting as a mentor for more junior-level data engineers
+You're resilient and flexible in ambiguous situations and enjoy solving problems from technical and business perspectives
+An interest in coaching others, sharing your experience and knowledge with teammates
+You enjoy influencing others and always advocate for technical excellence while being open to change when needed
+Other things to know
+L&D
+
+There is no one-size-fits-all career path at Thoughtworks: however you want to develop your career is entirely up to you. But we also balance autonomy with the strength of our cultivation culture. This means your career is supported by interactive tools, numerous development programs and teammates who want to help you grow. We see value in helping each other be our best and that extends to empowering our employees in their career journeys.
+
+Equal opportunities at Thoughtworks
+
+You are always welcome at Thoughtworks - regardless of your age or gender, ethnic origin, sexual orientation or religion, and physical or mental limitations.
+
+Our benefits
+EGYM Wellness - Gym Pass (access to gyms, massages and public swimming pools)
+Public transportation ticket
+Budget for new home office furniture (table or chair)
+Development budget & full Udemy access
+Additional Thoughtworks benefits
+About Thoughtworks
+
+Thoughtworks is a global technology consultancy that integrates strategy, design and engineering to drive digital innovation. For 28+ years, our clients have trusted our autonomous teams to build solutions that look past the obvious. Here, computer science grads come together with seasoned technologists, self-taught developers, midlife career changers and more to learn from and challenge each other. Career journeys flourish with the strength of our cultivation culture, which has won numerous awards around the world.
+
+Join Thoughtworks and thrive. Together, our extra curiosity, innovation, passion and dedication overcomes ordinary.
+
+Diesen Job melden

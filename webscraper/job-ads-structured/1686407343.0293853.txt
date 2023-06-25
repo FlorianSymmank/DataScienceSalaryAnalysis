@@ -1,0 +1,18 @@
+{
+  "job_title": "Data Scientist (m/f/d)",
+  "company": "AGCO",
+  "location": "Marktoberdorf",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Completed university studies (Bachelor/Master)\nMinimum of 3+ years work experience focusing primarily on data analytics subjects\nAbility to conduct detailed root-cause analyses, integrate multiple data sets, generate insights and provide innovative business solutions\nAbility to work independently as well as part of a team and communicate analytics-related business value towards stakeholders (data story telling)\nAdvanced analytics tools (Python, R, SAS, SQL etc.) to carry out statistical and machine learning analysis\nUse big data computing frameworks for processing of large data volumes (AWS Glue, EMR and Sagemaker)\nAbility to create repeatable, automated processes & data pipelines\nFamiliar with cloud technologies for model development and deployment\nOral and written communication skills in both German and English",
+  "skills": [
+    "Python",
+    "R",
+    "SAS",
+    "SQL",
+    "AWS Glue",
+    "EMR",
+    "Sagemaker"
+  ],
+  "date_posted": null
+}

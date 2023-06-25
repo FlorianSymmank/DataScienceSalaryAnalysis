@@ -1,0 +1,21 @@
+{
+  "job_title": "Algorithm Developer",
+  "company": "Flint Data",
+  "location": "Berlin",
+  "salary_euro": {
+    "amount": 85000,
+    "period": "per year"
+  },
+  "employment_type": null,
+  "requirements": "Hochschulabschluss in Mathematik, Physik, Computer Science oder vergleichbaren Abschluss. Erfahrung in der Arbeit mit Algorithmen in einem Big Data Umfeld. Kenntnisse im Umgang mit R, Python und Java, und Know How in Data Engineering Tools wie Hadoop, Kafka etc. Interesse an Big Data und AI. Beiträge bei Kaggle, Github oder Publikationen. Gute Englischkenntnisse und sicher Auftreten.",
+  "skills": [
+    "R",
+    "Python",
+    "Hadoop",
+    "MapReduce",
+    "Tableau",
+    "AWS",
+    "Java"
+  ],
+  "date_posted": null
+}

@@ -1,0 +1,18 @@
+{
+    "job_title": "Software Engineer (m/f/d)",
+    "company": "Expandium",
+    "location": "Eningen unter Achalm",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Bachelor’s degree in (technical) computer science, electrical engineering, or related",
+    "skills": [
+        "embedded software systems",
+        "firmware design tools and languages",
+        "C",
+        "C++",
+        "Python",
+        "Qt",
+        "QML"
+    ],
+    "date_posted": null
+}

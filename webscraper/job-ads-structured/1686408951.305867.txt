@@ -1,0 +1,15 @@
+{
+  "job_title": "Customer Data Analyst / Engineer (m/w/d)",
+  "company": "Mercedes-Benz Tech Innovation GmbH",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Du hast ein erfolgreich abgeschlossenes Studium in Informatik, Wirtschaftsinformatik, Data Science oder eine vergleichbare Ausbildung. Du konntest bereits erste einschlägige Berufserfahrung im Bereich Data Analyse oder Data Engineering sammeln und hast gute Kenntnisse in Python und SQL. Du kennst dich bestens mit Data Engineering in Microsoft Azure mit DataBricks und der Datenvisualisierung mit Power BI aus. Du konntest bereits Erfahrung mit der Integration und Aufbereitung verschiedener Datenquellen sowie dem Entwurf und der Implementierung von Datenpipelines und der zugrunde liegenden Datenarchitektur sammeln. Du ergänzst unser Team mit sehr guten Deutsch- und Englischkenntnissen in Wort und Schrift.",
+  "skills": [
+    "Python",
+    "SQL",
+    "DataBricks",
+    "Power BI"
+  ],
+  "date_posted": "2021-10-11"
+}

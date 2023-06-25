@@ -1,0 +1,67 @@
+Intern Data Science & AI (m/f/d)
+ProSiebenSat.1 Tech Solutions GmbH
+München
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Introduction Sentence
+
+The ProSiebenSat.1 data organization consolidates the data of the group to make them available for the development of new Business Intelligence and Machine Learning products.
+We at "AI Products" are an interdisciplinary and international team within the data organisation. Together we develop and operate IT applications for the entire ProSiebenSat.1 Group using artificial intelligence within a state-of-the-art technology stack. Our mission is to help our colleagues to get the most value from AI/Machine Learning initiatives by improving efficiency and effectiveness across all our business units.
+
+What you can expect in this role
+As Data Science & AI Intern you will learn the fundamentals required for a successful career as Data Scientist or Machine Learning Engineer
+You will be joining one of our project teams focused on building machine learning products to solve real business challenges
+You will develop productive machine learning applications on a petabyte sized data lake using practices such as Infrastructure as Code, Continuous Delivery, Test Driven Development, ETL Pipelines and Model Development and Deployment on our state-of-the-art AI/ML Cloud-Platform
+You will improve your analytical skills through Data Analysis with SQL and Spark on distributed systems as well as through model selection and training using modern frameworks (TensorFlow, PyTorch etc.)
+Teamwork and your personal development matter to us – you will be closely mentored by our experienced team and get extensive coaching
+Depending on your performance you can join us as a permanent employee after your internship
+Your essential experience and education
+You are in the final stages of your master studies in a technical or natural science related discipline or have just graduated
+Ideally, you have already used your programming skills (Bash, Python or Java) in software development, and you have first experiences in cloud services (AWS, Azure or GCP) or Machine Learning
+You enjoy familiarizing yourself with new topics, communicate proactively and are enthusiastic about new technologies
+You have a very good command of English. Knowledge of German is considered a plus
+What's in it for you?
+Enjoy an open corporate culture without a dress code in the dynamic environment of the media industry
+Work at modern equipped workplaces and use our wide range of campus services including a canteen with fair prices, different coffee bars or our massage service
+Benefit from a highly discounted, Germany-wide membership at Urban Sports Club as well as numerous other special discounts of our partners
+We offer our interns and working students an extensive network so that you can meet new people outside of your field of expertise and gain insights into other areas at ProSiebenSat. 1.
+You have the possibility to complete a voluntary internship as well as a compulsory internship within the scope of your university studies
+Depending on the tasks you take on in your team, there is the possibility of working on a mobile basis in coordination with your manager
+Closure
+
+We are looking forward to your application!
+
+Apply within 5 minutes via our job portal or use the video application option.
+
+Your profile doesn't fit 100%? No worries, apply anyway! We support your professional & personal development on the job.
+
+
+
+You can find out more about our application process here .
+
+Please note that we can not accept applications by mail due to data protection reasons.
+
+ProSiebenSat.1 is more than television, much more. With a reach of 60 million TV households and 11 million people via our online channels, we are the leading German entertainment company and have a strong e-commerce and dating business.
+
+Company Text
+
+Click here to learn more about the ProSiebenSat.1 Group located in Unterföhring near Munich and our diverse portfolio.
+
+As a signatory of the Diversity Charter, ProSiebenSat.1 is committed to a working environment free of prejudice and actively promotes diversity and equal opportunities among employees.
+
+You have a disability and would like to apply? Then you are very welcome.
+We know that we are not entirely accessible yet, but we are working on it. Let's talk about how we can eliminate any barrier together and find an individual solution if needed.
+
+Although we refer to one gender in the text, all genders may be implied.
+
+
+
+Campus service and cafes
+Flexible Working Hours
+No dress code
+Intern and working student network
+Special discounts with external partners
+Hybrid Work
+Urban Sports Club
+Mobile Work in EU countries
+Diesen Job melden

@@ -1,0 +1,15 @@
+{
+  "job_title": "Working Student (m/f/d) - Software Engineering",
+  "company": "Magna Electronics Germany",
+  "location": "85716 Unterschleißheim",
+  "salary_euro": null,
+  "employment_type": "Working Student",
+  "requirements": "Bachelor’s or Master’s student in computer science, Software Engineering, or related area",
+  "skills": [
+    "Experience in coding languages (e.g., Python, C++, Java, JavaScript)",
+    "Knowledge of core computer science concepts such as object-oriented design, algorithm design, data structures, problem-solving, and complexity analysis",
+    "Knowledge of frameworks/systems (e.g., AngularJS, Git) is an added advantage",
+    "Excellent analytical and mathematical abilities"
+  ],
+  "date_posted": "Unknown"
+}

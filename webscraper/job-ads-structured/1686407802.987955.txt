@@ -1,0 +1,15 @@
+{
+    "job_title": "Product Manager - OpenData Global Data Tools",
+    "company": "Veeva Systems",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": "Full-time",
+    "requirements": "Bachelor’s degree in computer science or a related field\n3+ years of experience as a product owner or technical product manager\nUnderstand a variety of agile and product management approaches and tools (Scrum, Kanban, OKRs)\nAbility to work with engineering, Business Analytics, and Data Science teams to define requirements and prioritize features\nVisible moderation and facilitation skills\nA natural tendency to structure, organize, and document\nExcellent English verbal and written communication skills\n",
+    "skills": [
+        "Technical product management",
+        "Agile methodologies",
+        "Leadership",
+        "Communication skills"
+    ],
+    "date_posted": "2021-11-12"
+}

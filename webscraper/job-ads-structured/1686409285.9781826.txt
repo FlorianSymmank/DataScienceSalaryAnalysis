@@ -1,0 +1,13 @@
+{
+    "job_title": "Working Student - IT Engineer (m/f/d)",
+    "company": "Corning",
+    "location": "Berlin, DE, 12489",
+    "salary_euro": null,
+    "employment_type": "Working Student",
+    "requirements": "Participation in a Technical Bachelor’s Degree Program Talent and Interest in Technology overall Excellent German and English language skills",
+    "skills": [
+        "IT Infrastructure: LAN, WAN, Wireless, Voice, Servers, Storage, Databases, Client Computing, Thin Clients, Firewalls",
+        "Experience with Operating Systems and Applications: Windows, Linux, Android, IOs, SAP, M365"
+    ],
+    "date_posted": "2023-05-22"
+}

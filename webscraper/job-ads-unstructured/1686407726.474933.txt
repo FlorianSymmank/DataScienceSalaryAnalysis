@@ -1,0 +1,43 @@
+Financial Data Analyst (m/f/d)
+Othoz Capital GmbH
+Berlin
+Vollzeit, Festanstellung
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Festanstellung
+About the position
+We are looking for a top-tier Financial Data Analyst (m/f/d) to join our team on a permanent position in Berlin / Germany.
+Your Mission
+Providing best-in-class financial data for our Machine Learning models
+Driving the processes behind our rigorous approach to data quality
+Screening, evaluating, and expanding our data sources, such as covering additional equity universes or including alternative data sources
+Identifying data issues and driving improvements together with our Machine Learning, Quantitative Finance, and Software Engineering teams
+Handling communication with our various data vendors to discuss and resolve any problems with their data
+Your Skillset
+Several years of industry experience working with financial data, focusing specifically on equities and related data such as identifiers, market data, fundamental data, and corporate actions.
+University degree in Computer Science, Finance, Economics, or a related field
+Excellent communication skills and the ability to coordinate with multiple stakeholders, including our internal Machine Learning and Engineering teams, as well as external global data providers.
+Great attention to detail and a constant drive to dig deep in order to analyse and understand the root causes of data issues
+Experience with financial data providers such as Bloomberg, S&P CapitalIQ, Compustat and MSCI
+Ability to understand and work with large relational databases using SQL
+Experienced in writing efficient Python code for performing analysis tasks. Familiar with modern data analysis libraries, such as Pandas, Matplotlib, and other frameworks
+Why us?
+An exciting and involving role with significant impact on shaping the future of AI-based sustainable investing
+A company culture that is based on a spirit of cooperation and is characterized by a high level of quality awareness, openness and attention to detail in all areas of our work
+The opportunity to work in an interdisciplinary team with our experienced quant finance, software engineering, and machine learning experts
+Flexible working hours, 28 days paid leave and a competitive salary and equity package
+A modern loft office in Berlin, Prenzlauer Berg, healthy food (including coffee, juices, fruit, vegetables, sandwiches) and high-end hardware from Apple
+Internal workshops, unique learning possibilities across a wide range of domains as well as amazing team events
+Benefits such as Urban Sports Club or Fitness First as well as corporate benefits
+About us
+We are a deep tech pioneer, providing AI-based investment solutions to our clients. Building on the best practices of quantitative asset management we tap the potential of machine learning for sustainable investments on capital market.
+
+Our interdisciplinary team consists of experts in the fields of finance, computer science, software engineering, machine learning as well as mathematics, physics, and neuroscience. Ultramarin is embedded in the global AI community, through a close exchange with leading universities and as a member of Inquire Europe.
+
+To date Ultramarin is one of the leading drivers for AI-based analyses and decision-making processes in asset management. Ultramarin has been founded in 2017, is headquartered in Berlin, with additional locations in Frankfurt and Munich,
+and is backed by leading international business angels and VCs.
+Diesen Job melden

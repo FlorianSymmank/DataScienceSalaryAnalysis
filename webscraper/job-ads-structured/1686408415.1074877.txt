@@ -1,0 +1,12 @@
+{
+  "job_title": "Senior Data Scientist/ Senior Analytics Expert (m/w/d)",
+  "company": "Datalogue GmbH",
+  "location": "20354 Hamburg",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Du hast dein Studium im Bereich der Betriebswirtschaftslehre, (Wirtschafts-) Informatik, (Wirtschafts-) Ingenieurwesen, (Wirtschafts-) Mathematik, Statistik oder einem vergleichbaren Studiengang abgeschlossen. Du hast in der Praxis erprobte Erfahrungen im Bereich Data Science/ Data Analytics oder eine Promotion mit quantitativ-empirischem Fokus. Außerdem hast du praktische Erfahrungen in der (fachlichen) Leitung von (kleineren) Projektteams und bist es gewohnt die treibende Kraft in Projekten zu sein. Du hast mehrjährige Erfahrung in der Datenaufbereitung mit Python, SQL oder R und verwendest Python oder R sicher sowohl zur deskriptiven als auch fortgeschrittenen Datenanalyse bzw. Machine Learning (Predictive Modelling, Clustering, Classification). Die Arbeit mit Git ist für dich selbstverständlich und du hast Erfahrungen im Code Deployment. Du hast sichere Deutsch- und Englischkenntnisse.",
+  "skills": [
+    "Data Science", "Data Analytics", "Project Management", "Python", "SQL", "R", "Machine Learning", "Git"
+  ],
+  "date_posted": "YYYY-MM-DD"
+}

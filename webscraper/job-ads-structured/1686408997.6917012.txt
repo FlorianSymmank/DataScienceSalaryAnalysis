@@ -1,0 +1,17 @@
+{
+   "job_title": "(Senior) IT Consultant - Data Science (w/m/d)",
+   "company": "CrossEngage GmbH",
+   "location": "Hamburg / Berlin",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "min. 3 years of work experience in data science, data analytics or in a consulting role. Direct marketing/CRM experience is an advantage",
+   "skills": [
+      "Python",
+      "R",
+      "SQL",
+      "Apache Spark",
+      "Tableau",
+      "Qlick"
+   ],
+   "date_posted": null
+}

@@ -1,0 +1,29 @@
+{
+    "job_title": "Praktikum / Internship - Data Science / Analytics",
+    "company": "Gen Re",
+    "location": "Köln",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": "Vollzeit, Praktikum",
+    "requirements": "Sie befinden sich derzeit in einem Bachelor- oder Masterstudiengang der Fachrichtung Mathematik, Informatik, Wirtschaft, Finanzen, Naturwissenschaften oder einem ähnlichen Studiengang.",
+    "skills": [
+        "R",
+        "tidyverse",
+        "data.table",
+        "xgboost",
+        "shiny",
+        "targets",
+        "git",
+        "SQL",
+        "Quarto",
+        "bash",
+        "Python",
+        "analytical thinking",
+        "ability to find pragmatic solutions",
+        "data analysis",
+        "statistical methods"
+    ],
+    "date_posted": null
+}

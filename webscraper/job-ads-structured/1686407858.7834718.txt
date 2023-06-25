@@ -1,0 +1,21 @@
+{
+    "job_title": "Student Assistants: Energy Data Analysis & Modelling (f/m/d)",
+    "company": "Agora Energiewende",
+    "location": "Berlin",
+    "salary_euro": {
+        "amount": 14.5,
+        "period": "hour"
+    },
+    "employment_type": "Part-time",
+    "requirements": "A motivated student from a higher education institution in informatics, computer science, statistics, data or natural science, engineering, or a similar degree (enrolled at least for the next 12 months and ideally for the next 24 months);",
+    "skills": [
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "MySQL",
+        "Git",
+        "VBA",
+        "energy and industry decarbonisation"
+    ],
+    "date_posted": "2023-05-22"
+}

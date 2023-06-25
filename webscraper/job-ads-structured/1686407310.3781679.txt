@@ -1,0 +1,20 @@
+{
+  "job_title": "Data Science / Machine Learning Internship",
+  "company": "Livello GmbH",
+  "location": "Düsseldorf",
+  "salary_euro": null,
+  "employment_type": "Praktikum",
+  "requirements": "6+ months mandatory internship or thesis for your university",
+  "skills": [
+    "Mathematics",
+    "Statistics",
+    "Engineering",
+    "Econometrics",
+    "Relevant Data Science experience",
+    "Experience in image processing, algorithms and neural networks",
+    "Knowledge of the tools, libraries and cloud services for Data Science, ideally Google Cloud Platform, Python, MongoDB, and API frameworks",
+    "Cooperative and independent work, analytical mindset, and willingness to take responsibility",
+    "Fluent in English"
+  ],
+  "date_posted": "current date in yyyy-mm-dd format"
+}

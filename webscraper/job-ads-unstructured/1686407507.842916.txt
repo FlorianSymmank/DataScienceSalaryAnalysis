@@ -1,0 +1,53 @@
+Data Scientist (m/f/d): Shape the Future of Construction with AI!
+Flexxter GmbH
+Hannover
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Are you passionate about data science and eager to make a significant impact in the construction industry? Look no further! Flexxter, a young and award-winning start-up based in Hannover, is revolutionizing collaboration in construction projects. Our innovative project management software "Flexxter" has been recognized as one of the TOP 10 Smart Construction Start-Ups of 2020. We are looking for a highly motivated and talented Data Scientist (m/f/d) to join our diverse team and help us drive our ambitious research project focused on AI-driven prediction of planning errors in construction projects. With us, you'll have the unique opportunity to take on real responsibility, learn quickly, and work on a cutting-edge product that is shaping the future of the construction industry. While we might not offer the highest salary, we promise an inspiring work environment, flexible hours, and a chance to make a meaningful difference in the world of construction. If you're ready to prove yourself and have a strong interest in the construction industry, don't hesitate – apply now and become a part of our dynamic team!
+
+Tasks
+
+As a Data Scientist at Flexxter, you'll take on exciting and diverse responsibilities, including:
+
+1. Leading the development of cutting-edge data analysis algorithms that will revolutionize the construction industry.
+2. Designing scalable data processing systems to ensure seamless deployment in a production environment.
+3. Collaborating closely with our academic partners to integrate research findings into the Flexxter software.
+4. Crafting robust data analysis pipelines using AWS, while coordinating with our development team for seamless integration into the Flexxter platform.
+5. Acting as the go-to point of contact for all operational aspects of the project, ensuring smooth communication and collaboration.
+
+Join us in shaping the future of construction with AI and enjoy the thrill of working on a groundbreaking product that will make a difference in the industry!
+
+Requirements
+
+To succeed as a Data Scientist at Flexxter, candidates should possess the following qualifications:
+
+1. Bachelor's or Master's degree in Data Science or a related field.
+2. Proven project or professional experience in data analysis.
+3. Hands-on experience with AWS resources and tools.
+4. Strong communication skills and a collaborative mindset.
+5. Ability to work independently and achieve agreed-upon goals.
+6. Proficiency in English, both written and spoken.
+
+If you have these qualifications and are eager to contribute to the success of a groundbreaking product, we can't wait to hear from you!
+
+Benefits
+
+At Flexxter, we pride ourselves on offering an inspiring and fulfilling work environment where you can truly make a difference. By joining our team, you'll enjoy the following benefits:
+
+1. The opportunity to take on real project responsibility and directly integrate data analysis methods into our innovative software.
+2. A chance to learn, grow, and prove yourself in a rapidly evolving industry.
+3. Being part of a diverse and talented team, working in a beautiful office in Hannover overlooking the Eilenriede city forest.
+4. Access to free beverages, including soft drinks, coffee, and the occasional after-work beer.
+5. The latest technical equipment to support your work and enhance your productivity.
+6. Flexible working hours and the option to work remotely, allowing for a healthy work-life balance.
+
+Don't miss out on this exciting opportunity to shape the future of the construction industry with AI. Apply now and embark on a rewarding journey with Flexxter!
+
+If you're a talented and motivated Data Scientist ready to make a lasting impact in the construction industry, we want to hear from you! This is your chance to join a passionate team and contribute to the development of a cutting-edge product that is revolutionizing the way construction projects are planned and executed. At Flexxter, we value your unique skills and perspectives, and we're committed to creating an inclusive and supportive work environment where you can thrive.
+
+Don't let this opportunity pass you by – apply now to be a part of the Flexxter team and help us drive the future of smart construction! We can't wait to welcome you on board and see the incredible things we can achieve together.
+Diesen Job melden

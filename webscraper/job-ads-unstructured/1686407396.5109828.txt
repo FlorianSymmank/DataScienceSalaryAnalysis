@@ -1,0 +1,42 @@
+Diese Stellenanzeige ist auf Indeed abgelaufen
+Mögliche Gründe: Der Arbeitgeber akzeptiert keine Bewerbungen, ist nicht aktiv auf der Suche nach neuen Mitarbeitern oder prüft derzeit die eingegangen Bewerbungen
+Data Engineer (m/f/d)
+Flix
+Berlin
+
+We're looking for a Data Engineer (m/f/d) to join the Network Analysis team in our Network Planning Domain.
+
+The team you'll be joining builds internal products to provide data-driven decision making and intelligent automation in the Network Planning domain. The cross-functional, product-focused team supports Flix in general, and network planning in particular, to understand how the long-distance coach and train markets work by leveraging internal and external data and applying data science methods. Our tech stack includes Python, R, PostgreSQL, Snowflake, Airflow, Docker, Kubernetes, Kafka, AWS, Kubernetes, Datadog and Gitlab.
+
+Your Tasks – Paint the world green
+Implement and continuously improve the ETL pipelines for the team, ingesting data from the company's Data Lake, Data Warehouse, or Streaming Platform (Kafka).
+Construct and support deployment pipelines using different workflow orchestration tools such as GitLab CI/CD and Airflow.
+Collaborate with other engineers in the team to enhance the data architecture and data pipelines that power the team's products.
+Work on sharing the team's data with other tech teams, for instance via Kafka or APIs.
+Ensure that data quality and pipelines can be monitored by the team.
+Participate in continuous improvements and maintenance of the Data Warehouse and databases.
+Collaborate with business and technology stakeholders to assess data sources, techniques, and tools for data-driven decision-making.
+Your Profile – Ready to hop on board
+2+ years of industry experience in data engineering, with strong skills in Python and SQL.
+Experience with cloud-based data pipeline architecture and design, as well as workflow orchestration using tools like Apache Airflow.
+Familiarity with database optimization, system monitoring, and error handling, with experience using tools like Datadog.
+Comfortable with deployment tools like Kubernetes and Docker, and with automated testing and CI/CD.
+Interest in machine learning projects and implementing clean code principles.
+Effective communication skills and able to represent the team in technical and non-technical contexts.
+Our Perks – More than just a job
+You have an impact. With innovation and smart technology, we are creating the easiest way to travel. We want your ideas and give you autonomy to make them reality.
+Flix is flexible. Organize your own schedule with trust-based hours and up to 60 days of working from (m)anywhere. We are an office-first company, and we encourage all employees to come regularly to their local office.
+Travelling is our passion. Discover the world with your free Flix rides and bring along your friends and family for half price.
+Teamwork makes the dream work. Our FlixTeam has people from over 80 different nations. We work in a multicultural environment where we can challenge and support each other.
+We're not only green in color. We're building for the long term, and that means protecting our planet. We constantly test new green technologies and compensate for the CO2 after all our business travel since 2018.
+Your well-being is important to us. To treat your mind and body we will give you a competitive paid time off package, mental health support including 1:1 consultations with a psychologist, and a neat discount on UrbanSportsClub memberships.
+
+Want to rewrite the history of mobility with us? Then join our ride and apply now. We're excited to hear from you!
+
+Flix – A place to enjoy work and have an impact
+
+The future of transportation is Green. Here at Flix Tech, the R&D group, we develop software with the brightest minds from around the world to engineer new experiences for our millions of customers across our apps and websites. Every day we solve challenging problems, like how to scale rapidly around the world and how to make an experience that delights our customers. We have a culture of sharing ideas, contributing to open source projects and being an active member in our technical communities.
+
+Flix is proud to be an Equal Opportunity Employer. We celebrate diversity and do not discriminate on the basis of race, color, religion, gender (including pregnancy and gender identity), national, social or ethnic origin, political affiliation, sexual orientation, marital status, disability, age, veteran status, or other legally protected characteristics. All employment decisions are based on business needs, job requirements, competence and merit.
+
+Diesen Job melden

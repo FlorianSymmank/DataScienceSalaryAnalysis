@@ -1,0 +1,48 @@
+Data Science Manager - Auction
+trivago
+40221 Düsseldorf
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+About Us
+trivago, a German travel tech company, is building an accommodation search platform to help millions of travelers find their ideal stay for a great value. We save our users time and empower them to get more out of travel by comparing accommodation from leading booking sites. Travelers come to trivago because they know they can rely on our metasearch platform to provide the best deals and deliver search results they love. To accomplish this, we work with a team of international talents eager to develop, take ownership for driving progress, and make a real difference.
+The Role
+
+As a Data Science Manager of the Auction team, you can have a direct impact on the mechanisms that govern the interaction of our 6 million daily users and our 400+ booking sites in real time. In this role, you'll be responsible for leading a team of data scientists and data engineers working on the design, implementation, and improvement of our auction model. Typical problems lie at the intersection of microeconomics (auction theory), experimental design, causal inference, and machine learning. This is a high impact role for someone who has a background in machine learning, microeconomics, or applied science with a proven track record of leading skilled data scientists.
+
+How you'll make an impact:
+Leverage the data science teams to develop and implement advanced data-driven solutions while keeping business priorities and technical feasibility in mind
+Empower and support the team to develop their skills by reviewing and guiding their work
+Closely collaborate and align with product managers, software and data engineers to solve problems and explore new business opportunities
+Drive change and experimentation in our auction marketplace
+Communicate results and insights to both technical and non-technical audiences
+Determine new evaluation metrics and simulation techniques to better evaluate and anticipate test performances and long-term effects
+What we're looking for:
+5+ years' practical experience working in data science, machine learning, or applied science
+Solid background in applied science (optimization, machine learning, economics, statistics) and a good understanding of software engineering
+A business-oriented mindset capable of translating business goals into actionable steps
+Leadership capability, proven either through a formal leadership role or by leading key projects
+Good communication skills and confidence in presenting ideas and findings to stakeholders
+Deep understanding of advanced statistical concepts and experience with experimental design
+Expert knowledge of either Python or R (and relevant packages), experience in Cloud Computing services, Spark or PySpark
+What makes you stand out:
+Knowledge in causal inference and Bayesian statistics
+An understanding of game theory (auction theory) or microeconomics
+A PhD in a quantitative field
+
+Don't let these nice-to-haves stop you from applying for the job! As long as you have relevant experience and the right attitude, we'd love to hear from you.
+
+What you can expect from life at trivago:
+Equal opportunity: An all-inclusive workplace, because we know representing the diversity of our customers in our talent force enables us to create a more meaningful product.
+International workforce: Collaborate with talents from 80+ nations bringing different perspectives, backgrounds, and expertise together to ensure a truly global focus.
+Relocation: In-house relocation support, reimbursement to cover flight and moving expenses, support with work permit and visa questions, and free German language classes.
+Integration: Begin your journey with a structured and fun onboarding approach designed to help you network with other new colleagues and learn about the company.
+Ownership: We promote fast decision-making and give you the opportunity to think and act like a business owner.
+Growth: Your development is our priority so you'll get constant challenges, feedback on your work, and online & on-site trainings.
+Wellbeing: A modern working environment, complimentary sports classes, on-site gym, and access to Likeminded.
+Flexibility: No fixed working hours or amount of vacation days. Instead, we trust the outcome of your work.
+Hybrid: A mix of in-person collaboration (3 days per week) in our Düsseldorf campus and mobile work. Up to 20 days per year can be spent in the EU and select countries.
+A note from our recruitment team:
+
+We know that applying for a new job can be both exciting and intimidating, but don't worry, we've got you. Our recruiting team will be on hand every step of the way, but if you have any questions or concerns before applying, feel free to reach out to us at joinus@trivago.com. You can also find out more about our hiring process here. We look forward to your application!
+
+Diesen Job melden

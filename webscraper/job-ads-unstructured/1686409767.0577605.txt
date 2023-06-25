@@ -1,0 +1,34 @@
+Data Platform Engineer (m/w/d)
+IT4IPM
+Berlin
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Berlin, München, Dresden
+7. Juni 2023
+Data Platform Engineer (m/w/d)
+
+Als Data Platform Engineer (m/w/d) im Team Data Innovation der IT4IPM bist Du verantwortlich für Development & Operations einer Self-Service Cloudplattform für explorative Analysen und Reporting mit den GEMA-Daten. Gemeinsam mit einem Team aus Data Engineers, Software- und Enterprisearchitekten, Data-Scientists und ML-Engineers entwickelst Du die Daten-Infrastrukturen und den Data-Science-Technologiestack kontinuierlich weiter und verantwortest eine zentrales Cloud-basiertes Lakehouse – basierend auf modernen Technologien wie Databricks und BigQuery. Deine Tätigkeit ist geprägt von einem hohen Maß an Eigenverantwortung.
+
+Deine Aufgaben
+Verantwortung für die technologische Weiterentwicklung von Lakehouse und Self-Service Analytics-Infrastruktur
+Technologiescreening, -test und -bewertung für künftige Weiterentwicklungen
+Kontinuierliche Automatisierung der Plattform
+Enge Zusammenarbeit mit den internen KI- und Data-Science-Teams
+Verantwortung für Betrieb der Data-Platform im Sinne eines Site Reliability Engineering (SRE) Ansatzes
+Unterstützung in Einzelfällen bei der Implementierung von herausfordernden EL(T)-Pipelines (mit Databricks/Spark) zu internen und externen Datenquellen
+Deine Qualifikationen
+Abgeschlossenes Studium in einem relevanten Bereich (z. B. Informatik, Data Science, Mathematik) oder vergleichbare Qualifikation
+Fundierte Erfahrung im Aufbau und Betrieb eines größeren Platform-Engineering-Projekts
+Sehr gute Kenntnisse im Umgang mit Terraform
+Sehr gute Kenntnisse und einem der großen Hyperscaler (GCP ist ein Plus), inklusive IAM, Network und den gängigen für Daten wichtigen First-Party Cloud Services des Hyperscalers
+Sehr gute Kenntnisse in Python und SQL (Scala und Java sind ein Plus)
+Fundierte Kenntnisse im Umgang mit Spark (Databricks ist ein Plus), Docker und Kubernetes
+Fundierte Kenntnisse von Streaming-Technologien (Kafka ist ein Plus)
+Fundierte Kenntnisse von gängigen Konzepten des Data Engineerings (CDC, Lakehouse-Architektur, ELT- und ETL-Prozesse, …)
+Neugier, Technologieaffinität und Gestaltungsfreude
+Ausgezeichnete Teamfähigkeit und Kommunikationsstärke
+Gute Beherrschung der deutschen und englischen Sprache (in Wort und Schrift)
+
+Wir freuen uns auf Deine aussagekräftigen Bewerbung.
+
+Diesen Job melden

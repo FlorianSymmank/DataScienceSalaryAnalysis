@@ -1,0 +1,49 @@
+Data Scientist (m/f/d)
+Cuculus GmbH
+98693 Ilmenau
+Vollzeit, Teilzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Teilzeit
+Shape the utilities market of the future with us.
+
+Join our team in Leipzig, Erfurt or Ilmenau in full time or part time as Data Scientist (m/f/d).
+
+What is the role about?
+
+Work package 1 - Successful generation of simulated data for project partners, and fraud simulation, this includes:
+Fraud modelling
+Programming of data generators
+Provision of simulated data for further development of fraud detection programmes
+Work package 2 - Development of a prototype fraud detection software, this includes:
+Implementation and development, as well as testing of the data
+Optimisation of data analysis and final delivery options
+Scalability analysis of the solution
+Assisting in the coordination and implementation of the overall project (meeting with project partners, writing interim and final reports).
+
+You fit in with us, if…
+
+You are interested in a funded project with a duration of 3 years (with the possibility of a follow-up position).
+You hold a degree in physics, computer science, engineering, or a related discipline.
+You have a confident knowledge of the German and English languages - written and spoken.
+You have in-depth programming knowledge in Python, and ideally knowledge in TypeScript, Angular, Javascript, HTML, or shell scripting.
+You have good mathematical knowledge and experience in mathematical modeling and simulation.
+You ideally have knowledge of time series analysis, Fourier analysis, and causality analysis.
+You ideally have basic knowledge of smart metering.
+
+What’s in for you?
+
+Being part of an internationally acting and constantly growing technology company.
+Flat hierarchies and the chance to really make a difference and see your ideas grow into real projects.
+A employment contract with fair conditions and flexible working hours and the possibility to work from home - no ifs and butS:
+A pleasant, informal, and open working environment with modern equipment, fresh fruit, and drinks for free as well as regular team events and workshops.
+Other benefits including e.g. day-care allowance, bike leasing, and company pension scheme.
+
+About us
+
+Cuculus is the key to providing utilities to all, while protecting the world’s precious resources. Jointly with our international partner network, we provide cutting-edge software and technology solutions to address utility challenges now and in the future. Cuculus will never tire of creating innovative technology and services that enable utilities and organisations to successfully transition to a new era of providing and managing electricity, water, and gas. The work we do is important for individuals, cities, and entire nations. Our work is serious, but we have fun with it, too.
+
+Diesen Job melden

@@ -1,0 +1,19 @@
+{
+    "job_title": "NLP Scientist (gn)",
+    "company": "IABG",
+    "location": "Ottobrunn",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "A degree in Computer Science, Computational Linguistics, Mathematics, or related field, with a minimum of 3 years of NLP experience",
+    "skills": [
+        "Python",
+        "DL frameworks",
+        "Hugging Face",
+        "NLTK",
+        "spaCy",
+        "agile process models",
+        "English",
+        "German"
+    ],
+    "date_posted": null
+}

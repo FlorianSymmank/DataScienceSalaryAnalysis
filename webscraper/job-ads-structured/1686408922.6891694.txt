@@ -1,0 +1,21 @@
+{
+   "job_title": "Open PhD Position in the Area of Natural Language Processing",
+   "company": "Technische Universität München",
+   "location": "80333 München",
+   "salary_euro": {
+      "amount": null,
+      "period": null
+   },
+   "employment_type": "Vollzeit",
+   "requirements":  "Master’s degree in Computer Science, Computational Linguistics, Data Science or a similar field. Good theoretical knowledge and practical experience with natural language processing (rule-based and/or machine learning) and Software Engineering. At least intermediate German speaking and writing skills. Advanced English speaking and writing skills.",
+   "skills": [
+      "natural language processing",
+      "computer science",
+      "computational linguistics",
+      "data science",
+      "software engineering",
+      "German language",
+      "English language"
+   ],
+   "date_posted": null
+}

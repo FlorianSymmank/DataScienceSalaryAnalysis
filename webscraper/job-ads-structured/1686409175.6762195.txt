@@ -1,0 +1,10 @@
+{
+    "job_title": "Data Scientist",
+    "company": "ADEAL Systems GmbH",
+    "location": "Frankfurt am Main",
+    "salary_euro": null,
+    "employment_type": "Festanstellung, Vollzeit",
+    "requirements": "Ein abgeschlossenes Studium in einem der MINT-Fächer vorweisen",
+    "skills": ["Clusteranalyse", "Neuronale Netze", "Random Forest", "Python", "R", "Scala", "Java", "Apache Spark", "Kafka", "Hadoop", "Elasticsearch", "AWS", "Azure", "agile Umfeld", "Scrum/Kanban"],
+    "date_posted": "Unknown"
+}

@@ -1,0 +1,15 @@
+{
+  "job_title": "Duales Studium – Bachelor of Science (m/w/d) Data Science und Künstliche Intelligenz",
+  "company": "allsafe GmbH & Co. KG",
+  "location": "78234 Engen",
+  "salary_euro": null,
+  "employment_type": "Berufsausbildung",
+  "requirements": "Allgemeine oder fachbezogene Hochschulreife, Gute Kenntnisse in Mathematik, Spaß und Interesse an digitalen Lösungen und Produkten, Logisches und strukturiertes Denken, Zuverlässigkeit und Teamfähigkeit",
+  "skills": [
+    "Mathematik",
+    "Data Science",
+    "Künstliche Intelligenz",
+    "Digitale Lösungen"
+  ],
+  "date_posted": null
+}

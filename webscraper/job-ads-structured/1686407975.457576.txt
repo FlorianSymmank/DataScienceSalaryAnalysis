@@ -1,0 +1,21 @@
+{
+  "job_title": "Supply Chain Data Analyst (m/w/d)",
+  "company": "Knauf Deutschland",
+  "location": "97346 Iphofen",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "University degree in Computer Science, Information Technology, Data-oriented SC Management or similar\nFluent in English – German is a plus\nWillingness to travel occasionally",
+  "skills": [
+    "quantitative analysis",
+    "business intelligence",
+    "BI solutions",
+    "mathematical",
+    "analytical",
+    "digital thinking",
+    "Supply Chain",
+    "computer science",
+    "information technology",
+    "Data-oriented SC Management"
+  ],
+  "date_posted": null
+}

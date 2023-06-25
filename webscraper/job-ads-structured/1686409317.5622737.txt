@@ -1,0 +1,10 @@
+{
+ "job_title": "Trainee \"Quantitative Models and Data Analytics\" (Mathematik, Physik, Statistik) (m/w/d)",
+ "company": "Bayerische Landesbank",
+ "location": "80333 München",
+ "salary_euro": null,
+ "employment_type": "Vollzeit, Befristeter Vertrag",
+ "requirements": "Guter bis sehr guter Bachelor- oder Masterabschluss in Mathematik, Wirtschaftsmathematik, Statistik, Ökonometrie, Data Science, Physik, (Wirtschafts-) Informatik oder in einem vergleichbaren Studiengang",
+ "skills": ["quantitative modeling", "data analytics", "complex problem solving", "R", "Python", "Tableau", "Ab Initio"],
+ "date_posted": "current date in yyyy-mm-dd format"
+}

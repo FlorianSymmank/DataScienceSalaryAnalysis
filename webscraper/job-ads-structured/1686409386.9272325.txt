@@ -1,0 +1,16 @@
+{
+    "job_title": "Graduate Data Analyst",
+    "company": "Arrow Electronics, Inc.",
+    "location": "63263 Neu Isenburg",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "You must have a legal right to work in the country where the position is located. You should have successfully completed your computer science, mathematics, statistics or similar quantitative field degree or other relevant degree (B.Sc., M.Sc. allowing you to have a full understanding of relational databases and ability to extract and query data independently with SQL) before October 2023 or not more than 2 years ago. You should be familiar with all or some of the following: proficiency with visualization tools (e.g., Power BI, tableau, Qlik) object oriented programming, knowledge of Python and writing scalable code Data Base experience (MySQL or similar) Expert understanding of MS Office tools, primarily Excel visualization of insights with Python (matplotlib, seaborn etc.) Advantageous but not essential to have experience in the following: good understanding of Data Science and Machine Learning methods (clustering, regression, decision trees and random forests etc.) experience with jupyter notebooks and sklearn (libraries numpy, pandas, SciPy etc.) experience with cloud-based platforms (Azure, AWS) experience with statistical modelling with R Business fluent English & German (oral & written) are key requirements for this position. You must be flexible and have geographical mobility. Creative, outside-the-box thinker who brings something new to the table and is not afraid to share those ideas.",
+    "skills": [
+        "Python",
+        "SQL",
+        "Data Analysis",
+        "Data Visualization",
+        "MS Office"
+    ],
+    "date_posted": null
+}

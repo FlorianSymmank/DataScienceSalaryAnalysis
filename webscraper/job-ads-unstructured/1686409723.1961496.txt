@@ -1,0 +1,56 @@
+Bachelor or Master Thesis/ IDP / Forschungspraxis (m/f/d) FPGA Data Processing for LiDAR
+Blickfeld GmbH
+80339 München
+Zum Teil im Homeoffice
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Your mission
+
+Our LiDAR Sensor is one of the best in the world and produces great 3D data. One key of providing LiDAR data at high performance and precision is our FPGA design. Help our Embedded Software Team to work on our FPGA implementation and make it even better. The listed topics are examples of tasks but since we are moving fast new ideas always come up. Just apply and mention your interests and background and we’ll discuss suitable topics with you in detail.
+Unfortunately, we cannot offer compensation for work on these thesis.
+
+Your tasks
+
+
+Analyse and evaluate FPGA architectures for next generation LiDARs
+Implement IPs for data processing (VHDL/Verilog)
+Integrate high performance interface IPs (PCIe, SPI)
+Optimize for performance, resource consumption and power
+Analyse for functional safety
+Verify your design in automated tests in Gitlab CI
+Low-level Software development (ARM, Linux)
+Your profile
+
+
+You are currently studying computer science or electrical engineering (or similar)
+You have good programming skills in VHDL or Verilog
+You have programming skills in C or C++
+You have Experience with designing for Xilinx FPGAs and with designing testbenches
+You have Experience with Linux and Xilinx Vivado Design Suite
+You have very good communication skills in English
+Why Blickfeld?
+
+
+Be part of a great team that lives and breathes technology
+Work in a dynamic environment with quick development cycles and flat hierarchies
+Benefit from the option to work in a hybrid model (remote/onsite)
+Have fun with colleagues at our regular team events
+Enjoy excellent coffee and subsidy for our lunch delivery service
+Our Values
+
+
+We are one team – everybody pitches in
+“Can do” attitude
+Courage to act and to make decisions
+Things can go wrong, that’s ok
+Friendly and constructive behavior
+We stick together and can rely on each other
+Contact
+
+We are looking forward to your application, including your CV, certificates/diplomas and a short cover letter.
+Contact person: Katja Lohmann & Huong Vu ⟋
+Diesen Job melden

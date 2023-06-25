@@ -1,0 +1,17 @@
+{
+  "job_title": "Praktikant (m/w/d) Data Science",
+  "company": "Dr. Ing. h.c. F. Porsche AG",
+  "location": "Weissach",
+  "salary_euro": null,
+  "employment_type": "Praktikum",
+  "requirements": "Studium der Mathematik, Elektrotechnik, Computer Science, Informatik oder eines vergleichbaren Studiengangs mit Schwerpunkt Data Analytics, Machine Learning oder Robotics",
+  "skills": [
+    "Programmiersprachen (z.B. R, Python, Scala, Java oder C++)",
+    "Methoden und Werkzeugen für Data Analytics und Machine Learning Anwendungen sowie ausgewählter Frameworks (z.B. PyTorch, TensorFlow, Keras, scikit-learn)",
+    "Versionierungstools für die Softwareentwicklung (wünschenswert)",
+    "Continuous Integration und Continuous Delivery Tools oder Process Mining, Business Intelligence Tools (erste Erfahrung idealerweise)",
+    "Big Data- und Cloud-Anwendungen (Datenmanagement, -prozessierung, -visualisierung; z. B. Spark, Spring Boot, Docker, Jupyter) von Vorteil",
+    "Deutsch und Englischkenntnisse auf gutem Niveau"
+  ],
+  "date_posted": null
+}

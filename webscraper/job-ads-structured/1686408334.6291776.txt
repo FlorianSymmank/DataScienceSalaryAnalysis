@@ -1,0 +1,29 @@
+{
+   "job_title": "Head of Data Science",
+   "company": "Orange Quarter",
+   "location": "Berlin",
+   "salary_euro": {
+      "amount": null,
+      "period": null
+   },
+   "employment_type": null,
+   "requirements": "Experience leading a Data Science team, ideally in a startup environment\nYou've worked with AI technologies and frameworks along the whole spectrum of open source software (python, sklearn, pytorch, tensorflow, spacy)\nPractical experience of deploying ML Models to the cloud (Azure is a huge bonus, other cloud providers also work)\nStrong team management skills (mentoring, knowledge transfer and project management, as well as working with agile methods)",
+   "skills": [
+      "AI technologies",
+      "open source software",
+      "python",
+      "sklearn",
+      "pytorch",
+      "tensorflow",
+      "spacy",
+      "deploying ML Models",
+      "cloud deployment",
+      "Azure",
+      "team management",
+      "mentoring",
+      "knowledge transfer",
+      "project management",
+      "agile methods"
+   ],
+   "date_posted": null
+}

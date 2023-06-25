@@ -1,0 +1,22 @@
+{
+  "job_title": "Data Scientist (w/m/d)",
+  "company": "Berliner Wasserbetriebe",
+  "location": "Berlin",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Teilzeit, Festanstellung",
+  "requirements": "Abgeschlossenes Master-Studium der Informatik oder Wirtschaftsinformatik, der Mathematik oder Wirtschaftsmathematik, der angewandten Mathematik oder der Statistik mit Schwerpunkt Data Science. Alternativ: ein vergleichbares Bachelorstudium der oben genannten Fachrichtungen mit fundierten Kenntnissen im Bereich Data Science, Big Data oder Data Analysis.",
+  "skills": [
+    "analytische Fähigkeiten",
+    "selbstorganisierte Arbeitsweise",
+    "Kommunikations- und Präsentationsfähigkeiten",
+    "Datenbankverständnis",
+    "Fähigkeit, Codes zu lesen",
+    "Visualisierung",
+    "Hands-on-Mentalität",
+    "Teamfähig"
+  ],
+  "date_posted": null
+}

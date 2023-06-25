@@ -1,0 +1,15 @@
+{
+  "job_title": "Consultant* (Big) Data Engineering / Data Science",
+  "company": "Müller und Partner Unternehmensberater",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Basis Ihrer Berufstätigkeit ist ein erfolgreich abgeschlossenes Studium, idealerweise mit einem datengetriebenen Hintergrund (z. B. Mathematik, Physik, Ingenieurswesen, Informatik, Wirtschaftsinformatik, Statistik, Marktforschung, Sozialwissenschaften).",
+  "skills": [
+    "Mehrjährige Erfahrungen in den Bereichen Data Science, Data Analytics oder Data Engineering",
+    "Sehr gute analytische Fähigkeiten und das Talent, die Ergebnisse aus der Analyse mit operativen Strategien zur verknüpfen, um so innovative Daten- und Geschäftslösungen zu entwickeln",
+    "Technische Fähigkeiten in einem oder mehreren der folgenden Bereiche: R, Python, Julia, RegEx, Linux/Unix, Plotly, ETL, SQL/NoSQL",
+    "Begeisterung für Statistik"
+  ],
+  "date_posted": null
+}

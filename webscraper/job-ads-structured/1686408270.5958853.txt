@@ -1,0 +1,13 @@
+{
+  "job_title": "Data Engineer", 
+  "company": "Europa-Park Erlebnis-Resort", 
+  "location": "Rust", 
+  "salary_euro": {
+    "amount": null, 
+    "period": null
+  }, 
+  "employment_type": "Festanstellung", 
+  "requirements":  "Erfolgreich abgeschlossenes Studium der Wirtschaftsinformatik, Informatik, Statistik, Computer Science oder andere Studiengänge mit Schwerpunkt Statistik/Datenverarbeitung", 
+  "skills": ["SQL", "Python", "Data Warehousing", "Data Lakes", "BigQuery", "Tableau", "R"], 
+  "date_posted": "2021-10-08"
+}

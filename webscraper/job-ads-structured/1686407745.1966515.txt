@@ -1,0 +1,10 @@
+{
+   "job_title": "Junior Consultant Data Science",
+   "company": "Sopra Steria SE",
+   "location": "Deutschland",
+   "salary_euro": null,
+   "employment_type": "Festanstellung",
+   "requirements": "Sehr gut abgeschlossenes Studium der Wirtschaftswissenschaften, der (Wirtschafts-) Informatik, der (Wirtschafts-) Mathematik, der Physik oder einer quantitativen Disziplin. Du verfügst über Vorkenntnisse und / oder Zertifikate in relevanten Technologien im Bereich Data Science. Du besitzt herausragende Kommunikations- und Präsentationsfähigkeiten. Du bist leidenschaftlich im Umgang mit Trends und Technologien. Gute Deutsch- und Englischkenntnisse. Beratung heißt Flexibilität: Dein Projekteinsatz richtet sich nach unseren Kunden und Deiner Projektsituation und beinhaltet sowohl hybrides Arbeiten als auch den Einsatz vor Ort.",
+   "skills": ["Wirtschaftswissenschaften", "Informatik", "Mathematik", "Physik", "Data Science", "Kommunikation", "Präsentation", "Flexibilität", "Deutsch", "Englisch"],
+   "date_posted": null
+}

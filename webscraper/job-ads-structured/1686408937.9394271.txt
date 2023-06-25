@@ -1,0 +1,21 @@
+{
+   "job_title": "Research Associate for the Project “EPOC”",
+   "company": "Universität Hamburg",
+   "location": "Hamburg",
+   "salary_euro": {
+      "amount": null,
+      "period": null
+   },
+   "employment_type": "full-time position suitable for part-time",
+   "requirements": "A university degree in a relevant field.",
+   "skills": [
+      "demonstrated knowledge of ocean dynamics",
+      "experience with observational datasets would be beneficial",
+      "strong quantitative and communication skills",
+      "interest in seagoing and fieldwork",
+      "demonstrated knowledge and skills in a computer language (e.g. Python or MATLAB) including experience or an interest in gaining experience in research software best practices",
+      "ability to both work in a team and to conduct independent work",
+      "excellent organisational skills"
+   ],
+   "date_posted": null
+}

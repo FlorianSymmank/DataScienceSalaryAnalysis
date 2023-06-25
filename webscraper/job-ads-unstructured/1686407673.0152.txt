@@ -1,0 +1,42 @@
+Data Analysis / Data Engineering / Data Science (m/f/d)
+Qimia GmbH
+Köln
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+February 01, 2023
+Qimia ist ein international aufgestelltes Unternehmen mit einer Start-up-Mentalität für die digitale Transformation. Wir unterstützen Unternehmen umfassend bei ihrer Digitalisierung durch innovative und hervorragende Software & Lösungen, Big Data (& AI), Cloud Computing, Machine Learning und Artificial Intelligence. Unsere Mission ist es, Technologien der Zukunft zu entwickeln. Damit verändern wir die Art und Weise, wie Menschen Daten nutzen, mit ihnen interagieren, sie erforschen und daraus Erkenntnisse gewinnen. Sind Sie ein Verfechter von Spitzentechnologien, arbeiten Sie gerne in einem agilen und innovativen Umfeld und halten Sie mit der sich ständig weiterentwickelnden technischen Landschaft Schritt? Lernen Sie gerne Neues und haben Sie eine Macher- und Ingenieurmentalität? Dann ist Data Analysis / Data Engineering / Data Science genau das Richtige für Sie. Wir suchen ab sofort oder zu einem späteren Zeitpunkt einen Data Analyst / Data Engineer / Data Scientist in Vollzeit. Standorte, an denen wir nach neuen Kollegen suchen: Hannover oder Köln
+Full-Time
+Köln (HQ),Deutschland
+Ihre Aufgaben :
+Entwicklung innovativer Plattformen und Technologien, insbesondere in den Bereichen Data Analytics, Machine Learning und Artificial Intelligence.
+Entwicklung von Empfehlungsmaschinen, Web- und Text-Data Mining unter Verwendung von Natural Language Understanding-Modellen, Anwendung von Algorithmen und Tools zur Netzwerk- und Graphenanalyse, Deep Neural Network Learning.
+End-to-End-Design und -Implementierung von Data Analytics-Systemen; dazu gehören Datenerfassung, Requirements Engineering und Spezifikation sowie das Design von technischen Lösungen auf der Grundlage von Geschäftsanforderungen.
+Entwicklung von ETL-Pipelines für große komplexe Datensätze und Verarbeitung strukturierter und unstrukturierter Daten mit Spark, Hive, Kafka, Flume, Oozie usw.
+Prototyping und Implementierung von massiv skalierten Data Analytics-Lösungen auf der Grundlage von Big Data-Tools (Hadoop, Spark, HIVE / Impala, SQL, H2O, Python und R).
+Arbeiten mit Cloud-Plattformen (Amazon Web Services, Microsoft Azure oder Google Cloud Platform).
+Entwicklung von Event-Streaming-Lösungen in einer Container-basierten Umgebung.
+Dein Profil :
+Hochschulabschluss in Informatik, Informationssystemen oder gleichwertiger Abschluss in Informatik, Statistik, Operations Research, Bioinformatik, Mathematik oder Physik.
+Fundierte Erfahrung im Umgang mit gängigen Tools zur Transformation und Analyse von Daten (strukturiert und unstrukturiert).
+Erste Erfahrungen mit Cloud Computing, Event Streaming und Container-basierten Lösungen.
+Lösungsorientierter Ansatz und Implementierung Ihrer Lösung für unsere Kunden.
+Proaktivität, Teamfähigkeit, starke Kommunikationsfähigkeiten, Belastbarkeit, eine unabhängige, analytische und konzeptionelle Vorgehensweise zeichnen Sie aus.
+Erfahrung mit einer oder mehreren Mehrzweck-Programmiersprachen, einschließlich, aber nicht beschränkt auf: Java, C / C ++, Python, Scala oder JavaScript.
+Die Fähigkeit, Kunden oder Kollegen komplexe technische Strukturen und Sachverhalte zu erklären.
+Sehr gute Beherrschung der deutschen und englischen Sprache in Wort und Schrift.
+Mobilität und Flexibilität, um beim Kunden vor Ort zu arbeiten, sind Teil unseres Jobs. Wir geben unser Bestes, um Reisen und Arbeiten bei Ihnen vor Ort oder vom Home Office aus so zu vereinbaren, dass es für Sie gut passt.
+wir bieten dir :
+Ein abwechslungsreiches und zukunftssicheres Arbeitsumfeld mit einem hohen Maß an Verantwortung.
+Die Chance, an einem der anspruchsvollsten und wichtigsten Projekte im Bereich Finanzdienstleistungen und IT-Technologien zu arbeiten.
+Ein Arbeitsumfeld, das auf gutem Teamgeist, Flexibilität und Respekt beruht.
+Ein breites Spektrum an Aufgaben und abwechslungsreichen Tätigkeiten.
+Intensive Ausbildung und Unterstützung durch erfahrene Mentoren.
+Attraktive und individuelle Ausbildungsmöglichkeiten für unsere Mitarbeiter in den Bereichen Data Science, Data Engineering Software Development und Project Management.
+Schnelle Aufstiegsmöglichkeiten in einem jungen und dynamischen Unternehmen.
+Flache Hierarchien und viel Raum für innovative Ideen sowie kreative Möglichkeiten sind Teil unserer Unternehmenskultur.
+Diesen Job melden

@@ -1,0 +1,40 @@
+Computer Vision & Software Engineer (m/f/d) for Autonomous Driving
+SafeAD GmbH
+Karlsruhe
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+The mission of SafeAD is to solve the scalability problem of current
+autonomous driving. Deploying autonomous driving in restricted areas is
+cool, but the real value of autonomy comes when it is deployed around
+the world and becomes accessible to everyone. We believe the key to
+achieving this is 3D camera-based scene understanding that enables
+mapless autonomous driving everywhere.
+
+In this role, you’ll:
+
+Develop tools to enable large scale ground truth data generation to train and test our ML models
+Build up and integrate a simulation environment to test our software
+Test our software in a self-driving vehicle
+At a minimum we’d like you to have:
+
+MSc/PhD in Computer Science, Robotics or equivalent experience
+Experience in computer vision
+Strong experience programming in C++ and Python
+A strong team player and learning mindset
+It’s preferred if you have:
+
+Hands-on experience in the fields of autonomous driving
+Experience in visual SLAM, sensor calibration, SfM, MVS, point cloud processing and optimization
+Have worked in mid to large software projects
+What we’ll offer you:
+
+The chance to work on state-of-the-art computer vision for autonomous driving
+A working place characterized by a flat hierarchy, quick processes and full focus on state-of-the-art technology
+Flexible working hours
+A competitive salary
+
+If you share our vision and want to be part of it, contact us at jobs@safead.de*protected email*.
+Please attach your résumé, references, and any other information you find useful.
+
+Diesen Job melden

@@ -1,0 +1,38 @@
+DevOps for Biometric Devices
+Mühlbauer GmbH & Co. KG
+93426 Roding
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Your tasks:
+Software development on assigned project, responsibility for solution proposal
+Taking part in testing created Software solutions (usually with devices)
+Task handling in corresponding Software solution
+Bug-fixing and product stabilizing
+Documentation creation, Reporting
+Providing customer with information, Foreign business trips
+Integration of new biometric devices (e.g. cameras, fingerprint scanners, signature pads, iris cameras)
+Integration of document scanners devices to read not only ICAO 9303 compliant documents like passports and national ID cards (includes optical scan and secure chip communication (PA, AA, BAC, PACE, EAC)), but also read driving licenses (ISO/IEC 18013) and proprietary/customer specific documents
+Integration of biometric algorithms for verification, identification, image enhancement and data analysis
+Development of failsafe multi-threaded software (24/7)
+Distributed computing using web services (secure communication)
+Creating test tools for support and maintenance
+Installation, configuration and integration of MB software at customers (worldwide)
+Analyze and fix software issues
+Your profile:
+Experience in development in C++
+Knowledge of following 3rd party software (STL, OpenCV, Crypto++, gSOAP, OpenSSL)
+Knowledge of ICAO 9303 standard
+Experience with integration of devices
+Dedicated, independent and structured work, practice-awareness, target-oriented
+Understanding of software quality assurance principles
+Communication (spoken, written) with team members in English
+BSc/MSc in computer science, engineering or relevant field
+We offer:
+Attractive additional financial benefits such as holiday allowances and health bonus (1 extra salary)
+Flexible working times depending on the respective workplace
+Individual advancement through the Mühlbauer Academy with internal and external training measures
+Employee events (e.g. Christmas party, folk festival visit and barbecue)
+International working environment - opportunities for temporary assignments abroad
+At the Roding location you can also expect Appropriate meals in the company canteen, company-owned gym, support in finding accommodation
+You can find many other benefits on our homepage
+Diesen Job melden

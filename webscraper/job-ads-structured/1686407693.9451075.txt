@@ -1,0 +1,18 @@
+{
+  "job_title": "Praktikum Data Science",
+  "company": "CAS Software AG",
+  "location": "76131 Karlsruhe",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Praktikum",
+  "requirements": "Du studierst in einem informatikorientierten Studiengang und hast mindestens drei Monate Zeit, um dein Wissen mit praxisnahen Kompetenzen anzureichern. Du bist datenaffin und bringst erste Kenntnisse in Data Science und Machine Learning mit, u. a. im Gebiet Natural Language Processing. Erste praktische Erfahrungen mit KI-Methoden sowie ein sicherer Umgang mit Python ergänzen dein Profil. Wir sind als innovatives Unternehmen bekannt, darum solltest du neugierig sein, neue Wege zu erkunden und Freude am Umgang mit neuen Technologien haben.",
+  "skills": [
+    "Machine-Learning",
+    "Python",
+    "Natural Language Processing",
+    "Data Science"
+  ],
+  "date_posted": null
+}

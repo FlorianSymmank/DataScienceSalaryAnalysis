@@ -1,0 +1,10 @@
+{
+   "job_title": "Marketing Data Analyst",
+   "company": "Oxygen Digital Recruitment",
+   "location": "Berlin",
+   "salary_euro": null,
+   "employment_type": null,
+   "requirements":"Fluent in German and English; Ability to communicate with executives and celebrities; Familiarity with basic Python and SQL with AWS experience",
+   "skills": ["Data Analysis", "Marketing Strategy", "Python", "SQL", "AWS"],
+   "date_posted": null
+}

@@ -1,0 +1,10 @@
+{
+  "job_title": "Claims Data Engineer",
+  "company": "Munich Re",
+  "location": "Munich , Germany",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "University degree in computer science, statistics, applied mathematics, data science, physics or a similar qualification\nExperience in (re)insurance – ideally in Claims or Underwriting – of advantage\nPractical experience in wrangling heterogeneous and complex data and high motivation to understand the underlying business and generating process\nAnalytical and statistical skills combined with practical experience preferably with Python and the willingness to continuously improve\nExperience with building ETL processes in data lake infrastructure\nPractical experience with Azure Cloud components, especially Databricks, Azure Storage, Cosmos DB, Azure Search, Azure Data Factory\nVersed in Python, SQL, Spark and Scala\nPractical experiences in visualisation tools, preferably Power BI\nTeam player, especially in agile project set-ups, and used to collaborating with GIT or similar version control tools\nAbility to work effectively with colleagues across the departments and with different levels of seniority\nExperience as product owner or project manager\nVery high level of motivation paired with the capacity to take responsibility and work independently\nVery good written and spoken German and English and ability to explain complex problems to a diverse audience",
+  "skills": ["Python", "SQL", "Spark", "Scala", "Visualisation", "Power BI", "Product owner", "Project manager"],
+  "date_posted": null
+}

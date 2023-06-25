@@ -1,0 +1,16 @@
+{
+    "job_title": "Senior Data Scientist",
+    "company": "STADA Arzneimittel AG",
+    "location": "Bad Vilbel",
+    "salary_euro": null,
+    "employment_type": "Full-time, Permanent",
+    "requirements": "Bachelor's, master's or higher degree in computer science, statistics, mathematics, or a related field. 4-6+ years of work experience in data science, analytics, or a related field. Strong programming skills in at least one language like Python, R, JAVA and/or SQL. Experience in visual Data Transformation tools like Alteryx or Azure Data Factory is a plus. Experience with data visualization tools such as Tableau or Power BI. Previous work experience using Databricks is a plus. Strong analytical and problem-solving skills. Strong communication and collaboration skills.",
+    "skills": [
+        "Programming",
+        "Data Analysis",
+        "Statistics",
+        "Machine Learning",
+        "Data Visualization"
+    ],
+    "date_posted": "N/A"
+}

@@ -1,0 +1,13 @@
+{
+    "job_title": "Data Scientist (w/m/d)",
+    "company": "Salzgitter AG",
+    "location": "Duisburg",
+    "salary_euro": {
+        "amount": null, 
+        "period": null
+    },
+    "employment_type": "Teilzeit",
+    "requirements": "Sie haben Ihr Studium in Mathematik, Informatik, Statistik oder einem ähnlichen Bereich zügig und mit Erfolg abgeschlossen\nSie verfügen über fundierte Kenntnisse in Statistik, Machine Learning und Deep Learning Methoden\nSie analysieren, manipulieren und visualisieren Daten mit Python (Pandas, Numpy, Scikit-Learn, Tensorflow)\nSie haben Erfahrungen im Bereich Deployment und Monitoring von Machine-Learning-Applikationen in Produktion (z. B. Plotly Dash, FastAPI)\nSie sind geübt im Umgang mit Datenbanksystemen\nSie kommunizieren empfängerorientiert, präsentieren sicher, auch vor Nicht-Experten und mögen es, im Team zu arbeiten\nSie sind eigeninitiativ und arbeiten ebenso systematisch wie zielgerichtet\nSie setzen Erkenntnisse schnell, flexibel und kreativ um\nSie sind sehr gut in Deutsch und Englisch, sowohl in Wort wie Schrift",
+    "skills": ["Python", "Pandas", "Scikit-Learn", "Tensorflow", "Machine Learning", "Deep Learning", "Datenbanksystemen"],
+    "date_posted": null
+}

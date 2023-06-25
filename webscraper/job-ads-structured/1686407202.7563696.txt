@@ -1,0 +1,10 @@
+{
+"job_title": "Praktikum / Abschlussarbeit im Bereich Data Science",
+"company": "HARTING Stiftung & Co. KG",
+"location": "Berlin",
+"salary_euro": null,
+"employment_type": "Praktikum",
+"requirements": "Student (m/w/d) der Informatik, Elektrotechnik oder eines vergleichbaren Studiengangs, Erfahrung in der Strukturierung von Daten sowie mit Datenstrukturen (SQL, JSON)",
+"skills": ["Python", "Pandas", "Spark"],
+"date_posted": null
+}

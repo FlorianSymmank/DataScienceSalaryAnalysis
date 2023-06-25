@@ -1,0 +1,29 @@
+{
+   "job_title": "Computer Vision and 3D Scanning Intern (f/m/x)",
+   "company": "svarmony",
+   "location": "Berlin",
+   "salary_euro": {
+      "amount": null,
+      "period": null
+   },
+   "employment_type": "Teilzeit",
+   "requirements": "Bachelor’s degree in Computer Science/Engineering or related fields",
+   "skills": [
+      "Computer Vision experience",
+      "Coding experience with any modern language, preferably Python or C++",
+      "Familiar with coding best practices",
+      "Comfortable with git, bash and Linux operating systems",
+      "Ability to do research and run experiments comparing performance of various algorithms and communicate results to the engineering team",
+      "Attention to detail and sense of code ownership",
+      "Understanding of JSON file structure",
+      "Enthusiast about AR and Indoor navigation",
+      "Motivated to work with cutting edge computer vision technologies",
+      "Located in the area of Berlin/Munich",
+      "Experience with using or acquiring point clouds",
+      "Performing 3D lidar or stereo depth scanning",
+      "Working with Structure from motion software",
+      "ML experience",
+      "AR experience"
+   ],
+   "date_posted": null
+}

@@ -1,0 +1,49 @@
+Scientist/DevOps in E-Science Section (w/m/d)
+Leibniz Institut für Astrophysik
+14482 Potsdam
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+Scientists at the Leibniz Institute for Astrophysics Potsdam (AIP) work on a variety of astrophysical topics
+covering the full range from solar physics to cosmology. Key aspects are cosmic magnetic fields and extra-
+galactic astrophysics supported by a large technology team on spectroscopy, robotics, and e-science. The
+AIP is located in the beautiful Potsdam/Babelsberg area, at the South-western border of the Berlin metro-
+politan area. It continues the tradition of the Astrophysical Observatory Potsdam and the Berlin Observa-
+tory (founded in 1700) and has about 200 employees.
+
+The Leibniz-Institute for Astrophysics Potsdam (AIP), Supercomputing and E-Science section, invites
+applications for a position within the team.
+
+Scientist/DevOps in E-Science Section (w/m/d)
+
+We are looking for a developer, preferably with astrophysics or physics background, who wants to work in
+this intersection between astronomy and data science. The tasks require programming skills (python, web
+technology), knowledge of RDBMs and SQL, as well as domain knowledge in astrophysics or natural
+sciences. A university degree is required.
+
+The AIP is participating in many scientific data infrastructure projects such as ESCAPE and NFDI, often in
+collaboration with other AIP science groups or sections and leads one task area of the PUNCH4NFDI consor-
+tium. Also, the 4MOST public archive is managed by this section. AIP is a member of the SDSS collaboration
+and one of the initiators of the German Center for Astronomy (DZA) to be built in the coming years.
+
+The appointment will be initially for 24 months, and can start immediately after the selection process is fin-
+ished. Please submit your application via the online-portal.
+
+The AIP is an equal opportunity employer and strives to maintain a diverse, inclusive work environment and
+culture. AIP particularly encourages applications from women and those from diverse backgrounds. Prefer-
+ence will also be given to people with disabilities with equal competence. The appointment could start im-
+mediately after the recruitment process is completed.
+Salary and social benefits are calculated based on the German public service scale TV-L (TVL 13) and de-
+pends on qualification. Employer contributions to medical, parental leave, and retirement benefits are in-
+cluded.
+
+Contact for further information:
+
+Leibniz-Institut für Astrophysik Potsdam (AIP)
+Dr. Harry Enke
+An der Sternwarte 16
+D-14482 Potsdam
+
+bewerbung_2023-05@aip.de
+
+Diesen Job melden

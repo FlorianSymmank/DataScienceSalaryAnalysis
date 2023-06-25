@@ -1,0 +1,36 @@
+Data Analytics Engineer
+Barbaricum
+Stuttgart
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Barbaricum is a rapidly growing government contractor providing leading-edge support to federal customers, with a particular focus on Defense and National Security mission sets. We leverage more than 14 years of support to stakeholders across the federal government, with established and growing capabilities across Intelligence, Analytics, Engineering, Mission Support, and Communications disciplines. Founded in 2008, our mission is to transform the way our customers approach constantly changing and complex problem sets by bringing to bear the latest in technology and the highest caliber of talent.
+
+
+Headquartered in Washington, DC's historic Dupont Circle neighborhood, Barbaricum also has a corporate presence in Tampa, FL and Dayton, OH, with team members across the United States and around the world. As a leader in our space, we partner with firms in the private sector, academic institutions, and industry associations with a goal of continually building our expertise and capabilities for the benefit of our employees and the customers we support. Through all of this, we have built a vibrant corporate culture diverse in expertise and perspectives with a focus on collaboration and innovation. Our teams are at the frontier of the Nation's most complex and rewarding challenges. Join us.
+
+
+
+
+Barbaricum is seeking a Data Analytics professional to provide support to a US Special Operations Command (USSOCOM) customer to integrate as part of a team that will provide advanced analytical knowledge of data, with a focus on conducting big data analysis, data conditioning, programming, advanced computing, developing algorithms, developing software and data models, executing predictive analytics and utilizing visualization tools.
+Responsibilities
+Use technology to mine complex, voluminous, and different varieties of data from various sources and platforms in order to collect, analyze, and compile data to meet customer needs
+Identify new sources of data and methods to improve data collection, analysis, and reporting
+Collect customer requirements
+Determine technical issues
+Design algorithms and data manipulation capabilities using R, Python, C++, JavaScript, and other known programming languages
+Build data solutions, tools, and capabilities to enable self-service frameworks for data consumers to monitor and report on data
+Improve the quality of data use and usability by driving an understanding and adherence to the principles of data quality management including metadata, lineage, and business definitions
+Work collaboratively with Intelligence and Data analysis teams to produce qualitative and quantitative data that support Intelligence products
+Qualifications
+Active DoD TS/SCI clearance
+Possess a minimum of a bachelor's degree in a computer science OR a bachelor's degree in a non-related field and four years of relevant experience in Python, C++, JavaScript, or other programming languages
+Experience providing services similar in required tasks, scope, and complexity
+
+Additional Information
+
+For more information about Barbaricum, please visit our website at www.barbaricum.com. We will contact candidates directly to schedule interviews. No phone calls please.
+Diesen Job melden

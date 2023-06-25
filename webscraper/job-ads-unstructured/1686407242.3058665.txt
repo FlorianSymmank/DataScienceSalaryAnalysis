@@ -1,0 +1,77 @@
+Diese Stellenanzeige ist auf Indeed abgelaufen
+Mögliche Gründe: Der Arbeitgeber akzeptiert keine Bewerbungen, ist nicht aktiv auf der Suche nach neuen Mitarbeitern oder prüft derzeit die eingegangen Bewerbungen
+Engineering Data Analyst (m/f/d)
+sonnen GmbH
+Berlin
+Teilzeit
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Teilzeit
+Standort: Berlin, BE, DE Wildpoldsried, BY, DE
+Stellen-ID: 4020
+At the earliest date possible we are looking for support for our #teamsonnen
+
+Clean and affordable energy for all is one of the greatest challenges of our time. Sonnen has been committed to this mission since 2010 and is now represented in Europe, the USA and Australia with over 1,000 team members globally. In Germany, our offices are located in the beautiful Wildpoldsried (Allgäu) and the vibrating heart of Berlin Kreuzberg.
+
+At sonnen, we are building the energy system of the future. To this end, we are developing new technologies and business models that have not existed before. Whether intelligent power storage, virtual power plants or digital services - we set the trends of a new energy world. That means, among other things, the inexpensive production and storage of renewable energy and the intelligent networking of producers and consumers. sonnen thereby gives people around the world the opportunity to become independent of fossil fuels and conventional energy supplier.
+
+We are growing steadily and are looking for people who want to join us in our vision of clean and affordable energy for all while making a positive impact on climate change.
+
+What you will do to help drive energy transition:
+
+
+
+
+Actively monitor systems behavior on our fleet and act on deviations
+Verify system failures and indicate the impact to our fleet
+Identify failure patterns and discuss solutions with our R&D teams
+Describe failures and inform the country organizations
+Predict weaknesses or maintenance tasks to allow a proactive solution
+Constantly evaluate our data quality and promote improvements
+One of the central contact person for all service related active monitoring issues
+Act as an interface between the global service, country organizations, our data analytics team and BI team
+Support Device Software Rollouts and EUT phases
+Create manuals and documents as well as evaluations
+
+
+
+What you'll need on that journey:
+
+
+
+
+You have successfully completed your computer science or technical studies. Alternatively, you have a very well-completed training with relevant professional experience in the above-mentioned areas of responsibility
+You were also able to gain your first professional experience in data analysis
+You have experience in SQL, AWS, Data Bricks, Athena
+Your very good knowledge of MS Office applications as well as knowledge of Linux based systems and Wrike, Salesforce and SAP round off your profile
+You are characterized by your very good analytical skills
+You convince through the ability to work in a team, flexibility and commitment
+Very good command of German and English
+What you can expect at sonnen:
+An atmosphere of openness, tolerance and mutual respect, where innovation is expected and encouraged
+The option of working full- or part-time for every position
+30-32 days annual vacation with increasing team membership
+Leasing of company (e-)bikes with up to 40% discount
+Flexible working hours and option working mobile
+Mental health and wellbeing offering for you and your family members
+Free German, English as well as online yoga and body art courses
+Soft drinks, fruits and cereals in our offices
+Use of sports memberships (EGYM Wellpass, only €29.75/month) and discounts for other services and products
+Employee discount on our electricity tariff
+Regular team and company events
+We love dogs! You too? Feel free to bring your fellow friend to our offices
+
+
+
+You feel we are a match? Apply now and help us to shape the energy transition together. We look forward to welcoming you to #teamsonnen!
+
+sonnen - energy is yours!
+
+
+
+
+
+Stellensegment: Database, Computer Science, Linux, SQL, SAP, Technology
+
+Diesen Job melden

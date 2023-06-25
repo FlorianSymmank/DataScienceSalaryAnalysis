@@ -1,0 +1,10 @@
+{
+   "job_title": "(Senior) Data Analyst - Product (m/f/d)",
+   "company": "Jimdo",
+   "location": "12099 Berlin",
+   "salary_euro": null,
+   "employment_type": null,
+   "requirements": "You have 3+ years of experience in similar product analytics or data science role(s). You are an expert in processing and evaluating big data sets with appropriate tools and methods (SQL, R, Python, Tableau; or Product Analytics tools like Mixpanel, Amplitude, Pendo or Heap) to understand and predict user behavior. You have a deep understanding of what best practice funnel analytics, customer segmentation, user modeling and A/B testing looks like. You effectively communicate complex matters and requirements to non-domain experts in a simple, crisp and concise way - visually and verbally. You have sharp business judgment and easily separate signals from noise when it comes to summarizing and presenting actionable insights. You are creative, organized and self-motivated. You enjoy sitting close to the business and making an impact.",
+   "skills": ["SQL", "R", "Python", "Tableau", "Mixpanel", "Amplitude", "Pendo", "Heap"],
+   "date_posted": null
+}

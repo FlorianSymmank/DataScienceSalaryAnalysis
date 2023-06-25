@@ -1,0 +1,14 @@
+{
+  "job_title": "Data Scientist (m/w/d) – Vertriebsmodelle",
+  "company": "Sparkassen Rating und Risikosysteme GmbH",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Mehrjährige Berufserfahrung, erfolgreich abgeschlossenes Hochschulstudium im Bereich Informatik, Mathematik, Physik, Statistik oder ein vergleichbares quantitatives Studium, gute Kenntnisse in Anwendung und Nutzung statistischer Methoden, Verständnis von Machine-Learning-Algorithmen (vorzugsweise im Kontext von Boosted-Trees, Clustering und Neuronalen Netzen) sowie Erfahrungen im optimalen out-of-sample Tuning der Modelle",
+  "skills": [
+    "Python",
+    "R",
+    "SQL"
+  ],
+  "date_posted": null
+}

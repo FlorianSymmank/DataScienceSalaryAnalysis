@@ -1,0 +1,10 @@
+{
+    "job_title": "Data Professional (f/m/d) - Analytics & AI - Expert Services",
+    "company": "E.On",
+    "location": "München",
+    "salary_euro": null,
+    "employment_type": "Vollzeit, Festanstellung",
+    "requirements": "You have a degree in Computer Science or a related technical discipline or other significant work experience. You have hands-on coding experience to process huge data sets, time series analysis, perform statistical data analysis and build supervised and unsupervised models in Python. You love mathematics and statistics. You already have knowledge of Machine Learning frameworks like MLlib, scikit-learn, Azure ML, etc. Ideally you have already experience with data transformations in Spark and Databricks. Ideally you already know how to implement pipelines in Azure Data Factory, and how to efficiently deploy analytical modules. Working with git and CI/CD flows is preferred by you. Knowledge of Azure DevOps is considered as a plus. Excellent writing and communication skills, considering varying levels of precision and matching the audience . Fluent in English; German language skills are seen as a plus.",
+    "skills": ["Python", "Machine Learning", "Statistics", "Spark", "Databricks", "Azure Data Factory", "git", "CI/CD", "Azure DevOps", "Communication"],
+    "date_posted": "2021-11-04"
+}

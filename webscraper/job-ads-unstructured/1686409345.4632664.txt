@@ -1,0 +1,87 @@
+Working Student - Angular Development for AI Systems
+Calypso Ventures GmbH
+93053 Regensburg
+Zum Teil im Homeoffice
+16 € – 20 € pro Stunde - Teilzeit
+Hat in den letzten 30 Tagen auf mindestens 75 % der Bewerbungen geantwortet, dauert üblicherweise bis zu 4 Tage.
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Gehalt
+16 € – 20 € pro Stunde
+Anstellungsart
+Teilzeit
+
+Calypso Commodities, a pioneering AI start-up propelling forward in the global commodity market, is looking for a motivated Working Student in Angular Development to play a pivotal role in the development of quantitative trading tools. Born from the ingenuity of two Oxford graduates, our company based in Berlin and Regensburg employs the latest AI technology to revolutionize commodity trading. Our intelligent AI solution has the potential to save as much CO2 per year as 330 million trees can, reflecting our commitment to sustainable trading practices. Our goal is to equip commodity trading desks around the world with intelligent trading decision capabilities and in the process, considerably reduce GHG emissions, thereby making a positive contribution to the planet's future.
+
+Our cutting-edge AI systems use complex algorithms and deep learning to understand and predict patterns in the commodity market, effectively making the trading process more efficient, economical, and environmentally friendly. By employing AI in this novel way, we are able to analyze vast amounts of data, identifying trends and opportunities that would be beyond human capacity. This, in turn, empowers our clients to make more informed and strategic trading decisions.
+
+About You
+
+If you're a student of computer science, mathematics or physics with a passion for Angular and AI, seeking a chance to drive substantial change through technology, we're interested in hearing from you. You are not just seeking another part-time job; you’re looking for an opportunity where you can drive innovation, make an impact, and contribute to a critical mission.
+
+Possible starting day: Today!
+
+Your Role
+As our Working Student in Angular Development, you will:
+
+Assist in crafting, developing, and optimizing Angular applications that are scalable and robust.
+Collaborate closely with our dynamic team, contributing to the integration of potent AI solutions into our system.
+Support the maintenance and ongoing enhancement of our codebase, promoting improvements and efficiency.
+Help develop and execute test plans to ensure code and design quality.
+Work closely with our founders to transform complex trading requirements into practical, innovative software solutions.
+
+Your Skills & Qualifications
+
+Pursuing a Bachelor’s or Master’s degree in Mathematics, Physics, or Computer Science, with commendable academic performance.
+Concrete knowledge of Angular is a must.
+Interest in AI and its application in various industries, with willingness to learn Python.
+An initiative-taking attitude with an ability to manage multiple tasks simultaneously.
+A passion for innovation and developing groundbreaking solutions.
+
+Residency Requirement
+
+Applicants must reside in Germany or be willing to relocate for this position.
+
+Why Calypso Commodities?
+
+Impact: Your work will directly contribute to the reduction of GHG emissions, a crucial mission of our time, and has the potential to achieve the equivalent CO2 absorption of 330 million trees per year.
+Flexibility: Understanding your academic commitments, we offer flexible working hours, averaging 20 hours a week.
+Compensation: We offer competitive compensation of 18 EUR per hour, which is negotiable based on your skills and experiences.
+Location: The role will be based in our office at the Techbase, offering a thriving and collaborative working environment.
+Career Advancement: We are keen to support your academic progression by providing opportunities to write your Bachelor's or Master's thesis with us. Further, we also provide potential full-time employment opportunities post your graduation.
+Innovation: You will have the opportunity to innovate and create cutting-edge solutions that will be integral to our clients.
+Influence: As part of our close-knit team, your contributions will be highly visible and influential.
+Professional Development: We offer an environment of continuous improvement and value both personal and professional development.
+Groundbreaking Technology: We're at the forefront of applying AI in the commodity trading industry, giving you a chance to work with pioneering technologies and be part of shaping the industry's future.
+Leadership Opportunities: We believe in empowering our employees. You will have opportunities to take on leadership roles and contribute to important strategic decisions.
+Stability and Growth: As a rapidly growing start-up, we offer the excitement and innovation of a start-up environment with the stability and resources of an established company.
+
+Join Our Journey
+
+At Calypso Commodities, we’re not just offering a job; we’re providing a launchpad for you to make a significant, tangible difference in an industry ripe for change. Apply now and let’s shape the future of global commodity trading together. Calypso Commodities is committed to fostering, cultivating, and preserving a culture of diversity and inclusion. We are an equal opportunity employer.
+
+Job Type: Part-time
+Part-time hours: 20 per week
+
+Salary: 16.00€ - 20.00€ per hour
+
+Application Question(s):
+
+Residency Requirement: Are you currently residing in Germany or willing to relocate for this position?
+
+Education:
+
+High school or equivalent (Preferred)
+
+Experience:
+
+Angular (Preferred)
+
+Language:
+
+German (Preferred)
+
+Work Location: Hybrid remote in 93053 Regensburg
+
+Diesen Job melden

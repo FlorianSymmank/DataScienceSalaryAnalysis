@@ -1,0 +1,20 @@
+{
+  "job_title": "Senior Data Scientist",
+  "company": "Munich Re",
+  "location": "Munich, Germany",
+  "salary_euro": null,
+  "employment_type": "Full-time",
+  "requirements": "University degree (Master and above) in a quantitative field (Mathematics, Computer Science, Physics, Engineering, Business Analytics) with a solid understanding of probabilities, statistics and machine learning.",
+  "skills": [
+    "Python programming",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Natural Language Processing",
+    "Computer Vision",
+    "Project Management",
+    "Software Development",
+    "Data Analytics",
+    "Risk Assessment"
+  ],
+  "date_posted": "2021-11-17"
+}

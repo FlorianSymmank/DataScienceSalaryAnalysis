@@ -1,0 +1,94 @@
+Data Engineer (M/F/D)
+COSNOVA
+65843 Sulzbach (Taunus)
+Vollzeit, Festanstellung
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Festanstellung
+
+Land : Deutschland
+
+Bundesland : Hessen
+
+Stadt : SULZBACH (TAUNUS)
+
+Berufsfelder : IT, Internet
+
+Vertragsform : Festanstellung
+
+Arbeitszeit : Vollzeit
+
+Stellenbeschreibung
+
+
+
+We set ourselves a goal 20 years ago: to give everyone access to decorative cosmetics. Our claim: top quality and appealing design at the lowest possible price. Today, we are shaping the cosmetics market in over 80 countries worldwide with our brands essence and CATRICE.
+
+The key to our success is our round about 700 employees who, with their passion for our products and their commitment, play a decisive role in shaping our success.
+
+The Data Engineer is responsible for designing and implementing the data architecture of cosnova's AI platform, guaranteeing data quality through low-maintenance data governance measures and ensures data availability by choosing appropriate data models and technologies. They are going to oversee the integration of new data sources into the AI platform and automates data processing pipelines. The Data Engineer identifies and evaluates new relevant technologies or methodologies to support the optimization of the AI platform.
+
+Your job:
+
+
+t
+Support Business Analysts, Data Analysts and Scientists to deliver algorithmic data products
+t
+Build, automate and optimize data processing pipelines and storage for data integration and data driven solutions (streaming and batch data)
+t
+Interface with internal data providers and technical teams to build an efficient data platform as single source of truth for the company
+t
+Collaborates with external service providers to develop the data backbone of the AI platform
+t
+Creates valuable data products to address business needs
+t
+Ensures data availability and quality
+t
+Implements data governance measures
+t
+Extends the data strategy and the technology stack to react to business requirements and changes in the market
+Your profile:
+
+
+t
+Advanced degree in a computer science or related quantitative discipline
+t
+Working experience as Data Engineer or comparable role
+t
+Demonstratable knowledge in building and maintaining a scalable cloud-based data processing and provisioning stack
+t
+Strong knowledge in databases and data modelling techniques, especially Data Vault 2.0
+t
+Experienced with data architectures, like Modern Data Warehouse, Data Mesh, Data Fabric...
+t
+Comfortable in developing container-based environment in a CI/CD framework
+t
+Excellent programming skills in Python and SQL
+t
+Fluent in English, German is a plus
+Benefits of the position:
+
+
+t
+Attractive working environment: Challenging tasks with a lot of creative freedom in a stylish office.
+t
+Team: Kind, motivated colleagues, for whom the idea of teamwork is principal.
+t
+Family business: Owner-managed, acting sustainably, and always at eye level from interns to management.
+t
+Flexibility: Through mobile working and flexible working hours.
+t
+Prospects: Whether onboarding, continuous on-the-job training, job rotation, or internal/external further training measures - everything is possible.
+t
+The classics: 30 days' holiday as well as a freshly prepared lunch, fruit, coffee variety, as well as tea and cold drinks.
+t
+Benefits, benefits, benefits: Company pension scheme, in-house gym, JobTicket, subsidy for childcare costs, and always reasons to celebrate together. Our list is long, so there is bound to be something for you. You can find all our benefits here: www.cosnova.com/en/karriere
+
+
+
+We look forward to receiving your complete job application in English or German. Your contact person for this vacancy is:
+Diesen Job melden

@@ -1,0 +1,62 @@
+Data Engineer
+Adecco Group
+Berlin
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+About the role
+
+As the talent market continues its rapid change, candidates and client expectations on workforce solutions are also evolving. To navigate this, The Adecco Group is working to differentiate its value propositions, creating closer candidate relationships and building a more strategic connection with clients. We aim to let ideas flow from one market to another while leveraging internal and external data sources within and across Adecco Group businesses. We succeed by driving technology adoption and increasing development cycle speeds with integrated candidate and client feedback loops.
+
+Are you ready for the challenge to transform the largest global workforce solution provider? Are you ready to translate unique data insight into delightful, digital user experiences? If so, we want you to join our team!
+
+We are establishing the Group Product Organization to orchestrate the design, development and adoption of end-to-end experiences which Adecco Group will offer to candidates, clients and the broader public in the future. The organization is structured around three platforms, each serving a specific audience: the client platform, the candidate platform and the data-driven people intelligence platform. At the core of this organization, each product represents a specific experience that satisfies a client and candidate need. This, in turn, triggers the reason to connect, engage, share data or buy services from us.
+
+We are looking for a Data Engineer to be pivotal in producing scalable software solutions. You'll be part of a cross-functional team that's responsible for the full software development life cycle, from conception to deployment. As Data Engineer, you should be comfortable with creating large-scale data models and transformation pipelines; validating, cleaning and deduplicating data from a variety of both traditional and cloud sources. You should also be a team player with a can-do attitude.
+
+What you’ll be doing
+Create and maintain optimal data pipeline architecture
+Assemble large, complex data sets that meet functional/non-functional business requirements
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using no-SQL and 'big data' cloud technologies.
+Build analytics tools that utilise the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
+Work with stakeholders including regional IT teams, other Digital Product platforms and Data & AI teams to build effective integrations and support data-related technical issues.
+Keep our data separated and secure across regional, business line and client boundaries where required.
+Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.
+Work with data and analytics experts to strive for greater functionality in our data systems
+
+
+About you
+Proven experience in developing data pipelines
+Excellent command of Python
+Experience with Apache Spark
+Strong experience developing on cloud architecture (Azure, AWS)
+Familiarity with databases (SQL/NoSQL) and data modeling
+Demonstrable experience working in a CI/CD environment
+Able to work within a team of engineers
+Cultural awareness and appreciation for diversity
+Excellent communication, organisational and teamwork skills
+Proficiency in English required; additional language skills beneficial
+Degree in Computer Science, Statistics or relevant field preferred
+
+Travel: up to 10% of work time
+
+
+Why choose us?
+
+It’s an exciting time to be part of our team. We’re proud to be a global thought-leader and care about doing the best job we can to ensure better futures for everyone. We do this by building our Future@Work strategy as a united team of 30,000+ colleagues with a collective spirit working in over 60 countries globally.
+
+You’ll have the opportunity to grow across a variety of interesting jobs and careers over our extensive portfolio of global brands. We empower our colleagues to work in the smartest, most efficient ways to achieve total balance between the demands of their jobs and their lives. That’s why we give you the autonomy and support you need to work in the way that makes you most productive, agile, confident, and insightful.
+
+Putting people first, pioneering with a collective spirit and always advancing with a growth mindset -that’s what we stand for at the Adecco Group. Here, we are all individuals with a unique perspective on the world we live in. That’s what makes us stronger. Whoever you are and whatever your background, you can be yourself. So, we aim to build on the attributes that make you, you. We offer a range of world-class resources for upskilling and development, satisfying your curiosity while the sharing skills, knowledge, and expertise to grow together.
+
+Make an impact where it matters most.
+
+A journey to bring out the best in you
+
+We believe that having an understanding of the hiring process helps you to prepare, feel, and be, at your best. As a global, multi brand organization with multiple different roles, our application process can vary.
+
+On our career site, you will find some of the key steps you can expect to guide you along the way.
+
+As one of the world’s largest employers we believe in talent, not labels, and focus on the diverse and unique skills our people bring. We seek to foster a culture of belonging and purpose, an environment where everyone can thrive and feel engaged, and where difference is respected and valued. Our commitment to equity, equal opportunity, inclusion, and diversity is part of our broader commitment to respecting fundamental human rights across our value chain. The Adecco Group is proud to be an Equal Opportunity Employer.
+
+Diesen Job melden

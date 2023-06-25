@@ -1,0 +1,13 @@
+{
+    "job_title": "Working Student (f/m/d) Software Engineering - Generative AI Technology",
+    "company": "ХайдельбергЦемент",
+    "location": "Heidelberg",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": "Teilzeit",
+    "requirements": "Currently enrolled in a Bachelor's or Master's program in Computer Science or a related field",
+    "skills": ["Python", "C#", "TypeScript", "machine learning", "deep learning", "React", "software development", "AI technology"],
+    "date_posted": null
+}

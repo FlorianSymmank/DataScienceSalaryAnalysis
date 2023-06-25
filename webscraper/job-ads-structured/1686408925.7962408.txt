@@ -1,0 +1,16 @@
+{
+  "job_title": "Trainee Data Analytics & Data Engineering & Controlling (m/w/d)",
+  "company": "Dr. Kurt Wolff GmbH & Co. KG",
+  "location": "33611 Bielefeld",
+  "salary_euro": null,
+  "employment_type": "Vollzeit, Befristeter Vertrag",
+  "requirements": "Du hast ein, oder in naher Zukunft, abgeschlossenes Studium im Bereich BWL/VWL, Data Science oder MINT\nDu hast Freude an der Lösung von analytischen Fragestellungen und am dem Umgang mit wertvollen Daten\nDu hattest bereits im Studium Berührungspunkte mit der quantitativen Datenanalyse, Python, SQL oder ähnlichem\nDu hast ein ausgeprägtes Geschäftsverständnis, Analysekompetenz und Kommunikationsfähigkeiten\nIdealerweise runden erste Controlling Erfahrungen dein Profil ab\n",
+  "skills": [
+    "quantitative Datenanalyse",
+    "Python",
+    "SQL",
+    "Analysekompetenz",
+    "Kommunikationsfähigkeiten"
+  ],
+  "date_posted": null
+}

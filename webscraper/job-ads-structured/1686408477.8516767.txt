@@ -1,0 +1,13 @@
+{
+    "job_title": "Senior Data Analytics & Visualization Engineer (m/f/d)",
+    "company": "EPAM Systems",
+    "location": "Deutschland",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": null,
+    "requirements": "Bachelor's degree in a related field such as Computer Science, Mathematics, or Statistics or relevant work experience\n Experience in data analytics and of developing web applications for Visualisation of data and quantitative correlation\n Experience of successful project implementation in the design and creation of interactive dashboards using R/Shiny, Python and open-source libraries such as vue.js with customised corporate identity and corporate design\n Experience in successfully operating data products (e.g. dashboards) - especially with regard to the issue of availability\n Excellent problem-solving, analytical, and critical thinking skills\n Proven ability to work independently as well as with wider EPAM and client technical/business teams\n Strong interpersonal and communication skills\n Fluent in German and English",
+    "skills": ["web development", "data analytics", "R", "Shiny", "Python", "vue.js", "problem-solving", "communication"],
+    "date_posted": null
+}

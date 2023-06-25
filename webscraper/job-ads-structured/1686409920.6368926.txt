@@ -1,0 +1,10 @@
+{
+   "job_title": "Mathematiker*innen / Physiker*innen als Data Science Consultant (m/w/d)",
+   "company": "Data Assessment Solutions GmbH",
+   "location": "30625 Hannover",
+   "salary_euro": null,
+   "employment_type": null,
+   "requirements": "einen Master-Abschluss in Mathematik oder Physik sowie sehr gute Deutsch- und gute Englischkenntnisse",
+   "skills": ["Machine Learning", "Data Analytics"],
+   "date_posted": null
+}

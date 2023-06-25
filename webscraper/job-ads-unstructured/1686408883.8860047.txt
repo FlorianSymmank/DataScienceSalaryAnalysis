@@ -1,0 +1,51 @@
+Senior Data Scientist (Data Analytics Modeling) (m/f/d)
+EPAM Systems
+Deutschland
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+We are looking for a highly skilled, German speaking Senior Data Scientist (Data Analytics Modeling) to join our rapidly growing Data team in Germany. You will be responsible for development of predictive analytics models and implementation of real-time applications, maintaining data-driven solutions that provide valuable insights and drive business growth for a wide range of client problems. You will be responsible for designing, implementing, and You will collaborate with cross-functional teams to understand requirements and provide technical guidance to ensure the successful delivery of data-driven projects.
+
+RESPONSIBILITIES
+Development of predictive analytics models, design, implement, and maintain data science solutions, including machine learning models, predictive analytics, and statistical analyses for multiple client requirements
+Design and implementation of complex real-time applications based on data streams (e.g. Kafka)
+Comprehensive support in the conception (especially. method selection), implementation and optimisation of predictive models
+Collaborate with cross-functional teams to gather requirements, assess data needs, and identify the most suitable data science techniques for each project
+Develop and maintain high-quality technical documentation, including model documentation, validation reports, and user guides
+Conduct in-depth data analysis to identify trends, patterns, and insights, and present findings to stakeholders in a clear and concise manner
+Evaluate and recommend new data science tools, technologies, and methodologies to optimize data management and analytics capabilities
+Provide technical guidance and support to the development and data teams throughout the project lifecycle
+Collaborate with EPAM and client teams to ensure data quality, security, and privacy in data science solutions
+Assess the effectiveness of existing data science solutions and identify opportunities for improvement and optimisation
+
+REQUIREMENTS
+Bachelor's degree in a related field such as Computer Science, Mathematics, or Statistics or relevant work experience
+Extensive experience as a Senior Data Scientist involved in Data Analytics Modeling
+Strong demonstrable expertise in the conception (incl. method selection) and development of predictive analytics models for a wide range of issues - preferably for economic and scientific issues
+Strong demonstrable expertise in the conception and implementation of real-time applications based on data streams (e.g. Kafka)
+Evidence of cooperation with research and science for participation in publications, preparation of scientific reports, etc
+Familiarity with cloud-based data platforms and services, such as AWS, Azure, or GCP, is a plus
+Excellent problem-solving, analytical, and critical thinking skills
+
+WE OFFER
+EPAM Employee Stock Purchase Plan (ESPP)
+30 days holiday per annum
+Company Pension Scheme
+Competitive compensation depending on experience and skills
+Regular performance assessments
+Opportunities for personal and professional growth
+Unlimited access to LinkedIn learning solutions
+Friendly and enjoyable working team
+Relocation package support
+Regular corporate and social events
+Flexible and remote working opportunities
+All benefits and perks are subject to specific eligibility requirements
+
+ABOUT EPAM
+EPAM is a leading global provider of digital platform engineering and development services. We are committed to having a positive impact on our customers, our employees, and our communities. We embrace a dynamic and inclusive culture. Here you will collaborate with multi-national teams, contribute to a myriad of innovative projects that deliver the most creative and cutting-edge solutions, and have an opportunity to continuously learn and grow. No matter where you are located, you will join a dedicated, creative, and diverse community that will help you discover your fullest
+
+WHY JOIN EPAM
+Work across markets and verticals and gain exposure to a great variety of projects and cutting-edge technologies
+Become part of a global community of 60,250 well-connected experts across 50+ countries: enjoy a career without borders within an international environment and relocation opportunities
+Carve your career path: as the Fastest-Growing IT Services Company in the Fortune 100 List, EPAM is committed to help you discover your fullest potential by creating career plans that best suit you and your future plans
+EPAM Germany was named a Top Company 2022 & 2023 by Kununu for its people centric culture built on life-long learning
+Diesen Job melden

@@ -1,0 +1,56 @@
+Data Engineer (w/m/x)
+Aaron.ai
+Homeoffice
+Schnellbewerbung
+Data Engineer (f/m/x)
+
+Aaron.ai is the market leader in AI-powered patient-practice communication in Germany. Every day, we are committed to a world in which patients of all ages have direct access to medical care at all times. More than 3,000 physicians are already on this path together with us.
+
+Do you want to be a driver for the growth of an innovative product in the healthcare sector? We are looking for a skilled Data Engineer (f/m/x) to join our team. You will play a vital role in supporting our business and product management teams by creating self-service analytics capabilities, developing data sets, and building tooling to enhance data-driven decision-making.
+
+Your tasks
+
+
+Work closely with business stakeholders to identify and prioritize key metrics and performance indicators.
+Collaborate with business and product management teams to understand their data needs and translate them into actionable data engineering solutions.
+Promote data literacy within the organization by providing training and guidance on data best practices and self-service analytics.
+Design, develop, and maintain scalable data pipelines, data sets, and data integration processes to support various analytical initiatives.
+Ensure data ingestion, transformation, and storage in a reliable, structured and consistent manner.
+Develop data models and architecture to enable efficient data access, exploration, and visualization.
+Implement data quality and governance processes to ensure accuracy, consistency, and reliability of data assets.
+Your Experience & Skills
+
+
+Bachelor's degree in Computer Science, Engineering, or a related field. Equivalent work experience will also be considered.
+Strong proficiency in SQL and experience with analytical databases (e.g., Athena, Redshift, BigQuery).
+Proficiency in Python for data manipulation, scripting, and automation.
+Solid understanding of data engineering principles and experience in designing and developing scalable data pipelines.
+Familiarity with data modeling concepts and experience in designing efficient and performant data structures.
+Experience with cloud-based data platforms and services (e.g., AWS, Azure, Google Cloud Platform).
+Business acumen and ability to understand and translate business requirements into data solutions.
+Excellent communication skills and ability to collaborate effectively with both technical and non-technical stakeholders.
+Strong problem-solving skills and attention to detail.
+Preferred Qualifications
+
+
+Experience in the healthcare industry or working with healthcare-related data.
+Familiarity with data visualization tools (e.g., Tableau, Power BI) and reporting frameworks.
+Knowledge of statistical analysis and machine learning concepts.
+Experience with data governance and data security practices.
+Benefits
+
+
+Impact: You are taking on a decisive position in the growth phase of a strongly growing and impact-investor-funded AI startup in the healthcare industry
+The opportunity to make a very personal contribution to improving access to healthcare and understanding the application of AI in a market worth billions of dollars
+An attractive compensation including virtual company shares
+Individual responsibility and creative freedom in the realization of own ideas and projects from day #1
+A modern working environment with flat hierarchies that promotes transparency, variety, and further development through Scrum and OKRs
+An international, friendly team of technology & business experts with whom you will have a lot of fun.
+A large loft office in the heart of Berlin
+A recent MacBook Pro for work
+Support your health, including healthy snacks and energizers, flexible working hours, and home office options
+Regular team events
+We are looking forward to your application!
+
+At Aaron.ai, we value and encourage diversity among our employees and welcome applicants with a wide range of perspectives and skill levels, as well as any sexual identity, sexual orientation, gender expression, ethnic and cultural background, religion, and people with disabilities. We ensure that every decision in the application process is made solely based on qualifications, performance, and individual suitability for our company.
+Diesen Job melden

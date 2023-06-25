@@ -1,0 +1,10 @@
+{
+  "job_title": "Consultant Data Science - Production Analytics (m/w/d)",
+  "company": "Ingenics AG",
+  "location": "München",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Du hast ein erfolgreich abgeschlossenes Studium der Fachrichtung (Wirtschafts-)Informatik, (Wirtschafts-) Mathematik, Physik oder eine vergleichbare Qualifikation.\nDu bringst eine sehr gute Kunden-, Dienstleistungs- und Teamorientierung sowie Umsetzungsstärke mit.\nDu bist reisebereit und hast sehr gute Deutsch- und Englischkenntnisse.",
+  "skills": ["Python", "R", "Matlab", "Machine-Learning-Technologien", "TensorFlow oder Rapidminer"],
+  "date_posted": null
+}

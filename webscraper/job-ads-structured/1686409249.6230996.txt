@@ -1,0 +1,17 @@
+{
+   "job_title": "Junior QA Engineer",
+   "company": "Corsair",
+   "location": "München",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "Keine passenden Job-Präferenzen",
+   "skills": [
+      "Windows",
+      "MacOS",
+      "Zendesk",
+      "Data Science",
+      "Machine Learning",
+      "test automation"
+   ],
+   "date_posted": null
+}

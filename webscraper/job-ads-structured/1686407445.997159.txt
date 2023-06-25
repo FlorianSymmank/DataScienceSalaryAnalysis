@@ -1,0 +1,23 @@
+{
+    "job_title": "Research Scientist (Artificial Intelligence) (f/m/d)",
+    "company": "Porsche Digital GmbH",
+    "location": "Heilbronn",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": "Permanent",
+    "requirements": "Recently graduated with an academic research background (MSc, Ph.D. preferred) in Computer Science or a similar field related to similar. Enthusiasm for your field and motivation to make a difference Outgoing personality and is great at networking Track record of publishing academic work results (e.g., conferences, journals, patents) Experience designing and managing student projects Proficiency in at least one programming language (e.g., Python, R, Java, Kotlin, Scala, C++) Experience working in diverse, international teams Expertise in one application domain (preferably, but not limited to, automotive) Ability to communicate effectively in German (min C1)",
+    "skills": [
+        "Artificial intelligence",
+        "Networking",
+        "Academic research",
+        "Publication",
+        "Project management",
+        "Programming language",
+        "International teamwork",
+        "Expertise in automotive",
+        "Effective communication in German"
+    ],
+    "date_posted": null
+}

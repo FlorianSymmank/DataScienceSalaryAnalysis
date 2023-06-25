@@ -1,0 +1,29 @@
+{
+  "job_title": "Software Developer Data Analytics (m/f/d)",
+  "company": "QuinLogic GmbH",
+  "location": "52080 Aachen",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Vollzeit",
+  "requirements": "Completed degree in computer science, physics or another MINT subject or a comparable training\nAdvanced in using C #, .net, WPF and MVVM\nExperience with relational database systems\nIdeally, experience with data visualization and future technologies such as Big Data, Machine Learning or Artificial Intelligence\nReady to keep pushing the boundaries of software technology\nDon't be afraid of big projects\nCommunicative, team-oriented and independent\nGood written and spoken German and / or English",
+  "skills": [
+    "software development",
+    "data analytics",
+    "C#",
+    ".net",
+    "WPF",
+    "MVVM",
+    "relational databases",
+    "data visualization",
+    "Big Data",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "team-oriented",
+    "independent",
+    "German",
+    "English"
+  ],
+  "date_posted": null
+}

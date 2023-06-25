@@ -1,0 +1,97 @@
+Diese Stellenanzeige ist auf Indeed abgelaufen
+Mögliche Gründe: Der Arbeitgeber akzeptiert keine Bewerbungen, ist nicht aktiv auf der Suche nach neuen Mitarbeitern oder prüft derzeit die eingegangen Bewerbungen
+Software Engineer - Food Science, AI Content Generation - Consumer Data Products (all genders)
+Delivery Hero
+Berlin
+
+Want to be a hero? - Join the #1 Global Leader in online food ordering and delivery!
+
+We are looking for a Software Engineer, Food Science - Consumer Data Products (all genders) to help us deliver an amazing food experience in more than 55+ countries and 25 languages. We are a global Tribe of Data Scientists, Software Engineers, Data Engineers, and Product Managers delivering innovations across our 20 brands. Our focus is on problems that span across all our brands and scale globally.
+
+The Food Science domain delivers a global food knowledge that powers important parts of the customer experience, and strongly impacts our ability to understand our customers’ tastes and identify similarities between dishes, restaurants, and cuisines. With the advances of Generative AI we are expanding our products into menu completion and data augmentation for the vendors, both text and image. For that purpose we are building a new team that will utilize the newest AI technologies and deliver domain-specific solutions to our partners and customers.
+
+The successful candidate will be responsible for designing, developing, and deploying complex integrations between various cloud services and APIs to support these projects. As a Software Engineer, you will work closely with our product and data science teams to build and maintain scalable and reliable ML models that power our Generative AI products.
+
+If this sounds exciting and you are a creative problem solver who is hungry for a new adventure, an international workplace is waiting for you in the heart of Berlin!
+
+
+Your mission:
+
+Design, develop, and maintain complex integrations between various cloud services and APIs to support Generative AI projects.
+
+Collaborate with product and data science teams to define requirements and develop solutions that meet business needs
+
+Develop and implement best practices for code reviews, testing, and deployment
+
+Develop and maintain technical documentation and training materials
+
+
+Your heroic skills:
+
+Experience in software engineering with a focus on cloud services and APIs
+
+Experience with complex integrations and service-oriented architectures
+
+Fluency in Python, especially async
+
+Experience with our stack or similar tools: Python, FastAPI, Postgres, Cloud Run
+
+Familiarity with cloud platforms such as GCP, AWS, or Azure
+
+You are a team player who loves to collaborate and work with stakeholders from different tech teams in a diverse environment
+
+You have great communication skills and ability to influence beyond the team
+
+Strong project management and time management skills.
+
+
+Nice to have:
+
+Passionate about Generative AI frameworks such as GPT, LLama, DALL-E, Stable Diffusion.
+
+Experience with MLOps tools such as: Feast, MLflow, Kubeflow, Great Expectations
+
+General ML/AI knowledge: basic AI and Machine learning concepts
+
+Great communication skills and ability to influence beyond the team
+
+Experience in an agile environment (Scrum).
+
+Why Delivery Hero?
+
+Develop your skills with your personal educational budget for conferences and external training.
+
+Exchange ideas and meet fellow developers at regular meetups of our Data Science Chapter or other guilds and during our Global Developer Exchange Program.
+
+Join company parties, hackathons, cultural and sports events.
+
+Work in diverse teams with colleagues from across the globe in English.
+
+Save responsibly with our corporate pension scheme.
+
+Daily fruits, cereals, beverages, tea and coffee in our lounges.
+
+Learn German with free classes, access our e-learning platform and participate in our inhouse training.
+Have we caught your attention? If you are looking for an environment where our company DNA is defined by our values, please send us your CV.
+Find out more information on how to prepare for your technical interview here.
+We’re looking forward to your application!
+
+About us:
+Delivery Hero Tech is playing an exceptional role in the large growth of our company. Our Tech teams leverage a diverse stack to create cutting-edge solutions which cover the full customer experience - starting with a great online search experience and ending with a real-time delivery at your doorstep.
+
+
+Read about the latest updates from our Tech & Product teams on our blog.
+
+Delivery Hero is building the next generation global on-demand delivery platform. We have grown rapidly from inception in 2011 to become the world's largest food-ordering network and we’re now innovating and creating new verticals such as groceries, pharmacies, flowers and other convenience articles in multiple markets.
+
+Our awesome international team already operates in 40+ countries worldwide and we are looking for the most talented people to join us on our mission to ‘always deliver an amazing experience.’ If you’re an enthusiastic problem solver and hungry for a new adventure, an exciting job and multicultural workplace is waiting for you in the heart of Berlin!
+
+At Delivery Hero, we believe diversity and representation is key to creating not only an exciting product, but also an amazing customer and employee experience. Fostering this starts with hiring - therefore we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, or any other aspect that makes you, you.
+
+Have we caught your attention? If you are looking for an environment where our company DNA is defined by our values, please send us your CV.
+
+Find out more information on how to prepare for your technical interview here.
+
+We’re looking forward to your application!
+
+Diesen Job melden

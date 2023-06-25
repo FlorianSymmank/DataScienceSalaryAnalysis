@@ -1,0 +1,87 @@
+(Junior) Data Engineer - Python (w/m/d)
+smartclip Europe GmbH
+10405 Berlin
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+Location: Hamburg, Berlin, Köln, Düsseldorf, Gütersloh, München oder Remote
+
+
+Über smartclip
+smartclip ist die Adtech-Entwicklungseinheit der RTL Group – Europas führender Free-TV Sendergruppe. Unsere proprietäre Werbetechnologie ist auf die spezifischen Bedürfnisse von europäischen Sendern und Publishern zugeschnitten und bietet intelligente Vermarktungs- und Monetarisierungsstrategien für unterschiedlichste Medienunternehmen. Wir stellen die innovativsten Videowerbeerlebnisse für In-Stream, Out-Stream, Connected TV, Addressable TV und Gaming bereit und ermöglichen Markeninhabern echte geräteübergreifende Storytelling-Anlässe. Die Media Sales Division von smartclip wird mit RTL AdConnect und G&J iMS zu einem internationalen Advertising Sales Champion RTL AdAlliance fusionieren. smartclip wird sich fortan ausschließlich auf die Entwicklung von Technologie fokussieren.
+
+smartclip hat seinen Hauptsitz in Hamburg und verfügt über Büros in Berlin, München, Düsseldorf, Köln, Gütersloh, Stockholm, Oslo, Helsinki, Amsterdam, Mailand und Rom.
+
+
+Weitere Informationen findest Du auf www.smartclip.tv sowie auf Twitter und LinkedIn.
+
+
+Deine Rolle
+
+Hast du Erfahrungen im Bereich Data Engineering sammeln können? Dann suchen wir genau dich und jedes Level an Erfahrungen.
+
+Wolltest du schon immer mal mit wirklich großen Datenmengen arbeiten? Wir erfassen mehrere TB pro Tag.
+
+Hast du Interesse daran die neuesten Datenverarbeitungstechnologien auszuprobieren? Apache Spark, Trino, Flowman und Delta Lake kommen bei uns zum Einsatz.
+
+Magst du OpenSource-Software? Closed Source oder Microsoft wirst du bei uns nicht finden.
+
+Ist für dich Test Driven Development auch der einzig richtige Ansatz? Dann bist du bei smartclip genau richtig!
+
+
+Deine Posiition in unserem Team
+
+Aktive Planung, Konzeption und Implementierung skalierbarer Backend-Lösungen für Big Data-Anwendungen
+Pflege und kontinuierliche Verbesserung der TV Data-Pipelines (Statistiken, Einschaltquoten, Segmentierung), die hauptsächlich auf Python basieren
+Aufbau und Pflege von Systemen zur Verarbeitung großer Datenmengen
+Testautomatisierung für vorhandene und neue Funktionalitäten
+
+
+Dein Profil
+
+Berufserfahrung im Bereich Data Engineering, auch Werkstudententätigen zählen
+Kenntnisse im Bereich Software Engineering und Software-Testing
+Erfahrungen im Umgang mit Python, SQL, ETL und/oder mit Big Data (Spark / Hadoop etc.)
+Fokus auf Effizienz und Qualität
+Hands-on Mentalität
+Gute Deutsch- und Englischkenntnisse
+
+
+Deine Vorteile
+
+Egal ob Mac, Linux oder ein bestimmtes Tool, Du erhältst Deine hochmodernen Arbeitsmittel mit Top-Ausstattung
+Hohes Maß an Flexibilität - auch Eltern mit kleineren Kindern sind bei uns willkommen, weil wir verstehen, dass insbesondere hier flexible Lösungen wichtig sind
+Interessante Projekte mit neuesten Technologien mit viel Freiraum für persönliche Gestaltungs- und Entwicklungsmöglichkeiten
+Möglichkeit der Teilnahme an Hackathons und relevanten Konferenzen in den Bereichen Big Data und Data Science
+Vielseitige Weiterbildungsmöglichkeiten sowohl in persönlicher als auch in fachlicher Hinsicht, z.B. Udacity- & Coursera-Kooperationen
+Betriebliche Sozialleistungen, wie z. B. vergünstigte Fitness-Angebote, JobRad, frisches Obst und Getränke, kostenloses RTL+ PREMIUM Abo,
+Rabatte über corporate benefits sowie gemeinsame Firmenfeiern
+Werde Teil eines hochmotivierten Teams voller Leidenschaft für digitale Prozesse
+
+
+Klingt das Interessant für Dich?
+Dann freuen wir uns auf Deine Bewerbung.
+
+smartclip ist bestrebt, ein diverses und inklusives Umfeld zu schaffen. Alle qualifizierten Bewerber*innen werden für die Anstellung in Erwägung gezogen, unabhängig von Ethnizität, Nationalität, Alter, Geschlecht, Geschlechtsidentität, Religion, sexueller Orientierung, Behinderung, oder anderen diversen Eigenschaften.
+
+HR Contact
+
+
+Sarah Leers
+
+Senior Recruiter
+
+
+Company: smartclip Europe GmbH
+
+Country: Deutschland
+
+State/Region: Hamburg
+
+City: Berlin, Köln, Gütersloh, Düsseldorf, Hamburg oder bundesweit im Home-Office
+
+Postal Code: 10405, 20457, 33332
+
+Job ID: 255462
+
+Diesen Job melden

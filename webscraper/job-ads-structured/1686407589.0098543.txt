@@ -1,0 +1,16 @@
+{
+  "job_title": "Ph.D. or Post Doc Position in Data Science (f/m/d)",
+  "company": "Universitätsklinikum Aachen AöR",
+  "location": "52074 Aachen",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Degree in Data Science, (Medical) Informatics, Physics, Mathematics, Electrical Engineering, Mechanical Engineering, or a related field, Solid knowledge of machine learning, artificial intelligence, and statistical data analysis, Programming skills in Python, including relevant Python packages, Knowledge of medical imaging is advantageous, Excellent communication and teamwork skills, Fluent in English, both written and spoken (Level C1), Motivation to drive large-scale research projects",
+  "skills": [
+    "machine learning",
+    "artificial intelligence",
+    "data analysis",
+    "Python",
+    "medical imaging"
+  ],
+  "date_posted": null
+}

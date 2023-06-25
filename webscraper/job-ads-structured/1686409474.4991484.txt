@@ -1,0 +1,23 @@
+{
+  "job_title": "Data Centre Engineer",
+  "company": "Tower Research Capital",
+  "location": "Frankfurt am Main",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": null,
+  "requirements": "2-5 years of experience in maintenance and operation of a sufficiently advanced Linux environment and CCENT, equivalent or work experience\r\nContribution to developing automation and monitoring tools\r\nUnderstanding of server-side networking and typical network protocols, modern data centre principles, OS concepts, and internals of Linux\r\nWorking knowledge of Linux command line tools\r\nExperience working with computing hardware and connectivity\r\nExpertise in cabling standards, best practices, and different cable and termination types\r\nStrong communication, time management, and organizational skills\r\nThe ability to work weekends and evenings when required for outages or projects or open to a weekend shifted schedule\r\nThe ability to lift 25kg comfortably and install rack mounted hardware\r\nA valid passport, the ability to travel internationally, and a valid driving license",
+  "skills": [
+    "maintenance and operation of advanced Linux environment",
+    "automation and monitoring tools development",
+    "server-side networking and network protocols",
+    "Linux command line tools",
+    "computing hardware and connectivity",
+    "cabling standards, best practices, and different cable and termination types",
+    "communication",
+    "time management",
+    "organizational skills"
+  ],
+  "date_posted": null
+}

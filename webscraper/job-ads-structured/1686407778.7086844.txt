@@ -1,0 +1,24 @@
+{
+  "job_title": "PhD Student (f/m/d) Probabilistic Material Science Modeling/Data Analytics/AI",
+  "company": "Siemens Energy",
+  "location": "45473 Mülheim an der Ruhr",
+  "salary_euro": null,
+  "employment_type": "Teilzeit",
+  "requirements": "Master degree in Physics, Engineering, or related field",
+  "skills": [
+    "modeling",
+    "simulation",
+    "programming",
+    "numerical simulation",
+    "optimization",
+    "statistical modeling",
+    "data analytics",
+    "uncertainty quantification",
+    "error analysis",
+    "maximum likelihood estimation",
+    "random fields",
+    "written and spoken English",
+    "communication and presentation skills"
+  ],
+  "date_posted": null
+}

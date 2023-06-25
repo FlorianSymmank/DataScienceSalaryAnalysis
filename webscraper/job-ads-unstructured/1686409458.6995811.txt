@@ -1,0 +1,49 @@
+Data Engineer (m/w/d)
+paydirekt GmbH
+60313 Frankfurt am Main
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Diese Aufgaben warten auf Dich
+
+Du entwickelst und implementierst ETL-Strecken sowie Skripte in Python, Bash oder ähnlichen Sprachen zur Automatisierung von Datenprozessen.
+Du integrierst verschiedene Datenquellen und Systeme für umfassende Analysen.
+Weiterhin befasst Du Dich mit der Konzeption und dem Aufbau eines Data Warehouses zur Speicherung und Organisation von Daten.
+Du erstellst und pflegst außerdem Datenmodelle zur Vereinfachung der Datenanalyse.
+Die Evaluierung und Anwendung grundlegender IT-Konzepte in Projekten gehört genau wie die Implementierung neuer Technologien zur Verbesserung der Dateninfrastruktur ebenfalls zu Deinen Aufgaben.
+Zudem führst Du Datenanalysen zur Beantwortung spannender Business-Fragestellungen durch.
+In dieser Rolle arbeitest Du eng mit interdisziplinären Teams zur gemeinsamen Lösungsfindung zusammen.
+
+Mit diesen Skills startest Du durch
+
+Du hast ein abgeschlossenes Studium mit dem Schwerpunkt Informatik, Wirtschaftsinformatik, BWL, Naturwissenschaften, Mathematik, Data Science oder vergleichbar.
+Du bringst mehrjährige Berufserfahrung im Bereich Data Engineering mit, hast Spaß an der Entwicklung innovativer datengetriebener Lösungen und bist Expert:in in Datenanalyse, Datenintegration und Datenmodellierung.
+Außerdem überzeugst Du uns mit einem guten Verständnis für IT-Konzepte und Cloud-Technologien sowie Kenntnissen in Datenbanksprachen (z.B. SQL) und Programmiersprachen (z.B. Python). Idealerweise hattest Du bereits Berührungspunkte mit Tableau.
+Du bist ein Teamplayer, hast ein hohes Qualitätsbewusstsein, Sinn für Details und findest gleichzeitig pragmatische Lösungen.
+Dich zeichnen ein stark ausgeprägtes analytisches Denkvermögen und eine schnelle Auffassungsgabe ebenso aus wie Durchsetzungsfähigkeit, Engagement und eine selbstständige Arbeitsweise.
+Du schaust gerne über den Tellerrand und freust Dich über vielfältige Aufgaben in einem dynamischen Umfeld. Wo andere Probleme sehen, siehst Du eine spannende Herausforderung.
+Nicht zuletzt überzeugst Du durch gute kommunikative Fähigkeiten sowie sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift.
+
+Das erwartet Dich
+
+Eine moderne Arbeitsausstattung, ein großzügiges Office mit coolen Dachterrassen im Herzen von Frankfurt und die Möglichkeit zum mobilen Arbeiten.
+Ein Umfeld in dem Eigenverantwortung kein leeres Versprechen und Eigeninitiative gefragt ist.
+Flache Hierarchien und kurze Entscheidungswege in einer offenen und dynamischen Kultur.
+Großzügige Benefits wie JobTicket oder Tiefgaragenparkplatz, Vergünstigungen, betriebliche Altersvorsorge oder Jobrad.
+Starker Teamspirit, hoher Wohlfühlfaktor & Arbeiten auf Augenhöhe.
+Sneaker anstatt Krawatte trotz spannendem Umfeld zwischen Start-Up-Mentalität und Bankenumfeld.
+
+Erkennst Du Deine Chance, etwas Neues zu starten?
+
+Dann freuen wir uns über Deine vollständige Bewerbung mit der Angabe Deiner Gehaltsvorstellung und Deinem frühesten Einstiegstermin bei uns.
+
+Über uns
+
+Die paydirekt GmbH ist verantwortlich für den Betrieb und die Weiterentwicklung des kreditwirtschaftlichen Online-Payments giropay. Durch die enge Verzahnung mit den Systemen der beteiligten Banken und Sparkassen sowie einer einfachen Anbindung ist paydirekt starker Partner des Online-Handels. Das Unternehmen bietet schnelle, einfache und sichere Paymentlösungen sowie effiziente Zahlungsläufe aus einer Hand.
+
+Startest Du mit durch?
+
+Diesen Job melden
