@@ -1,0 +1,10 @@
+{
+  "job_title": "PRAKTIKANT / WERKSSTUDENT DATA ANALYTICS, ENGINEERING UND SCIENCE (M/W/D)",
+  "company": "Blue Reply",
+  "location": "Düsseldorf",
+  "salary_euro": null,
+  "employment_type": "Praktikum",
+  "requirements": "Du bist Student oder Absolvent eines Studiums der Informatik, Wirtschaftsinformatik, Wirtschafts-Ingenieurwesen oder Wirtschaftswissenschaften mit IT-Schwerpunkt. Idealerweise begeisterst Du Dich für im Data Engineering Themen und Technologien und oder für Data Analytics & Science. Du hast erste außeruniversitäre Erfahrung in der Entwicklung mit Phyton / Javascript oder anderen höheren Programmiersprachen als auch SQL gesammelt. Dich interessieren sowohl onPrem- und Cloud –Umgebungen und Du willst dazu mehr erfahren. Du bringst Kommunikationsfähigkeiten in Deutsch und Englisch mit.",
+  "skills": ["Data Engineering", "Data Analytics", "Python", "JavaScript", "SQL", "OnPrem", "Cloud"],
+  "date_posted": "2021-08-18"
+}

@@ -1,0 +1,60 @@
+Data Science Intern / Working Student
+dltHub
+Berlin
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Who We Are:
+
+The number of Python users increases by millions every year. The vast majority of these people use Python as a tool to solve problems at work. Our mission is to make Python practitioners autonomous when they create and use datasets in their organizations.
+
+For this end, we are building data load tool (dlt), an open source Python library, for them. They use dlt in their Python scripts to turn messy, unstructured data into regularly updated datasets. It enables them to create highly scalable, easy-to-maintain, straightforward-to-deploy data pipelines without having to wait for help from a data engineer.
+
+We are dedicated to keeping dlt an open source project surrounded by a vibrant, engaged community. To make this sustainable, dltHub stewards dlt while also offering additional software and services that generate revenue (e.g. like GitHub does with Git).
+
+dltHub is based in Berlin and New York City. It was founded by machine learning and data veterans. We are backed by Dig Ventures and many technical founders from companies such as Huggingface, Rasa, Instana, Miro, and Matillion.
+
+We seek a talented Junior Data Scientist to join our team and contribute to making data load tool (dlt) a library that is part of every data scientist’s toolkit.
+
+
+Requirements
+
+
+What You'll Do:
+We seek a talented Data Science Intern / Working Student to join our team and contribute to making data load tool (dlt) a library that is part of every data scientist’s toolkit.
+
+
+Your task and responsibilities:
+You create technical tutorials, education curriculum, and demos that show data scientists the power of using dlt in their workflows
+You work with product, design, and engineering to evolve dlt to better address the needs and desires of data scientists
+You improve how we train and support data scientists with customer success
+You iterate on how we speak to the problems facing data scientists with marketing
+
+
+
+Who You Are:
+You have had previous experiences as an intern, working student, or similar in a quantitative role that required you to navigate a highly ambiguous environment
+You have experience writing code in Python and queries in SQL
+You are highly curious about and like to try out new technologies and applications
+You want to learn more about how to build and grow a startup team
+
+
+
+
+
+Nice To Have:
+You have experience building and deploying machine learning models
+You have experience using APIs, data warehouses, and databases more generally
+
+Benefits
+
+
+In our work culture, we value each other’s autonomy and efficiency. We have set hours for communication and deep work. We like automation, so we automate our work before we automate the work of others.
+
+We work from the office and at home. We have a great headquarters in Berlin. It’s crucial for us to meet regularly in the office at this stage where we build the product.
+The team’s well-being is fundamental to us. Therefore we offer benefits like regular team lunches and team events. We also have deep work/no-meeting days.
+We want everyone on the team to grow with the company. We offer an annual budget for learning and personal development. If you have an open source project or maintain something on GitHub, you can get an hourly budget for that within working hours.
+Diesen Job melden

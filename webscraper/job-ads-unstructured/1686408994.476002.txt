@@ -1,0 +1,106 @@
+Global Data Engineer, Data Management & Governance
+Novartis
+München
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Global Data Engineer, Data Management & Governance
+Novartis - München
+Job
+Unternehmen
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+
+Job Purpose
+
+As a Global Senior Data Engineer, you will be responsible for building and maintaining Sandoz’s solutions and infrastructure, enabling the enterprise's cutting-edge data products and services.
+
+Major Accountabilities
+
+
+Establish a consistent, interoperable, and scalable data and information architecture to support current and future business activities
+Develop and review (solution) architectures and implementation plans for data products and services
+Develop artifacts such as data domains, and conceptual data models (e.g. ontologies) together with various stakeholders to ensure quality, interoperability, and consistency of data
+Connect closely with business and IT stakeholders to proactively identify and address requirements, risks, dependencies and potential issues
+Provide holistic, solution-oriented, and professional consulting to our internal clients in the areas of Data Architecture, Enterprise Knowledge Graph, Data Products, and newest technology developments
+
+Commitment to Diversity & Inclusion:
+
+Novartis is committed to building an outstanding, inclusive work environment and diverse teams representative of the patients and communities we serve.
+
+Minimum requirements
+
+Ideal Background
+
+Education:
+
+
+Master of Science degree in information technology, software engineering, computer science or related field
+Certification in and/or experience with Agile/DevOps methodologies is a plus
+
+Languages:
+
+
+Fluent in written and spoken English
+
+Skills:
+
+
+Experience with change management through process engineering and/or participating in large-scale IT change / transformation programs
+Experienced in guiding and developing teams across wide geographies & in collaborating with business and technical stakeholders to align a strategic IT service portfolio with business needs.
+Excellent written, oral communication and presentation skills to present features and solution recommendations to senior stakeholders.
+Master Data Management, SAP MDM, EBX, QlikView, Databases
+
+Experiences:
+
+
+At least 5 years of experience as a Data Engineer
+Solid understanding of the computer science fundamentals
+Fluency in at least one widely adopted programming language (Python, Java, C#, C++).
+Ability to write distributed services and work with high-volume heterogeneous data, preferably with distributed systems such as Spark.
+Wide knowledge and understanding of data governance, data access, and data storage techniques
+Experience with hybrid cloud environments is a plus
+Experience working with cloud computing technologies for big data is a plus
+
+Division
+
+SANDOZ
+
+Business Unit
+
+COMMERCIAL OPS EUROPE SZ
+
+Country
+
+Germany
+
+Work Location
+
+Holzkirchen (near Munich)
+
+Company/Legal Entity
+
+Hexal AG
+
+Functional Area
+
+Technology Transformation
+
+Job Type
+
+Full Time
+
+Employment Type
+
+Regular
+
+Shift Work
+
+No
+
+Early Talent
+
+No
+Diesen Job melden

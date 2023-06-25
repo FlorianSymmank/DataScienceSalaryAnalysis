@@ -1,0 +1,35 @@
+Cloud Data & Analytics Engineer (f/m/x)
+ZEISS Group
+München
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Thrive on innovation at a global technology leader. Develop exciting solutions in a diverse, stable work environment that’s focused on the future. Join us in a modern workplace with an open, trusting, and inspiring culture and colleagues. We invest in our employees to inspire confidence and help everyone realize their full potential. The ZEISS Digital Partners based in Munich, Oberkochen, Jena, Berlin, Bangalore, Budapest, and Shanghai are realizing cutting-edge customer-centric digital, data and AI solutions jointly with the ZEISS business units.
+Your role at ZEISS Digital:
+You will play a crucial role in shaping the future of Data Analytics and actively contribute to the success of the digital transformation at ZEISS. In this challenging function, you will help our business units to identify and develop strategic data-driven use case opportunities. As a Data & Analytics Engineer at ZEISS Digital Partners, you will be part of our Data & Analytics team and work in a supportive, team-oriented environment that enables the co-design and development of customer-centric digital products. Together with your colleagues, you work on leveraging and integrating customer data to develop and implement. For this purpose, you will design, implement, and maintain front-end applications for our ZEISS business units, which are used worldwide and in all ZEISS divisions. You will work in an agile team - and take on end-to-end responsibility. Help us shape the future of ZEISS!
+In this role you will:
+Lead the technical development of several data projects on the Modern Analytics & Reporting Platform
+Support the Product Owners on requirements engineering and business understanding to bring data as a product to life
+Join an active effort to fundamentally transform the data ecosystem of the ZEISS Group
+Contribute to further improving our development processes and help shaping best practices within the team
+Support on the onboarding and upskilling initiatives for BI data engineers as well as develop / perform trainings
+You have:
+An excellent technical or University Degree in Business Informatics, Business Management, Information Technology or a similar field paired with a passion for data
+professional experience working in a Data Engineering, Data Science, or Data Analyst role (+5 Years)
+strong experience in advanced data-modelling with Python/PySpark, Apache Spark, Synapse or Databricks
+distinguished capabilities in ETL / ELT development and deployment of data flows
+have deep knowledge of the application from snowflake or relational data architecture or paradigms.
+a deep understanding of modern software development practices such as CI/CD, GIT, DevOps
+a background in cloud technologies (Azure, AWS, Google Cloud, etc.) and how to utilize them with real use-cases
+the ability to effectively explain the relevant concepts and technologies with a strong passion in analyzing business needs together with the various stakeholders
+understanding of modern BI Tools (e.g., Power BI, Tableau or Qlik)
+a pragmatic, proactive, dynamic, open-minded, flexible and independent personality
+Good communication with peers, technical teams, and business representatives
+Fluent English, German skills a plus
+Your ZEISS Recruiting Team:
+Annett Burger, Markus Repp
+Diesen Job melden

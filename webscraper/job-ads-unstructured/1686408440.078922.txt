@@ -1,0 +1,90 @@
+Software QA Engineer (m/f/x) in Berlin
+ITONICS GmbH
+Berlin
+Zum Teil im Homeoffice
+Vollzeit, Festanstellung
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Festanstellung
+Your Contribution
+As a QA Engineer at ITONICS, you will be responsible for maintaining well defined test cases, implementing test automation scripts and supporting with manual verification on our brand new features. You will be interacting with developers, product owners and other stakeholders to ensure our software solution meets it's quality standards and expected behaviour. You will be part of initiatives to continuously improve our test automation and share your knowledge as you explore additional fields of testing with your team. Understanding the business context and purpose and contributing manual testing effort to brand new features enables you to take decisions aligned with longer-term needs. You are an expert at identifying the right solutions to ambiguous, open-ended problems and bring a pragmatic mindset and an incredible eye for detail.
+Your Day-to-Day Tasks
+#TASKS
+Research, establish and advocate best practices to encourage well-documented and reproducible testing results
+Take ownership of features and tickets and participate in the decision-making process
+Manage and prioritize bug reports or bug tickets, always keeping their business value in mind
+Coordinate testing efforts with the team to ensure the delivery of quality features
+Actively participate in the software development cycle in an agile and cross-functional team
+Design, develop and execute automation scripts using Cypress
+Perform regression and exploratory testing of existing and new product features
+Create and execute effective test cases based upon functional and design specifications
+
+#SCRUM
+
+You take part in our sprints and daily scrums during the sprint to support the team's progress.
+
+You communicate your progress with the rest of the team and unblock the developers closest to you with your feedback.
+
+You contribute to achieving your team's sprint goal.
+
+#CONTINUOUSDEVELOPMENT
+
+You love learning and are constantly reading about the latest developments in test automation, programming and technology in general.
+
+You can quickly pick up and learn new technologies and tools if necessary.
+
+#OWNERSHIP
+
+You take pride in your work and the initiatives you own - if something can be improved, you are already on it.
+
+Your Skills & Qualifications
+Bachelor's degree in Software Engineering, Computer Science or comparable experience
+You are a team player, who interacts with product managers and engineers to drive projects to on-time, quality releases
+You are experienced in manual testing (explorative and destructive) as well as automated testing (e.g. with Cypress, Selenium)
+Solid knowledge of test documentation and practical experience with test management tools (e.g. TestRail, TestLink)
+You’ve got an eye for detail and find it challenging to discover corner-cases
+You are passionate about high-quality and performant cloud solutions
+Strong verbal and written communication skills in English
+Nice to have: Experience with performance testing (e.g. K6, JMeter)
+Nice to have: Experience with API testing (e.g. Postman)
+Nice to have: Experience working with programming languages (e.g. JavaScript)
+Why us?
+Our complex software solutions in the area of innovation management appeal to senior management in medium-sized and large companies. In order to always deliver quality to our customers, we are looking for an ambitious and committed employee in Software Quality Management.
+
+What we offer
+We offer challenging and varied tasks in an innovative and growing company with flat hierarchies, fast decision-making, and cutting-edge technologies. We provide you with attractive opportunities for your personal development and a lot of space for your ideas and input. You will be part of a highly motivated team in an agile software company that fosters active communication and knowledge sharing. Moreover, you will quickly assume responsibility and grow and develop along with your tasks.
+
+As an engineer for quality assurance, you will gain insight into and contribute to all stages of the software development process. From coming up with novel concepts, researching and establishing new technologies, processes and tools, specifications, and documentation to gathering and providing feedback from and to different stakeholders. You will be working closely with our product management team and developers.
+
+At a glance
+
+
+Great compensation and bonus scheme
+
+Unique opportunity to work with the most desired and innovative companies on the globe
+
+Juicy benefits like workation, (mental) health support, development budget, offsite events, and much more
+
+A hybrid working model with flexible working hours
+
+Invest in your personal growth (clear, transparent, unique career opportunities, mentorships, etc.)
+
+Equipment of your choice & state of the art tech stack
+
+Multicultural, diverse group of brilliant minds working to empower everybody to innovate
+
+
+
+About us
+
+ITONICS is a leading SaaS provider of systematic innovation management: The World's leading Innovation OS.
+
+Our data-driven innovation software platform helps organizations around the globe to identify emerging technologies, trends, and market potentials and translate them into powerful growth strategies.
+
+With more than 150 experts worldwide, we support innovation leaders such as adidas, AUDI, BMW, CISCO, Intel, Johnson & Johnson, and KPMG.
+
+Diesen Job melden

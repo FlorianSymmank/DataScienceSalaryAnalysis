@@ -1,0 +1,24 @@
+{
+  "job_title": "Computer Scientist/Software Developer for Open Medical Inference (OMI)",
+  "company": "Universitätsmedizin Rostock",
+  "location": "18055 Rostock",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Vollzeit",
+  "requirements": "A degree in computer science (especially medical or bioinformatics) or comparable professional training (e.g. IT specialist).\nGood knowledge of the German language and business fluent English language.",
+  "skills": [
+    "C++",
+    "C#",
+    "Python",
+    "Java",
+    "JavaScript",
+    "NodeJS",
+    "FastAPI",
+    "REST",
+    "JSON",
+    "XML"
+  ],
+  "date_posted": null
+}

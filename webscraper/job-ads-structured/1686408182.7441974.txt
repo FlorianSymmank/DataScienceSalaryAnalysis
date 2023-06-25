@@ -1,0 +1,14 @@
+{
+   "job_title": "Praktikant:in Data Science in Digital Transformation (m/w/d)",
+   "company": "Bayer",
+   "location": "51373 Leverkusen",
+   "salary_euro": null,
+   "employment_type": "Praktikum",
+   "requirements": "Eingeschriebener Masterstudierender (m/w/d) in Informatik, Data Science, Physik, Mathematik oder ähnlichem. Selbstmotiviert, organisiert, fokussiert und mit einer starken Eigenverantwortung. Fließende Deutschkenntnisse in Wort und Schrift, Englischkenntnisse sind von Vorteil.",
+   "skills": [
+      "Gute Programmierkenntnisse und Erfahrung mit Python und verwandten Bibliotheken für Datenanalyse und maschinelles Lernen",
+      "Erste Erfahrungen mit Machine Learning Algorithmen",
+      "Fähigkeit, komplexe Sachverhalte in klarer und verständlicher Art und Weise sowohl geschrieben als verbal zu präsentieren"
+   ],
+   "date_posted": "2021-11-24"
+}

@@ -1,0 +1,72 @@
+Werkstudent (m/w/d) Data Science
+Süddeutsche Zeitung Digitale Medien GmbH
+81677 München
+Teilzeit, Befristeter Vertrag, Werkstudent
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Teilzeit
+Befristeter Vertrag
+Werkstudent
+Die Süddeutsche Zeitung Digitale Medien GmbH, ein Unternehmen der Südwestdeutschen Medienholding (SWMH), sucht zum nächstmöglichen Zeitpunkt einen
+
+Werkstudent (m/w/d) Data Science
+
+Süddeutsche Zeitung Digitale Medien GmbH
+München
+Teilzeit
+
+Wer wir sind
+
+Die Süddeutsche Zeitung Digitale Medien GmbH (SZDM) ist das digitale Kreativzentrum der Süddeutschen Zeitung.
+
+Einfach schneller mehr wissen: Die technische, gestalterische und redaktionelle Produktion aller digitalen Produkte der Süddeutschen Zeitung ist die Hauptaufgabe der SZDM.
+
+Wir entdecken die Welt minütlich neu und überraschen täglich mit vielseitigen Inhalten.
+Wir berichten so schnell wie das Netz und so verlässlich wie eine renommierte Zeitung.
+
+Unser Data-Bereich besteht aus Data Analysts, Scientists und Engineers, die Daten verfügbar und nützlich für das gesamte Unternehmen machen, um eine erfolgreiche Produktentwicklung, sowie unser Abogeschäft, zu stützen und voranzutreiben.
+
+
+Deine Aufgaben
+
+Du unterstützt in unserem agilen und innovativen Team mit Data Scientists und Data Engineers bei der Entwicklung von datenbasierten Produktfeatures wie Recommender Systemen, Verhaltensvorhersagen (z.B. Churn, Retention), Information Extraction, etc.
+Du lernst im Team und mit den interdisziplinären Produkt- und Plattformteams die Umsetzung datengetriebener Produkte, z.B. in Form von Machine Learning Modellen, Data Pipelines, Dashboards, Analysen etc.
+Du beteiligst dich aktiv am Aufbau und der Weiterentwicklung unserer Data-Architektur in der Cloud
+
+Dein Profil
+
+Technisches oder naturwissenschaftliches Studium, z.B. Informatik, Computerlinguistik, Mathematik, Physik, oder vergleichbar
+Leidenschaft für Programmierung, Daten, Datentechnologien und Machine Learning sowie erste Erfahrung im Umgang mit z.B. folgenden oder vergleichbaren Technologien:
+Machine Learning u.a. mit Amazon SageMaker, scikit-learn, tensorflow, pytorch
+Python, SQL
+Infrastruktur- und Cloud-Technologien, u.a. AWS
+Du hinterfragst gern und bringst ein datengestütztes Mindset in Diskussionen und die Weiterentwicklung unserer Produkte
+Gute Englischkenntnisse
+
+Unser Angebot
+
+Das Beste aus zwei Welten: Agile und dezentrale Firmen und Einheiten, eingebettet in die Stabilität einer Holding
+Vielfältige Karrierechancen und Entwicklungsmöglichkeiten durch ein Portfolio von mehr als 160 Konzernunternehmen an über 30 Standorten
+Persönliche und fachliche Weiterbildung u.a. in der hauseigenen SWMH-Akademie
+Flexible und familienfreundliche Arbeitsbedingungen in einem stabilen Umfeld
+Mitarbeiterrabattaktionen für Reisen, Shopping, Kultur- und Sportevents
+Vergünstigtes Mitarbeiter-Abo (z.B. Süddeutsche Zeitung, Stuttgarter Zeitung, Stuttgarter Nachrichten)
+
+Überzeugt?
+
+Mehr zum Bewerbungsprozess hier. Jetzt online in nur 5 Minuten bewerben! Wir freuen uns über aussagekräftige Bewerbungen inklusive CV, Anschreiben und Zeugnissen.
+
+
+
+
+JETZT BEWERBEN
+
+Kontakt
+
+Süddeutsche Zeitung Digitale Medien GmbH
+Hultschiner Straße 8
+81677 München
+Diesen Job melden

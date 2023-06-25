@@ -1,0 +1,20 @@
+{
+  "job_title": "Product Owner (UX)",
+  "company": "Revolut",
+  "location": "Germany",
+  "salary_euro": {
+    "amount": 6600,
+    "period": "monthly"
+  },
+  "employment_type": "Full-time",
+  "requirements": "2+ years of working with a high-growth tech company or working in banking/finance-related business areas such as acquiring, payments, cryptocurrency, insurance, and so on\n2+ years of proven success leading consumer-facing mobile products\n1+ years of experience in managing people (Product Owners at Revolut directly manage Engineering, Operations, and Design)\nOutstanding written and oral communication skills\nAn eye for great UX/UI and good understanding of design best practices\nHigh analytical acumen along with strong business sense that guides ROI based prioritisation\nExperience formulating and driving a focused product vision, and owning the narrative with leadership, users, and partners\nAbias to action and bootstrapping major projects, never hesitant to roll up your sleeves and be hands on\nExperience leading product development from zero to first release and beyond\nReadiness to provide insight and deliver measurable results for sophisticated products under ambiguous situations in a fast-paced environment",
+  "skills": [
+    "product development",
+    "UX/UI design",
+    "project management",
+    "leadership",
+    "communication",
+    "analytical thinking"
+  ],
+  "date_posted": "2022-03-16"
+}

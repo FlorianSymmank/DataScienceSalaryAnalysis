@@ -1,0 +1,57 @@
+Working Student Software Development - Cyber Security Startup
+Edgeless Systems
+44791 Bochum
+Vollzeit, Teilzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Teilzeit
+Hi there, we are Edgeless Systems!
+
+We are a Bochum-based cybersecurity startup on a growth path. Develop the next generation of secure cloud software with us, learn exciting technologies around Confidential Computing and grow in and with a world-class team (RUB alumni, ex-Microsoft, ex-G Data)!
+
+We are always looking for highly motivated students for backend development in the context of Confidential Computing.
+
+Most of our products are open source - get an idea on GitHub (https://github.com/edgelesssys).
+
+Your mission
+
+Develop software in the context of Confidential Computing and Intel SGX; mainly in Go, partly in C++ or Python.
+Implementation of cryptographic protocols
+Scaling with Kubernetes
+CI & Testing
+Documentation and maintenance of our GitHub repositories
+
+Your profile
+
+Motivation, curiosity and willingness to learn
+Affinity for IT security and cloud-native
+Good programming skills (language doesn't matter)
+Enrolled student (ideally IT security, computer science, mathematics or physics).
+
+Why us?
+
+Exciting projects in a dynamic environment
+Many opportunities for growth and development
+Above average compensation
+Possibly a permanent contract when you finish your studies
+Startup feeling outside of Berlin ????
+
+Contact
+
+
+Dr. Felix Schuster
+CEO
+
+About us
+
+Edgeless Systems is a cybersecurity startup based in Germany. Our technology elevates the security of applications and workflows to unprecedented levels, enabling new and exciting forms of trustworthy data processing.
+
+Confidential computing is a groundbreaking security paradigm that enables the always encrypted and verifiable processing of sensitive data at scale. With Edgeless Systems, your data and code are always protected—whether at rest or in use, in the cloud or on-premises.
+
+Our company is built on the principles of open source, using a community-driven approach to deliver confidential computing technology that is easy to use, scale and integrate.
+
+Diesen Job melden

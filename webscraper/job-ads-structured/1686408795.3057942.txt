@@ -1,0 +1,16 @@
+{
+    "job_title": "Wissenschaftlicher Mitarbeiter(m/w/d) im Bereich Polymerer Werkstoffe mit Möglichkeit zur Promotion",
+    "company": "Universität Bayreuth",
+    "location": "Bayreuth",
+    "salary_euro": null,
+    "employment_type": "Befristeter Vertrag",
+    "requirements": "Sie verfügen über einen überdurchschnittlichen universitären Hochschulabschluss (Master oder Diplom), vorzugsweise im Bereich Ingenieurwissenschaften oder Data Science",
+    "skills": [
+        "Materialwissenschaft / Werkstoffkunde",
+        "Maschinenbau / Kunststofftechnik",
+        "Chemieingenieurwesen / Verfahrenstechnik",
+        "Informatik",
+        "Data Science / Machine Learning"
+    ],
+    "date_posted": null
+}

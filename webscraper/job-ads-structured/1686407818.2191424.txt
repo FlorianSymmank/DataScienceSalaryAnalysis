@@ -1,0 +1,19 @@
+{
+  "job_title": "Intern Data Analyst",
+  "company": "Renesas Electronics Corporation",
+  "location": "Germering",
+  "salary_euro": null,
+  "employment_type": "Vollzeit, Teilzeit",
+  "requirements": "University education in Business Informatics, Data Science, Business Analytics, Computer Science, Statistics, Operations Research or similar (second half of diploma or Bachelor, or Master)",
+  "skills": [
+    "Power BI",
+    "Tableau Desktop",
+    "Analytical thinking",
+    "Structured work style",
+    "Fast learner",
+    "Self-motivation",
+    "Microsoft Office applications",
+    "Fluency in English"
+  ],
+  "date_posted": "2022-03-03"
+}

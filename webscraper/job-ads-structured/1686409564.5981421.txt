@@ -1,0 +1,20 @@
+{
+   "job_title": "Software Architect (m/f/d) Ultrasound Software",
+   "company": "Philips",
+   "location": "Unterschleißheim",
+   "salary_euro": null,
+   "employment_type": null,
+   "requirements": "Master degree in Computer Science, Computer Engineering or related technical field\nProfound experience of 4+ years in software development\nFirst experience in a technical lead role, including experience mentoring other software developers to maintain architectural vision and software quality.\nComputer Science fundamentals in object-oriented design, data structures, algorithm design, problem solving, and complexity analysis\nExperience negotiating design and APIs with other software teams\nExcellence in technical communication with peers, partners, and non-technical cohorts\nExperience working across multiple engineering teams to drive software design in a Sr. Architect or Principal Engineer role.\nKnowledge in multiple object-oriented languages preferable Java and C++, Typescript\nExperience working in an agile environment",
+   "skills": [
+      "Mentoring",
+      "Object-oriented Design",
+      "Algorithm Design",
+      "Technical Communication",
+      "Agile Development",
+      "Java",
+      "C++",
+      "Typescript",
+      "AWS"
+   ],
+   "date_posted": null
+}

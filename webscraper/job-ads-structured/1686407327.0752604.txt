@@ -1,0 +1,23 @@
+{
+    "job_title": "Data Scientist",
+    "company": "AutoScout24",
+    "location": "10407 Berlin",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "Strong academic background (a PhD is a plus) in a quantitative field such as computer science, engineering, economics, etc.",
+    "skills": [
+        "Python",
+        "SQL",
+        "specialized ML libraries (e.g. scikit-learn, TensorFlow, PyTorch)",
+        "working with relational/no-SQL databases and query technologies (e.g. Postgres, MongoDB, Presto, Hive)",
+        "working with Docker, AWS services (e.g. S3, EC2, Data Pipeline, CloudWatch, CloudFormation) and Jenkins is a strong plus",
+        "deploying, maintaining, and updating models in production, as well as tracking experiments is a strong plus",
+        "serving ML models via APIs (e.g. Flask, FastAPI) is a strong plus",
+        "working end-to-end (from ideation to deployment) to deliver production-ready data products is a strong plus",
+        "working with business stakeholders (incl. gathering and translating business requirements into technical solutions, and explaining technical concepts to a non-technical audience) is a strong plus",
+        "product management and/or project management (especially in a fast-paced agile environment using Scrum/Kanban) is a strong plus",
+        "working in e-commerce and/or having a good grasp of relevant data science use cases is a strong plus",
+        "verbal and writing skills in English to allow effective communication with team members and stakeholders in meetings, presentations and documents"
+    ],
+    "date_posted": null
+}

@@ -1,0 +1,18 @@
+{
+  "job_title": "Corporate Academy Student (m/w/d) - Business Intelligence / Data Warehousing",
+  "company": "Scalefree International GmbH",
+  "location": "30519 Hannover",
+  "salary_euro": {
+    "amount": 520,
+    "period": "per week"
+  },
+  "employment_type": "Teilzeit",
+  "requirements": "Ongoing studies in business informatics, computer science or a comparable course of study",
+  "skills": [
+    "Basics in databases and SQL knowledge",
+    "First experiences with an object-oriented programming language, e.g. Python, Java or JavaScript",
+    "Basics in one of the following areas should be available: Data Warehousing, Data Analytics, Data Science or Business Intelligence",
+    "Good English and German language skills desired"
+  ],
+  "date_posted": "current date"
+}

@@ -1,0 +1,20 @@
+{
+   "job_title": "Data Scientist m/w/d",
+   "company": "snapADDY GmbH",
+   "location": "Würzburg",
+   "salary_euro": {
+      "amount": null,
+      "period": null
+   },
+   "employment_type": "Werkstudent",
+   "requirements": "Degree in computer science, data science, digital humanities or related subjects\nSolid know-how in Machine Learning and/or Data Science\nPractical experience in Natural Language Processing (NLP)\nGood knowledge of Python 3; ideally also experience with tools from Data Science (g.,Jupyter, Pandas, ...)\nStrong commitment to quality and independent, solution-oriented approach to work\nStructured and analytical work when developing prototypes and conducting experiments\nEnjoying, having good ideas and being responsible when dealing with large amounts of data",
+   "skills": [
+      "Machine Learning",
+      "Data Science",
+      "Natural Language Processing (NLP)",
+      "Python 3",
+      "Jupyter",
+      "Pandas"
+   ],
+   "date_posted": null
+}

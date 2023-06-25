@@ -1,0 +1,89 @@
+Statistician/Data Scientist
+Intuitive Surgical
+Freiburg
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Schichten und Arbeitszeiten
+Tagschicht
+Company Description
+
+At Intuitive, we are united behind our mission: we believe that minimally invasive care is life-enhancing care. Through ingenuity and intelligent technology, we expand the potential of physicians to heal without constraints.
+
+As a pioneer and market leader in robotic-assisted surgery, we strive to foster an inclusive and diverse team, committed to making a difference. For more than 25 years, we have worked with hospitals and care teams around the world to help solve some of healthcare’s hardest challenges and advance what is possible.
+
+Intuitive has been built by the efforts of great people from diverse backgrounds. We believe great ideas can come from anywhere—we strive to foster an inclusive culture built around diversity of thought and mutual respect. We lead with inclusion and empower our team members to do their best work as their most authentic selves.
+
+Passionate people who want to make a difference drive our culture—our team members are grounded in integrity, have a strong capacity to learn, the energy to get things done, and bring diverse, real-world experiences to help us think in new ways. We actively invest in our team members to support their long-term growth so they can continue to advance our mission and achieve their highest potential.
+
+Join a team committed to taking big leaps forward for a global community of healthcare professionals and their patients. Together, let’s advance the world of minimally invasive care.
+
+Job Description
+
+Primary Function of Position
+
+As Statistician/Data scientist of Clinical Affairs, this role is primary responsible for developing and executing data analysis frameworks for Clinical Affairs global evidence initiatives. The role will be responsible for leading statistical design of clinical studies and the analysis strategy in support of evidence generation and scientific publication efforts. This position will partner with key internal and external stakeholders to design, analyze, and interpret clinical studies in support of Intuitive’s clinical evidence development.
+
+This role is also responsible for developing and executing artificial intelligence initiatives to promote clinical evidence generation around digital products. This role is also responsible to provide guidance to other team members, to support clinical studies and other scientific evidence generation requirements, apply best and current practice and meet guidelines and regulations.
+
+This position will report to Clinical Affairs, Europe, Intuitive Surgical Headquarters, in Switzerland.
+
+Roles and Responsibilities:
+
+Overall role responsibilities
+
+Act as a key partner in statistical analysis and data science to develop evidence generation across surgical specialties and Intuitive technologies in close collaboration with internal and external stakeholders.
+Support for managing resource (internal and external) and budget related to statistical and data analysis to ensure study success
+Provide support for team members to achieve high performance; effectively distills complexity and provides clear and actionable direction and information, help team prioritize, solve complex problems that enable the team to make significant progress
+Ensure compliance with corporate (e.g., SOP’s) and regulatory requirements (e.g., GCP and MDR / MEDDEV, ISO14155) and responsible for ongoing review of departmental procedures and process improvement initiatives.
+
+Statistician
+
+Providing statistical guidance and expertise for clinical studies (pre-market and post market) across various Intuitive technologies, including study design, analysis, interpretation, clinical study reports and manuscript development.
+Responsible for developing Statistical Analysis Plans, designing shells for tables, listings and figures; developing programming specifications for statistical analysis.
+Providing statistical expertise for addressing regulatory authority questions related to statistical design and analysis for all pre-market clinical studies and post market studies/post-market clinical follow up studies which are overseen by regulatory authorities.
+Represent the EU clinical affairs Biostatistics function within cross-functional teams, collaborate with other team members for the development of Clinical Investigational Plan, Clinical Study Report, Case Report Form and other key study documents.
+Work closely with Data management to define CRF specifications, edit checks and critical variable lists, may participate to UAT of the eCRF, support data cleaning activities to ensure collection of high-quality data; handles database lock and unblinding process per study requirements
+Supports the EU CA team working with study investigators and key opinion leaders to identify the publication needs; works closely with internal/external authors to develop manuscripts, abstract/presentation or poster, and provides statistical support throughout the publication process.
+Support additional research projects to generate clinical evidence, such as data analysis of large clinical databases, meta-analysis, inputs on dashboards requiring statistical outcomes, etc.
+
+Data scientist
+
+Leads or participates in analytical studies to support the generation of evidence in EU, exploring and implementing novel tools for efficiencies and up to date methodologies such as machine learning methods
+Use predictive modeling to help leverage insights from clinical data
+Partner with digital teams to support and optimize the use of new digital tools within clinical studies
+Mine and analyze existing datasets and search for qualified datasets to answer various needs related to Clinical Affairs activities
+Stay abreast of latest industry and academic developments in Statistics, modeling and machine learning techniques and apply adapting methodology to solve unique or challenging study design and data analysis issues.
+Qualifications
+
+Required Knowledge, Skills, and Experience:
+
+Advanced degree in Biostatistics or Statistics (Master or Ph. D) with sound knowledge of theoretical and applied statistics
+A minimum of 3-5 years of clinical research biostats working experience in biotech industry (medical device company experience is preferred)
+Working experience in developing machine learning models with clinical data/digital health applications is an advantage
+Proven track record of success in designing clinical studies with various statistical methodologies
+Experience of conducting statistical analysis to support the development of statistical analysis plan, clinical study report and publications, with strong scientific writing and editing skills
+Proficient in R and SAS programming and/or a suitable statistical programming environment
+Proficient in Python and/or R programming with commonly used data science libraries to build predictive machine learning models
+Be clinically savvy and be able to bridge analytics to clinical interpretation and explain complex mathematical/statistical problems to team members and senior leadership
+Knowledge of applicable medical device regulations and guidelines: MEDDEV, MDR, Good Clinical Practice, ISO-14155, GDPR
+Excellent verbal/written communication, presentation, teamwork and interpersonal skills; capability to build strong cross-functional collaboration both internally and externally
+High attention to detail and scientific integrity
+Excellent organizational planning, project management and time management skills
+Results-driven attitude and strong problem-solving skills, consistently shows dedication or strong work-ethic to help meet aggressive timelines or multiple projects when necessary; demonstrated ability to adapt and adjust to changing priorities and deal with uncertainty and risks
+Must be able to travel up to 10%
+English language required, a second European language (French / German) is an advantage
+Experience of studies with health economic focus is an advantage
+Experience of working with CROs or external consultants is an advantage
+Experience for analysis of a large dataset (administrative or commercial data sets) is desirable
+Additional Information
+
+Intuitive ist ein Arbeitgeber, der gleiche und gerechte Beschäftigungsmöglichkeiten bietet. Wir bieten allen qualifizierten Bewerbern und Mitarbeitern gleiche Beschäftigungsmöglichkeiten, unabhängig von ethnischer Herkunft, Geschlecht, Schwangerschaft, sexueller Orientierung, Geschlechtsidentität, nationaler Herkunft, Hautfarbe, Alter, Religion, geschütztem Veteranenstatus, Behindertenstatus, genetischen Informationen oder einem anderen Status, der nach den geltenden Gesetzen auf Bundes-, Landes- oder lokaler Ebene geschützt ist, und verbieten jegliche Form von Diskriminierung und Belästigung.
+
+Gemäß den „Fair Chance“-Gesetzen berücksichtigen wir qualifizierte Bewerber, die verhaftet wurden oder Vorstrafen haben, für offene Stellen.
+
+Shift: Day
+Travel: None
+
+Diesen Job melden

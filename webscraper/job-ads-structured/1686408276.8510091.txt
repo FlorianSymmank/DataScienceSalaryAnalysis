@@ -1,0 +1,18 @@
+{
+    "job_title": "Mathematiker Data Science (m/w/d)",
+    "company": "Akkodis",
+    "location": "Stuttgart",
+    "salary_euro": null,
+    "employment_type": "Not specified",
+    "requirements": "Erfolgreich abgeschlossenes Studium der Mathematik, der (Wirtschafts-) Informatik, der Statistik oder eines vergleichbaren Studiengangs Very good command of Python or R. Practical experience with relational databases and SQL. Ideally knowledge in a data visualization software (Tableau, QlikView, Qlik Sense or Microsoft Power BI). Secure communication and presentation skills in German and English.",
+    "skills": [
+        "Python",
+        "R",
+        "relational databases",
+        "SQL",
+        "data visualization",
+        "communication skills",
+        "presentation skills"
+    ],
+    "date_posted": "Not specified"
+}

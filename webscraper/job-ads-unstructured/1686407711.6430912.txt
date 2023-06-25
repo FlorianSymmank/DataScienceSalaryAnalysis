@@ -1,0 +1,46 @@
+Data Analyst – Process Automation (m/w/d)
+Statista GmbH
+20355 Hamburg
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Tasks
+
+Automation of internal process steps with R or Python
+Conception and implementation of solutions for the analysis of structured and unstructured data from a variety of sources and their pre-processing
+Identifying optimization and automation potentials within Statista’s content management processes
+Developing, maintaining, and improving ETL processes and NLP solutions
+Internal contact person for the first publication of large datasets
+Structuring of data and verification of data quality
+Development of new data sources and preparation of data with R and/or Python
+
+Requirements
+
+Successfully completed studies in the fields of data science, economics and social sciences, mathematics, computer science or a comparable field
+At least 2 years of professional experience in data analysis and/or process automation
+Profound knowledge of R and/or Python
+Very good knowledge of spoken and written English
+Ability to describe complicated issues concisely and understandably
+Confident handling of the Microsoft Office package, in particular very good Excel skills
+Structured, organized, and independent working style with an emphasis on quality, detail, and accuracy
+Enjoy developing, organizing, and analyzing large amounts of data
+High-quality standards for your own work
+
+The team
+
+In our Editorial Research Intelligence Department, approximately 300 researchers work on the statistics and topic pages for our different national platforms. Each day, while focusing on their specific fields, our experts research and prepare new data from the world’s most significant sources for our platforms: https://www.statista.com/.
+
+Image 1 or video
+
+About us
+
+At Statista, we’re all about facts and data, that's why we are the world's leading business data platform.
+By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions.
+
+Founded in Hamburg in 2007, we have quickly grown into a global company with offices in major cities such as London, New York and Tokyo. And we still have a lot of plans. Our constant growth does not only prove our success, but also keeps creating new development and career opportunities for our employees.
+Are you ready to join us?
+
+Diesen Job melden

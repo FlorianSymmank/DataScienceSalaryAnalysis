@@ -1,0 +1,19 @@
+{
+   "job_title": "Data Engineering Architect (all genders)",
+   "company": "NOW GmbH",
+   "location": "Berlin",
+   "salary_euro": {
+      "amount": null,
+      "period": null
+   },
+   "employment_type": "Vollzeit, Teilzeit, Festanstellung",
+   "requirements": "Hochschulabschluss (Diplom/Master) mit einem Schwerpunkt auf IT, Natur-, Ingenieurwissenschaften oder eine vergleichbare Qualifikation. Mehrjährige Berufserfahrung im Bereich Data Engineering oder Data Science. Kenntnisse und Erfahrungen mit Public-Cloud-Technologien (z.B. AWS) mit, bestenfalls belegt durch Zertifizierungen. Idealweise erste Erfahrungen und Kenntnisse im Bereich Datenschutz und Informationssicherheit. Ausgesprochen strukturiertes Arbeiten auch in einer komplexen Arbeitsumgebung. Lust zu gestalten und dafür Eigeninitiative, Kreativität und Freude an der Arbeit im Team mitbringen. Sehr gute Kommunikationsfähigkeiten. Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift. Identifikation mit unserer Vision einer klimaneutralen Gesellschaft der NOW und wollen diese aktiv mit umsetzen.",
+   "skills": [
+      "ETL/ELT",
+      "Python",
+      "SQL",
+      "Daten- und Prozessmodellierung",
+      "Datenarchitekturen"
+   ],
+   "date_posted": "unspecified"
+}

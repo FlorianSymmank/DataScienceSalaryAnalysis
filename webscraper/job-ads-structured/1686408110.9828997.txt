@@ -1,0 +1,17 @@
+{
+    "job_title": "Master/Bachelor thesis: Camera-lidar self-calibration (m/f/d)",
+    "company": "AVL Software and Functions GmbH",
+    "location": "Regensburg, DE",
+    "salary_euro": null,
+    "employment_type": "Temporary",
+    "requirements": "Studies in the field of Artificial Intelligent, or Electrical/Computer Science/Mechanical Engineering with specialization in AI/Machine Learning\nFundamental understanding and past project/study in Computer Vision (not only through online courses)\nPython, experiences with Deep Learning (Pytorch)\nOf advantage: experience with optimizing NN for embedded device (TensorRT)\nOf advantage: experience with web app tooling for data visualization (e.g. Django-flask, Plotly)\nEnglish skills\nWriting and presentation skills, ability to convey your technical work to general audience\nPersonality is more than anything!",
+    "skills": [
+        "Python",
+        "Deep Learning",
+        "Computer Vision",
+        "Artificial Intelligence",
+        "Django",
+        "Plotly"
+    ],
+    "date_posted": "2023-05-23"
+}

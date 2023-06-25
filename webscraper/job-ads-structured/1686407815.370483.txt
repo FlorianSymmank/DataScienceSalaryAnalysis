@@ -1,0 +1,20 @@
+{
+  "job_title": "Junior Product Manager",
+  "company": "3B Scientific GmbH",
+  "location": "20459 Hamburg",
+  "salary_euro": {
+    "amount": 30,
+    "period": "pro Stunde"
+  },
+  "employment_type": "Vollzeit",
+  "requirements": "University degree",
+  "skills": [
+    "Fluency in English",
+    "Solution oriented attitude",
+    "Open to learning",
+    "Willingness to travel",
+    "Team player attitude",
+    "Strong identification with our core values: accountability, boldness and collaboration"
+  ],
+  "date_posted": null
+}

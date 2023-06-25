@@ -1,0 +1,16 @@
+{
+   "job_title": "Data Engineer",
+   "company": "COSNOVA",
+   "location": "65843 Sulzbach (Taunus), Hessen, Deutschland",
+   "salary_euro": null,
+   "employment_type": "Vollzeit, Festanstellung",
+   "requirements": "Advanced degree in a computer science or related quantitative discipline",
+   "skills": [
+      "building and maintaining a scalable cloud-based data processing and provisioning stack",
+      "databases and data modelling techniques, especially Data Vault 2.0",
+      "data architectures, like Modern Data Warehouse, Data Mesh, Data Fabric...",
+      "developing container-based environment in a CI/CD framework",
+      "programming skills in Python and SQL"
+   ],
+   "date_posted": null
+}

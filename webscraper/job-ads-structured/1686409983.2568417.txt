@@ -1,0 +1,17 @@
+{
+    "job_title": "Workday Senior HRIM Analyst (m/f/d) Remote",
+    "company": "Revvity",
+    "location": "Rodgau, Homeoffice",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "Bachelor's Degree in Computer science, HR, IT, or Business. 2+ years of hands-on experience in various Workday modules, including configuration experience - business process and security framework, 5+ years of general HRIS experience. Advanced proficiency in Microsoft Excel. Excellent written and verbal communication skills. Fluent German and English (both written and spoken)",
+    "skills": [
+        "Workday modules experience",
+        "Business process configuration",
+        "Security framework configuration",
+        "HRIS experience",
+        "Microsoft Excel",
+        "Written and verbal communication"
+    ],
+    "date_posted": null
+}

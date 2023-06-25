@@ -1,0 +1,10 @@
+{
+  "job_title": "PhD student",
+  "company": "Deutsches Zentrum für Neurodegenerative Erkrankungen",
+  "location": "53127 Bonn",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "We are searching for a doctoral candidate with a recent Master degree (or equivalent) and a background in experimental Life Science disciplines.",
+  "skills": ["good communication skills", "team player", "flexibility"],
+  "date_posted": null
+}

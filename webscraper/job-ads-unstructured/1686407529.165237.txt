@@ -1,0 +1,45 @@
+Data Science / ML Engineer (m/f/d)
+Advantest
+71034 Böblingen
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+If you want to directly shape future products and technologies, then this is your opportunity! Advantest is one of the world's leading providers of automatic test equipment for the semiconductor industry. We work closely together with leading companies in the most exciting, emerging markets to enable future technologies. Almost any modern smartphone, cloud system or automobile is relying on semiconductors that have been tested with our products.
+
+We strive for continuous improvement, especially in the areas of SW quality, performance, and reliability. Our core SW product is SmarTest - a large software system consisting of several million lines of C++/ Java code. More than 100.000 automated test cases are continuously executed, which results in a huge amount of test related data and metadata.
+
+We are looking for a Data Science / ML Engineer (m/f/d), who implements and optimizes the full data processing and analytics pipeline to enable continuous learning and improvement based on insights gained from our existing data sets. With that you directly support improving existing testing strategies and executions and help to develop new approaches to maintain the lead of SmarTest as the best ATE-software for our customers.
+
+In the role of a Data Science / ML Engineer (m/f/d) you will:
+
+Join a team of experienced SW engineers and test experts who aim towards the common goal of improving the efficiency, effectiveness, and flexibility of our test process
+Establish and grow the application of data science and machine learning in SW-test at Advantest
+Build the foundation for a data processing and analytics solution, that can handle several millions of data points daily - develop the concept and evaluate, implement, and continuously improve the solution
+Understand existing data set, choose & identify appropriate features, retrieve, and process the data, derive insights and learning - in close cooperation with the SW development and system testing teams
+Take over and further optimize the existing business KPI monitoring solution – identify and implement synergies with the overall data processing and analytics architecture
+Choose and adapt data analytics and machine learning algorithms and models
+Closely interact with internal data science departments to algin initiatives and identify learnings and synergies
+Technical lead of a team of data scientists and machine learning engineers located at a partner company
+Collaborate with the R&D teams in Germany, US, China, and Japan to find solutions for the most pressing needs in SW-test
+Requirements:
+Bachelor/Master's degree in computer science, electrical engineering, or a related field
+Specialization in data science, data analytics, machine learning, deep learning
+Very good understanding of the complete data pipeline and relevant algorithms, models, and frameworks
+Very good knowledge developing data science solutions using languages like Python
+Very good general SW development skills (Linux, scripting, SQL/NoSQL, Webservices, Cloud)
+Very good knowledge and understanding of data science and ML libraries like Pandas, NumPy, PyTorch, TensorFlow
+Ability and motivation to work self-driven with minimum supervision
+Passion for agile, automation, quality, transparency, continuous improvement
+Good team player with experience working in distributed and cross-functional teams
+Intercultural understanding, experience in working with foreign teams
+Very good communication skills in English
+
+Preferred Qualification:
+
+Good knowledge and understanding of data analytics, visualization, and statistics solutions like ELK, Grafana, Tableau, R
+Good knowledge of PHP, JavaScript, Ruby which is used in some of the existing systems
+Experience with Scrum, SAFe
+Experience in semiconductor testing and / or the semiconductor industry in general
+Experience in regulated environments (e.g. automotive, medical, aerospace)
+German and/or Japanese and/or Chinese language skills
+Diesen Job melden

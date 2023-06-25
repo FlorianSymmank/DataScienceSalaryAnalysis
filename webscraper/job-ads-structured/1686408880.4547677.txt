@@ -1,0 +1,19 @@
+{
+    "job_title": "Werkstudent / Praktikant (m/w/d) Softwareentwicklung, Testing, IT-Consultancy",
+    "company": "MaibornWolff GmbH",
+    "location": "10117 Berlin",
+    "salary_euro": null,
+    "employment_type": "Teilzeit",
+    "requirements": "Du bist immatrikulierte Studentin oder immatrikulierter Student.\nDu sprichst fließend Deutsch und sehr gutes Englisch.",
+    "skills": [
+        "Backend- und Cloud-Entwicklung.",
+        "Webentwicklung mit Javascript/Typescript.",
+        "Native und crossfunktionale Mobile-Entwicklung mit Swift, Kotlin und Dart/Flutter.",
+        "Automatisiertes Software Testing.",
+        "Cyber Security.",
+        "Data Science & Engineering.",
+        "Usability und Design Thinking.",
+        "…und viele mehr – was bewegt dich?"
+    ],
+    "date_posted": null
+}

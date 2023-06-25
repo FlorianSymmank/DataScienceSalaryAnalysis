@@ -1,0 +1,14 @@
+{
+    "job_title": "Data Scientist / Research Engineer",
+    "company": "DE-CIX Management GmbH",
+    "location": "Frankfurt am Main",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "degree in Mathematics, Data Science or comparable and fluent English and German skills",
+    "skills": [
+        "programming with Python and SQL",
+        "working with column-based databases and with visualization tools",
+        "data enrichment, data aggregation, predictive analytics and anomaly detection"
+    ],
+    "date_posted": null
+}

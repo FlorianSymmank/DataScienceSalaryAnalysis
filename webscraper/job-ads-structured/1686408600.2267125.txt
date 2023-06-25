@@ -1,0 +1,23 @@
+{
+  "job_title": "Consultant KI / Data Analyst",
+  "company": "Dataport",
+  "location": "Altenholz",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Vollzeit, Teilzeit, Festanstellung",
+  "requirements": "Studium (Wirtschafts-)Informatik, Physik, Data Science, Business Analytics, Social Computing oder anderweitig erworbene vergleichbare Kenntnisse und Fähigkeiten",
+  "skills": [
+    "Beratung",
+    "KI- und/oder Data Science",
+    "Agiler Methodenkoffer",
+    "User Journeys",
+    "Persona",
+    "Brainstorming",
+    "Workshop-Moderation",
+    "Stakeholder-Management",
+    "Analyse komplexer Organisationsabläufe"
+  ],
+  "date_posted": null
+}

@@ -1,0 +1,50 @@
+Senior Data Center Technician
+Microsoft
+Frankfurt am Main
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+As a Microsoft Senior Data Center Technician (DCT), you will demonstrate expertise in standard processes and procedures for preparing, installing, performing diagnostics, troubleshooting, replacing, and/or decommissioning equipment, as well as a holistic understanding of the functions of, and interactions between, network and server equipment. You will provide input for suggested modifications to these processes and procedures as needed to improve service quality and efficiency while providing guidance to other technicians.
+
+Microsoft’s Cloud Operations & Innovation (CO+I) is the engine that powers our cloud services. As a CO+I DCT, you will perform a key role in delivering the core infrastructure and foundational technologies for Microsoft's online services including Bing, Office 365, Xbox, OneDrive, and the Microsoft Azure platform. As a group, CO+I is focused on the personal and professional development of all employees and offers training and growth opportunities including Career Rotation Programs, Diversity & Inclusion training and events, and professional certifications.
+
+Our infrastructure is comprised of a large global portfolio of more than 200 Data Centers in 32 countries and millions of servers. Our foundation is built upon and managed by a team of subject matter experts working to support services for more than 1 billion customers and 20 million businesses in over 90 countries worldwide.
+
+With environmental sustainability and optimization at the forefront of our data center design and operations, we continue to grow and evolve as we meet the ever-changing business demands that hold Microsoft as a world-class cloud provider.
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+Responsibilities
+
+Apply advanced diagnostic and troubleshooting expertise to quickly identify the cause(s) of issues to quickly identify the cause of issues.
+Decommission hardware for complex changes and/or systems with complex interactions (e.g., upgrading entire racks) following standard procedures.
+Delegate hardware installation, deployment, and/or replacement work to technicians while providing expert guidance for preparing, staging, setting up, and performing startups and shutdowns (e.g., racks, hard drives, switches).
+Ensure quality execution as defined by organizational standards, coordinating downtime, and keeping relevant stakeholders informed of work status to minimize downstream rework.
+Assist and provide guidance to technicians to complete challenging or complex tasks and escalate issues as needed.
+Ensure that technicians are performing post-execution quality checks and verifying that grounding, staging, labeling, and cabling are set up in compliance with safety protocols, deployment standards, and planned Network Design Tasks (NDTs).
+Verify security compliance for decommissions and processes data-bearing devices for destruction.
+Maintain an awareness of Key Performance Indicators (KPIs) through dashboards and/or monthly performance discussions.
+Train and mentor technicians through on-the-job training and by providing direct guidance on specific tasks.
+Attend, conduct, or assist in conducting daily safety briefings, completes required safety training, provides guidance to technicians to facilitate compliance with safety procedures (e.g., Personal Protective Equipment (PPE) usage, equipment use, lifting, electrical hazards, ladder/rolling stair use).
+Has pride and a sense of accountability for the service quality, completeness, and resulting user experience.
+Embody our culture and values.
+Qualifications
+Required Qualifications :
+High school diploma, GED, or equivalent and basic knowledge of computer hardware and components AND relevant years’ experience supporting IT equipment or related technology.
+While not required, we also look for the following
+Preferred Qualifications:
+Associate degree in computer science or other field and/or equivalent work experience.
+Relevant years’ experience supporting IT equipment or related technology.
+Relevant years’ experience working in a production, mission-critical 24x7x365 data center environment.
+Applicable certifications: ASICS/Inventory Control, CompTIA (A+, Server+, Network+), Basic Structure Cabling (BSC), Data Center Foundation Certification (DCFC), Microsoft Certified Professional (MCP), Vendor-Specific Network Certifications.
+Background Check Requirements:
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+Diesen Job melden

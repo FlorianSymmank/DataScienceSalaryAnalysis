@@ -1,0 +1,10 @@
+{
+    "job_title": "Data Science Werkstudent (m/w/d) oder Masterrand (m/w/d) im Bereich Offshore Wind",
+    "company": "Ramboll",
+    "location": "22763 Hamburg",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Ein eingeschriebener Student an einer deutschen Universität/Hochschule (m/w/d)\nGute bis sehr gute Leistungen im hochschulischen Bereich\nSichere Programmierkenntnisse (Python)\nEin analytisches und strukturiertes Denkvermögen\nEigeninitiative sowie zuverlässige, lösungsorientierte und selbstständige Arbeitsweise",
+    "skills": ["Programmierung", "Erstellung von Softwarearchitekturen", "Datenvisualisierung", "Data Story Telling"],
+    "date_posted": null
+}

@@ -1,0 +1,33 @@
+{
+   "job_title": "Praktikantin / Praktikant (m/w/d) als Softwareentwickler für Testautomatisierung",
+   "company": "Volkswagen AG",
+   "location": "Wolfsburg",
+   "salary_euro": null,
+   "employment_type": "Praktikum",
+   "requirements": "Studierende der Fachrichtung Informatik (ggf. Mathematik, Fahrzeugtechnik, Maschinenbau, Mechatronik, Elektrotechnik, Regelungstechnik oder vergleichbaren Richtungen)\nAnalytisches und komplexes Denkvermögen\nKenntnisse in Datenanalyse / Data Science\nInteresse an KI- / Machine Learning -Methoden\nInteresse am Fahrzeug-Antriebsstrang (VKM, HEV, BEV)\nProgrammierkenntnisse z.B. in Matlab/Simulink-, Python-, Excel/VBA-, C++-, Java-, Dataiku\nGute bis sehr gute Studienleistungen\nGute MS-Office-Kenntnisse\nHohe Belastbarkeit und Leistungsbereitschaft\nSelbstständiges Arbeiten, schnelle Auffassungsgabe, Ausgeprägte Teamfähigkeit und gutes Organisationstalent\nFührerschein Klasse B notwendig\nGewünschte Einsatzdauer: Mindestens 5 Monate\nEiner wissenschaftlichen Arbeit ist nach Absprache prinzipiell möglich.",
+   "skills": [
+      "Informatik",
+      "Mathematik",
+      "Fahrzeugtechnik",
+      "Maschinenbau",
+      "Mechatronik",
+      "Elektrotechnik",
+      "Regelungstechnik",
+      "Datenanalyse",
+      "Data Science",
+      "KI",
+      "Machine Learning",
+      "Matlab",
+      "Simulink",
+      "Python",
+      "Excel",
+      "VBA",
+      "C++",
+      "Java",
+      "Dataiku",
+      "MS-Office",
+      "Teamfähigkeit",
+      "Organisationstalent"
+   ],
+   "date_posted": "2022-07-20"
+}

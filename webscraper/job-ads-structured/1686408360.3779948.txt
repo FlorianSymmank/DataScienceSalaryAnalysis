@@ -1,0 +1,21 @@
+{
+   "job_title": "Senior Lead Data Science",
+   "company": "E. Breuninger GmbH & Co.",
+   "location": "Stuttgart",
+   "salary_euro": {
+      "amount": null,
+      "period": null
+   },
+   "employment_type": "Vollzeit",
+   "requirements": "You have a successfully completed degree in business, business/ media informatics, mathematics, data science, or a comparable course of study\nYou have several years of experience in the field of data science and ideally have knowledge in e-commerce or digital marketing\nYou have a high level of expertise in Python, SQL, as well as R, and have a solid background in machine learning and predictive analytics\nYou ideally have experience in (technical) leadership of employees\nYou have excellent communication skills\nYou are a team player and an active driver of change. You think results-oriented and own a strong analytical mindest.",
+   "skills": [
+      "Python",
+      "SQL",
+      "R",
+      "Machine Learning",
+      "Predictive Analytics",
+      "Communication",
+      "Team Player"
+   ],
+   "date_posted": null
+}

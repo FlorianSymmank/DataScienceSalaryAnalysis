@@ -1,0 +1,68 @@
+Azure Data Engineer (m/w/d)
+areto consulting GmbH
+51063 Köln
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+_________________________________________________________________
+
+
+Als Azure Data Engineer*in möchtest du Verantwortung in spannenden, unterschiedlichsten BI-Projekten unserer Kund*innen übernehmen und gemeinsam mit Deinen Kolleg*innen an den BI-Innovationen von Morgen arbeiten?
+
+Dann werde Teil unseres lt. eigener Aussage coolsten Teams der Welt, das mit Leidenschaft, Kreativität und einer Menge Spaß die besten Lösungen schafft.
+
+Deine Aufgaben...
+
+
+Du möchtest mit Deiner Expertise BI-Projekte zukunftsweisend lenken und Sie weiterentwickeln?
+Du liebst Datenflüsse und bist begeistert, was man alles daraus erfahren kann?
+Komplexe Abhängigkeiten zu verstehen und zu dirigieren sind für Dich ein Leichtes?
+Dann bring Deine fachliche und technische Erfahrung bei uns ein!
+
+Dein Profil ...
+
+
+Du bist selbstständig in der Durchführung kleinerer Projekte und kannst traditionelle und agile Projektmanagementmethoden unterscheiden.
+Fundierte Kenntnisse in der Anwendung der Azure Data Plattform (wie Azure Data Factory, Azure Synapse Analytics, Azure Storage, Azure Active Directory) bringst Du bereits mit.
+In der Entwicklung und Wartung von Datenbewirtschaftungslösungen (ETL, ELT, Streaming, etc.) bist Du sicher unterwegs.
+In der Datenmodellierung (Data Vault, Kimball, 3NF) konntest Du Dir bereits fundierte Kenntnisse aneignen und auch in der Verwendung von Data Governance sowie Data Catalog Werkzeugen und Methoden bist du kein Neuling mehr.
+
+Wenn das Leben ein Wunschkonzert wäre, dann ...
+
+
+würdest Du vertiefte Erfahrungen mit dem Einsatz von Data Warehouse Automation Tools gemacht (Matillion, WhereScape, BIML) haben.
+hättest Du bereits erste Erfahrungen mit DevOps-Konzepten und Werkzeugen (Azure DevOps) sammeln können.
+bringst Du praktische Erfahrungen mit dem MS On-Premises Stack (SSIS, SSAS, SSRS) mit.
+sind Deine guten Kenntnisse im Bereich Data und Network Security das i-Tüpfelchen!
+
+
+Warum wir so gerne hier arbeiten ...
+
+Eine offene Kultur für Herz und Hirn, flache Hierarchien und agile Arbeitsweise
+Viel Raum für gute Ideen, spannende Projekte und technische Weiterentwicklung in Deinen Fokusthemen – bei uns lernt keiner aus…
+Schulungen im Team und persönliche Weiterbildung in Themenbereichen von Business Intelligence, sowie bei Einstieg eine 1 zu 1 Betreuung durch unser Lucky Luke Konzept
+Ein sympathisches Team mit vielen motivierten, kreativen und klugen Köpfen
+Teamveranstaltung in jedem Monat!
+Möglichkeit der Arbeit aus dem Homeoffice, dem Büro Deiner Wahl oder auch bei Kund*innen vor Ort
+… und vieles mehr!
+
+Noch Fragen offen geblieben?
+
+
+
+
+Du bist Dir nicht sicher, ob Du zu dieser Position oder ins Team Deadpool passt?
+Melde Dich gerne für mehr Infos und Austausch mit einem unserer Expert*innen!
+karriere@areto.de
+
+Über uns
+
+areto - the big bang of business intelligence.
+areto consulting, im Jahr 2007 gegründet, ist spezialisiert auf die integrative und ganzheitliche Business-Intelligence-Beratung in den Themen Data Strategy, Data Analytics, Data Warehousing und Data Science.
+Wir sind nicht wie Jede(r) andere - Und das ist auch gut so!
+Wir sind coole Typ*innen - meist ohne Anzug und Aktenkoffer - die für ihre Projekte beim Kund*in brennen, Lust auf neue spannende Themen haben und Teamarbeit ganz groß schreiben!
+
+Diesen Job melden

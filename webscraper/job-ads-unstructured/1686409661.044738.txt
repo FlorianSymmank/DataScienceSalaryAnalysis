@@ -1,0 +1,72 @@
+Data Engineer
+aifora GmbH
+40221 Düsseldorf
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Werde Teil des aifora Teams!
+
+Du liebst es, mit Daten zu arbeiten und eine visionäre SaaS Plattform aufzubauen, die in großen und renommierten Unternehmen zum Einsatz kommt? Du entwickelst gerne Software und Services von Ende zu Ende und hast dabei immer den Wert für den Kunden im Blick? Als Data Engineer bist Du Teil unseres Data Engineering Tribes und arbeitest an spannenden technischen Herausforderungen in unserer Produktentwicklung.
+
+Deine Aufgaben
+
+Nutze Python, Spark und SQL zur Implementierung komplexer ETL/ELT-Prozesse.
+
+Du erstellst skalierbare Lösungen, die mit unseren unterschiedlichen Produkten und mit vielen großen Kunden funktionieren.
+
+Du entwickelst das Dateninterface zu unseren Kunden weiter.
+
+Du nutzt DevOps-Ansätze, um den stabilen Betrieb der Data Platform trotz stetiger Weiterentwicklung sicherzustellen.
+
+Entwickle, konstruiere, teste und warte Daten-Architekturen, wie z.B. Databricks und Kafka.
+
+Arbeite mit Engineering, Quality Engineering und Produktmanagement zusammen, um Systeme und Funktionen zu entwickeln , die hochverfügbar, zuverlässig und sicher sind.
+
+Das bringst du mit
+
+Du hast ein abgeschlossenes Hochschul- oder Fachhochschulstudium der (Wirtschafts-)Informatik, Data Science/Engineering, Mathematik oder eine vergleichbare Qualifikation.
+
+Praktische Erfahrung mit dem Big Data Ökosystem (Spark, Hive/Impala, HBase, Yarn) und dem Data Lake Paradigma.
+
+Erfahrung mit Stacks auf Basis von AWS/Azure/GCP und Java/Scala/Python.
+
+Erfahrung mit Microservice-Architekturen und Daten-Streaming-Systemen wie Kafka.
+
+Praktische Erfahrung im Datenbank-Engineering mit den Schwerpunkten Datenbankarchitektur, Produktionsautomatisierung, Monitoring-Systeme und Betrieb.
+
+Du kannst Daten als Graph denken und weißt, wie man Avro, Protobuf oder JSON-Schema verwendet.
+
+Praktische Erfahrung in den Arbeitsweisen cross-funktionaler Teams.
+
+Fließende Englischkenntnisse. Deutschkenntnisse sind ein Plus.
+
+Erfahrung in der Entwicklung von Anwendungen für den Einzelhandel sind ein Plus.
+
+Das bieten wir dir
+
+Hab einen Einfluss: Mit einer einzigartigen Lösung verändern wir das Ökosystem des Einzelhandels.
+
+Jeder ist gleich wichtig: Wir arbeiten gemeinsam an unbekannten Herausforderungen an der Seite von inspirierenden Kollegen aus der ganzen Welt.
+
+Spaß bei der Arbeit und darüber hinaus: Es gibt immer etwas zu feiern!
+
+Eigenverantwortliches Arbeiten und flache Hierarchien.
+
+Spannende Aufgaben in einer offenen Unternehmenskultur in einem internationalen Team.
+
+Flexible Arbeitszeiten und Homeoffice.
+
+30 Tage Urlaub, bezuschusste öffentliche Verkehrsmittel und Altersvorsorge.
+
+Regelmäßige Teamevents.
+
+Wir freuen uns über Deine aussagekräftigen Bewerbungsunterlagen – gerne unter Angabe Deines frühestmöglichen Eintrittstermins und Deiner Gehaltsvorstellung. Dein Ansprechpartner für diese Stelle ist Sang-Gyun Sin.
+
+Über uns
+
+Wir bei aifora sind unkonventionell, arbeiten agil und selbstbestimmt, bleiben nie stehen und begeistern uns jeden Tag für Neues. Wir suchen Menschen, die wirklich etwas bewegen wollen und unsere Werte teilen. Bei aifora ist jeder wichtig und trägt zum großen Ziel bei. Wir befähigen Händler unabhängig von ihrer Größe, ihrem Geschäftsmodell oder Branche, die Preise und Bestände kanalübergreifend zu optimieren und die zugrundeliegenden Prozesse zu automatisieren. Durch den Einsatz künstlicher Intelligenz wird auf der aifora Plattform die Nachfrage pro Artikel, Lokation und Kanal prognostiziert, um optimale Merchandising-Entscheidungen zu treffen. Dies führt im Ergebnis zu einer deutlich höheren Effizienz und Profitabilität. Unsere cloudbasierten SaaS-Lösungen sind schnell und einfach zu integrieren, individuell konfigurierbar und amortisieren sich somit innerhalb kürzester Zeit.
+
+Diesen Job melden

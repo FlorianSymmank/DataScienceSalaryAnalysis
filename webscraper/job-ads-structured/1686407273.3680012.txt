@@ -1,0 +1,10 @@
+{
+  "job_title": "Intern/Working Student in AI/Data Analytics",
+  "company": "msg systems",
+  "location": "Deutschland",
+  "salary_euro": null,
+  "employment_type": "Teilzeit",
+  "requirements": "Current Bachelor's or Master's degree in Computer Science, Data Science, Mathematics, Physics or similar. Availability for an internship of 3-6 months or at least 180 hours. Very good knowledge of German and English.",
+  "skills": ["Python", "Pytorch", "TensorFlow", "Office 365"],
+  "date_posted": null
+}

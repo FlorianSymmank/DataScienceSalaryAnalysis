@@ -1,0 +1,52 @@
+(Junior) Data Scientist (w/m/d)
+prognostica GmbH
+Würzburg
+Festanstellung
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Festanstellung
+Stelle: (Junior) Data Scientist (w/m/d)
+Bewerbungsschluss: 03.07.2023
+Start: zum nächstmöglichen Zeitpunkt
+Befristung: unbefristet
+
+Wir sind die prognostica GmbH und unser Geschäft ist die Zukunft: Wir bieten Datenanalysen und Prognosesysteme an, die passgenau auf die Anwendungszwecke unserer Kunden zugeschnitten sind. Wir sind Experten für große und kleine Datenmengen, datengetriebene Entscheidungsunterstützung und Predictive Analytics.
+
+Wir suchen zum nächstmöglichen Zeitpunkt eine/n (Junior) Data Scientist (w/m/d). Das könntest du sein! Für diese Stelle ist mobiles Arbeiten möglich. Daher ist ein Umzug nicht erforderlich! Gemeinsam finden wir für dich den passenden Arbeitsplatz. Deine Arbeitsschwerpunkte bei uns liegen auf der Datenanalyse, Methodenentwicklung und Implementierung bzw. Softwareentwicklung zur Automatisierung unserer Lösungen, vor allem in den Bereichen Zeitreihenanalyse, Prognose und Machine Learning.
+
+Unsere Projekte sind vielfältig und bringen immer wieder neue Herausforderungen mit sich. Routine findest du bei uns nicht. Methodisch und technologisch sind wir immer offen und auf dem neuesten Stand – das erwarten wir auch von dir. Du entdeckst gemeinsam im Team kreative Lösungen und setzt sie auch um. Du bearbeitest Aufgaben individuell, aber hast auch Freude an der Arbeit im Team. Du willst dich einbringen, dein Arbeitsumfeld mitgestalten und in einem Unternehmen arbeiten, in dem du viel bewegen kannst. Wenn das alles auf dich zutrifft, bist du bei uns richtig!
+
+Deine Aufgaben im Einzelnen:
+
+Du erkennst Use Cases und bearbeitest Fragestellungen auf Basis der zur Verfügung stehenden Daten,
+analysierst Datensätze und entwickelst Methoden zur automatisierten Ergebniserstellung.
+Du implementierst Lösungen in R, Python, SQL, Kafka, Java etc.,
+kümmerst dich um aussagekräftige Visualisierungen von Daten und Ergebnissen,
+erstellst und bearbeitest (Management-)Präsentationen auf Deutsch und Englisch
+und vermittelst Ergebnisse an unsere Kunden, an das Team und das Management.
+
+Das bringst du mit:
+
+einen Universitätsabschluss in Data Science, Informatik, Mathematik, Statistik, Physik o. ä.,
+Berufserfahrung im Data-Science-Umfeld,
+hervorragende analytische Fähigkeiten,
+Kenntnisse in Statistik und Machine Learning,
+sehr gute Deutsch- und Englischkenntnisse,
+ein sicheres Auftreten sowie starke Social Skills, vor allem im Umgang mit dem Team und Kunden,
+Freude an der Zusammenarbeit mit Anderen,
+Fähigkeit und Erfahrung im selbstständigen Arbeiten,
+ausgeprägte Kommunikationsfähigkeit,
+Bereitschaft, Verantwortung zu übernehmen,
+Zuverlässigkeit, Verschwiegenheit, Flexibilität, Belastbarkeit,
+sehr gute Kenntnisse in R oder Python, optimalerweise auch in einer weiteren Programmiersprache (z. B. Java, .Net, C),
+Kenntnisse in Datenbankadministration, -modellierung und Data Warehouse,
+idealerweise Cloud-Erfahrung (z. B. Azure, AWS) sowie Erfahrung im Umgang mit git,
+Reisebereitschaft innerhalb Deutschlands und ggf. außerhalb.
+
+Als erfolgreiches Start-Up in Würzburg bieten wir dir eine persönliche Arbeitsatmosphäre in einem wachsenden Unternehmen ohne steile Hierarchien, lange Wege und festgefahrene Strukturen. Jeder Einzelne kann und soll sich einbringen und trägt vom ersten Tag an Verantwortung. Dabei bist du Teil eines dynamischen Teams aus Experten der unterschiedlichsten Fachrichtungen, an dem kein Tag vergeht, an dem du nicht etwas Neues dazulernst! Wir bieten flexible Arbeitszeiten, freie Arbeitseinteilung und die Möglichkeit zum mobilen Arbeiten, sodass sich Beruf und Familie gut vereinbaren lassen. Besonders wichtig ist uns allen eine gute Teamatmosphäre - regelmäßig unternehmen wir etwas miteinander und feiern erfolgreiche Meilensteine. Sehr beliebt sind unsere Siebträger-Kaffeemaschine, unser Team-Kicker und unsere Teamevents wie z.B. Exit Games, Weinprobe in Sommerhausen, Spieleabende, Kiliani oder Rock-Race.
+
+Wenn du dich angesprochen fühlst und Lust hast, unser Team zu ergänzen, freuen wir uns darauf, dich kennenzulernen. Schick deine Bewerbungsunterlagen mit Angabe einer Gehaltsvorstellung und dem frühestmöglichen Eintrittstermin per E-Mail an personal@prognostica.de. Deine Ansprechpartnerin ist Nina Borbe.
+
+Diesen Job melden

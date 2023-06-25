@@ -1,0 +1,15 @@
+{
+   "job_title": "Data Engineer/ Data Translator (m/f/d)",
+   "company": "AGCO",
+   "location": "Marktoberdorf",
+   "salary_euro": null,
+   "employment_type": null,
+   "requirements": "A Bachelor’s degree (or equivalent) in computer science, information technology, engineering, or related discipline\nThree or more years of experience with Python, SQL, and data visualization/exploration tools\nFamiliarity with the AWS ecosystem, specifically athena and Redshift\nExperience in building or maintaining ETL processes",
+   "skills": [
+      "Python",
+      "SQL",
+      "AWS",
+      "ETL processes"
+   ],
+   "date_posted": null
+}

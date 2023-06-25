@@ -1,0 +1,23 @@
+{
+  "job_title": "(Junior) Analyst (m/w/d) Data Analytics",
+  "company": "Syncwork",
+  "location": "Berlin, Dresden, Wiesbaden, deutschlandweit",
+  "salary_euro": null,
+  "employment_type": "Vollzeit, Teilzeit, unbefristet, Homeoffice möglich",
+  "requirements": "Sie haben Ihr Studium der Wirtschaftswissenschaften (BWL, VWL), (Wirtschafts-)Informatik, des (Wirtschafts-)Ingenieurwesens, der Mathematik, ein vergleichbares Studium oder Ihre Ausbildung mit bankfachlichem Hintergrund erfolgreich abgeschlossen. Sie punkten idealerweise mit praktischen Erfahrungen im Bereich Big Data, Advanced und Data Analytics. Sie besitzen vorteilhafterweise Kenntnisse in Programmiersprachen (z. B. R, Python), Datenbanksystemen (z. B. SQL) oder Cloud-Technologien (MS Azure, IBM Bluemix). Sie denken analytisch und gehen Aufgaben systematisch und strukturiert an. Sie verfügen über gute Deutsch- und Englischkenntnisse. Sie wollen durch Ihren Einsatz zum Projekterfolg beitragen und verkörpern unsere durch Teamgeist, Flexibilität und Erfolgswillen geprägte Unternehmenskultur. Kommunikationsstärke und Eigeninitiative runden Ihr Profil ab.",
+  "skills": [
+    "Big Data",
+    "Advanced Analytics",
+    "Data Analytics",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Programmiersprachen (z. B. R, Python)",
+    "Datenbanksystemen (z. B. SQL)",
+    "Cloud-Technologien (MS Azure, IBM Bluemix)",
+    "analytisches Denken",
+    "gute Deutsch- und Englischkenntnisse",
+    "Kommunikationsstärke",
+    "Eigeninitiative"
+  ],
+  "date_posted": null
+}

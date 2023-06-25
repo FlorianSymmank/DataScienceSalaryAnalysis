@@ -1,0 +1,21 @@
+{
+  "job_title": "Business Analyst",
+  "company": "Razor Group GmbH",
+  "location": "Berlin",
+  "salary_euro": {
+    "amount":  null,
+    "period": null
+  },
+  "employment_type": null,
+  "requirements": "Bachelor's or master's degree in a relevant field (e.g. Statistics, Mathematics, Computer Science, Finance or Economics); 2+ years of experience in a data analytics or business analytics role; experience with data visualization tools such as Tableau or Power BI; proficiency in Excel, other programming languages such as SQL, Python, R, or SAS are a plus; analytical and problem-solving skills; excellent communication and interpersonal skills.",
+  "skills": [
+    "data analysis",
+    "business analysis",
+    "data visualization",
+    "predictive modeling",
+    "cross-functional collaboration",
+    "communication",
+    "interpersonal"
+  ],
+  "date_posted": null
+}

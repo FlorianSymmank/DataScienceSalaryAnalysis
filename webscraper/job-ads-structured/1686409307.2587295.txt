@@ -1,0 +1,10 @@
+{
+   "job_title": "(Junior) Cloud Engineer",
+   "company": "Engel & Völkers Technology",
+   "location": "Hamburg, Germany",
+   "salary_euro": null,
+   "employment_type": "Full-time",
+   "requirements": "Bachelor’s degree in Computer Science, Computer or Electrical Engineering, Business Informatics or equivalency in relevant work experience",
+   "skills": ["Networking", "Cloud Deployments", "Monitoring Solutions", "Troubleshooting", "Google Cloud Platform", "Kubernetes", "Git", "Infrastructure as Code", "CI/CD Pipelines", "DevOps", "GitOps", "FinOps"],
+   "date_posted": "2021-10-14"
+}

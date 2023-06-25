@@ -1,0 +1,49 @@
+Senior Data Engineer (all genders)
+Stillfront Group
+Hamburg
+Schnellbewerbung
+
+The position is preferably based in Stockholm/Sweden or in Hamburg/Germany. Remote work could also be an option.
+
+Stillfront Group is a global games company founded in 2010. We develop digital games for a diverse gaming audience and our broad games portfolio is enjoyed by almost 70 million people every month. Stillfront is focused on realizing synergies by connecting and empowering game teams globally through our Stillops platform. We are a fast-growing company and an active global strategic acquirer. Our 1,500+ professionals thrive in an organization that embodies the spirit of entrepreneurship.
+
+We are looking for a Senior Data Engineer (all genders) with experience working with a heavily distributed and senior engineering group to join our Data Platform team to support group management, hubs (marketing, ad-monetization, finance), game studios, and strategic projects with data and analytics capabilities. The Data Platform is responsible for collecting and sharing insights from 23 game studios, finance systems, and 3rd party data vendors. High-level business value and use cases are defined, the architecture and systems (data management and visualization) are in place, and a technical team is gathered (covering the complete spectrum from DevOps to data engineers, to BI Analysts).
+
+The Data Platform is a distributed team by design, operating with Open Source principles to empower the team and studios to contribute equally. Beyond the core team, the team collaborates on a weekly basis with the 23 studios in the portfolio to improve data quality and richness. The result is that the Data Platform is in the infancy of becoming a team, with a unique organizational design. This role will be responsible for expanding processes, rituals, and day-to-day project management.
+
+YOUR MISSION
+Design, develop, maintain and troubleshoot DAGs written in Python and SQL
+Design, maintain and troubleshoot data pipelines and events flowing from games, through webservers, into data warehouses
+Build data-driven tools for LiveOps and User Acquisition services
+Code review and validate SQL and Python supplied by peers
+Participate in managing Snowflake users and data
+Generate reports and analyze data to isolate and explain data irregularities using SQL
+YOUR BACKSTORY
+Bachelor degree in Computer Science or equivalent
+8+ years of commercial software development experience
+Previous professional experience in mobile gaming or user acquisition is a benefit
+6+ years of working experience with Python and related data analysis libraries
+Experience with Configuration Management tools (Puppet, Chef, Ansible)
+Experience with TDD (test-driven development)
+Strong experience with Snowflake and Airflow, additional experience with Snowflake database management is a benefit
+Familiar with Kubernetes, Grafana, and Looker (and similar BI tools)
+Proven ability to develop clear, elegant, and maintainable code
+Well acquainted with AWS
+Fluent English, both verbal and written
+SOUNDS GREAT? MORE REASONS TO TAKE THIS MISSION
+Full flexibility: Work flexibly from our modern offices in Hamburg/Germany or in Stockholm/Sweden
+Opportunity to define and build the culture of a team
+Work with an international team and in close collaboration with 23 game studios
+Participate in a broad range of projects from data science, and analytics to IT
+Build a team culture from the ground up folding best practices as needed
+Flexible work schedule that embraces the fact we all are in different parts of the world
+Unique opportunities to travel and connect in person with the entire team and group
+ADDITIONAL INFORMATION
+
+The safety of our employees and everyone else is of utmost importance to us which is why you will experience a solely virtual recruiting process. We are happy to receive your application in English!
+
+Stillfront Group is an equal opportunity employer. We encourage and support diversity and welcome all qualified applications.
+
+Your contact person for this job offer is Margarita Kwindt.
+
+Diesen Job melden

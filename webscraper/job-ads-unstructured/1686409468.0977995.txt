@@ -1,0 +1,97 @@
+Backend Engineer – C# .NET (m/f/d)
+u:fynd
+Berlin
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+
+Your tasks and responsibilities
+
+Along with the engineering team, you will be responsible for the maintenance of databases, servers, and other tech products. Other than that, you will...
+
+be in charge of the coding and maintenance of the C# environment, such as web services, queue workers and microservices.
+
+specify, implement and optimize database systems.
+
+develop, implement and maintain high performing APIs for large amounts of data.
+
+ensure excellent quality, debug, and provide internal support.
+
+collaborate with the frontend team in order to continuously improve the product.
+
+
+You will be working with the latest cutting-edge technologies such as
+
+
+
+
+Microsoft C#
+
+Microsoft .NET Core 3.0
+
+ASP.net
+
+Microsoft Azure
+
+AWS
+
+SQL & NoSQL
+
+RESTful API
+
+
+What we offer
+
+You will soon see that we do everything that we can to make each of our teams feel comfortable, welcome, and appreciated. We would like to offer you...
+
+responsibility, space for creativity, and a long-term perspective in an up-and-coming company.
+
+opportunities for personal and professional development.
+
+a competitive pay.
+
+an Urban Sports Club membership.
+
+30 days of paid annual leave.
+
+working in a young and motivated team with flat hierarchies.
+
+modern and well-located offices including a great choice of cold drinks, juices, and a variety of snacks.
+
+a professional Barista coffee machine and everything that you need in order to start your day with your favorite type of coffee.
+
+an exciting environment as a part of a startup incubator.
+
+reimbursement of your daily travel expenses and much more.
+
+
+Your skillset
+
+You are the perfect candidate if you...
+
+are tech-savvy and follow new and emerging technologies.
+
+enjoy responsibility and working in an environment where your work has a direct business impact.
+
+have a Bachelor’s degree in Computer Science, Computer or Data Engineering, Business Informatics, or similar.
+
+are passionate about programming and have worked at least two years in a software development position.
+
+have excellent knowledge of database systems and using client server, as well as web server and microservice architecture.
+
+are familiar with the design patterns MVC, MVP, MVVM, and TDD.
+
+like to be highly analytical and have a proven track record in managing complex projects.
+
+are skilled in agile methods (scrum, kanban) and version control (Git).
+
+have exceptional interpersonal and communication skills and enjoy working in an international team with flat hierarchies.
+
+think critically and have high problem-solving skills.
+
+possess English skills that are business-fluent (German is a plus).
+
+Diesen Job melden

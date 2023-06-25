@@ -1,0 +1,10 @@
+{
+  "job_title": "Werkstudent Data Science (m/w/d)",
+  "company": "ALDI SÜD",
+  "location": "45476 Mülheim an der Ruhr",
+  "salary_euro": null,
+  "employment_type": "Teilzeit",
+  "requirements": "Laufendes Studium der (Wirtschafts-)Mathematik, (Wirtschafts-)Informatik, Statistik, Data Science, Physik oder eines vergleichbaren Studiengangs. Bereitschaft uns für mind. 6 Monate befristet zu unterstützen. Sehr gute Deutschkenntnisse in Wort und Schrift, Englischkenntnisse wünschenswert.",
+  "skills": ["Programmierung mit R oder Python", "analytische Fähigkeiten", "gute Deutschkenntnisse"],
+  "date_posted": null
+}

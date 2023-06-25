@@ -1,0 +1,18 @@
+{
+  "job_title": "Senior Data Scientist",
+  "company": "Blue Yonder",
+  "location": "76149 Karlsruhe",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Data science and software engineering expertise ideally in both Python and modern C++ Familiarity with statistics and knowledge of one or more areas such as quantitative modeling, heuristics, combinatorial optimization, or operations research.",
+  "skills": [
+    "Python",
+    "C++",
+    "Statistics",
+    "Quantitative Modeling",
+    "Heuristics",
+    "Combinatorial Optimization",
+    "Operations Research"
+  ],
+  "date_posted": "yyyy-mm-dd"
+}

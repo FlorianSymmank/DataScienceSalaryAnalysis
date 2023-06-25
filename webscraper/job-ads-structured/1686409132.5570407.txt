@@ -1,0 +1,10 @@
+{
+    "job_title": "Ph.D. Position in Process Mining",
+    "company": "Hasso-Plattner-Institut",
+    "location": "14482 Potsdam",
+    "salary_euro": null,
+    "employment_type": "Ph.D. Scholarship",
+    "requirements": "Solid background and an MSc Degree in one or more of the following fields: Computer Science, Software Engineering, Data Science, Information Systems; Strong interest in combining BPM with data science in real-life applications; Good programming skills; Excellent communication skills in English, both in speaking and in writing (candidates from non-English speaking countries should be prepared to prove their English language skills); Ability to work in a team.",
+    "skills": ["computer science", "software engineering", "data science", "BPM", "programming", "English communication skills", "teamwork"],
+    "date_posted": null
+}

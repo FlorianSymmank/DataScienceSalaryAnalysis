@@ -1,0 +1,10 @@
+{
+    "job_title": "Data Analytics Product Owner - International Big Data (m/f/d)",
+    "company": "Adolf Würth GmbH & Co. KG",
+    "location": "74653 Künzelsau",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Master's degree in a quantitative field, e.g. computer science, business informatics, statistics, industrial engineering or related field. Ideally first work experience with a focus on data and analytics. Experience in data preparation, data modelling, analysis and visualization. Hands on experience in big data technology and coding in SQL and python or similar languages as well as visualization tools such as PowerBI or similar. Basic know-how or first experiences with MLOps, DevOps or general software engineering principles is an advantage. Profound skills in presenting concepts in verbal and written format to both technical and non-technical colleagues. Strong analytical thinking and high affinity for data. Fluent in English, German is a plus.",
+    "skills": ["big data", "artificial intelligence", "predictive analytics", "machine learning", "data preparation", "data modelling", "data analysis", "data visualization", "SQL", "Python", "PowerBI", "MLOps", "DevOps", "software engineering", "analytics", "verbal communication", "written communication", "analytical thinking", "data affinity", "English", "German"],
+    "date_posted": null
+}

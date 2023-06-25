@@ -1,0 +1,61 @@
+Working Student (m/f/d) Federated Learning
+Veridos GmbH
+81677 München
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+We are a young company with hundreds of years of experience.
+
+Working Student (m/f/d) Federated Learning
+
+Location: Munich
+Stellen-ID: 22374
+Business Sector: Veridos GmbH
+
+Veridos handles innovative, large-scale projects every day. Whether it’s transferring 40,000 handwritten pages to a centralized population register, establishing a nationwide IT and data capture infrastructure, or issuing a country’s first standardized national smart ID cards – the experts at Veridos can expect to be regularly involved in interesting, ground-breaking and large-scale projects such as These.
+
+Do you want to support our mission to provide governments around the world with the best identity solutions for their citizens? Would you like to do your bit to make the world a little safer for everyone?
+
+Veridos is a valued and trusted partner of governments and regional authorities all over the world – we already count more than 70 countries among our clients. In addition to our headquarters in Berlin and offices in Munich, Veridos also has representatives around the world, including the United States, Canada, Mexico, Singapore, and the United Arab Emirates. We currently employ around 400 people worldwide.
+
+Our very international team includes people from a variety of academic and professional backgrounds and many different countries. Collectively, we speak more than 10 different languages.
+
+Job Overview:
+As a working student specializing in federated learning, you will have the opportunity to work closely with our Machine Learning Engineers on an exciting project aimed at acquiring know-how on Federated Learning.
+Your contributions will play a pivotal role in the development and implementation of federated learning techniques to address real-world challenges.
+
+
+Your tasks:
+Train an object classification model with a freely accessible dataset and define benchmark metrics
+Federation split of the data and explorative benchmarking of different federated scenarios
+Conduct experiments, analyze results, and contribute to the knowledge acquisition of the team
+Conduct research on federated learning methodologies, techniques, and applications
+Actively participate in team meetings, share ideas, and provide valuable insights
+
+Your profile:
+Currently pursuing a bachelor's or master's degree in Computer Science, Data Science, or a related field
+Strong understanding of machine learning principles and algorithms
+Familiarity with deep learning frameworks such as TensorFlow or PyTorch
+Proficiency in Python programming
+Excellent problem-solving skills and the ability to think critically
+Strong written and verbal communication skills
+Self-motivated, detail-oriented, and able to work independently and in a team environment
+
+What We Offer:
+
+
+A dynamic and collaborative work environment that encourages innovation and growth
+Hands-on experience in cutting-edge federated learning development
+Mentorship from experienced Machine Learning Engineers
+Flexible working hours to accommodate your academic commitments
+Opportunity to contribute to ground-breaking projects
+The position is available from June to the end of September with possibility to extend
+
+Did we spark your interest?
+
+We are looking forward to receiving your application. Please make sure to let us know your earliest starting date.
+
+Veridos GmbH
+Prinzregentenstr. 161, 81677 Munich
+
+Diesen Job melden

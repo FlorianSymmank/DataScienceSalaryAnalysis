@@ -1,0 +1,46 @@
+Master's Thesis on Multi-dimensional Classification
+Tomra
+22880 Wedel
+Praktikum
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Praktikum
+Company Description
+
+
+Today, we are not utilizing resources in a sustainable way. In fact, the world is only 9% circular, meaning much of the Earth’s precious resources are only used once, leaving huge untapped potential for more sustainable resource management. TOMRA provides cutting-edge solutions for optimal resource productivity within the recycling, mining and food industries and is therefore uniquely positioned to shape the Circular Economy, creating demand for this way of thinking in the world. At TOMRA we want to be a thought leader, encouraging a more sustainable way of thinking and inspiring active change around the world.
+
+
+
+Job Description
+
+
+TOMRA's sensor-based sorters for the minerals processing industry evaluate the physical properties of tens of thousands of particles per second. Sophisticated sensors collect information about each particle as it passes through the sorting machine, and high-speed data processing technology decides how each particle must be sorted.
+
+Market demands for higher product qualities, smaller particle sizes, and increased throughputs continue to push the limits for sensor-based sorting. At the same time, classification remains at the heart of every sensor-based sorter of TOMRA. The increasing amount of available information about material streams allows the sorters to operate with higher efficiency, but configuration of the sorting system is becoming even more crucial for achieving optimal performance.
+
+In this master's thesis, we want to evaluate new methods of classifying particles in material streams based on multi-dimensional sensor data. The performance of each method shall be assessed, and we want to compare them against traditional methods. In addition to the classification quality, the configuration effort of each method shall be considered.
+
+
+
+Qualifications
+
+
+Student in the field of Computer Science, Electrical Engineering, Mechatronics, Robotics, or a related field of study
+
+Good technical understanding
+Strong interest in new technologies
+Highly motivated and self-driven
+Ability to work analytically
+Good written and spoken English
+
+Additional Information
+
+
+Please send us...
+
+your CV (in English)
+certificates (from university, trainings, testimonials, referrals, etc.)
+Diesen Job melden

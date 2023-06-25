@@ -1,0 +1,16 @@
+{
+    "job_title": "Data Platform Engineer - Veeva Link",
+    "company": "Veeva Systems",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": "Full-time",
+    "requirements": "3+ years of experience; Expert skills in Python or Java; Experience with Apache Spark; Experience writing software for the cloud (AWS or GCP); Speaking and writing in English enables you to take part in day-to-day conversations in the team and contribute to deep technical discussions",
+    "skills": [
+        "Python",
+        "Java",
+        "Apache Spark",
+        "Cloud computing",
+        "English communication"
+    ],
+    "date_posted": "2022-10-19"
+}

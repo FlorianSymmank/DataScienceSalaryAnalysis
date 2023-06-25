@@ -1,0 +1,10 @@
+{
+   "job_title": "Tech Lead Data Science and Engineering (m/f/d)",
+   "company": "Fresenius Medical Care",
+   "location": "Berlin",
+   "salary_euro": null,
+   "employment_type": null,
+   "requirements": "Proven track record in data science or engineering leadership with experience in leading data science/engineering teams for end-to-end product delivery\r\nMore than 4 years experience in a technical data role\r\nKnowledge of latest data science research and applications\r\nUnderstanding of data science, data engineering, and cloud architecture with expert knowledge in one of these disciplines",
+   "skills": ["data science", "data engineering", "cloud architecture"],
+   "date_posted": "YYYY-MM-DD"
+}

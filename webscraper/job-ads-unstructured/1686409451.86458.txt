@@ -1,0 +1,39 @@
+Machine Learning Engineer (f/m/d)
+Avelios Medical GmbH
+München
+Vollzeit, Festanstellung
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Festanstellung
+About this role
+Our mission at Avelios is to build the leading software platform for the data-driven digitization of hospitals and patient care. To do so, we have built a modular software platform that digitizes and optimizes workflows in hospitals with cutting-edge technology in a user-friendly way. With our software, we enable hospitals, doctors & nurses to provide their patients with the best possible care.
+
+To continue to shape the future of healthcare, we are looking for a (Senior) Machine Learning Engineer as a key member of our development and research team. Your focus will be on implementing state-of-the-art Machine Learning models in a critical environment and working on large-scale infrastructure.
+In this role, you will
+Work directly with our core development team
+Design and train models on large-scale clinical datasets
+Integrate Machine Learning into medical workflows
+Work with Federated Machine Learning
+Work together with top research facilities
+Have access to high performance computing infrastructure
+What you offer
+Studies in Informatics or Computer Science from a top university or equivalent practical experience
+Experience in one or more: PyTorch, Tensorflow or Keras
+Publications on top conferences or demonstrated state-of-the-art results in Machine Learning applications (Computer Vision and/or NLP)
+Relevant coding experience (GitHub contributions beneficial)
+Interest in learning new technologies
+Fluency in German or English
+What you get
+A deep understanding of our technologies and proficiency in our modern & relevant tech stack
+Ability to gain valuable hands-on experience in a startup backed by top European VCs
+High flexibility, variety in your tasks and the opportunity to take ownership
+Motivating work environment with a diverse team that enjoys working together
+Many perks & benefits as well as a great office in the heart of Munich
+A competitive salary plus a virtual stock option package
+About us
+Working at Avelios means having a direct impact on improving our healthcare system and the quality of patient care. Our software is being used by doctors and nurses in the best hospitals in Germany such as the LMU clinic. We are growing fast and want to keep expanding our team and business to fundamentally digitize healthcare for the better. Now is the perfect time to join our young and diverse team. We’re hiring talented, ambitious and impact-driven individuals who want to make a difference. Do you want to be one of them?
+Diesen Job melden

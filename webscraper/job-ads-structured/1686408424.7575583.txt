@@ -1,0 +1,10 @@
+{
+   "job_title": "Global Head, Data & Analytics Platform",
+   "company": "Novartis",
+   "location": "München",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "Master of Science degree in information technology, software engineering, computer science or related field; Additional Master of Business Administration is a plus. Certification or accreditation in data and analytics platforms is a plus. At least 10 years of IT experience, including serving in a highly qualified leadership role, such as Data Analytics Lead. Experience working with Data & Analytics tools and processes. Experience with hybrid cloud environments is a plus. Experience working with cloud computing technologies for big data is a plus.",
+   "skills": ["people leadership", "change management", "project management", "data analytics", "cloud computing"],
+   "date_posted": "2022-11-23"
+}

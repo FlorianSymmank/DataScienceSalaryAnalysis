@@ -1,0 +1,20 @@
+{
+    "job_title": "Senior Data Scientist- Search and Recommendation",
+    "company": "SoundCloud",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "Bachelor's or Master's degree in Statistics, Mathematics, Engineering or Computer Science...",
+    "skills": [
+        "AI/ML",
+        "statistics",
+        "machine learning",
+        "Tensorflow",
+        "SQL",
+        "problem solving",
+        "communication",
+        "cross-functional collaboration",
+        "innovation"
+    ],
+    "date_posted": null
+}

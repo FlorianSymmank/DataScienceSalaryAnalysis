@@ -1,0 +1,37 @@
+Technical Product Manager - Data Models for Healthcare Organizations
+Veeva Systems
+Berlin
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $2B in revenue in our last fiscal year with extensive growth potential ahead.
+At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We’re not just any public company – we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors.
+As a Work Anywhere company, we support your flexibility to work from home or in the office, so you can thrive in your ideal environment.
+Join us in transforming the life sciences industry, committed to making a positive impact on its customers, employees, and communities.
+The Role
+You will lead the development of healthcare organization data as a new platform capability across Veeva Link products. An innovative and universal data model for healthcare organizations globally will drive value for our Life Sciences customers by utilizing game-changing data and analytics. At Veeva Link, our vision is to ‘Build Connected Data Applications to improve Research and Patient Outcomes’. Your data will enable all products at Veeva Link, from Key People to Key Accounts and represent a core platform capability for Veeva as a whole. You will communicate with product managers, engineers, and data scientists. Therefore, you enjoy being social and analytical and the same time.
+What You’ll Do
+
+Design a global data model for healthcare organizations
+Lead the development of healthcare organization data
+Ensure data quality
+Investigate product and customer needs
+Learn and iterate with product managers, customers, and stakeholders in hospitals
+
+Requirements
+
+Great technical data modeling skills
+Computer science background
+Mental agility
+Team first mentality
+
+Nice to Have
+
+Experience in data for healthcare organizations
+
+#RemoteGermany
+
+Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world.
+
+Veeva is committed to fostering a culture of inclusion and growing a diverse workforce. Diversity makes us stronger. It comes in many forms. Gender, race, ethnicity, religion, politics, sexual orientation, age, disability and life experience shape us all into unique individuals. We value people for the individuals they are and the contributions they can bring to our teams.
+
+Diesen Job melden

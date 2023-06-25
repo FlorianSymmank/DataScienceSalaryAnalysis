@@ -1,0 +1,10 @@
+{
+   "job_title": "Lead Data Engineer",
+   "company": "Yara",
+   "location": "Berlin",
+   "salary_euro": null,
+   "employment_type": "Permanent",
+   "requirements": "At least a Bachelor’s degree in Computer Science, Computer Engineering or related field. Proven experience in developing and managing a scalable data infrastructure. Experience in leading data engineers, data warehouse developers and/or tracking engineers. Strong understanding of data management fundamentals, including concepts such as data dictionaries, data models, validation, and reporting. Experience with data privacy frameworks such as GDPR and handling PII data. Hands on experience in metadata management, data modelling, data analysis, data integration tools. Strong knowledge on SQL & DB systems; Able to code in Python, our preferred tech stack.",
+   "skills": ["Data Architect", "Data Warehouse", "Data Management", "Data Dictionaries", "Data Models", "Data Validation", "Data Reporting", "Metadata Management", "Data Modelling", "Data Analysis", "SQL", "Python"],
+   "date_posted": "2023-05-14"
+}

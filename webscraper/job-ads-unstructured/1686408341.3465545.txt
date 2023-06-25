@@ -1,0 +1,49 @@
+Senior Data Scientist- Search and Recommendation
+SoundCloud
+Berlin
+Schnellbewerbung
+
+SoundCloud is a next-generation music entertainment company powered by an ecosystem of artists, fans, and thriving communities on the pulse of what's new, now, and next in culture. As one of the world's most influential cultural platforms, SoundCloud holds a singular market position as both a music-streaming service with the largest catalog of music and an artist services and distribution business to help artists grow long-term, successful careers.
+
+We are looking for a Sr. Data Scientist for the SoundCloud Search and Recommendation team with a mission to help users to find and play what they're looking for and enable them to explore further to discover great, new music that exists nowhere else and connect directly with the artists who make it. We are looking for innovators who can explore what's scientifically possible for recommendation technology while remaining committed to creating great experience for our customers
+
+As a Data Scientist, you will be working on designing, building, and deploying state-of-the-art Machine Learning algorithms with a focus on delivering high accuracy at scale. You will translate data into insights and convincing stories which could aid objective decision-making on both tactical and strategic level of the team roadmap. In the cross-functional team, you will work on recommendation and implementing data engineering and statistical analysis best practices. You will also take part in the roadmap definition process as well as communicate and influence senior management and executive teams across multiple organizations within SoundCloud. We care more about your ability to read scientific papers, analyze the data and implement models in the form of production-ready code and a positive attitude toward getting things done than any prior knowledge of a particular language or framework.
+
+About you:
+
+Bachelor's or Master's degree in Statistics, Mathematics, Engineering or Computer Science.
+4+ years of experience working in AI/ML and up-to-date with recent advances in the field
+Deep knowledge of statistics specifically in areas such as experimental design, statistical analysis, hypothesis testing
+Solid knowledge of basic machine learning concepts and frameworks including Tensorflow
+Strong SQL skills and the ability to perform ad-hoc analysis using a data warehouse
+Problem solving skills and the ability to deliver concise, actionable solutions from disparate sources of data
+Clear, concise communication skill, both written and oral. You specifically have an aptitude for distilling and capturing key elements and reporting on them for technical and business stakeholders
+Experience working cross-functionally and seeking solutions as a team
+Drive to innovate and make an impact for customers
+Love for music
+
+About us:
+
+We are a multinational company with offices in the US (New York and Los Angeles), Germany (Berlin), and the UK (London)
+We provide a flexible work culture that offers the opportunity to collaborate and connect in person at our offices as well as accommodating work from home
+We are deeply committed to ensuring diversity, equity and inclusion at all levels of our organization and fostering a community where everyone's voice, perspective and experience is respected and heard
+We believe a strong team is made by investing in employees through mentorship, workshops and enrichment opportunities
+You can contribute to our Engineering Blog
+
+Benefits:
+
+Not located in Berlin? No worries, we offer extensive relocation support including allowances, one way flights, temporary accommodation and, by partnering with Expath, on the ground support on arrival
+Interested in a gym membership, photography course or book? We have a Creativity and Wellness benefit!
+Employee Stock Ownership Plan
+Professional development allowance
+Flexible vacation and public holiday policy where you can take up to 35 days of PTO annually
+We offer free German courses at beginning, intermediate and advanced
+Various snacks, goodies and 2 free lunches weekly at the office!
+
+Diversity, Equity and Inclusion at SoundCloud
+
+SoundCloud is for everyone. Diversity and open expression are fundamental to our organization. With this foundation, we aim to build a social platform and global community for everyone to create, discover, and share sounds. We acknowledge the challenges in our industry and strive to develop an inclusive culture where individual contributions are valued. We are dedicated to creating an inclusive environment for everyone, regardless of gender identity, sexual orientation, race, ethnicity, migration background, national origin, age, disability status, or care-giver status.
+
+At SoundCloud you can find your community or elevate your allyship by joining a Diversity Resource Group (groups focused on people of color, LGBTQIA+ folks, and women). You may also participate in inclusive workshops, contribute to our Cultural Moments series, vote on organizations for the SoundCloud Community fund's support, and more!
+
+Diesen Job melden

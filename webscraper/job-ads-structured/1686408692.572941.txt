@@ -1,0 +1,22 @@
+{
+    "job_title": "Praktikant Data Science (m/w/d)",
+    "company": "Kaufland",
+    "location": "74072 Heilbronn",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": "Vollzeit, Befristeter Vertrag",
+    "requirements": "Fortgeschrittenes Studium im Bereich Statistik, (Wirtschafts-) Mathematik, Informatik, Physik, Wirtschaftswissenschaften, Psychologie, Sozialwissenschaften oder einem vergleichbaren Studiengang\nGrundlagenkenntnisse in Statistik und Machine Learning erforderlich\nIdealerweise erste Erfahrungen mit Datenbanken und SQL\nErste Programmiererfahrungen in Python oder R vorausgesetzt\nGute Deutsch- und Englischkenntnisse in Wort und Schrift",
+    "skills": [
+        "Python",
+        "R",
+        "Machine Learning",
+        "Statistik",
+        "Datenbanken",
+        "SQL",
+        "Deutsch",
+        "Englisch"
+    ],
+    "date_posted": null
+}

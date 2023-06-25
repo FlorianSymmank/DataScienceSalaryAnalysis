@@ -1,0 +1,16 @@
+{
+    "job_title": "Intern / Working Student – Cloud Solutions / Data Engineering (m/f/x)",
+    "company": "Grant Thornton AG",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": "Werkstudent",
+    "requirements": "You are a student in Computer Science, Mathematics, business informatics or a comparable field",
+    "skills": [
+        "Azure Cloud infrastructure",
+        "Azure Data Factory",
+        "Azure Functions",
+        "Python",
+        "ETL tools"
+    ],
+    "date_posted": null
+}

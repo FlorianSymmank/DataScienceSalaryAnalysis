@@ -1,0 +1,18 @@
+{
+  "job_title": "Data Scientist – Strategie Analytics (m/w/d)",
+  "company": "BARMER",
+  "location": "73529 Schwäbisch Gmünd",
+  "salary_euro": null,
+  "employment_type": "Teilzeit möglich",
+  "requirements": "Ein abgeschlossenes Studium in einem relevanten Fachbereich mit quantitativem Bezug, gerne mit Erfahrung in empirischer Forschung.\nAußerdem haben Sie mindestens 2 Jahre Berufserfahrung in der Entwicklung und Bereitstellung von Data Science-Produkten.\nAußerdem bringen Sie relevante Erfahrungen im Umgang mit der gängigen Software im Bereich Data Science. Erfahrungen mit der Entwicklung in der Cloud (AWS) sind von Vorteil.\nDarüber hinaus arbeiten Sie gerne eigenverantwortlich und haben Freude daran, sich in neue Themen einzuarbeiten.\nIhre Kommunikationsgabe kommt Ihnen zugute, wenn es darum geht auch schwierige Themen adressatengerecht zu vermitteln.\nDie deutsche Sprache beherrschen Sie fließend in Wort und Schrift.",
+  "skills": [
+    "Data Science",
+    "Skillmanagements",
+    "Wissensaustausch",
+    "Data-Science-Infrastruktur",
+    "Cloud Entwicklung",
+    "AWS",
+    "Empirische Forschung"
+  ],
+  "date_posted": "null"
+}

@@ -1,0 +1,63 @@
+Staff Data Engineer (w/m/d)
+Billie GmbH
+Berlin
+Zum Teil im Homeoffice
+Festanstellung
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Festanstellung
+Billie GmbH Berlin, Germany
+
+Posted 5 days ago Permanent Competitive
+We are Billie, the leading provider of Buy Now, Pay Later (BNPL) payment methods for businesses, offering B2B companies innovative digital payment services and modern checkout solutions. We are to create a new standard for business payments and have made it our mission to simplify the purchasing experience for all businesses making it a tool for growth. Our solutions are based on proprietary, machine-learning-supported risk models, fully digitized processes and a highly scalable tech platform. This makes us a deep-tech company building financial products, not the other way around. We love building simple and elegant solutions and we strive for automation and scalability.
+
+ABOUT THE ROLE:
+
+As a Staff Data Engineer you will support with the following:
+Cultivate innovation by driving cross-team collaboration and execution of projects.
+Design and build robust, scalable, enterprise-ready real time data solutions that will support the entire Company in its futuregrowth.
+Build new capabilities for our business in constant exchange and collaboration with Engineering, Data Scientists and Analysts
+Promote and execute initiatives that cover topics such data quality, governance and discoverability
+Support and mentor the other engineers of the Data Platform Engineering team
+Participate and contribute to architectural working groups for to the data domain and the wider engineering landscape
+Be able to expose with clarity data specific topics to the architectural workgroups
+Billie is growing fast, launching new partnerships and expanding into new markets. To be ready for the challenges ahead we are transforming our technology and are moving toward an event-based data infrastructure. As Staff Data Engineer you will be the technical pillar that will help the Data Platform Engineering team to grow into this new paradigm. You will be an enabler inside and outside the team: we want you to share your experience with others to build their skills, we want others to seek you out for your expertise, and we want your contributions to act as a role model of how things look when they are done well.
+
+Ideally you have 3+ years of expertise in designing and implementing complex and robust streaming platforms (among 6+ in data engineering), you have a very strong hands-on skills and attitude.
+
+Billie's operating language is English, and this role reports into the Data Platform Engineering Manager.
+
+WHO WE ARE LOOKING FOR
+Degree in Computer Science, Engineering or a similar technical field of study, or equivalent practical experience.
+Strong hands-on and design experience in real time and batch data pipelines (notably: Java/Python, Flink, Kafka, Airflow, Kubernetes, AWS, Snowflake )
+Experience with Machine Learning pipelines/Feature Stores
+Experience in architectural designs and patterns of cloud-based highly available systems for the data domain (AWS is a strong plus)
+Definitely a team player that loves to both mentor and learn from others and a huge fan of documentation, ADRs, RFCs
+A good mix of rationality, best practices mindset and pragmatism. We are not looking for the best solution in the world, we want the best one for Billi and want to take the necessary steps in the right order.
+Nice to have: experience in one of decision science/ML/fraud, highly regulated environment, financial services
+Nice to have: security, data protection, compliance
+What we offer:
+Flexible work hours and trust in your ability to deliver, empowering you to take control of your work-life balance
+Hybrid working approach enabling a good balance working from home and the office
+One of the best Virtual Shares Incentive Programs in the market, so that everyone at Billie is invested in our success
+Our Catch a Ride with Billie program, that enables discounted access to Berlin Public Transport (BVG)
+A yearly development budget to broaden your skill set and horizons
+Free German group classes
+An English-speaking, multicultural team with more than 46 nationalities
+Great office space at Checkpoint Charlie with free gym access, barista coffee, drinks and more
+Billie offers you the opportunity to be a part of one of the fastest-growing Fintech startups in Europe following the mission to innovate to create new freedom for businesses of all sizes. Our combined decades of experience in B2B Financing and Payments in a market thirsty for innovation and change make this a fantastic possibility to get into the most dynamic space in tech.
+
+Join an international team of talented, passionate people where drive and merit matter. We work in nimble, cross-functional teams with open communication lines across the company. You'll be surrounded by smart people from a wide variety of backgrounds from which you can learn and that want to learn from you.
+
+Are you ready to join Billie?
+
+Billie is proud to be an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment in our workplace. By embracing talents and abilities of all kinds, we aim to boost motivation and team creativity. We do not discriminate on the basis of race, religion, national origin, age, marital status, gender, political views, beliefs, sexual orientation, color, disability status, or any other demographic factors.
+
+
+
+Job ID 6742830002
+
+Diesen Job melden

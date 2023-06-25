@@ -1,0 +1,18 @@
+{
+   "job_title": "WERKSTUDENT FÜR BIG DATA, DATA SCIENCE UND TOOL-ENTWICKLUNG (M/W/D)",
+   "company": "Blue Reply",
+   "location": "40549 Düsseldorf",
+   "salary_euro": null,
+   "employment_type": "Werkstudent",
+   "requirements": "Du studierst (Wirtschafts-) Informatik, (Wirtschafts-) Mathematik, Physik, BWL oder eine ähnliche Fachrichtung und hast idealerweise erste relevante Erfahrungen gesammelt. Gute Deutsch- und Englischkenntnisse runden dein Profil ab.",
+   "skills": [
+      "Python",
+      "Big Data",
+      "Data Warehousing",
+      "Cloud",
+      "Spark",
+      "Kafka",
+      "Alteryx"
+   ],
+   "date_posted": "Unspecified"
+}

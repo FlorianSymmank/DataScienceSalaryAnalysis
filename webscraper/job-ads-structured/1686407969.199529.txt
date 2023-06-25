@@ -1,0 +1,17 @@
+{
+   "job_title": "Business & Data Analyst",
+   "company": "Solera",
+   "location": "Homeoffice",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "3+ years experience in business analysis role in cross-functional agile software delivery team, data analysis with large and complex data sets and data science/engineering, software development, or technical writing roles\nVery strong analytical skills\nStrong communication skills in English with proven ability to listen and understand technical language, to describe complex problems and solutions efficiently and effectively both in writing and verbally as well as to effectively communicate to different audiences\nExperience in negotiating scope and priorities and balancing them for successful outcomes\nExperience leveraging descriptive data techniques\nExperience uncovering data insights to form hypotheses, designing product experiments, evaluating results and making recommendations\nAdvanced Level SQL\nAbility to thrive in a fully remote organization, being transparent and highly collaborative",
+   "skills": [
+      "analytical skills",
+      "communications skills",
+      "English",
+      "negotiation",
+      "data analysis",
+      "SQL"
+   ],
+   "date_posted": null
+}

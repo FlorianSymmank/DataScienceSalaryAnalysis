@@ -1,0 +1,16 @@
+{
+  "job_title": "IT Specialist - Data and Process Analysis",
+  "company": "TecAlliance",
+  "location": "München",
+  "salary_euro": null,
+  "employment_type": "Berufsausbildung",
+  "requirements": "A good secondary school leaving certificate or better A levels (or other university entrance qualification)\nInterest in mathematics and computer science\nGerman language skills at level C1\nGood language skills in English\nWillingness to work at other locations\nUniversity drop-outs are also welcome! With a certain previous education there is the possibility of shortening the training.",
+  "skills": [
+    "programming languages",
+    "process analysis",
+    "problem solving",
+    "application testing",
+    "data protection"
+  ],
+  "date_posted": null
+}

@@ -1,0 +1,13 @@
+{
+    "job_title": "Data Steward (m/f/d) am Munich Data Science Institute",
+    "company": "Technische Universität München",
+    "location": "80333 München",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": "Befristeter Vertrag",
+    "requirements": "Masterabschluss oder höher, vorzugsweise in Data Science / Ingenieurwissenschaften / IT-Management / Pflanzenwissenschaften-Studien mit Bezug zum Datenmanagement\nBerufserfahrung im Bereich Daten-/Informationsmanagement oder verwandten Themen (Data Science, Datenqualitätssicherung, Erfahrung als Data Steward o.ä.)\nAusgeprägte wissenschaftliche, konzeptionelle und analytische Fähigkeiten, nachgewiesene Erfahrungen im Projektmanagement und/oder in der Beratung\nAusgeprägte schriftliche und mündliche Kommunikationsfähigkeiten in englischer Sprache und nachweislich exzellente Präsentationsfähigkeiten mit einem hohen Maß an Sicherheit in der effektiven Kommunikation mit internen und externen Organisationen und über Hierarchien hinweg (Deutsch ist wünschenswert, aber nicht erforderlich)\nKenntnisse in der Erbringung von Verwaltungsdienstleistungen, einschließlich Kenntnisse im Betrieb von IT-Systemen und -Dienstleistungen sowie Betriebssystemen wünschenswert",
+    "skills": ["Datenmanagement", "Projektmanagement", "Data Science", "Datenqualitätssicherung", "Kommunikation"],
+    "date_posted": null
+}

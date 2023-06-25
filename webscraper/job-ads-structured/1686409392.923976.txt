@@ -1,0 +1,20 @@
+{
+  "job_title": "Internship / Bachelor Thesis in the field of Computer Science (m/f/d)",
+  "company": "AOE GmbH",
+  "location": "Wiesbaden",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Praktikum",
+  "requirements": "Advanced studies in computer science or similar\nExperience in object-oriented programming and high quality standards\nKnowledge in at least one of the following programming languages: Java, Go, Kotlin, JavaScript (React, Vue), TypeScript\nData base knowledge (e.g. MySQL) and cloud infrastructure know-how (e.g. AWS, Kubernetes) would be a plus\nHigh quality standards\nFluent German and good English language skills",
+  "skills": [
+    "Advanced studies in computer science or similar",
+    "Experience in object-oriented programming and high quality standards",
+    "Knowledge in at least one of the following programming languages: Java, Go, Kotlin, JavaScript (React, Vue), TypeScript",
+    "Data base knowledge (e.g. MySQL) and cloud infrastructure know-how (e.g. AWS, Kubernetes) would be a plus",
+    "High quality standards",
+    "Fluent German and good English language skills"
+  ],
+  "date_posted": null
+}

@@ -1,0 +1,16 @@
+{
+   "job_title": "Projektmanager/Data Scientist/Business Analyst (w/m/d)",
+   "company": "Drees & Sommer",
+   "location": "Leipzig, Dresden, Erfurt oder Magdeburg",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "Erfolgreich abgeschlossenes Studium der Natur- bzw. Wirtschaftswissenschaften vorzugsweise der Bau- oder Wirtschaftsinformatik oder eine vergleichbare Qualifikation",
+   "skills": [
+      "Data Science",
+      "Business Analytics",
+      "BI-Lösungen",
+      "Teamfähigkeit",
+      "Analytisches Denken"
+   ],
+   "date_posted": "2021-10-13"
+}

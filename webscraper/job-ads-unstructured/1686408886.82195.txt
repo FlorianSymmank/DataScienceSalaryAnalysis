@@ -1,0 +1,119 @@
+Machine Learning Engineer (m/f/d)
+Valeo
+Lübeck
+Vollzeit, Festanstellung
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Festanstellung
+
+Valeo is a tech global company, designing breakthrough solutions to reinvent the mobility. We are an automotive supplier partner to automakers and new mobility actors worldwide. Our vision? Invent a greener and more secured mobility, thanks to solutions focusing on intuitive driving and reducing CO2 emissions. We are leader on our businesses, and recognized as one of the largest global innovative companies.
+
+Would you like to shape the future of intelligent mobility together with us? Join our VALEO team now and revolutionize the experience of autonomous and connected driving with us.
+
+Welcome to gestigon - a Valeo brand . As one of the leading companies worldwide Valeo develops, manufactures and distributes components, integrated systems and modules for automobiles and utility cars. As part of Valeo’s Comfort & Driving Assistance Systems Business Group, gestigon specializes in software development, machine learning and artificial intelligence solutions. It offers sensor-agnostic disruptive software for our Interior Cocoon solutions, in particular gesture recognition and behavior tracking. The office and lab of gestigon are located in Lübeck , Germany.
+
+Overall Mission
+
+Together with your team you develop solutions ranging from comfort/entertainment to safety-critical in an automotive environment by using cutting-edge algorithms.
+
+You are responsible for designing ML software components within a product. You have a very good foundation and detailed knowledge about machine learning algorithms, both traditional and modern. At a project level, you are the interface between the function owner, data acquisition, embedded and the validation teams. You are expected to deliver technical solutions fulfilling project requirements, perform associated tests and validation and provide documentation.
+
+These challenges await you as Machine Learning Engineer:
+
+Design and train Machine Learning models based on project requirements and within relevant frameworks
+
+Deliver algorithms, tooling, scripts etc. to build model from associated dataset
+
+Ensure the robustness of the model by defining the appropriate KPIs
+
+Take into account the project constraints such as limited data or limited computational power and design the models accordingly (together with the ML Embedded Engineer / Architect)
+
+Manage the experiments and datasets such that they are reproducible and repeatable
+
+Regular technical watch on the recent Machine Learning community research outcomes and trends
+
+Take part in component integration and tests for the final product
+
+You inspire us with that:
+
+M.Sc. in Computer Science or related with focus in Machine Learning
+
+Professional experience in working with a team of engineers on a Machine learning product
+
+Good Python programming skills (C/C++ is a plus)
+
+Knowledge about code versioning tools (Git/SVN), code quality, documentation, testing
+
+Practical experience with Machine Learning frameworks: TensorFlow, PyTorch
+
+Detailed understanding of Machine Learning concepts, including modern deep neural networks
+
+Proven structured approach to managing experiments and datasets
+
+Excellent written and spoken English skills
+
+Why Valeo:
+
+Monetary. Performance-related salary package and company pension scheme (allowance).
+
+Career development. Scope to develop your own ideas as well as professional and personal development opportunities worldwide.
+
+Benefits. Allowances for sports, health, pension scheme, canteen, JobRad, regular employee events and much more.
+
+Flexibility. Working models that harmonize your professional and private life.
+
+Setting. Flat hierarchies and modern working methods provide you with an innovative working environment.
+
+Future. Together we work on the trend topics of tomorrow's mobility.
+
+Great technologies are born from passion!
+
+Thanks to our innovation-focused strategy, at Valeo we are at the heart of the three revolutions that are transforming the automotive sector for good: Electrification, autonomous and connected vehicles, and digital mobility. We offer you excellent career opportunities and the chance to play an active role in shaping these revolutionary developments, including internationally.
+
+Would you like to find out more?
+
+Stefanie Küchler
+
+Tel: +49 (0) 151 520 32 904
+
+For data protection reasons, please submit your application documents exclusively online via the job portal on our website www.valeo.com/de/karriere/ .
+
+Follow us on LinkedIn and Twitter Germany!
+
+Job:
+
+R&D Engineer
+
+Organization:
+
+Engineering Software CDA
+
+Schedule:
+
+Full time
+
+Employee Status:
+
+Regular
+
+Job Type:
+
+Permanent contract
+
+Job Posting Date:
+
+2023-04-25
+Join Us !
+Being part of our team, you will join:
+
+one of the largest global innovative companies, with more than 20,000 engineers working in Research & Development
+a multi-cultural environment that values diversity and international collaboration
+more than 100,000 colleagues in 31 countries... which make a lot of opportunity for career growth
+a business highly committed to limiting the environmental impact if its activities and ranked by Corporate Knights as the number one company in the automotive sector in terms of sustainable development
+
+More information on Valeo: https://www.valeo.com
+Diesen Job melden

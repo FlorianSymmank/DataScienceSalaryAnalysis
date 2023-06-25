@@ -1,0 +1,19 @@
+{
+    "job_title": "Associate Study Manager (m/f/d), Next Generation Sequencing, Europe",
+    "company": "Azenta",
+    "location": "Leipzig (Wiederitzsch)",
+    "salary_euro": null,
+    "employment_type": "Full-time",
+    "requirements": "B.Sc./ B.A. in Life Sciences required, MS preferred. Initial relevant experience preferred. Background in molecular biology required with experience in genetics and genomics preferred. Customer service and/ or scientific presentation experience preferred. Excellent interpersonal skills. Strong attention to detail and organized work style are essential. English language skills, verbal and written, are essential. German and/ or French language skills are an advantage. Master common office software (especially Outlook, Word, Excel, PowerPoint).",
+    "skills": [
+        "customer service",
+        "project management",
+        "scientific knowledge",
+        "interpersonal skills",
+        "attention to detail",
+        "organizational skills",
+        "language skills",
+        "office software"
+    ],
+    "date_posted": "2021-11-16"
+}

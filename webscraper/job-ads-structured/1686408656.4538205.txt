@@ -1,0 +1,21 @@
+{
+    "job_title": "Web Scraper - Python or C# (m/f/d)",
+    "company": "u:fynd",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "You are the perfect match if you…\n\nhave a bachelor’s degree in computer science, computer or data engineering, business informatics or similar.\n\nare passionate about programming.\n\nhave first experience in web scraping and knowledge of HTML, css selection & xpath.\n\nlike to own responsibility and work in an environment where your work has a direct business impact.\n\nhave good knowledge with database systems and using client-server as well as web server and microservice architecture.\n\nare familiar with the design patterns MVC, MVP, MVVM, and TDD.\n\nwork with attention to detail and focus on quality.\n\nspeak English fluently (German is a plus).",
+    "skills": [
+        "Python",
+        "C#",
+        ".NET Core",
+        "ASP.net",
+        "Kubernetes",
+        "Microsoft Azure",
+        "AWS",
+        "SQL",
+        "NoSQL",
+        "RESTful API"
+    ],
+    "date_posted": null
+}

@@ -1,0 +1,10 @@
+{
+"job_title": "Softwareentwickler* / Data Scientist*",
+"company": "SICK AG",
+"location": "Reute (bei Freiburg), DE, 79276",
+"salary_euro": null,
+"employment_type": "Vollzeit",
+"requirements": "Sie haben einen Hochschulabschluss in (Technischer) Informatik, Computer Science, Elektrotechnik, Physik, Mathematik oder eine vergleichbare Qualifikation\nIdealerweise haben Sie bereits erste Berufserfahrung gesammelt, engagierter Einsteiger* willkommen\nErfahrung im Bereich im Bereich Data Science insbesondere in der Anwendung künstlicher neuronaler Netze\nProgrammierkenntnisse in Python, C#, Docker\nGute Englischkenntnisse\nIhre systematische sowie strukturierte Denk- und Vorgehensweise zeichnet Sie aus\nIhre Kreativität in der Lösungsfindung sowie Ihre Innovationsfreude zählt zu ihren Stärken\nIhre ausgeprägte Kommunikations- und Teamfähigkeit rundet Ihr Profil ab",
+"skills": ["Python","C#","Docker"],
+"date_posted": null
+}

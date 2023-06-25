@@ -1,0 +1,10 @@
+{
+  "job_title": "Architect Big Data & Data Science (m/w/d)",
+  "company": "Camelot ITLab GmbH",
+  "location": "Mannheim",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Sie bringen mehrere Jahre Erfahrung im Bereich Big-Data- und Data-Science-Architektur mit und haben diese bereits erfolgreich unternehmensweit eingeführt.  Sie haben tiefgreifende Kenntnisse im Bereich Data Orchestration und Data Lake Architektur (z. B. Hadoop oder Graph Databases). Sie haben Erfahrungen in der Nutzung von Cloud-Plattformen (präferiert sind die Hyperscaler AWS, Azure und Goolge Cloud Platform GCP) sowie im Bereich Data Warehousing. Kenntnisse im Bereich Analysen und Erfahrung in der Verwendung von Python, R oder vergleichbaren Tools sind von Vorteil. Hohes Maß an Datenaffinität und Datenverständnis. Sie haben zudem Spaß an der Arbeit im Team sowie an Kundenkontakt und sind offen für Reisen. Sichere Kommunikations- und Präsentationsfähigkeiten auf Englisch und Deutsch setzen wir voraus.",
+  "skills": ["Big Data", "Data Science", "Data Orchestration", "Data Lake Architecture", "Cloud Platforms", "Data Warehousing", "Python", "R", "Communication Skills", "Presentation Skills"],
+  "date_posted": null
+}

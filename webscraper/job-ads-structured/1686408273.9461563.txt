@@ -1,0 +1,10 @@
+{
+"job_title": "Data Science Werkstudent:in (m/w/d)",
+"company": "A-Force",
+"location": "Münster",
+"salary_euro": null,
+"employment_type": "Werkstudent",
+"requirements": "Du bist eingeschriebene/r Student/in mit dem Schwerpunkt Mathe, Wirtschaftsinformatik, Computer Science, Wirtschaftsingenieurwesen oder Ähnlichem",
+"skills": ["analytical thinking", "data analysis", "dashboard creation", "quality management", "problem-solving", "consulting", "Microsoft Excel", "Python", "SQL", "data visualization tools"],
+"date_posted": "YYYY-MM-DD"
+}

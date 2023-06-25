@@ -1,0 +1,16 @@
+{
+    "job_title": "Werkstudent/Praktikant Data Science/ Data Engineering (m/w/d)",
+    "company": "neonBlue",
+    "location": "01217 Dresden",
+    "salary_euro": null,
+    "employment_type": "Praktikum, Werkstudent",
+    "requirements": "Du absolvierst gerade ein laufendes Studium der Informatik, Wirtschaftsinformatik, Mathematik oder eines vergleichbaren Studiengangs",
+    "skills": [
+        "Leidenschaft für die Aufbereitung und Durchführung von statistischen Analysen auf Basis großer strukturierter und unstrukturierter Datenmengen",
+        "sehr gute Kenntnisse in Excel",
+        "Fähigkeit, sich in neue Themengebieten zügig einzuarbeiten und Freude am analytischen Denken",
+        "Eigeninitiative und starke Zuverlässigkeit",
+        "sehr gute Eigenorganisation und Selbstständigkeit"
+    ],
+    "date_posted": null
+}

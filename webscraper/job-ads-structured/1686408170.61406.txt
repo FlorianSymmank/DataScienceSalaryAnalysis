@@ -1,0 +1,10 @@
+{
+   "job_title": "Data Scientist",
+   "company": "paiqo GmbH",
+   "location": "33106 Paderborn",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "Good analytical and problem-solving skills, critical thinking, and an ability to explore and understand customers’ technical ecosystems and data, as well as an ability to communicate complex technical problems and their solutions clearly\nExperience in the Python and/or R Data Science ecosystems\nInterest in working with visualization tools (PowerBI, etc.)\nInterest in modern cloud-based data architecture and cloud services\nInterest in working with Spark and the Hadoop stack\nReadiness to travel\nGerman and English fluently spoken and written\nDeep understanding of the overall Data Science workflow including the most common algorithms\nExperience in working with various databases (SQL and NoSQL)\n5+ years of experience in a similar role\nAbility to handle the full data science lifecycle from conception to deployment",
+   "skills": ["Python", "R Data Science", "visualization tools", "cloud-based data architecture", "Spark", "Hadoop", "SQL", "NoSQL", "communication", "problem-solving", "critical thinking", "German", "English", "Data Science workflow"],
+   "date_posted": "yyyy-mm-dd"
+}

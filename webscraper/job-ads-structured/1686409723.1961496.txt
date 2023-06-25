@@ -1,0 +1,10 @@
+{
+  "job_title": "Bachelor or Master Thesis/ IDP / Forschungspraxis (m/f/d) FPGA Data Processing for LiDAR",
+  "company": "Blickfeld GmbH",
+  "location": "80339 München, Zum Teil im Homeoffice",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "You are currently studying computer science or electrical engineering (or similar)",
+  "skills": ["VHDL", "Verilog", "C", "C++", "Xilinx FPGAs", "Linux", "English communication"],
+  "date_posted": null
+}

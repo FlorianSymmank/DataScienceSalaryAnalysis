@@ -1,0 +1,22 @@
+{
+   "job_title": "Data Analyst (m/w/d)",
+   "company": "accantec group",
+   "location": "Homeoffice",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "Abgeschlossenes Studium der Informatik, Wirtschaftsinformatik oder anderer IT-naher Studiengänge. Erste Erfahrung mit Tableau oder MS Power BI, gerne auch in weiteren BI-Technologien. Erste Erfahrung in den Bereichen Business Intelligence und Datenanalyse. Kenntnisse in den gängigen Datenbank-Technologien, insbesondere in SQL. Leidenschaft für Daten, Datenbanken und Datenvisualisierung. Eigenverantwortliche und selbständige lösungsorientierte Arbeitsweise sowie Entwicklung innovativer Lösungswege. Kommunikations- und Präsentationssicherheit mit ausgeprägter Dienstleistungs- und Serviceorientierung. Flexibilität und eine gewisse Reisebereitschaft in Abhängigkeit vom Kundenprojekt",
+   "skills": [
+      "Tableau",
+      "MS Power BI",
+      "BI-Technologien",
+      "Business Intelligence",
+      "Datenanalyse",
+      "Datenbank-Technologien",
+      "SQL",
+      "Daten",
+      "Datenvisualisierung",
+      "Kommunikationsfähigkeit",
+      "Serviceorientierung"
+   ],
+   "date_posted": null
+}

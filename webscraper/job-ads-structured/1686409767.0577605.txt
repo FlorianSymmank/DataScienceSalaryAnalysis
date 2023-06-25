@@ -1,0 +1,19 @@
+{
+   "job_title": "Data Platform Engineer (m/w/d)",
+   "company": "IT4IPM",
+   "location": "Berlin",
+   "salary_euro": null,
+   "employment_type": null,
+   "requirements": "Abgeschlossenes Studium in einem relevanten Bereich (z. B. Informatik, Data Science, Mathematik) oder vergleichbare Qualifikation",
+   "skills": [
+      "Terraform",
+      "GCP",
+      "Python",
+      "SQL",
+      "Spark",
+      "Docker",
+      "Kubernetes",
+      "Kafka"
+   ],
+   "date_posted": "2023-06-07"
+}

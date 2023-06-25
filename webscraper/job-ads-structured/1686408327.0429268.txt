@@ -1,0 +1,10 @@
+{
+  "job_title": "(Senior) Data Analyst",
+  "company": "Warner Music Central Europe",
+  "location": "20457 Hamburg",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Du hast ein Studium im Bereich der Informatik, Natur-, Sozial- oder Wirtschaftswissenschaften erfolgreich abgeschlossen\nDu kannst auf mehrjährige Erfahrung in einer Data Analytics oder Data Science Funktion zurückblicken\nDu beherrschst SQL, sowie R und/oder Python und visualisierst Daten in einer BI Suite, bestenfalls in Tableau\nDu denkst nicht nur analytisch und bist von Natur aus neugierig, sondern schaffst es auch mit Deiner Kommunikationsstärke, Dein Umfeld für die Welt der Daten zu begeistern",
+  "skills": ["SQL", "R", "Python", "Tableau"],
+  "date_posted": null
+}

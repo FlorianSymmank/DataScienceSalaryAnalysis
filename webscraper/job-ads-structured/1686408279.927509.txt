@@ -1,0 +1,19 @@
+{
+    "job_title": "Junior Data Strategist",
+    "company": "ZEISS Group",
+    "location": "München",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "An excellent university degree in business informatics, business administration, computer science, engineering, mathematics, or in a related field, paired with a passion for data and its visualization At least 2 years relevant professional experience, experience in a consultant role is a plus The ability to structure and develop your own frameworks, methods and approaches and communicate them in a structured and easy-to-grasp way A natural interest in state-of-the-art technological developments and a good understanding of technical feasibility of data-driven products and services An understanding of the relevance of data integration, data management and data quality in a corporate environment Been part of a data project end-to-end, from data cleaning to data integration, modelling, and productizing A basic understanding of cloud technologies and how they interact Experience in data management concepts, data modelling and visualization skills in Python is a plus Data mindset, willingness to improve data literacy, understanding its importance Excellent communication skills and ability to handle multiple tasks and interact with various stakeholders while inspiring people Excellent English skills, German is recommended",
+    "skills": [
+        "data visualization",
+        "data-driven solutions",
+        "project management",
+        "data literacy",
+        "cloud technologies",
+        "data management",
+        "Python",
+        "communication"
+    ],
+    "date_posted": null
+}

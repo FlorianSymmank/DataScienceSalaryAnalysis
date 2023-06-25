@@ -1,0 +1,19 @@
+{
+  "job_title": "Educational Data Scientist",
+  "company": "StackFuel GmbH",
+  "location": "10407 Berlin",
+  "salary_euro": null,
+  "employment_type": "Full-time",
+  "requirements": "Du hast ein abgeschlossenes Studium (Master oder PhD) im Fachbereich Data Science, Ökonometrie, Informatik, Wirtschaftsinformatik, Statistik oder ähnliches. Du verfügst über 1 - 2 Jahre Berufserfahrung im Bereich Data Science, Data Analytics, Business Intelligence oder angrenzenden Fachbereichen. Idealerweise hast du Erfahrungen als Tutor: in oder wissenschaftliche: r Mitarbeiter: in. Du sprichst und schreibst Deutsch auf hohem Niveau (C2).",
+  "skills": [
+    "Python",
+    "pandas",
+    "sklearn",
+    "Algorithmen der künstlichen Intelligenz",
+    "Natural Language Processing",
+    "Zeitreihenanalysen",
+    "Back-End-Programmierung",
+    "Django"
+  ],
+  "date_posted": "2021-09-28"
+}

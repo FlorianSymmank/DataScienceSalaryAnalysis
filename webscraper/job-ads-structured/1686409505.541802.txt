@@ -1,0 +1,13 @@
+{
+   "job_title": "Bachelor or Master Thesis: Communication Protocols for Data Center Power Supplies (m/f/d)",
+   "company": "Delta Energy Systems",
+   "location": "Soest",
+   "salary_euro": null,
+   "employment_type": "thesis",
+   "requirements": "Studies in electrical engineering, communications engineering, computer science or similar",
+   "skills": [
+      "knowledge in communication protocols (I2C, UART, CAN-Bus, SMBus/PMbus, Modbus\u2026)",
+      "basic experience in embedded C, C++, C# or Python"
+   ],
+   "date_posted": "2021-10-05"
+}

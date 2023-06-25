@@ -1,0 +1,13 @@
+{
+   "job_title": "Data Scientist Pharmaceuticals (w/m/d)",
+   "company": "GWQ ServicePlus AG",
+   "location": "40549 Düsseldorf",
+   "salary_euro": {
+      "amount": null,
+      "period": null
+   },
+   "employment_type": null,
+   "requirements": "Abgeschlossenes Hochschulstudium in den Bereichen Gesundheitsökonomie, Public Health,Epidemiologie, Pharmazie, BWL/VWL, Data Science oder verwandten Fachrichtungen Berufserfahrung in der Analyse von Gesundheitsdaten, insbesondere in der Erstellung, Anwendung, Interpretation statistischer und stochastischer Modelle im Themenschwerpunkt Arzneimittelversorgung Kenntnisse im Umgang mit Abrechnungsdaten im Gesundheitswesen Kenntnisse des deutschen Gesundheitssystems und seiner Akteure, Fachbegriffe etc. Erfahrungen in der Arbeit mit relationalen Datenbanken (Microsoft SQL Server oder ähnliches) Fundierte Kenntnisse in gängiger Statistik- oder Data Mining-Software (z.B. R, Python) Teamfähigkeit, Belastbarkeit, Engagement und Flexibilität",
+   "skills": ["Analyse von Gesundheitsdaten", "Erstellung stochastischer Modelle", "Umgang mit Abrechnungsdaten im Gesundheitswesen", "relationalen Datenbanken", "Data Mining-Software", "Teamfähigkeit", "Belastbarkeit"],
+   "date_posted": null
+}

@@ -1,0 +1,10 @@
+{
+  "job_title": "Data Scientist w/ Back-End Development Experience (f/m/d)",
+  "company": "Layover Solutions",
+  "location": "Homeoffice",
+  "salary_euro": null,
+  "employment_type": "Remote",
+  "requirements": "A degree in Computer Science, Statistics, Mathematics, or a related field.",
+  "skills": ["Python", "FastAPI", "data analysis", "data modeling", "data pipelines", "microservices", "relational databases", "NoSQL databases", "cloud computing", "machine learning", "statistical modeling", "data visualization"],
+  "date_posted": "2021-09-07"
+}

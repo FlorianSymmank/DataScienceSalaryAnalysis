@@ -1,0 +1,15 @@
+{
+    "job_title": "(Junior) Data Analytics Engineer (m/w/d)",
+    "company": "Werusys",
+    "location": "Köln",
+    "salary_euro": null,
+    "employment_type": "Festanstellung",
+    "requirements": "Abgeschlossene Ausbildung zum Fachinformatiker oder abgeschlossenes (Fach-) Hochschulstudium der (Wirtschafts-) Informatik bzw. eine vergleichbare Ausbildung. Du verfügst über Kenntnisse im Bereich Data Science, Statistik, C# oder ähnliche objektorientierte Programmiersprachen. Du bist zuverlässig, engagiert und arbeitest gerne im Team. Du begeisterst dich für neue Technologien. Gute Englischkenntnisse.",
+    "skills": [
+        "Data Science",
+        "Statistik",
+        "C#",
+        "Objektorientierte Programmierung"
+    ],
+    "date_posted": null
+}

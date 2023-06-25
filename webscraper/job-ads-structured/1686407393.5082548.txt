@@ -1,0 +1,23 @@
+{
+   "job_title": "Data Scientist",
+   "company": "Enter",
+   "location": "10407 Berlin",
+   "salary_euro": {
+      "amount": null,
+      "period": null
+   },
+   "employment_type": null,
+   "requirements": "At least a bachelor's degree in data science, machine learning, mathematics, informatics etc. or in physics, civil engineering or similar with applied knowledge of machine learning models",
+   "skills": [
+      "Python",
+      "SQL",
+      "data science",
+      "machine learning",
+      "regression",
+      "classification",
+      "forecasting",
+      "recommendation systems",
+      "NLP"
+   ],
+   "date_posted": null
+}

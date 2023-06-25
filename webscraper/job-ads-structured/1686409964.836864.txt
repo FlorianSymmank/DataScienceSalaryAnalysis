@@ -1,0 +1,19 @@
+{
+    "job_title": "Doktorand*in und wissenschaftliche*r Mitarbeiter*in (w/m/div) im SOEP",
+    "company": "DIW Berlin e.V. Deutsches Institut für Wirtschaftsforschung",
+    "location": "Berlin",
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": "Teilzeit, Befristeter Vertrag",
+    "requirements": "Abgeschlossenes wissenschaftliches Hochschulstudium im Bereich Data Science, Statistik, Surveystatistik, empirische Sozialwissenschaften oder Volkswirtschaftslehre",
+    "skills": [
+        "statistische Erzeugung synthetischer Daten",
+        "Zusammenarbeit mit Forschenden",
+        "Präsentation der Studienergebnisse",
+        "Analyse von quantitativen Befragungsdaten",
+        "Sicherer Umgang mit Datenanalysemethoden und Software insbesondere R"
+    ],
+    "date_posted": null
+}

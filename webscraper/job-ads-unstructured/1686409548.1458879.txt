@@ -1,0 +1,56 @@
+Senior Data Scientist
+Blue Yonder
+76149 Karlsruhe
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+What we intend together
+At Blue Yonder, the Best Balance Ordering team is responsible for generating millions of fully automated order decisions for major grocery retailers every single day. We optimize our customer’s supply chain by:
+managing scarce resources in distribution centers, taking into account constraining factors such as labor capacity and limited product quantities
+preventing empty shelves in every single store, resulting in fewer lost sales and more satisfied customers
+drastically reducing waste of fresh products, which not only has a substantial impact on the environment, but also increases the overall turnover.
+all is packaged in a live cloud software as a service solution that reliably provides business critical decisions in a short time window
+Making the right ordering decisions time and time again is important and has a great impact. We are one of only a few companies in the world that have solved the difficult problem of bringing Data Science into production while keeping costs and operations in check. We continue to relentlessly drive innovation to achieve our vision of an autonomous supply chain. Along the way, we have solved many interesting and challenging problems, and we would love to have you on board for the continuation of this journey.
+
+What your role is with us
+Collaborating in a diverse and inclusive environment with passionate Data Scientists and Software Engineers improving our SaaS solution
+Devising and implementing stochastic optimization algorithms and data pipelines
+Improving existing algorithms and software architecture to run more effectively and efficiently
+Contribute to scoping, design, implementation and testing for an expanding set of features
+Work with other Blue Yonder teams to ensure smooth integration of best balance ordering with BY's common cognitive replenishment and planning platform and solutions
+What you can bring to us
+Your motivation to work on complex problems and deliver simple and elegant designs and solutions
+Data science and software engineering expertise ideally in both Python and modern C++
+Familiarity with statistics and knowledge of one or more areas such as quantitative modeling, heuristics, combinatorial optimization, or operations research.
+What we offer
+An opportunity to have positive real-world impact
+Data Science challenges with direct customer business contact and impact, be it when engineering new enhancements or when hunting down for a critical customer issue
+Agile and test-driven software development is what we live by
+We value a scientific approach to problem solving in a friendly and collaborative team where your input and opinion counts
+We pride ourselves in working on a product that is continuously improving and being part of a team that listens and learns from each other as well as our customers.
+We are working with modern industry standards like Azure Cloud Services and Snowflake
+Proactive support of your career development through mentoring, training and participation in conferences
+An open-source compatible environment and the possibility to try out new approaches
+Offices in
+Karlsruhe, a beautiful, green and bike-friendly city centrally located in the south of Germany very close to the Black Forest, France, Switzerland…
+Hamburg, a vibrant harbor city, multi faceted and multi cultural and close to the sea...
+A work place that balances work and private/family life offering benefits such as additional global day-offs for employee well-being, flexible work hours and parental leave.
+The flexibility to split your work between the office and from home/remote working
+
+Are you thrilled about the opportunity, but afraid to apply because you don’t check all boxes? We’d still love to hear from you! We will do our best to hire for potential rather than only qualification. If you are into programming and have a quantitative background, such as math, physics, economics,
+Our Values
+
+If you want to know the heart of a company, take a look at their values. Ours unite us. They are what drive our success – and the success of our customers. Does your heart beat like ours? Find out here:
+Core Values
+Diversity, Inclusion, Value & Equality (DIVE)
+is our strategy for fostering an inclusive environment we can be proud of. Check out Blue Yonder's inaugural
+Diversity Report
+which outlines our commitment to change, and our
+video
+celebrating the differences in all of us in the words of some of our associates from around the world.
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.
+Diesen Job melden

@@ -1,0 +1,10 @@
+{
+    "job_title": "Principal Applied Scientist - optimisation",
+    "company": "Zalando",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": "Full-time",
+    "requirements": "You have scientific depth and breadth. You have a good overview over operations research, machine learning (especially for business problems including forecasting).\nYou have experience in machine learning, including practical applications as well as a strong understanding the underlying mathematical concepts\nYou have successfully developed solutions from early research through prototyping to production\nEntrepreneurial and commercially minded attitude. You like to build pragmatic, scalable solutions that deliver business impact\nExperience in the eCommerce Fulfillment / Supply Chain domain is a plus",
+    "skills": ["operations research", "machine learning", "mathematics", "product development", "entrepreneurship", "eCommerce", "supply chain"],
+    "date_posted": "2021-09-03"
+}

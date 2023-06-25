@@ -1,0 +1,65 @@
+Infrastructure Engineer (m/w/d)
+Smart Steel Technologies GmbH
+12489 Berlin
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+YOUR TASKS
+
+Smart Steel Technologies is a fast-growing Berlin-based startup, revolutionizing steel production by reducing energy and carbon footprint through machine learning. We are seeking an experienced Infrastructure Engineer to join our team and develop scalable, reliable, and efficient infrastructure for our machine learning solutions.
+
+Key Responsibilities:
+
+Design, develop, and maintain event-driven architecture and data pipelines for machine learning applications in an industrial production environment
+
+Work with DevOps, software, and ML engineers to integrate ML models into production systems, ensuring scalability, reliability, and performance
+
+Build monitoring tools and anomaly detection systems to ensure data integrity and auditability
+
+Research and implement new technologies to enhance ML infrastructure and workflows
+
+Participate in cross-stakeholder collaboration and decision-making processes
+
+YOUR PROFILE
+
+At least 3 years of experience in designing, developing, and maintaining ML infrastructure and workflows
+
+Excellent communication and problem-solving skills, with the ability to work in a team environment
+
+Proficiency in event-driven architectures, event sourcing with Kafka (preferred) and/or other message passing technologies (e.g., RabbitMQ, IBM MQ)
+
+Experience with stream processing within the Kafka ecosystem (KafkaConnect, KafkaStreams, ksqlDB, Confluent Schema Registry, etc.) is an advantage
+
+Strong programming skills in Python (preferred) and/or one or more other modern languages, such as Java, Scala, Modern C++, C#
+
+Solid understanding of distributed systems, cloud computing, and containerization technologies, including Kubernetes and Docker
+
+Familiarity with software engineering best practices and Agile development methodologies
+
+Familiarity with relational (e.g., PostgreSQL, Oracle) and time-series databases (e.g., ClickHouse, InfluxDB)
+
+Prior experience in industrial settings (e.g., SCADA, industrial IoT) is an advantage
+
+Bachelor's or Master's degree in Computer Science, Electrical Engineering, or a related field is preferred
+
+BENEFITS
+
+Transparency of business strategies
+Working in our Berlin Office (incl. 2 Home Office days/week)
+Autonomy balanced by responsibility
+Cohesive, multidisciplinary team
+Meaningful industrial problems
+Modern machine learning techniques
+Modern software stack
+Sleek, new office located in Berlin
+Professional educational opportunities
+German language courses and public transport included
+
+About us
+
+Smart Steel Technologies supplies ready-to-use artificial intelligence software products for process optimization in steel mills that lead to improved quality, reduction of energy cost and improvement of CO2 efficiency. The machine learning and data science we employ comes in several varieties: image processing, signal processing, classical supervised modeling, unsupervised methods, and fundamental statistics and probability. We are hiring a talented Engineers and Developer to join our team and help us to further develop our industry leading solutions.
+
+Diesen Job melden

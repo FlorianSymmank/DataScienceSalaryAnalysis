@@ -1,0 +1,18 @@
+{
+  "job_title": "Data Scientist - Digitalization, Trading & Origination (m/f/d)",
+  "company": "Statkraft",
+  "location": "Düsseldorf",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Education in Computer Science or similar (MSc. / Ph.D., though B.Sc. considered in exceptional cases)\n3 years+ experience with demonstrated ‘data pipeline’ and devops or systems engineering skills (ideally in a trading environment)",
+  "skills": [
+    "Git Version Control",
+    "Python 3.6+",
+    "Python package management",
+    "Experience with IDE / PyCharm/ VSCode",
+    "Object Oriented Software Programming (C, C++, Rush)",
+    "Familiarity with cloud services and microservices (Azure, AWS, Google)",
+    "Collaboration frameworks (Jira, Confluence, Gitlab )"
+  ],
+  "date_posted": null
+}

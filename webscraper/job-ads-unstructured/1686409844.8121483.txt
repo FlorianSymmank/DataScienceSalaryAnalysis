@@ -1,0 +1,54 @@
+MRI Scientist (m/f/d)
+DeepSpin
+Berlin
+80.000 € pro Jahr - Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Gehalt
+80.000 € pro Jahr
+Anstellungsart
+Vollzeit
+
+About DeepSpin
+DeepSpin is a DeepTech startup developing next-gen MRI machines powered by machine learning. Headquartered in Berlin, we are now expanding our world-class technical team after another round of investment. This is a fantastic opportunity to join a team motivated to bring a life-saving technology to the 5 billion people that cannot currently afford it.
+
+About the Role
+At DeepSpin, you will be joining the software R&D team of the Berlin office. This team will develop the algorithms that the MRI machine relies on, from the network defining the operation and design of the machine to the layers post-processing the results into an automated diagnosis.
+
+About the Position
+
+Responsibilities of the MRI Scientist role are following:
+
+Integrating MRI knowledge model into the machine learning pipeline, for supporting the development of better reconstruction algorithms
+Analysing raw data from the MRI machine including image and signal reconstruction, preferably using Deep Learning techniques
+Numerical spin simulation of MRI machine
+Design and optimization of sequences
+
+
+About You
+
+Below is the background we think would best prepare you to do the job. However, at DeepSpin we value commitment and skill and for that reason our hiring process makes sure that we are a good fit to each other on those, rather than on your formal background. So if you're in doubt, know we would love to get your application!
+
+MSc/PhD Degree in STEM (Computer Science, Physics, Mathematics, Engineering, etc)
+3+ years of experience applying computational mathematics techniques in MRI
+Experience in working with raw MRI signals
+Fluent in programming in Python & Scientific computing (Scipy, Numpy)
+First principles thinking, excellent communication skills in English and a proactive, positive attitude
+Experience with MRI in a clinical setting and in pulse sequence design
+Preferred: Basic knowledge of low level MRI hardware
+Preferred: basic experience in Software Engineering practices
+Preferred : postdoc or industry experience in a leading research group/company
+Preferred: proven track record with publications in top MRI journals
+
+What we offer:
+
+The opportunity to truly make a difference in the world by shaping a ground-breaking product early on
+A diverse and multicultural English-first office
+A creative workplace with flat hierarchies and open communication among a cooperative team
+Working directly with the founders and the team of senior advisors supporting us (ex-McKinsey, ex-Siemens and ML/MRI professors) on cutting-edge techniques
+An entry point into the field of AI-generated medical devices
+A total compensation package value of up to 110.000 € per year consisting of 60.000 - 80.000 € salary, stock options, benefits and 30 days of yearly vacation
+A great penthouse office in the center of Berlin, free lunch with the entire team
+Dinner and Beers on the House on Thursdays!
+Diesen Job melden

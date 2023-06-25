@@ -1,0 +1,13 @@
+{
+    "job_title": "Data Scientist/Analyst (m/w/d)",
+    "company": "trans-o-flex Express GmbH",
+    "location": "Deutschland",
+    "salary_euro": {
+        "amount": 48000,
+        "period": "pro Jahr"
+    },
+    "employment_type": "Vollzeit",
+    "requirements": "Fundierte Berufserfahrung im Bereich Data Science/Analytics Praktischer Bezug zu Data Science, Machine Learning oder Data Analytics, idealerweise durch einen Studienabschluss Erfahrung in Programmierung (z. B. Python, R, SAS), Datenbankabfragen (z. B. SQL) und Data Science Methoden Fähigkeit, ökonomische Fragestellungen mit einer wissenschaftlichen, pragmatischen, analytischen Herangehensweise anzugehen und zu lösen Kreativität und Innovationsfreude verbunden mit hoher Lern-, Veränderungs- und Einsatzbereitschaft Kommunikationsgeschick und Begeisterung für die Arbeit in einem dynamischen Team",
+    "skills": ["Data Science", "Machine Learning", "Data Analytics", "Python", "R", "SAS", "SQL"],
+    "date_posted": "null"
+}

@@ -1,0 +1,29 @@
+{
+  "job_title": "Senior Data Scientist (Data Analytics Modeling) (m/f/d)",
+  "company": "EPAM Systems",
+  "location": "Deutschland",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Bachelor's degree in a related field such as Computer Science, Mathematics, or Statistics or relevant work experience. Extensive experience as a Senior Data Scientist involved in Data Analytics Modeling. Strong demonstrable expertise in the conception (incl. method selection) and development of predictive analytics models for a wide range of issues - preferably for economic and scientific issues. Strong demonstrable expertise in the conception and implementation of real-time applications based on data streams (e.g. Kafka). Evidence of cooperation with research and science for participation in publications, preparation of scientific reports, etc. Familiarity with cloud-based data platforms and services, such as AWS, Azure, or GCP, is a plus. Excellent problem-solving, analytical, and critical thinking skills.",
+  "skills": [
+    "Data Science",
+    "Data Analytics",
+    "Predictive Analytics",
+    "Machine Learning",
+    "Statistical Analysis",
+    "Real-time Applications",
+    "Kafka",
+    "Documentation",
+    "Data Management",
+    "Cloud-based Platforms",
+    "AWS",
+    "Azure",
+    "GCP",
+    "Problem-solving",
+    "Analytical Skills",
+    "Critical Thinking",
+    "Research",
+    "Science"
+  ],
+  "date_posted": null
+}

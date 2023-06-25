@@ -1,0 +1,21 @@
+{
+   "job_title": "Ph.D. positions on generative AI in a human-machine society",
+   "company": "Max-Planck-Institut für Bildungsforschung",
+   "location": "14195 Berlin",
+   "salary_euro": {
+      "amount": null,
+      "period": null
+   },
+   "employment_type": "Freie Mitarbeit",
+   "requirements": "Master's degree in a computational science field (e.g., Computational Social Science, Computer Science, Cognitive Science, Physics, Applied Mathematics, or related) and solid theoretical knowledge in cognitive science, machine learning, or computational social science",
+   "skills": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Computer Vision",
+      "Reproducible Research",
+      "English",
+      "Behavioral Experiments"
+   ],
+   "date_posted": null
+}

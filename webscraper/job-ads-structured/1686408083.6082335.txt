@@ -1,0 +1,30 @@
+{
+  "job_title": "Computer Vision Engineer - Focus on Lidar and Radar Systems (m/f/d)",
+  "company": "ANavS GmbH",
+  "location": "München",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Preferable 2 years’ experience in computer vision and machine learning/ deep learning\nComputer science degree (or comparable)\nWell-founded knowledge in SLAM techniques for localization and mapping\nWell-founded knowledge in C++, Python and deep learning frameworks, such as PyTorch and TensorFlow.\nPractical experience in training, developing and evaluating deep neural networks for computer vision\nPreferable experience with Lidar/Radar sensors, calibration, integration and time synchronization\nPreferable experience in ROS/ROS2, CARLA or Gazebo simulators\nHigh motivation to contribute to the technical development, ability to work independently and willing to adapt to flexible tasks\nTeam player with quick perception, reliability and accuracy\nGood communication skills in English and German",
+  "skills": [
+    "computer vision",
+    "machine learning",
+    "deep learning",
+    "SLAM",
+    "C++",
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "Lidar",
+    "Radar",
+    "ROS",
+    "ROS2",
+    "CARLA",
+    "Gazebo",
+    "motivation",
+    "independence",
+    "adaptability",
+    "teamwork",
+    "communication"
+  ],
+  "date_posted": "2023-04-01"
+}

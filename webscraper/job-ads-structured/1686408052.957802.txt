@@ -1,0 +1,24 @@
+{
+  "job_title": "PHY Systems Engineer Simulations (m/f/d)",
+  "company": "Apple",
+  "location": "München",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "MS in Computer Science or Electrical/Information Engineering with seasoned years of working experience or PhD in relevant field with relevant years of working experience.",
+  "skills": [
+    "communication system theory",
+    "PHY signal processing",
+    "SW and simulator design in C++",
+    "wireless communication systems",
+    "4G/5G PHY design",
+    "chip bring-up",
+    "Matlab",
+    "Python programming",
+    "cellular communication standards",
+    "linear algebra",
+    "random processes",
+    "estimation and detection",
+    "software architecture"
+  ],
+  "date_posted": "2022-12-15"
+}

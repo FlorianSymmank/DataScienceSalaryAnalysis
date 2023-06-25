@@ -1,0 +1,51 @@
+Masterand:in (m/w/d) im Bereich Data Science, Prozesssimulation oder -optimierung
+Eggersmann - Gruppe
+Aachen
+Werkstudent
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Werkstudent
+Digitalisierung ist deine Leidenschaft und du brennst für Nachhaltigkeit?
+
+Dann gestalte mit uns die digitale Transformation der Recyclingbranche!
+
+In der Eggersmann Gruppe wissen wir schon lange, dass die Zukunft zirkulären Wirtschaftsmodellen gehört. So hat sich die Eggersmann Gruppe als Verbund international tätiger Unternehmen seit über 50 Jahren Umwelttechnologien verschrieben und beschäftigt heute weltweit mehr als 1000 Mitarbeiter: innen als führender Anbieter von Recyclinganlagen.
+
+Die Digitalisierung und Automatisierung ist auch in der Recyclingbranche das Kernthema der nächsten Jahre. Mit der Unternehmensgruppe im Rücken entsteht in Aachen daher unsere digitale Innovationsschmiede als Corporate Start-up. Hier arbeiten wir an der digitalen Anlagen- und Maschinenvernetzung und -optimierung mittels Datenanalyse und KI sowie der Implementierung von Analyse- und Service-Apps für unsere internationalen Kunden.
+
+Aufgaben
+
+Erarbeite im Zuge deiner Masterarbeit nachhaltige Lösungen zur
+Digitalisierung von Recyclingprozessen. Verlass dich auf eine enge Betreuung durch unser erfahrenes und interdisziplinäres Team aus Data Scientist, Automatisierungsingenieur: innen und Simulationsexpert: innen und erfahre gelebte Startup-Kultur unter dem Dach einer erfolgreichen und inhabergeführten Unternehmensgruppe.
+
+Mögliche Themengebiete am Beispiel Deutschlands größter Recyclinganlage:
+
+
+Analyse und Interpretation von Prozessdaten (mit Methoden der Statistik und künstlicher Intelligenz), zur Erkennung von Zusammenhängen, Trends und Anomalie-Detektion
+Einarbeitung in state of the art Software zur dynamischen Stoffstromsimulation, sowie Entwicklung eigener Trennmodelle und Implementierung benutzerdefinierter Module
+Vergleich und/oder Entwicklung verschiedener Prozessoptimierungskonzepte
+(z.B. model-predictive control vs. deep reinforcement learning)
+
+Qualifikation
+
+
+Du studierst Automatisierungstechnik, Data Science, Simulations Science, Verfahrenstechnik, Mathematik, Informatik oder einen vergleichbaren Studiengang
+Du verfügst über Erfahrung im Bereich Machine Data Analytics und/oder (Prozess)Simulation
+Du hast gute Kenntnisse in Mathematik, Programmierung, Datenvisualisierung und AI-Tools
+Dich zeichnen eine strukturierte Arbeitsweise und Verantwortungsbewusstsein aus
+Du hast Spaß an konzeptionellem Denken
+Benefits
+
+
+Ein interessantes und gesellschaftlich relevantes Thema für deine Abschlussarbeit mit zukunftsorientierter Themenstellung
+Ideale Rahmenbedingungen für Praxiserfahrungen neben dem Studium
+Eine fundierte Einarbeitung in dein Tätigkeitsfeld und eine qualifizierte Betreuung durch unsere Expert: innen
+Zugang zu der digitalChurch Aachen, sowie die Teilnahme an den zahlreichen Workshops, Seminaren und Networking-Events des digitalHubs Aachen
+Damit beste Möglichkeiten zur Vernetzung mit Kolleg: innen und digitalen Start-ups sowie KMUs aus der Region
+Möglichkeit zum (orts-)flexiblen Arbeiten, z.B. im Homeoffice
+Möglichkeit zur Übernahme und Festanstellung nach dem Abschluss deines Studiums
+Ein nachhaltiges Mindset, Teamgeist und eine familiäre Kultur gibt es on top
+Wenn wir dein Interesse geweckt haben, freuen wir uns auf deine Bewerbung (Lebenslauf und Zeugnisse in einem Dokument). Ein Anschreiben ist nicht notwendig.
+Diesen Job melden

@@ -1,0 +1,94 @@
+Data Engineer*
+CBRE
+Frankfurt am Main
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Posted
+22-Feb-2023
+Service line
+Advisory Segment
+Role type
+Full-time
+Areas of Interest
+Data & Analytics, Data Centers, Development, Digital & Technology/Information Technology
+Location(s)
+Berlin - Berlin - Germany, Frankfurt am Main - Hessen - Germany, Hamburg - Hamburg - Germany
+
+OUR EMPLOYEES - OUR SUCCESS.
+
+CBRE Germany supports its ambitious business goals by setting up the constant further development of a cloud-based data platform. For this we need committed talents who support the enhancement of our databases and data pipelines in close cooperation with the German business units as well as the data engineering & data intelligence teams in the USA, India and UK.
+
+Therefore, we are looking for an experienced data engineer for our Data Intelligence & Digital Enablement department at Hamburg, Frankfurt am Main or Berlin as soon as possible. You have the chance to actively shape our constantly changing, unique real estate data landscape and to become part of a dynamic and international team.
+
+ABOUT CBRE.
+
+CBRE Group, Inc. (NYSE:CBRE), a Fortune 500 and S&P 500 company headquartered in Dallas, is the world’s largest commercial real estate services and investment firm (based on 2022 revenue). The company has more than 115,000 employees (excluding Turner & Townsend employees) serving clients in more than 100 countries. CBRE serves a diverse range of clients with an integrated suite of services, including facilities, transaction and project management; property management; investment management; appraisal and valuation; property leasing; strategic consulting; property sales; mortgage services and development services.
+
+YOUR MISSION.
+
+Administration, maintenance, monitoring, optimization (especially performance and stability) of a cloud-based Postgres database / data warehouse based on various internal and external data sources, permission management in the database
+Creation, further development, maintenance, monitoring and documentation of data delivery pipelines for enterprise applications, self-service data analytics applications and business intelligence dashboards
+Preparation & support of a large migration/refactoring project of a Postgres database / data warehouse to a modern Snowflake Cloud Data Platform
+Debugging applications (level 2 or 3 support) and performing tests for performance optimization
+Independent coordination and implementation of technical requirements with data analysts as well as technical architects and developers
+Technical support for the further development of the central, cross-divisional data model, which includes customer, property, transaction, and external market data
+Technical implementation of data cleansing projects using internal and external reference data sets as well as data quality KPIs defined by the business
+Creation of reusable code and libraries for the CBRE in-house worldwide developer community
+Administration, maintenance, monitoring, optimization (especially performance and stability) of a cloud-based Postgres database / data warehouse based on various internal and external data sources, permission management in the database
+Creation, further development, maintenance, monitoring and documentation of data delivery pipelines for enterprise applications, self-service data analytics applications and business intelligence dashboards
+Preparation & support of a large migration/refactoring project of a Postgres database / data warehouse to a modern Snowflake Cloud Data Platform
+Debugging applications (level 2 or 3 support) and performing tests for performance optimization
+Independent coordination and implementation of technical requirements with data analysts as well as technical architects and developers
+Technical support for the further development of the central, cross-divisional data model, which includes customer, property, transaction, and external market data
+Technical implementation of data cleansing projects using internal and external reference data sets as well as data quality KPIs defined by the business
+Creation of reusable code and libraries for the CBRE in-house worldwide developer community
+
+YOUR PROFILE.
+
+Minimum Bachelor's degree in computer science or another relevant field
+Proven professional experience as a cloud backend developer as well as sound experience with DevSecOps development lifecycle management (CI / CD, automation / configuration, monitoring / logging / alerting, routing / DNS / load balancing ...)
+Practical experience / proficiency with Python, Linux, Bash, Postgres, dbt
+Expertise with SQL preferably PostgreSQL and Snowflake functions and features
+Understanding of data modeling and experience with data cleansing and data quality management, "data wrangling"
+Willingness to learn and practice new technologies depending on the project requirements
+Self-starters with very good communication skills and excellent analytical skills
+Ability to work in a team with a willingness to solve problems and the motivation to work in an international or virtual team
+Very good knowledge of English (German would be an advantage), both spoken and written
+Minimum Bachelor's degree in computer science or another relevant field
+Proven professional experience as a cloud backend developer as well as sound experience with DevSecOps development lifecycle management (CI / CD, automation / configuration, monitoring / logging / alerting, routing / DNS / load balancing ...)
+Practical experience / proficiency with Python, Linux, Bash, Postgres, dbt
+Expertise with SQL preferably PostgreSQL and Snowflake functions and features
+Understanding of data modeling and experience with data cleansing and data quality management, "data wrangling"
+Willingness to learn and practice new technologies depending on the project requirements
+Self-starters with very good communication skills and excellent analytical skills
+Ability to work in a team with a willingness to solve problems and the motivation to work in an international or virtual team
+Very good knowledge of English (German would be an advantage), both spoken and written
+
+OUR OFFER.
+
+Become a part of our open, cooperative and dynamic company culture with flat hierarchies and short decision-making processes
+Become an integral part of our team, in which your ideas are greatly valued
+Work-Life balance is important to us, which is why you can work flexibly and in part remotely
+"NEW WORK": Our cutting-edge offices are equipped with the latest technologies and are designed by our workplace colleagues based on the latest concepts and ideas – all to boost efficiency and collaboration.
+We are continuing to expand our ESG roadmap and offer our employees the opportunity to protect the environment, while staying healthy by using the employee benefit scheme “JobRad”.
+Get to know your colleagues* better at regular employee events and create shared experiences in a relaxed atmosphere.
+Become a part of our open, cooperative and dynamic company culture with flat hierarchies and short decision-making processes
+Become an integral part of our team, in which your ideas are greatly valued
+Work-Life balance is important to us, which is why you can work flexibly and in part remotely
+"NEW WORK": Our cutting-edge offices are equipped with the latest technologies and are designed by our workplace colleagues based on the latest concepts and ideas – all to boost efficiency and collaboration.
+We are continuing to expand our ESG roadmap and offer our employees the opportunity to protect the environment, while staying healthy by using the employee benefit scheme “JobRad”.
+Get to know your colleagues* better at regular employee events and create shared experiences in a relaxed atmosphere.
+
+ARE YOU READY TO JOIN?
+
+Our employees appreciate the responsibility, the involvement in exciting projects, the various possibilities for further developments and the positive working atmosphere. We look forward to receiving your application in English. Please apply online via our online application tool.
+
+You can contact our Talent Acquisition team via e-mail: bewerbung@cbre.com.
+
+Your Career Builder, Regardless of your gEnder
+Diesen Job melden

@@ -1,0 +1,10 @@
+{
+   "job_title": "(Junior) Data Analyst/ Data Scientist",
+   "company": "DeutschlandCard GmbH",
+   "location": "81673 München",
+   "salary_euro": null,
+   "employment_type": null,
+   "requirements": "abgeschlossenes Studium mit einem analytischem Schwerpunkt (z.B. Statistik, VWL/BWL, Wirtschaftsinformatik, Wirtschaftsmathematik), 1-3 Jahre Berufserfahrung im Bereich Data Science, Machine Learning, Data Analytics, Data Engineering, Analytisches CRM",
+   "skills": ["analytischen Methoden zur Optimierung von Direktmarketingaktivitäten", "Erfahrung in der Anwendung von gängigen Analyse- und Statistik-Tools insbesondere auf großen Datenmengen (R, Python)", "gute Kenntnisse in SQL und mindestens einer Programmiersprache", "Interesse an der Anwendung von Tools zur Datenvisualisierung (Power BI oder Tableau)"],
+   "date_posted": null
+}

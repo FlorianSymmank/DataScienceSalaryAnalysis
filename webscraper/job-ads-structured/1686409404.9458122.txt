@@ -1,0 +1,10 @@
+{
+   "job_title": "Data Engineer",
+   "company": "ZF",
+   "location": "Passau, BY, DE, 94034",
+   "salary_euro": null,
+   "employment_type": null,
+   "requirements": "Abgeschlossenes Studium im MINT-Bereich, bevorzugt mit Schwerpunkt im Bereich Data Engineering oder Data Science. Praxiserfahrung und sehr gute Kenntnisse in der Entwicklung und der produktiven Bereitstellung von Datenlösungen für Analytics-Produkte, bevorzugt in der Cloud. Sehr gute Anwenderkenntnisse in Daten-Abfragesprachen (z. B. SQL) und Sprachen zur Datenverarbeitung und Prozessautomatisierung (z. B. Python). Verständnis für DevOps Prozesse und Operationalisierung von Lösungen in der Cloud mittels Container-Technologien. Sehr gute analytische Fähigkeiten, hohe Datenaffinität sowie gute Deutsch- und sehr gute Englischkenntnisse.",
+   "skills": ["Data Engineering", "Data Science", "Cloud Services", "SQL", "Python", "DevOps", "Containerization", "English"],
+   "date_posted": "2021-12-06"
+}

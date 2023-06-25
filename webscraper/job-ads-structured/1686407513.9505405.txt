@@ -1,0 +1,16 @@
+{
+  "job_title": "Senior Data Scientist",
+  "company": "Veeva Systems",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": "Full-time",
+  "requirements": "4+ years of experience as a data scientist (or 2+ years with a Ph.D. degree), Master’s or Ph.D. in Computer Science, Artificial Intelligence, Computational Linguistics, or a related field, Strong theoretical knowledge of Natural Language Processing, Machine Learning, and Deep Learning techniques",
+  "skills": [
+    "Natural Language Processing",
+    "Machine Learning",
+    "Deep Learning",
+    "Python",
+    "NLP libraries"
+  ],
+  "date_posted": "2021-09-14"
+}

@@ -1,0 +1,20 @@
+{
+  "job_title": "Software Engineer with focus on Data Science Solutions (m/w/d) Machine Learning Reply - Home Office",
+  "company": "Machine Learning Reply",
+  "location": "Munich or Berlin",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Successfully completed university studies with a strong quantitative background, for example in Business Informatics, Data Science, Informatics, Computer Science or similar",
+  "skills": [
+    "Java (Spring Boot, Hibernate)",
+    "JavaScript/Typescript (Vue, React, Angular)",
+    "Python",
+    "writing test suites",
+    "SOLID principles",
+    "clean code",
+    "software patterns",
+    "English",
+    "German"
+  ],
+  "date_posted": "2021-06-02"
+}

@@ -1,0 +1,26 @@
+{
+    "job_title": "Consultant - Cloud Analytics und Data Management",
+    "company": "T-Systems International GmbH",
+    "location": "13505 Berlin",
+    "salary_euro": null,
+    "employment_type": "Vollzeit, Festanstellung",
+    "requirements": "Du hast ein Masterstudium der Wirtschaftsinformatik, Informatik, Wirtschaftsingenieurwesen oder einer vergleichbaren Studienrichtung mit entsprechenden Schwerpunkten",
+    "skills": [
+        "Digitalisierung",
+        "Daten",
+        "Zukunftstechnologien",
+        "Artificial Intelligence",
+        "Cloud",
+        "Internet of Things",
+        "Data Engineering",
+        "Data Science",
+        "Machine Learning",
+        "Data Governance",
+        "Data Management",
+        "Datenarchitekturen",
+        "IT Consulting",
+        "MS Office",
+        "Python"
+    ],
+    "date_posted": null
+}

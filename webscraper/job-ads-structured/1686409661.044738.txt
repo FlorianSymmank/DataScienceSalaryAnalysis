@@ -1,0 +1,10 @@
+{
+"job_title": "Data Engineer",
+"company": "aifora GmbH",
+"location": "40221 Düsseldorf",
+"salary_euro": null,
+"employment_type": "Vollzeit",
+"requirements": "Du hast ein abgeschlossenes Hochschul- oder Fachhochschulstudium der (Wirtschafts-)Informatik, Data Science/Engineering, Mathematik oder eine vergleichbare Qualifikation.\nPraktische Erfahrung mit dem Big Data Ökosystem (Spark, Hive/Impala, HBase, Yarn) und dem Data Lake Paradigma.\nErfahrung mit Stacks auf Basis von AWS/Azure/GCP und Java/Scala/Python.\nErfahrung mit Microservice-Architekturen und Daten-Streaming-Systemen wie Kafka.\nPraktische Erfahrung im Datenbank-Engineering mit den Schwerpunkten Datenbankarchitektur, Produktionsautomatisierung, Monitoring-Systeme und Betrieb.\nDu kannst Daten als Graph denken und weißt, wie man Avro, Protobuf oder JSON-Schema verwendet.\nPraktische Erfahrung in den Arbeitsweisen cross-funktionaler Teams.\nFließende Englischkenntnisse. Deutschkenntnisse sind ein Plus.\nErfahrung in der Entwicklung von Anwendungen für den Einzelhandel sind ein Plus.",
+"skills": ["Python", "Spark", "SQL", "ETL/ELT-Prozesse", "DevOps-Ansätze", "Databricks", "Kafka", "Java", "Scala", "Json-Schema", "Englisch"],
+"date_posted": "YYYY-MM-DD"
+}

@@ -1,0 +1,69 @@
+Software Engineer for system-oriented programming for data transmission in computed tomography
+Siemens Healthineers
+(gehört zu Siemens)
+91301 Forchheim
+Vollzeit, Teilzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Teilzeit
+Do you want to help create the future of healthcare? Our name, Siemens Healthineers, was selected to honor our people who dedicate their energy and passion to this cause. It reflects their pioneering spirit combined with our long history of engineering in the ever-evolving healthcare industry.
+We offer you a flexible and dynamic environment with opportunities to go beyond your comfort zone in order to grow personally and professionally. Sound interesting?
+
+
+Then come and join our global team as Software Engineer (f/m/d) for system-oriented programming for data transmission in computed tomography.
+
+
+Choose the best place for your work – Within the scope of this position, it is possible, in consultation with your manager, to work mobile (within Germany) up to an average volume of 60% of the respective working hours.
+
+This position is full-time or part-time with a minimum of 30h/week.
+
+Your tasks and responsibilities:
+
+You will work in an international team and be responsible for system-oriented programming, mainly under Windows or Linux
+Your tasks include the implementation, extension, and maintenance of Windows kernel mode drivers (e.g., NDIS Protocol Driver) for high performance data transmission and health monitoring of hardware components (e.g., CPU, GPU, hard disks) within the Image Reconstruction System (IRS)
+You will develop sustainable solutions and implement reliable and performant software for high-throughput data receiving and processing
+Support and further development of the existing CT data generators for the simulation of data transmission as part of IRS test frame, is also part of your tasks
+You will create design and test specifications and ensure the quality of your own software components through the execution of unit tests and test documentation
+You will work closely not only with other members of the team, but also with colleagues across the team, such as system feature responsible engineer and engineer responsible for HW components
+
+To find out more about the specific business, have a look at Computed tomography
+
+Your qualifications and experience:
+
+You have successfully completed a Master’s degree in the field of information technology, computer science, electrical engineering, or a comparable field
+You have several years of professional experience in the field of software development and also have experience in performance-optimized programming in C++/C
+You have in-depth knowledge of Windows or Linux system (kernel, driver, memory management, etc.) and processor architecture such as multicore, multi-process, multi-threading
+You have good knowledge of network programming (Sockets, TCP/IP, UDP)
+
+Your attributes and skills:
+
+You bring passion and innovative spirit to the healthcare industry and want to shape the future of CT with us
+You enjoy working as a motivated team player with a results-oriented, pragmatic approach to deliver long-term quality in our products
+You are proficient in oral and written communication in English; knowledge of German is an advantage
+
+
+Our global team:
+
+Siemens Healthineers is a leading global medical technology company. 68,000 dedicated colleagues in over 70 countries are driven to shape the future of healthcare. An estimated 5 million patients across the globe benefit every day from our innovative technologies and services in the areas of diagnostic and therapeutic imaging, laboratory diagnostics and molecular medicine, as well as digital health and enterprise services.
+
+
+Our culture:
+
+Our culture embraces different perspectives, open debate, and the will to challenge convention. Change is a constant aspect of our work. We aspire to lead the change in our industry rather than just react to it. That’s why we invite you to take on new challenges, test your ideas, and celebrate success.
+
+Check our Careers Site at https://www.siemens-healthineers.com/de/careers
+As an equal opportunity employer, we welcome applications from individuals with disabilities.
+
+Wish to find out more before applying? Contact us: +49 (9131) / 17 – 1717, if you wish to discuss any initial questions with our recruitment team. The contact person handling this job ad is
+Laura Roos.
+
+
+We care about your data privacy and take compliance with GDPR as well as other data protection legislation seriously. For this reason, we ask you not to send us your CV or resume by email. We ask instead that you create a profile in our talent community where you can upload your CV. Setting up a profile lets us know you are interested in career opportunities with us and makes it easy for us to send you an alert when relevant positions become open. Click here to get started.
+
+
+Siemens Healthineers Germany was awarded the Great Place to Work® certificate.
+Diesen Job melden

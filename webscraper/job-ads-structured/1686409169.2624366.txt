@@ -1,0 +1,18 @@
+{
+  "job_title": "Global Member Services (GMS) Analytics Intern",
+  "company": "Fabletics",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Studying towards or recently graduated from a degree in information technology; computer science; or similar.",
+  "skills": [
+    "Good analytical skills with the ability to collect, organize, analyse, and disseminate significant amounts of information with attention to detail and accuracy.",
+    "Ability to summarize complex ideas clearly.",
+    "Experience with reporting tools such as Tableau, Power BI, or Looker",
+    "Good knowledge of MS Suite, especially advanced skills in Excel (macros, pivot tables and formular)",
+    "Good knowledge of SQL is a plus.",
+    "Self-motivated and independent team player",
+    "Fluent in English (C1-C2 level)."
+  ],
+  "date_posted": "current date in yyyy-mm-dd format"
+}

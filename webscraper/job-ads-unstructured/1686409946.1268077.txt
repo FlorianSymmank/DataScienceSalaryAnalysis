@@ -1,0 +1,53 @@
+Postdoctoral Researcher in numerical mathematics or computer science
+MathHire.org
+Garching bei München
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+The School of Computation, Information and Technology at the Technical University of Munich (TUM)
+
+welcomes applications for the position as
+
+Postdoctoral Researcher in numerical mathematics / computer science (m/f/d, 100%)
+
+The BMBF-funded position is located within the research projectMultiphysics simulations for geodynamics on heterogeneous exascale systemsat the Chair of Numerical Analysis, led by Prof. Dr. Barbara Wohlmuth in the TUM Department of Mathematics. We seek a postdoctoral researcher, with starting date as soon as possible.
+
+This is a 100% position at German Civil Service salary level TV-L E13, and is financed initially until October 2025 with a possibility of extension. The position carries no teaching load.
+
+Project Summary
+
+The research projectMultiphysics simulations for geodynamics on heterogeneous exascale systemsis a multidisciplinary project combining the fields of mathematics, computer science, geophysics, and high-performance computing. Each field is represented by a dedicated project partner, which brings in their experience. These are the Chair of Numerical Analysis at TUM, the Chair of System Simulation at FAU Erlangen, the Chair of Geophysics at LMU München, and finally, the LRZ Garching with their knowledge about supercomputers.
+
+Firstly, the project aims to improve the performance of the matrix-free finite-element-based framework HyTeG, in particular by techniques for data reduction through surrogate operators. Furthermore, we aim to extend the framework with mixed-precision approaches, which will be implemented and analyzed.
+
+Secondly, we aim at a volume coupling of the high-performance packages waLBerla, HyTeG, and MesaPD to solve complex multiphysics problems. The coupling is done across package boundaries. This also requires more sophisticated approaches in load-balancing.
+
+Finally, the newly developed algorithms will be tested and verified with applications from geodynamics.
+
+Tasksin the project include
+
+theefficientimplementationofnewmodels,methods,andalgorithmsintoexistinghigh-performanceframeworks,
+the fast prototyping of new ideas in individualcode,
+an interest in the entire simulation pipeline: starting from simple algorithms to state-of-the-art applicationsin geophysics executed on supercomputers,
+aswellasthepresentationoftheresultstothescientificcommunityinjournals,atconferences,andaslecture contributions forstudents.
+
+Requirementsfor the position:
+
+APh.D.inthefieldofAppliedMathematics,ComputerScience,ComputationalScienceandEngineering,orsimilar.
+a strong backgroundeitherin high-performance computingorin numerical analysis.
+Knowledge of numerics as part of a degree program. In particular, knowledge aboutfinite-element analysisis an absolutemust.Familiaritywithiterativesolvers,preconditioners,multigridmethods,andmixed-precisionapproachesis optional but extremelyuseful.
+GoodprogrammingskillsandexperienceinC++anditscommonprogrammingidiomsanddesignpatterns. KnowledgeofMATLAB,Python,Julia,orasimilarscriptinglanguageisnecessaryforprototyping.
+Interestandaffinityforhigh-performancecomputing.Youshouldhaveexperiencewith theroofline modeland familiarity with aprofiler.Experience withGPUsis abonus.
+FluencyinwrittenandspokenEnglish. German language skills are not a prerequisite for the position.
+
+We offer
+
+a position within a young, dynamic, and international team of scientists from various disciplines, as well as cooperation with international partners,
+an exciting and varied project with many different aspects and possibilities for expansion,
+modern hardware and infrastructure at the workplace, from compute- and GPU servers to supercomputers,
+a salary according to the German civil service rates (TV-L, level E13), and
+the environment of a renowned and modern university in a beautiful city close to the Alps.
+
+For any questions regarding the position, please do not hesitate to contact Andreas Wagner:wagneran@cit.tum.de
+
+Diesen Job melden

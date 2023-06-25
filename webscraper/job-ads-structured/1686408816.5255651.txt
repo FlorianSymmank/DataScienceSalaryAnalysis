@@ -1,0 +1,17 @@
+{
+   "job_title": "Working Student (m/f/d) Federated Learning",
+   "company": "Veridos GmbH",
+   "location": "Munich",
+   "salary_euro": null,
+   "employment_type": "Working Student",
+   "requirements":"Currently pursuing a bachelor's or master's degree in Computer Science, Data Science, or a related field",
+   "skills": [
+      "Strong understanding of machine learning principles and algorithms",
+      "Familiarity with deep learning frameworks such as TensorFlow or PyTorch",
+      "Proficiency in Python programming",
+      "Excellent problem-solving skills and the ability to think critically",
+      "Strong written and verbal communication skills",
+      "Self-motivated, detail-oriented, and able to work independently and in a team environment"
+    ],
+   "date_posted": null
+}

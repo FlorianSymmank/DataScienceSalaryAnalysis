@@ -1,0 +1,10 @@
+{
+   "job_title": "Senior Data Scientist - Commercial Excellence (m/f/d)",
+   "company": "Buynomics",
+   "location": "Köln",
+   "salary_euro": null,
+   "employment_type": "Full-Time",
+   "requirements":  "Completed master's degree in the field of economics, mathematics, computer science, engineering, or a related quantitative area from a leading university, with a sound knowledge of modern statistics and at least basic knowledge of machine learning. Intermediate knowledge of Python. Any deeper programming knowledge is a plus. Good verbal and written English.",
+   "skills": ["data science", "statistics", "machine learning", "Python"],
+   "date_posted": "2022-09-18"
+}

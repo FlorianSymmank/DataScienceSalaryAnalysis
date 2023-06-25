@@ -1,0 +1,20 @@
+{
+  "job_title": "International Fellow with Focus on Water Policy",
+  "company": "Ecologic Institute EU",
+  "location": "Berlin",
+  "salary_euro": {
+    "amount": 2160,
+    "period": "monthly"
+  },
+  "employment_type": "Teilzeit",
+  "requirements": "Completed master's degree from outside Germany or with an international orientation.",
+  "skills": [
+    "Research skills",
+    "Capacity to independently carry out research tasks and present findings in a structured manner",
+    "Experience with working in international teams",
+    "Team orientation",
+    "Ability to work independently and interdisciplinary",
+    "Professional level of English language skills"
+  ],
+  "date_posted": "2023-04-30"
+}

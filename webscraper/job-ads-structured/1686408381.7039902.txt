@@ -1,0 +1,20 @@
+{
+  "job_title": "Senior Data Scientist",
+  "company": "Billie GmbH",
+  "location": "Berlin",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Festanstellung",
+  "requirements": "6+ years of experience in a data driven role\nProficient in Python (pandas, scikit-learn, xgboost), R (tidyverse/tidymodels packages) and SQL (MySQL, Postgres, Snowflake)\nProven experience with general classification models (classical and deep learning). Experience with anomaly detection algorithms, graph networks\nExperience with modern methodologies of explainable ML, results decomposition and interpretability\nExperience with statistical hypotheses testing\nExperience with DVC and similar MLOps tools (nice-to-have)\nPractical experience in deployment and productionizing ML services: containerisation, event-driven architectures (optional)\nExperience managing both technical and non-technical stakeholders\nStrong problem solving capabilities coupled with business acumen and ability to translate business problems into analytical and technical requirements\nVery good communication and data storytelling skills, ability to maximize the impact of the findings on decision-making, and cross-functional engagement",
+  "skills": [
+    "Python",
+    "R",
+    "SQL",
+    "Machine Learning",
+    "Statistical Hypotheses Testing",
+    "DVC"
+  ],
+  "date_posted": "2022-10-09"
+}

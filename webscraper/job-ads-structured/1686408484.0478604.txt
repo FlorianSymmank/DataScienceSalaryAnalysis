@@ -1,0 +1,10 @@
+{
+    "job_title": "Data Engineer (Machine Learning) (f/m/d)",
+    "company": "Awin",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "Strong background in data science, data engineering, business intelligence, business administration or an education with focus on math and statistics / data engineering is preferred 2+ years' experience as data engineer on AI/ML project with Python, R or similar Strong experience with Microsoft Azure data engineering pipelines (Azure Data Factory, Azure Data Bricks, ADLS, Azure Event Hub, Azure SQL DB) Strong knowledge of scrum practices and agile mindset Very strong knowledge of Python (NumPy, Pandas, Scikit-Learn, Kera, Flask), R Very strong knowledge in designing end to end ETL solution using Microsoft Azure technology to find available datasets that could be used for training Strong knowledge with cloud services (Azure and AWS) and experience with BI/Data Analysis technologies Big data, Data bricks, Spark, Scala and/or JSON experience is preferred Very strong analytical skills to translate business need into actions with proactive approach to task and challenges, delivering project on time and budget Very strong understanding of the principles of machine learning Very strong project and process management competency, keen to deliver your project on time/budget without compromising on quality and results Team player, willing to improve yourself",
+    "skills": ["data science", "data engineering", "business intelligence", "math", "statistics", "Python", "R", "Microsoft Azure", "Scrum", "agile", "BI", "Big Data", "Spark", "Scala", "JSON", "machine learning", "process management"],
+    "date_posted": null
+}

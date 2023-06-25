@@ -1,0 +1,22 @@
+{
+  "job_title": "Senior Data Engineer (m/w/d)",
+  "company": "DRÄXLMAIER Group",
+  "location": "München oder Vilsbiburg",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Festanstellung",
+  "requirements": "Abgeschlossenes Studium (z.B. Wirtschaftsingenieurwesen, Informatik, Computer Science, Data Science)\nMehrjährige Berufserfahrung im Datenmanagement\nErfahrung in der Definition und Implementierung von Datenarchitekturen und System-Schnittstellen\nKenntnisse im Umgang mit ERP- und PLM-Systemen (z.B. SAP, SIEMENS Teamcenter)\nFundierte Erfahrung im Stakeholdermanagement sowie im Aufbau funktionsübergreifender Netzwerke\nSehr gute Deutsch- und Englischkenntnisse\nBereitschaft zu gelegentlichen Dienstreisen",
+  "skills": [
+    "Data Management",
+    "Standardisation",
+    "Integration",
+    "Master Data",
+    "SAP S4/HANA",
+    "Stakeholder Management",
+    "ERP Systems",
+    "PLM Systems"
+  ],
+  "date_posted": null
+}

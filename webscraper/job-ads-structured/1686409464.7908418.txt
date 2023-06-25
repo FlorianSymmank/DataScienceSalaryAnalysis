@@ -1,0 +1,10 @@
+{
+"job_title": "(Senior) Beraterinnen und Berater Data Science, Analytics & AI (m/w/d)",
+"company": "Cassini Consulting",
+"location": "Deutschland",
+"salary_euro": null,
+"employment_type": "Vollzeit",
+"requirements": "Mindestens zwei Jahre Berufserfahrung in einem datennahen Umfeld – z.B. Data Strategy & Business Development; EIA & Data Governance; Data Architecture & Engineering, BI & Visualization; Advanced Analytics; Big Data; Stats; Operation Research, Simulation, Optimierung.",
+"skills": ["Tableau", "PowerBI", "Alteryx", "KNIME", "Qlik", "SQL", "noSQL", "Azure", "AWS"],
+"date_posted": "2021-11-05"
+}

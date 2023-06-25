@@ -1,0 +1,22 @@
+{
+   "job_title": "Sr. Data Engineer (Remote)",
+   "company": "Blue Orange Digital",
+   "location": "Berlin",
+   "salary_euro":{
+      "amount": 74000,
+      "period": "pro Jahr"
+   },
+   "employment_type": "Vollzeit",
+   "requirements": "A bachelor's degree in computer science, information technology, data engineering, or a related field. At least 5-8 years of experience in data engineering or a similar role.",
+   "skills": [
+      "AWS",
+      "Java",
+      "Python",
+      "Scala",
+      "DevOps",
+      "Apache Kafka",
+      "Apache Flink",
+      "Apache Spark"
+   ],
+   "date_posted": null
+}

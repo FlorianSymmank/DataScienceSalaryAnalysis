@@ -1,0 +1,15 @@
+{
+  "job_title": "Research Scientist (all genders) Neuroinflammation",
+  "company": "Evotec",
+  "location": "Hamburg",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "PhD in Neuroscience or a related field with focus on neurodegenerative diseases/ neuroinflammation and some years of professional experience; work experience in the industry is ideal",
+  "skills": [
+    "cell culture",
+    "molecular biology",
+    "immunoassay technologies",
+    "Omics technologies/ interpretation"
+  ],
+  "date_posted": null
+}

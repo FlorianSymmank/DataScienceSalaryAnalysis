@@ -1,0 +1,62 @@
+Scientific Code Developer (f/m/d)
+Max Planck Computing and Data Facility
+Garching bei München
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+
+Max Planck Computing and Data Facility, Garching
+
+Type of Job
+
+Scientist
+
+Job Code: 2023/02
+
+Job offer from April 28, 2023
+
+You want to contribute to one of the most widely used plasma microturbulence codes?
+You want to work with the latest generation of supercomputers in the Exascale era?
+You want to work at one of the most renowned scientific organizations in the world?
+You want to collaborate internationally in a European Center of Excellence?
+
+Join the Max Planck Computing and Data Facility (MPCDF), a competence centre of the Max Planck Society (MPG), located on the research campus Garching near Munich, Germany! The MPCDF operates supercomputers and data repositories for the MPG and is engaged in the development and optimization of algorithms and applications for high performance computing (HPC), artificial intelligence and machine learning, as well as in the design and implementation of solutions for data-intensive projects in close collaboration with the Max Planck Institutes.
+
+The MPCDF is looking for a Scientific Code Developer (f/m/d) Job Code 2023/02
+
+in the framework of the European Center of Excellence Plasma-PEPSC. The successful candidate will be associated with the applications group at the MPCDF and will work in close collaboration with the Tokamak Theory division at the Max Planck Institute for Plasma Physics and national and international project partners. The main task is to further develop GENE, a leading high-performance plasma turbulence code, and to optimize and port it to Exascale computers.
+
+Your profile
+Some knowledge of numerical methods, parallel programming with MPI or OpenMP and of scientific software development is mandatory.
+Basic knowledge in GPU programming or modern Fortran is a plus
+a PhD in Computer Science, Physics, applied Mathematics, or a similar subject is desired but not mandatory
+Ability for focused work on a large complex code
+Willingness to publish and present results in scientific journals and on conferences
+Participation in the regular project meetings with the European partners
+Our offer
+Work on state-of-the-art numerical algorithms, and specifically on one of the leading plasma turbulence HPC codes in the field
+Access to the latest supercomputer technologies
+A strong cooperation with European and national partners
+Supportive and motivated multi-disciplinary team
+Open-minded, inspiring, cooperative and international atmosphere
+Training on-the-job, learning new skills and options for professional development
+Flexible working hours with liberal options for mobile working
+Various offers to reconcile work and family life
+Close by Underground Station (U6); discounted transportation ticket
+Munich is a large, cosmopolitan and tolerant city that offers you a wide variety of culture, art, music, and outdoor opportunities.
+
+The full-time position starts as soon as possible and is initially limited for a maximum period of three years. Salary will be based on experience according to the German TVöD E13.
+
+For further questions, contact Dr. Tilman Dannert.
+
+Your application
+
+Please apply with a letter of motivation and a CV via aour online application portal by June 15th, 2023.
+
+The ideals of mutual respect, open-mindedness and consideration are important to us. We have a diverse workforce from different countries and cultures at the MPCDF. We aim to increase the proportion of women in IT and therefore encourage qualified women to apply. In order to cultivate teamwork and a positive working atmosphere, equal opportunities and equal treatment play an important role for all aspects of personal identity, such as gender, sexual orientation, country of origin, nationality, language skills, race, religion, culture, appearance, family status, age, or handicap. Persons with disabilities will be given preferential consideration if equally qualified.
+
+Diesen Job melden

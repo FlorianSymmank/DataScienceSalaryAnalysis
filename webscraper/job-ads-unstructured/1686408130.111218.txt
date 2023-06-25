@@ -1,0 +1,82 @@
+Senior Data Scientist (Frankfurt)
+Tvarit GmbH
+60327 Frankfurt am Main
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+
+About us:
+
+TVARIT is a world-leading deep-tech company based in Frankfurt, Germany, specializing in the development and commercialization of a patented industrial AI solution for foundries and metalworking industries. We have renowned 20+ reference customers, a well-established R&D team from IITs, TUs, and Stanford, and further we have SME leadership awards from the world’s best AI prize committees (e.g., EU Horizon 2020) which makes Tvarit one of the most innovative AI companies in Germany and Europe.
+
+We are driven by the vision of sustainable and zero-waste manufacturing. Our goal is to pave the way for manufacturers worldwide to achieve maximum overall equipment efficiency (OEE) with virtually no waste and energy loss, and next-generation production planning focused on energy efficiency, using our cutting-edge AI technology (TiA).
+
+Our people-driven strategy helps us to deploy and drive innovation in the market. We believe in bringing a human-centric approach for an inclusive and sustainable future. Thus, it is essential that we invite people from diverse backgrounds, skills, experiences, and interests who share the same values and purpose.
+
+We have brilliant minds, resources, training, and growth plan designed to keep our people ahead, and through a variety of activities and events (excursions, celebrations, team sports, team lunch, coffee times, games, workcations, and much more) we ensure to give best of experience to our people. For more details visit us at Homepage - TVARIT
+
+
+Who are we looking for?
+
+We are looking for a Senior Data Scientist, who will design and develop data-driven solutions using state-of-the-art methods. You should be someone with strong and proven experience in working on data-driven solutions. If you feel you’re enthusiastic to transform business requirements into insightful data-driven solutions, you are welcome to join our fast-growing team to unlock your best potential.
+
+
+Job Summary:
+
+Supporting company mission by understanding complex business problems through data-driven solutions.
+Designing and developing machine learning techniques using Python
+Leading technical customer projects and representing the team in customer meetings.
+Developing end-to-end ML production-ready solutions and new algorithms.
+Implementing the prototypes using suitable statistical tools and artificial intelligence algorithms.
+Preparing high-quality research papers and participating in conferences to present and report experimental results and research findings.
+Driving innovation and efficiency by analyzing the data insights ranging from data exploration and feature engineering for actionable insight.
+Leading research and innovation and collaborating with internal team and facilitating review of ML systems for innovative ideas to prototype new models.
+Managing interns and new hires in developing research pipelines
+
+
+
+Qualification & Experience:
+
+Ph.D. / (Masters with 2+) years of industrial experience in Computer Science, Industrial or Electrical Engineering, Machine Learning, Mathematical Optimization, Statistics, or Mathematics.
+Practical experience with ML in research and development projects
+
+Experience with large-scale production code development is a plus.
+
+
+
+Skills & Competencies:
+
+Ability to work on multiple projects. Must have strong design and implementation skills.
+Ability to conduct research based on complex business problems.
+Strong presentation skills and the ability to collaborate in a multi-disciplinary team.
+Must have programming experience in Python.
+Familiarity with Docker, ML Libraries like PyTorch, sklearn, pandas, and SQL is a plus
+Excellent English and German (B2 to C1 level) communication skills, both written and verbal.
+
+
+
+Benefits & Perks:
+
+Exponential career growth
+Culture of innovation
+Progressive leave policy
+Growth-driven L&D policy
+Exclusive mentorship program
+Yearly workcation program.
+Exchange program cross country wise and more...
+
+
+
+Location: Frankfurt, Germany
+
+Experience: Masters's degree with 2 yrs+ experience or Ph.D.
+
+Compensation: Best in the Industry with lucrative benefits
+
+
+We look forward to receiving your application!
+
+Diesen Job melden

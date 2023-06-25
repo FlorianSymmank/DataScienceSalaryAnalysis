@@ -1,0 +1,18 @@
+{
+  "job_title": "PhD student (f/m/d)",
+  "company": "Carl von Ossietzky Universität Oldenburg",
+  "location": "26129 Oldenburg",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "full-time",
+  "requirements": "An academic university degree (Master or equivalent) in virology, biomedicine, molecular biology or related sciences; Laboratory experience in the fields of virology, immunology, molecular or cell biology; Excellent communication skills in English",
+  "skills": [
+    "cell culture",
+    "fluorescence and confocal microscopy",
+    "immunoprecipitations",
+    "molecular cloning"
+  ],
+  "date_posted": null
+}

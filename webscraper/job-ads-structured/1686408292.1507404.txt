@@ -1,0 +1,20 @@
+{
+  "job_title": "Praktikum Data Science",
+  "company": "eoda GmbH",
+  "location": "34127 Kassel",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": "Vollzeit",
+  "requirements": "Student (m/w/d) im Bereich Statistik, Mathematik, Soziologie, Wirtschaftswissenschaften oder anderer Studieneinrichtung mit Schwerpunkten in statistischer Analyse. Grundlagenkenntnisse in R oder Python. Gute Kenntnisse im Bereich Statistik und Methodik. Gute Deutsch- und Englischkenntnisse in Wort und Schrift. Spaß am Arbeiten in einem interdisziplinären Team.",
+  "skills": [
+    "statistische Analyse",
+    "R",
+    "Python",
+    "Deutsch",
+    "Englisch",
+    "Teamarbeit"
+  ],
+  "date_posted": null
+}

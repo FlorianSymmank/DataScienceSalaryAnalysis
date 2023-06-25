@@ -1,0 +1,19 @@
+{
+    "job_title": "Bachelorand (m/w/d): Implementierung innovativer Data Analytics-Methoden im Anlaufmanagement am Standort Zuffenhausen",
+    "company": "Dr. Ing. h.c. F. Porsche AG",
+    "location": "Zuffenhausen",
+    "salary_euro": null,
+    "employment_type": "Abschlussarbeit",
+    "requirements": "Studium der (Wirtschafts-) Informatik, Mathematik, Mechatronik, Maschinenbau, Elektrotechnik oder eines vergleichbaren Studiengangs mit Schwerpunkt Data Science Big Data Machine Learning",
+    "skills": [
+        "Automobilaffinität",
+        "Programmiererfahrungen (z.B. Python, R)",
+        "Erfahrung im Bereich Big Data / Machine Learning",
+        "Sicherer Umgang mit MS Office",
+        "Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift",
+        "Sehr gute konzeptionelle sowie analytische Fähigkeiten",
+        "Zuverlässige, selbstständige und systematische Arbeitsweise",
+        "Sehr gute Kontakt- und Kommunikationsfähigkeit sowie hohe Einsatzbereitschaft und Freude an Teamarbeit"
+    ],
+    "date_posted": "unknown"
+}

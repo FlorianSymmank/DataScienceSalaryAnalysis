@@ -1,0 +1,17 @@
+{
+    "job_title": "Network Analyst (Telecom)",
+    "company": "City of Columbus",
+    "location": "Bayern",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Three (3) years of experience providing basic network, data communications, or telecommunications support or analysis activities",
+    "skills": [
+        "Cisco Call Manager MACD work",
+        "Test & Toning experience with analog phone lines/circuits",
+        "Carrier DID porting",
+        "General IVR familiarity and support",
+        "Fax over IP experience",
+        "Cisco Webex experience"
+    ],
+    "date_posted": null
+}

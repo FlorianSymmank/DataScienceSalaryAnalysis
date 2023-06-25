@@ -1,0 +1,25 @@
+{
+  "job_title": "Senior Data Science Engineer",
+  "company": "Baumlink",
+  "location": "München",
+  "salary_euro": {
+    "amount": 80000,
+    "period": "yearly"
+  },
+  "employment_type": "Festanstellung",
+  "requirements": "Abgeschlossenes Studium in (Wirtschaft) Mathematik oder (Wirtschaftsinformatik) Gute Kenntnisse in statistische Methoden und mathematische Modelle Jahrelange Erfahrung in Machine Learning (NLP)",
+  "skills": [
+    "statistical methods",
+    "mathematical models",
+    "machine learning",
+    "NLP",
+    "Python",
+    "SQL",
+    "software engineering",
+    "teamwork",
+    "communication skills",
+    "German",
+    "English"
+  ],
+  "date_posted": "2021-10-01"
+}

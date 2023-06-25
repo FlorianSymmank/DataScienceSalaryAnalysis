@@ -1,0 +1,17 @@
+{
+    "job_title": "Senior Clinical Data Manager",
+    "company": "Qiagen",
+    "location": "Homeoffice",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "Master degree in, bio- / medical- statistics, or other clinical data related areas. Minimum 4 years working experiences of clinical data management with IVD company; other devices or pharmaceutical clinical operation experience will be considered. Certification of GCP, and essential understanding of GCP requirements on clinical data and statistics. Hands-on knowledge of Regulatory requirements of assigned working regions (e.g. FDA, CE, ICH GCP, ISO 14155/20916, NMPA, etc). Skills capable of interpreting regulations and guidelines on IVD / MD for actionable insights of sample size, database design, data collections, statistic criteria, statistic methods and study evaluations...",
+    "skills": [
+        "Clinical data management",
+        "Regulatory requirements",
+        "GCP",
+        "EDC",
+        "SAS",
+        "Project management"
+    ],
+    "date_posted": null
+}

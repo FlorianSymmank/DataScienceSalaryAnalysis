@@ -1,0 +1,25 @@
+{
+    "job_title": "Junior Business Analyst with programming skills",
+    "company": "DEVnet Holding",
+    "location": "Munich, Frankfurt, Hamburg",
+    "salary_euro": null,
+    "employment_type": "Permanent",
+    "requirements": "Degree in computer science, mathematics (applied mathematics), econometrics, finance or a relevant scientific discipline, experience with managing business requirements and in programming area, working knowledge of programming language like Matlab, R, Python, Java, C# or C/C++, database systems like SQL, Oracle, MongoDB and cloud technologies like MS Azure, AWS, knowledge of financial engineering topics, asset classes, investment processes, market data, experience in implementation of business requirements, interest in data analytics, financial mathematics questions and IT topics, very good command of English and German is essential, willingness to travel for client projects. ",
+    "skills": [
+        "Java",
+        "Python",
+        "C#",
+        "C/C++",
+        "Matlab",
+        "R",
+        "SQL",
+        "Oracle",
+        "MongoDB",
+        "MS Azure",
+        "AWS",
+        "data analytics",
+        "financial mathematics",
+        "IT"
+    ],
+    "date_posted": "2021-10-12"
+}

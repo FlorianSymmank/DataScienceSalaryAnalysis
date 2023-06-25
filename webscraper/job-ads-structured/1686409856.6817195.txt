@@ -1,0 +1,17 @@
+{
+  "job_title": "Junior DevOps / MLOps / Software Engineer (f/m/d)",
+  "company": "Kineo GmbH",
+  "location": "10407 Berlin Zum Teil im Homeoffice",
+  "salary_euro": {
+    "amount": 50000,
+    "period": "pro Jahr"
+  },
+  "employment_type": "Vollzeit",
+  "requirements": "An advanced quantitative degree - Computer Science or closely related fields.",
+  "skills": [
+    "Good knowledge of one of the larger cloud providers",
+    "Preferably experienced with Terraform or similiar languages.",
+    "Programming skills in Python are helpful. We love other languages too, but Python is what most of our engineers use."
+  ],
+  "date_posted": "2021-08-11"
+}

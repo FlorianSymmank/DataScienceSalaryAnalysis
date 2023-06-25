@@ -1,0 +1,17 @@
+{
+    "job_title": "WORKING STUDENT IT",
+    "company": "Procter & Gamble",
+    "location": "Kronberg",
+    "salary_euro": null,
+    "employment_type": "Teilzeit",
+    "requirements": "Enrolled at a German University working towards your Bachelor / Master, preferably in an IT related subject (Computer Science, Business Information Systems) or Management fields, Minimum finished 3rd semester of Bachelor, Proficiency in English language",
+    "skills": [
+        "Thorough as well as independent and structured way of working", 
+        "Great level of organisation", 
+        "Ability to demonstrate leadership by approaching and solving challenges", 
+        "Team oriented, with a \u201ccan do\u201c attitude and ability to deliver breakthrough results", 
+        "Creative, innovative, strong in your initiative, follow-through, communication, and priority-setting", 
+        "Able to play a key role and influence across levels and functions"
+    ],
+    "date_posted": null
+}

@@ -1,0 +1,43 @@
+Embedded Software Developer (m/f/d)
+smartmicro
+38108 Braunschweig
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+We are smartmicro, leading specialist in high performance automotive and traffic radar sensor technology. We design, develop and manufacture high-tech radar sensors for autonomous driving and for intelligent traffic infrastructure and smart cities. Our mission is to make roads safer, enable autonomous driving in all-weather scenarios, optimize traffic flow for reduced travel times and enable greener, smarter cities. In this way, we want to make the future of mobility a reality.
+
+Aufgaben
+
+
+You will become part of our software development team for modern radar sensors used in the automotive and traffic industry
+You write clean and maintainable state-of-the-art codes used in multiple sensor platforms
+In collaboration with our engineers, you will solve compelling issues and help maintain, extend and revise our code base
+Qualifikation
+
+
+Complete Master in Engineering, Computer Science or comparable
+You are an experienced software developer, preferably within a safety-relevant industry, with expertise in enabling and programming digital signal processors or other hardware accelerators
+Profound knowledge of the programming language C with focus on embedded applications is beneficial, C++ and Python are a plus
+You have a solid understanding of software design patterns, software architecture, software testing and the programming of low-level driver
+Experience with data sheets, schematics, common measurement, technical investigation and debugging is beneficial, as well as project-related work according to Automotive SPICE or ISO 26262 (up to ASIL B)
+This includes common microprocessor architectures (ARM, PowerPC)
+You are a valued team player with good communication skills in English, German is a plus
+Benefits
+
+
+Latest technology
+Great working environment and a highly motivated team
+Spacious offices and labs in very modern company buildings
+Further training opportunities, openness for innovation, and zero bureaucracy
+Flexible working hours and opportunities for mobile working
+Permanent employment contract
+Fitness training, corporate functions and much more on company expenses
+Free charging of electric and hybrid electric vehicles
+Become a part of our innovative company and work together with us to develop our leading
+technology in the field of radar and hybrid sensors.
+
+Please send us your complete application with certificates. Either German or English applications are accepted.
+Diesen Job melden

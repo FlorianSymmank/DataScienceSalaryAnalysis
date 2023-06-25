@@ -1,0 +1,10 @@
+{
+    "job_title": "Data Scientist",
+    "company": "Kienbaum",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Du hast Dein Studium der Wirtschaftsinformatik, Informatik, Psychologie, Volks-/Betriebswirtschaft, Naturwissenschaften oder eines vergleichbaren Studiengangs erfolgreich abgeschlossen oder verfügst über eine gleichwertige Qualifikation (z.B. durch eine Fachausbildung mit Berufserfahrung)",
+    "skills": ["Datenanalyse", "Programmierung", "SQL", "Quantitative Analyse"],
+    "date_posted": null
+}

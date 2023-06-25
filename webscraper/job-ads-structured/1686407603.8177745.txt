@@ -1,0 +1,21 @@
+{
+  "job_title": "Doctoral candidate (f/m/d) in the field of \"Meta-masked Learning for Vehicle Time Series Data\"",
+  "company": "Volkswagen AG",
+  "location": "Wolfsburg",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": null,
+  "requirements": "University degree in computer science, mathematics, physics, engineering or comparable fields of study with doctoral authorization\nGood to very good academic grades\nExtensive practical experience with the implementation of models in one of the relevant machine learning frameworks such as Pytorch, Keras or Tensorflow. To do this, either Python or C ++ must be dominated and modern software development methods are known\nIncreasing knowledge in the field of statistics and machine learning\nHigh self -motivation and high level of initiative\nStructured way of working and positive approach to complex challenges\nPronounced communication skills and safe demeanor\nAdvanced German and English skills (at least B2 for both)",
+  "skills": [
+    "machine learning", 
+    "Pytorch", 
+    "Keras", 
+    "Tensorflow", 
+    "Python", 
+    "C ++", 
+    "statistics"
+  ],
+  "date_posted": null
+}

@@ -1,0 +1,119 @@
+Master/Bachelor thesis: Camera-lidar self-calibration (m/f/d)
+AVL
+Regensburg
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+ADAS - Master/Bachelor thesis: Camera-lidar self-calibration (m/f/d)
+
+
+
+
+YOUR RESPONSIBILITIES:
+
+
+
+
+Description:
+
+Autonomous vehicles are equipped with a multimodal sensor setup to enable the car to drive safely. The initial calibration of such perception sensors is a highly matured topic and is routinely done in an automated factory environment. However, an intriguing question arises on how to maintain the calibration quality throughout the vehicle’s operating duration. We offer possible thesis topic that address the problem above by integrating the so-called self-calibration algorithm. Such algorithm must maintain its self-calibration accuracy with minimum run time. Recent advancement of Self-calibration are made possible with deep learning.
+
+
+
+
+Tasks:
+
+Investigating state of art method of optimizing neural network (e.g. pruning)
+
+Making visualization interface for self-calibration result (sensor-to-sensor visualization)
+
+Making evaluation pipeline to investigate the effect of changing environment to the performance of self-calibration
+
+
+
+
+YOUR PROFILE:
+
+
+
+
+Studies in the field of Artificial Intelligent, or Electrical/Computer Science/Mechanical Engineering with specialization in AI/Machine Learning
+
+Fundamental understanding and past project/study in Computer Vision (not only through online courses)
+
+Python, experiences with Deep Learning (Pytorch)
+
+Of advantage: experience with optimizing NN for embedded device (TensorRT)
+
+Of advantage: experience with web app tooling for data visualization (e.g. Django-flask, Plotly)
+
+English skills
+
+Writing and presentation skills, ability to convey your technical work to general audience
+
+Personality is more than anything!
+
+
+
+
+WE OFFER:
+
+
+
+
+Be part of our pioneering work– together with our customers we shape the future of mobility!
+
+International and innovative collaboration rings a bell? That’s how we work.
+
+Our technical and personal onboarding concept will help you to hop on easily.
+
+We support lifelong learning: educate yourself, apply your knowledge and get creative.
+
+Mobile working, flex-time and modern workplaces are part of our DNA.
+
+We are deeply rooted in our values: respectful communication, care, openness, passion and trust
+
+
+
+
+
+
+
+
+AVL Software and Functions GmbH is the center of competence for Powertrain Software- and Function Development, as well as Electronics and Systems integration. Our fields of activity include highly innovative projects in the area of Combustion Engines, E-Mobility and ADAS / AD.
+
+
+
+
+Our vision “Why not – move different!” is challenging us to develop solutions for the future of mobility.
+
+About AVL
+
+AVL is one of the world’s leading mobility technology companies for development, simulation and testing in the automotive industry, and beyond. We provide concepts, solutions and methodologies in fields like vehicle development and integration, e-mobility, automated and connected mobility (ADAS/AD), and software for a greener, safer, better world of mobility.
+
+Find out more: www.avl.com
+
+You are interested in a job at AVL but you are not sure how to apply or want to know what happens after you send your application?
+
+Check out our step-by-step guide
+
+AVL is not just about cars. It's about changing the future. Together.
+Location: Regensburg, DE
+Company: AVL Software and Functions GmbH
+Job Function: ADAS/AD
+Contract Type: Temporary
+Posting Date: May 23, 2023
+Job ID: 35528
+About AVL
+
+AVL is one of the world’s leading mobility technology companies for development, simulation and testing in the automotive industry, and beyond. We provide concepts, solutions and methodologies in fields like vehicle development and integration, e-mobility, automated and connected mobility (ADAS/AD), and software for a greener, safer, better world of mobility.
+
+Find out more: www.avl.com
+
+
+
+
+
+Job Segment: Embedded, Computer Science, Mechanical Engineer, Electrical, Technology, Engineering, Automotive
+
+Diesen Job melden

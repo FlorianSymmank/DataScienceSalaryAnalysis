@@ -1,0 +1,63 @@
+Software Developer (f/m/d)
+Resolve BioSciences GmbH
+40789 Monheim am Rhein
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Your mission
+
+As part of the Data Science Team, you will be responsible for taking part in the Software Development for our Molecular Cartography solution as well as integrating the software in Resolve’s data pipeline.
+
+You are our candidate, if you have experience in developing data analysis tools and products. You will work closely with the Image Analysis team within the Data Science team and be accountable for the integration of the end-to-end data pipeline and the deployment of various software packages.
+
+The role is based in the company’s headquarters of Monheim, Germany. You will report to the team lead of Data Pipeline Integration within the Data Science Team
+
+Your Tasks:
+
+
+Participate in the data pipeline development that encompasses RNA probe design, instrumentation, image analysis and bioinformatics
+Develop algorithms in Python, R and bash, and integrate them in the data pipeline
+Use ML/DL methods to increase the speed and efficacy of the data pipeline
+Version control softwares using Git (in combination with Github or GitLab)
+Evaluate options for computer resources required for the data pipeline
+Ensure software is tested and meet quality standards
+Write detailed documentation on the developed software modules
+Present results to the other departments
+
+Your profile
+
+Minimum Bachelor’s degree (Master’s degree would be an advantage) in software engineering, computer science or bioinformatics
+Proven record in designing and developing software products, preferably for image analysis and/or biological data pipeline
+Familiar with the Linux environment
+Experience with CPU and GPU programming
+Experience with message brokers such as Mosquitto and task managers in Linux
+Hands-on experience of coding using more than one recognized industry-standard language, e.g. Python, C++, Java, etc.
+Knowledge in statistical analysis and bioinformatics tools and databases, e.g. R, Ensembl, GenBank, etc.
+Exposure to one of the cloud technologies: Google, AWS, Azure
+Experience in working with version controlling (e.g. git) and software deployment to the cloud (CI/CD, scalability, containerization, serverless)
+
+Personal Characteristics
+
+At Resolve Biosciences, we believe that diversity, equity, and inclusion are essential to our success. We welcome applicants of all genders, ethnicities, nationalities, religions, abilities, and backgrounds to apply for our open positions. We are committed to creating a workplace where everyone feels valued, respected, and supported.
+
+Why us?
+
+This is the perfect opportunity for a successful candidate to become a part of a highly motivated, agile, and international team in an attractive work environment with excellent career opportunities and flat hierarchies. You will contribute to develop our cutting-edge technology with the clear goal to offer products worldwide, and you will influence both our products and clients. We provide space for creativity and flexible working hours and look forward for new members to join us on an exciting journey into a new field of biotechnology. Still in the start-up phase, we wish to collaborate and grow together with forward-minded people.
+
+About us
+
+The Molecular Cartography™ Company
+We are bringing the latest advances in German precision engineering to the biotechnology field.
+
+
+
+Together, with our talented team of scientists, commercial experts and investors, we are poised to lead the next generation of single-cell analysis which will enable scientists around the world to apply the power of Molecular Cartography™ and gain new insights based on the highest-resolution view of single-cell spatial biology. Resolve Biosciences is a privately held company headquartered in Monheim am Rhein, Germany with an expanding global footprint, that includes facilities in San José, California, USA.
+
+
+
+Our Molecular Cartography™ platform has been well received by scientists through an early access program since 2016. We are now entering into an exciting phase of rapid growth and commercialization.
+
+Diesen Job melden

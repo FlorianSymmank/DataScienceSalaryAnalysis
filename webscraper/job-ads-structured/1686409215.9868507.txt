@@ -1,0 +1,16 @@
+{
+    "job_title": "IT Internship (full-time)/Working Student (25h/week)",
+    "company": "DHL",
+    "location": "Bonn",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Ongoing University-level education in Information Technology, Computer Science, or related streams. Fluency in English is a must.",
+    "skills": [
+        "Data Science / developing Data Analytics Solutions",
+        "Developing reports using Power BI",
+        "Web applications development using SharePoint, PowerAutomate, PowerApps, PowerPlatform, Dataverse",
+        "Working with databases (SQL, Microsoft Azure)",
+        "Coding with Python (desirable)"
+        ],
+    "date_posted": null
+}

@@ -1,0 +1,142 @@
+Academic research assistant (m/f/x)
+Universität des Saarlandes
+66123 Saarbrücken
+Teilzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Teilzeit
+
+Saarland University is a campus university with an international reputation for research excellence, particularly in
+
+computer science and in the life sciences and nanosciences. The university is also distinguished by its close ties to
+
+France and its strong European focus. Around 17,000 students, studying over one hundred different academic
+
+disciplines, are currently enrolled at Saarland University. Saarland University is officially recognized as one of
+
+Germany’s family-friendly higher-education institutions and with a combined workforce of more than 4000 it is one
+
+of the largest employers in the region.
+
+The research group for Integrative Cellular Biology and Bioinformatics is inviting applications for the following
+
+position commencing at the earliest opportunity.
+
+Academic research assistant (m/f/x)
+Reference number W2315, salary in accordance with the German TV-L salary scale1, pay grade: E13, employment:
+
+initially for 1 year with the option for extension, 75 % of standard working time.
+
+Workplace/Department:
+
+The state of each cell is regulated by the complex interplay of many different epigenetic mechanisms. This has crucial
+
+implications for normal organism development and disease. Modern sequencing technology facilitates the genome-
+
+wide characterization of the underlying regulatory factors.
+
+The recently founded group for Integrative Cellular Biology and Bioinformatics (https://icb.uni-saarland.de/) is
+
+developing and applying computational methods to dissect these molecular mechanisms that govern cell state in
+
+development and disease. This requires the analysis and integration of large-scale, multi-omics datasets, and we
+
+engage in interdisciplinary collaborations between molecular biology and computer science to drive cutting-edge
+
+research at the intersection of epigenomics, biostatistics, algorithms and machine learning.
+
+We are looking for a motivated and creative person to join our team.
+
+The opportunity to pursue a PhD is provided, given that all requirements are met.
+
+Job requirements and responsibilities:
+
+Development and application of statistical and machine learning methods for the analysis and integration of
+-omics data (including Bisulfite-seq, ATAC-seq, RNA-seq) at the bulk and single-cell level
+Development of usable software for the interpretation of large biological datasets
+
+1 TV-L = collective agreement on remuneration of public sector employees in the German Länder
+The pay grade assigned to an employee depends on their professional qualifications and the number of years of service. Each pay grade is
+further subdivided into levels. Entry-level employees with no previous experience will initially be assigned a level 1 rating. After one year at
+level 1 of the E10 pay grade, an employee will move up to level 2. After a further two years, the employee will move to level 3, etc.
+
+Close collaboration with other research groups at the interface of molecular biology and computer science
+
+Your academic qualifications:
+
+Completed scientific university studies in bioinformatics, computer science, molecular biology or a related
+
+discipline.
+
+The successful candidate will also be expected to:
+
+Proficient knowledge in programming, software development and algorithms (R / Python or similar)
+Experience with UNIX-based operating systems and their CLI tools is an advantage
+Experience in statistics and machine learning is desired, but not required
+Experience with *-omics data analysis and experience with single-cell analyses are desired, but not required
+Independently work on novel and complex topics
+Have an expressed interest in the field of epigenomics and gene regulation
+Teach in the Bachelor & Master bioinformatics and biology programs and co-supervise final theses
+Have excellent verbal and written communication skills in the English language (German is not a requirement)
+
+What we can offer you:
+
+A flexible work schedule allowing you to balance work and family
+A broad range of further education and professional development programmes
+An occupational health management model with numerous attractive options, such as our university sports
+
+programme
+
+Supplementary pension scheme (RZVK)
+Discounted tickets on local public transport services (‘Jobticket‘)
+
+We look forward to receiving your application (including a letter of motivation, a current CV, references, certificates
+
+of completed degrees and transcripts of completed university courses).
+
+Please quote reference number W2315 when applying. Applications must be received by no later than 31 October
+
+2023 and should be sent to the following address:
+
+Universität des Saarlandes
+
+Herr Jun.-Prof. Dr. Fabian Müller
+
+Integrative Cellular Biology and Bioinformatics
+
+Email: fabian.mueller@uni-saarland.de
+
+If you have any questions, please contact us by Email for assistance.
+
+Pay grade classification is based on the particular details of the position held and the extent to which the applicant meets the
+
+requirements of the pay grade within the TV-L salary scale. Part-time employment is generally possible.
+
+If you have obtained a foreign university degree, a proof of the equivalence of this degree with a German degree by the
+
+Zentralstelle für ausländisches Bildungswesen (ZAB) is needed before hiring. If necessary, please apply for this in time. You can
+
+find more information at https://www.kmk.org/zeugnisbewertung.
+
+Unfortunately, neither costs for attending an interview at Saarland University nor costs for any certificate evaluation by the ZAB
+
+can be reimbursed in principle.
+
+We welcome applications regardless of gender, nationality, ethnic and social origin, religion/belief, disability, age, and sexual
+
+orientation and identity. In accordance with its policy of increasing the proportion of women, the University actively encourages
+
+applications from women. Applications from severely disabled persons will be given preferential consideration in the event of
+
+equal suitability.
+
+When you submit a job application to Saarland University you will be transmitting personal data. Please refer to our privacy notice
+
+for information on how we collect and process personal data in accordance with Art. 13 of the Datenschutz-Grundverordnung. By
+
+submitting your application you confirm that you have taken note of the information in the Saarland University privacy notice.
+
+Diesen Job melden

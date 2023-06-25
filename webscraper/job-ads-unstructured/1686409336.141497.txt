@@ -1,0 +1,35 @@
+Data Scientist (m/w/d)
+WidasConcepts GmbH
+Homeoffice
+Schnellbewerbung
+Dein Arbeitsalltag
+
+Werde Teil von cidaas, einem führenden Cloud IAM Service in Europa, und arbeite in einem agilen Team an neuen coolen Features. Du interpretierst und verarbeitest Raw Data, bist aktiv bei der Modell Evaluation beteiligt und begleitest die Verarbeitung bis hin zum Deployment. Du unterstützt uns bei der Umsetzung innovativer ML-Lösungen – Konzeption und der Programmierung der Lösungen.
+
+Dabei stehen dir jederzeit deine Team-Kollegen zur Seite.
+
+Deine Aufgaben
+Arbeiten mit komplexer Datenanalyse, Datenvorbereitung und Modellen basierend auf vorhandenen, gesammelten Daten
+Verarbeitung und Kommunikation statistischer Kennzahlen durch geeignete Daten-Visualisierungstechniken
+Model Creation, Exploration, Evaluation, Development, Training and Deployment
+Mitarbeit in einem interdisziplinären, hochmotivierten und agilen Team
+Dein Profil, was uns überzeugt
+Mehrjährige praktische Erfahrung als Data Scientist
+Sehr gute Kenntnisse in einer für Data-Science relevanten Programmiersprache wie Go, Python, NoSQL (Elastic/dokumentbasierte DB)
+Erfahrung und Wissbegierde für Nutzerflows, Datenentstehung und Aufbereitung der vorhandenen, gesammelten Daten
+Verständnis und Interesse für KI-Modelle im Kontext von Identity Theft oder Computer Vision für ID validation
+Kenntnisse für Virtualisierungsumgebungen (Kubernetes), git und ggfs. Ray AI
+Teamfähigkeit, Einsatzbereitschaft, Selbständigkeit und eine proaktive Arbeitsweise
+gute Englischkenntnisse
+Was wir Dir bieten
+Attraktive Arbeitsumgebung: Unser Beitrag zur Work-Life-Balance durch flexible Vertrauensarbeitszeit und Fokus auf mobilem agilem Arbeiten im Team. Flexibilität ist unser Ding!
+On-Site-Work: Helle, klimatisierte und begrünte Büroräume, Silentboxen, moderne Ausstattung und eine gute Anbindung zu Bäcker, Restaurant und Wochenmarkt machen deinen Workday zu einem angenehmen Tag im Büro!
+
+Flache Hierarchien: Bei uns sind die Türen wie unsere Werte und unsere Arbeitskultur: offen. Bei uns steht das Miteinander an erster Stelle und das sich der zufriedene Mitarbeiter in einem gesunden Arbeitsumfeld wiederfindet. Wertschätzung? Check!
+Weiterentwicklung: Du weißt etwas nicht? Noch nicht. Wir begleiten dich und bieten dir eine kontinuierliche Weiterentwicklung durch unsere Technologie-Stand-Ups.
+Und sonst?: Freie Laptopwahl, firmenweites "Du", gemeinsame Events, positiver Vibe im Büro, Fitnessbereich, Tischkicker, Getränkeflat und natürlich der Obstkorb...alles da, greif zu!
+Bewirb Dich jetzt - Wir freuen uns auf Deine Bewerbung!
+
+Benötigte Anlagen: Anschreiben, Lebenslauf, Zeugnisse
+
+Diesen Job melden

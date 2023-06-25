@@ -1,0 +1,57 @@
+AI / Machine Learning Engineer (f/m/d)
+wattx
+10407 Berlin
+Zum Teil im Homeoffice
+Schnellbewerbung
+Are you interested in the newest trends of AI and capable of building state-of-the-art machine learning models?
+
+Tasks
+
+
+Implementing effective and scalable end-to-end machine learning pipeline solutions
+Researching and applying emerging ML and AI techniques to new business contexts
+Building, maintaining, and scaling-up machine learning models from prototypes into production
+Participating in ideation processes for new ML/AI ventures together with founders, venture developers, engineers, and data scientists
+Requirements
+
+
+Data Science and Machine Learning experience with Python, Jupyter Notebooks, numpy/scipy, pandas, scikit-learn and tensorflow/pytorch
+In-depth knowledge of AI technologies, including natural language processing (NLP) and computer vision, using traditional techniques as well as deep learning
+Strong understanding of data engineering, database management, and cloud infrastructure.
+Good working experience with big data technologies such as Hadoop, Spark, Kafka, Storm, or Flink (including batch and stream processing)
+3+ years of experience programming in Python
+‍
+
+NICE TO HAVE:
+
+Expertise in different databases, from provision and operation to usage: SQL (preferably Postgres), NoSQL (key/value, wide column, document stores)
+Experience with distributed systems
+DevOps/MLOps experience with common cloud platforms (AWS or Google Cloud)
+Experience with Docker, Kubernetes, and container orchestration
+Benefits
+
+A competitive compensation package, including:
+
+A personal learning budget
+An opt-in pension plan
+30 vacation days; plus additional bridge days off
+Urban Sports Club membership
+A hybrid work model with maximum flexibility, including:
+
+The choice where you work 90% of the time
+10% of the time reserved for collaborative work as a team
+A beautiful office environment designed for you to learn and thrive
+Quarterly hackathons
+An outstanding team, with:
+
+Ownership over your projects from day one and an empowering working environment
+A range of topic experts to support the decision-making process
+Colleagues with diverse and highly advanced skill sets
+A range of topic experts to support the decision-making process
+ABOUT US:
+The engineering culture at wattx is shaped around principles of agile software development and user-centric design. We value pragmatism over idealism, simplicity over complexity, and technological agnosticism over fundamentalism, and we are seeking people who share these values. We stay ahead of the curve by using state-of-the-art tools and technologies.
+
+wattx operates within Construction, Manufacturing, and Prop Tech, creating a real impact while focusing on Sustainability. We are a team of engineers, data scientists, product managers, designers, and venture developers. We identify opportunity areas and then conduct research and ideation sessions. Next, we prototype, vet, and develop the solutions that evolve from these sessions and develop them as projects with our parent company Viessmann and other clients from Mittelstand and our broad network of partners.
+
+We screen all applications without regard to race, ethnicity, religion, gender, sexual identity, worldview, or disability. We do not require a photograph to be attached to the CV.
+Diesen Job melden

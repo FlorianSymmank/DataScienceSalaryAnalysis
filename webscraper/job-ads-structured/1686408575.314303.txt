@@ -1,0 +1,15 @@
+{
+    "job_title": "Software Developer Working Student (f/m/d)",
+    "company": "Speedinvest",
+    "location": "Berlin, Munich or Vienna",
+    "salary_euro": null,
+    "employment_type": "Vollzeit, Teilzeit",
+    "requirements": "Enrolled on a Bachelor’s or Master’s Degree in Computer Science or Engineering",
+    "skills": [
+        "Python",
+        "NodeJS",
+        "SQL",
+        "AWS"
+    ],
+    "date_posted": null
+}

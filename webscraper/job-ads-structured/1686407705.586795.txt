@@ -1,0 +1,15 @@
+{
+	"job_title": "Quantitative Developer",
+	"company": "Solactive AG",
+	"location": "Frankfurt | Berlin",
+	"salary_euro": null,
+	"employment_type": "Vollzeit",
+	"requirements": "Academic degree in Computer Science, Mathematics, Physics, or equivalent field",
+	"skills": [
+		"Python",
+		"C++",
+		"Java",
+		"Rust"
+	],
+	"date_posted": "2022-01-13"
+}

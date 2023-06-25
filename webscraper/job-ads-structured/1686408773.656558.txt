@@ -1,0 +1,10 @@
+{
+   "job_title": "Data Scientist / Data Analyst",
+   "company": "solvistas GmbH",
+   "location": "Hamburg",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "technische Ausbildung (Fach-/Hochschul-Studium); min. 2 Jahre Arbeitserfahrung in einem korrelierenden Bereich; Erfahrung in der Datenmodellierung und mit unterschiedlichen Datenbanksystemen; gute SQL / PL-SQL oder T-SQL Kenntnisse; grundlegendes Designverständnis; Lust auf direkten Kontakt zu unseren Kunden; Eine kommunikative, lösungsorientierte Persönlichkeit; sehr gute Deutschkenntnisse (min. C1-Niveau, mündlich + schriftlich); Reisebereitschaft in Deutschland + Österreich (durchschnittlich 5 Tage/Monat)",
+   "skills": ["Datenmodellierung", "Datenbanksystemen", "SQL", "PL-SQL", "T-SQL", "Designverständnis", "Kundenkontakt", "Deutschkenntnisse", "Reisebereitschaft", "Artificial Intelligence", "Machine Learning", "Python", "Power BI", "statistisch-mathematischen Modellen"],
+   "date_posted": null
+}

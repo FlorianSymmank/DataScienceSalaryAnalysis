@@ -1,0 +1,10 @@
+{
+  "job_title": "Staff Bioinformatician",
+  "company": "Universitätsklinikum Heidelberg",
+  "location": "Heidelberg",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Candidates interested in using bioinformatics and machine learning to analyze omics data are encouraged to apply. An interest in biology is expected, with ideally previous experience analyzing biological data. Coding experience with Python/R is required, and a Master of higher degree.",
+  "skills": ["Bioinformatics", "Machine Learning", "Python", "R"],
+  "date_posted": "2023-05-23"
+}

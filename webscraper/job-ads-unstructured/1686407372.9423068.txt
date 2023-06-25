@@ -1,0 +1,91 @@
+Life Saver Software Engineer or Data Scientist Working Student / Intern (d/f/m)
+Airbus
+München
+Teilzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Teilzeit
+
+Job Description:
+
+A vacancy for a LifeSaver Software Engineer or Data Scientist Working Student / Intern (d/f/m) in the Urban Air Mobility team has arisen in Donauwörth and/or Munich.
+
+Our Purpose, Our Team and Our Ambition
+
+Airbus Urban Mobility (AUM) aims at laying the foundation for more efficient and sustainable city travel. To co-create an entire industry from scratch, we will develop cutting-edge technical solutions as well as engage with a wide range of stakeholders to build the necessary ecosystem and to ensure maximum societal benefit.
+
+LifeSaver is an Airbus innovation program that combines advanced technology with human expertise to help governments better manage their emergency medical services and save more lives. It’s a highly complex environment on ground, water and in the air, bringing together aviation and medical professionals across Airbus and partner organizations.
+
+In order to support the LifeSaver Program, AUM is constantly looking for top-notch student interns who are willing to drive a meaningful software project from start to finish. Some of the topics we are interested in are geospatial analytics, agent-based simulation systems or digital twins - but setting up data processing platforms or improving DevOps for our distributed teams is just as important. Come with an idea and a passion for “tech for good” and we’ll find a way to make it happen.
+
+Your Role
+
+You will be part of the LifeSaver team within the start-up like entity Airbus Urban Mobility GmbH. AUM GmbH has been set up as the central entrepreneur of the UAM organization within the Group and acts as the program for the eVTOL development as well as the system integrator for UAM. In that context, it covers the pillars vehicle, take-off & landing infrastructure and (unmanned) traffic management to prepare the integration in cities and future commercial passenger operations.
+
+In your role you will be in charge of the following main activities:
+
+You will take a dedicated software project / application from design to deployment
+
+Collaborate with the team, our partners and customers to understand and solve real operational challenges
+
+Write, test and document high-quality, maintainable, and efficient code
+
+Stay up-to-date with emerging trends and technologies in software development and provide recommendations and guidance to the team
+
+Your Qualifications and Skills
+
+We expect you to have the following qualifications:
+
+Pursuing Master’s or Bachelor's degree in Computer Science, Engineering, Mathematics or a related field
+
+Programming experience in Python, Java or JavaScript
+
+In addition, you have first experience in a specific technology or topic, such as, for example, geospatial data analytics and visualization (knowledge of deck.gl a plus), agent-based simulation, accessing REST APIs, querying databases, designing data processing pipelines and working with microservices architectures in general, or you can help us define first use cases for ML/AI
+
+Strong team player who is willing to work in a very diverse and international startup environment
+
+French, German or Spanish are a plus
+
+Your Benefits
+
+You will benefit from the following set of compensation and benefits:
+
+Mobile working possibilities
+
+Flat hierarchies
+
+Multicultural environment
+
+Free beverages, fruits and snacks in the office
+
+Several main sites: Munich City Center, Donauwörth, Marignane
+
+This job requires an awareness of any potential compliance risks and a commitment to act with integrity, as the foundation for the Company’s success, reputation and sustainable growth.
+
+Company:
+
+Airbus Urban Mobility GmbH
+
+Contract Type:
+
+Werkstudent (GE)
+
+Experience Level:
+
+Student / Etudiant / Student / Estudiante
+
+Job Family:
+
+Computing&Comm and Info& Data Processing <JF-EN-EB>
+
+By submitting your CV or application you are consenting to Airbus using and storing information about you for monitoring purposes relating to your application or future employment. This information will only be used by Airbus.
+Airbus is committed to achieving workforce diversity and creating an inclusive working environment. We welcome all applications irrespective of social and cultural background, age, gender, disability, sexual orientation or religious belief.
+
+Airbus is, and always has been, committed to equal opportunities for all. As such, we will never ask for any type of monetary exchange in the frame of a recruitment process. Any impersonation of Airbus to do so should be reported to emsom@airbus.com .
+
+At Airbus, we support you to work, connect and collaborate more easily and flexibly. Wherever possible, we foster flexible working arrangements to stimulate innovative thinking.
+
+Diesen Job melden

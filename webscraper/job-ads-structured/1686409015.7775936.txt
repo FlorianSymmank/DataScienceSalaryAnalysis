@@ -1,0 +1,24 @@
+{
+  "job_title": "Data Scientist (m/w/d)",
+  "company": "Robotron",
+  "location": "Dresden (DE)",
+  "salary_euro": null,
+  "employment_type": "Vollzeit, Festanstellung",
+  "requirements": "eine abgeschlossene IT-Ausbildung (z.B. Studium der Informatik, Fachinformatiker/in für Systemintegration oder vergleichbare Ausbildung)\nErfahrungen mit den Datenplattformen Splunk und Elasticsearch\nKenntnisse in der Script-Programmierung (Shell, Perl, Python, SQL)\nGrundlagen in der Verwendung von Regulären Ausdrücken\nErfahrungen mit Data Science Frameworks (z.B. TensorFlow, PyTorch)\nanalytisches Verständnis, profunde Kommunikationsfähigkeiten und eine teamorientierte, aber auch selbständige Arbeitsweise\nausgeprägte Service- und Kundenorientierung mit ständiger Weiterbildungsbereitschaft\nInteresse zur Zertifizierung in der eingesetzten Technologie",
+  "skills": [
+    "Splunk",
+    "Elasticsearch",
+    "Script-Programmierung",
+    "Reguläre Ausdrücke",
+    "Data Science Frameworks",
+    "analytisches Verständnis",
+    "Kommunikationsfähigkeiten",
+    "Teamorientierung",
+    "Selbständigkeit",
+    "Serviceorientierung",
+    "Kundenorientierung",
+    "Weiterbildungsbereitschaft",
+    "Zertifizierung"
+  ],
+  "date_posted": null
+}

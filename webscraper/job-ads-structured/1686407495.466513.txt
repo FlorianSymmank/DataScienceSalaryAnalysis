@@ -1,0 +1,20 @@
+{
+  "job_title": "Associate Product Data Analyst",
+  "company": "Bigpoint GmbH",
+  "location": "Hamburg",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "University degree in the fields of Mathematics, Statistics, Data Science, or comparable qualification\nMin. 2-3 years of professional experience in the field of data analytics or a similar work environment\nHands on experience on SQL and able to write problem solving queries\nExperience in working with R, to process data\nUnderstanding of automating task\nWorking knowledge of various data analysis and reporting tools and comfortable in learning new tools. (Eg. Tableau, Ddna or similar business intelligence tools)\nAbility to work independently and in a cross-functional setting\nSelf-motivation, good communication skills, and a great team-player attitude\nGood time management and organizational skills\nPassion for games\nFluent in written and spoken English.",
+  "skills": [
+    "SQL",
+    "R",
+    "automation",
+    "data analysis",
+    "statistics",
+    "communication",
+    "time management",
+    "organizational skills",
+    "English language"
+  ],
+  "date_posted": null
+}

@@ -1,0 +1,60 @@
+(Senior) Machine Learning Engineer – Video Analysis
+Snke OS
+München
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Company Description
+
+
+Snke OS™ is a universally deployable digital B2B platform, founded in 2020 & headquartered in Munich. Emerging technologies continue to drive a digital transformation in the healthcare economy. Our founders recognized the potential for value creation by decoupling & deploying their best-in-class platform & team so that other companies can scale up & innovate efficiently. Fueled by AI & big data analytics, Snke OS delivers the platform & infrastructure that enables partners across the healthcare industry to deploy digital solutions for safer & more efficient interventions.
+
+The 150-person Snke OS team brings a wealth of experience to the new company with backgrounds in large platforms, digital health & software-driven medical technology. Let’s impact the industry together! We are looking for pioneers to lead fast & lead first with Snke OS.
+
+
+
+Job Description
+
+
+For our ambitious and growing Data Intelligence department, we are looking for a senior algorithm developer with a strong background in state-of-the-art machine learning methods.
+
+In this position, you will
+
+work on learning-based solutions for a variety of tasks in medical data analysis with a particular focus on the processing of medical images and videos (e.g. image segmentation, object detection and more)
+exploit the ever increasing amount of medical data in order to push the limits of intelligent software components for medical procedure support
+have the chance to drive your creative ideas from initial prototypes up to their final product release
+share your knowledge and provide technical guidance to your colleagues in the development team
+ultimately have impact on the daily work of medical professionals around the world
+
+
+Qualifications
+
+Education in mathematics, physics, computer science or similar background
+Profound demonstrated experience in using modern machine learning methods along with classic computer vision approaches to solve challenging problems in the area of image processing
+Experience in video processing and analysis is a plus
+Ideally, you have worked on a PhD in a relevant area or gained this experience during a range of projects in an industrial setting
+Strong mathematical background and interest, allowing you to understand modern machine learning methods in all their details, and making you eager to adapt and further develop these methods in your daily work
+Good confidence in using the Python ecosystem for efficient prototyping of your ideas
+Strong interest and skills in software engineering and object oriented programming (ideally in C++), allowing you to integrate your algorithms within a complex software framework
+Eagerness to be part of a high-skilled, dynamic team where your talent is both, challenged and supported
+Fluency in English and ideally German (or willingness to learn German)
+
+Additional Information
+
+Centrally located, modern work spaces
+30 days of vacation plus 24.12. and 31.12.
+Flexible working hours
+Secure bicycle storage room
+Regular after-work, team & company events
+Great 212m² roof terrace
+International team of supportive colleagues
+Comprehensive training and continuing education opportunities
+
+Interested? Then we are looking forward to receiving your online application!
+
+Contact person: Daniel Sypli
+
+Diesen Job melden

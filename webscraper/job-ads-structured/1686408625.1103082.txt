@@ -1,0 +1,16 @@
+{
+    "job_title": "Senior Data Scientist",
+    "company": "Dennemeyer The IP Group",
+    "location": "München",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Advanced degree (PhD or Master’s) in a quantitative field such as Computer Science, Mathematics, Physics or Statistics",
+    "skills": [
+        "Natural Language Understanding",
+        "Natural Language Processing",
+        "Machine Learning",
+        "Deep Learning",
+        "Python"
+    ],
+    "date_posted": null
+}

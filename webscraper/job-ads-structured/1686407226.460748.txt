@@ -1,0 +1,10 @@
+{
+    "job_title": "Internship (f/d/m) in data science and energy trading",
+    "company": "EWE TRADING GmbH",
+    "location": "Bremen",
+    "salary_euro": null,
+    "employment_type": "Vollzeit, Praktikum",
+    "requirements": "enrolled student in an industrial engineering, physics, data science, economics, mathematics, or similar program",
+    "skills": ["good programming skills, especially Python or java script", "basic understanding of the energy market preferred but not required", "an analytical mindset", "highly beneficial, web development experience"],
+    "date_posted": "2023-05-25"
+}

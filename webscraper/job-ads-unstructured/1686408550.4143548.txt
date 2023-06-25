@@ -1,0 +1,77 @@
+Software Engineer Calibration (F/M/D)
+NavVis
+80636 München
+Schnellbewerbung
+OUR VISION
+
+When people use our technology to "bridge the gap" between the physical and digital worlds, they don’t just capture reality - they create a new one. In this new reality, they are smarter, more productive, more streamlined, and more creative - because they have the digital foundation to build the world they want to live in.
+
+That’s what NavVis offers in all our products and services: the tools to not just map the world as it is, but to pave the way to a better future. To forge something new. Physical or digital, there is only one reality. And it’s the reality NavVis empowers people to build better.
+
+THE OPPORTUNITY
+
+Can you imagine diving into the development of the software and components for and around our innovative mobile indoor mapping system, operated by companies in more than 25 countries worldwide?
+
+You will join the Mapping and Perception department, and collaborate closely with people from a diverse set of cultural and professional backgrounds, who share a passion for delivering top-class mapping solutions that aim to digitize physical spaces through the creation of photorealistic digital twins. If you share that passion and can imagine yourself working in a cross-functional role in a dynamic and international environment, you just might be the person we are looking for!
+
+THE TEAM'S MISSION THIS YEAR
+
+To elevate our software solutions used in mapping entire buildings and creating realistic 3D representations based on cutting-edge technology in the area of robotics.
+
+HOW YOU WILL MAKE AN IMPACT
+
+
+You will be at the forefront of building, testing, improving, and maintaining the software and processes to calibrate our Mobile Mapping Systems (MMS)
+You will be deeply involved in the full life-cycle of the calibration process from ideation to the roll-out into production
+You will collaborate closely with our production team to identify, escalate, and resolve issues with our calibration processes and tools
+You will have a key responsibility of creating, maintaining, and improving the technical documentation for calibration
+WHAT WILL HELP YOU SUCCEED IN THE ROLE
+
+
+A Master's degree or Ph.D. in computer science, electrical engineering, or similar
+At least 3+ years of experience in the field of calibration of sensors in general and ideally experience with sensors and sensor models for cameras, laser scanners / LIDARs and IMUs
+You have expertise in C++ development and related tools in a professional context as well as good coding skills in Python
+You are proficient in using Linux and the command line
+Your passion for data quality and improving processes as well as workflows will be useful throughout the calibration process
+What would be even better?
+
+
+Experience with C++ Libraries like Ceres, ROS, Boost, Eigen, OpenCV, PCL or likewise
+Experience in modeling and solving hard optimization problems, especially around the geometry of 2D / 3D correspondences
+HOW WE WILL KNOW WE ARE A PERFECT MATCH
+
+Your recruiting partner for this role is Temitope (she/her). You can expect to go through a screening call, a take-home assignment and up to 2 rounds of technical interviews, where we would love to discover your passion and interests, introduce you to who we are and what drives us, and finally understand how we can potentially add value to each other's growth.
+
+HOW WE WILL KEEP YOU SMILING
+
+
+It's important to take a break from work! We offer 30 days of paid time off per year
+We offer flexible working hours and a hybrid work setup, enabling you to plan your work around your life, and not your life around work!
+We offer full visa and relocation support for international candidates
+An attractive bike leasing model through JobRad, in line with our commitment towards sustainable mobility
+A competitive compensation package that values the skills and experience you bring
+Up to 4000 EUR employee referral bonus
+German language classes to help you in your journey of integrating into the German culture!
+ABOUT US
+
+NavVis is a technologically-focused, global leader in reality capture and digital factory solutions. Prominent manufacturers and laser scanning professionals from across the world trust our ground-breaking technology, which is designed to capture and share the built environment as photorealistic digital twins.
+
+More than 300 people from over 70 countries and offices spread around the globe make us a truly international and diverse place to work. With the innovation of startups and the stability of large enterprises at our core, we combine the best of both worlds.
+
+You will be part of an open culture that encourages the sharing of ideas and thrives on mutual trust, respect, and transparency. We love giving and receiving honest feedback that will empower us to continuously improve and grow in the right direction.
+
+Do you share our passion for our disruptive technology and want to be a part of our dynamic growth journey? You will get to own projects, implement innovative solutions, and be recognized for your successes!
+
+How you will grow with us
+
+
+Flat hierarchy with an open feedback culture, including 360° developmental feedback aimed at holistic professional development
+Access to a learning & developmental platform with trainings tailored to your needs on a broad range of topics
+With a keen desire to invest in your personal growth, we offer clear career development paths and internal mobility opportunities
+We derive our strength from our diversity.
+NavVis’ unwavering commitment to fostering an inclusive and diverse workplace has laid the foundation for our incredible growth. We thrive on the collective strength of our people who come from diverse backgrounds. We respect and value every experience associated with race, gender identity, sexual orientation, nationality, religion and disability. We do not discriminate on the basis of any of these, or other identities, and strongly encourage everyone to apply.
+
+Together with you, we build NavVis!
+
+If you need assistance at any stage of the recruiting process due to a disability, please reach out to your recruiting partner(s) for this position.
+Diesen Job melden

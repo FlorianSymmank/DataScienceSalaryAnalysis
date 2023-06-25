@@ -1,0 +1,10 @@
+{
+    "job_title": "Werkstudent Data Science - Artificial Intelligence (w/m/d)",
+    "company": "Beiersdorf AG",
+    "location": "Hamburg",
+    "salary_euro": null,
+    "employment_type": "Teilzeit, Werkstudent",
+    "requirements": "Immatrikuliert in den Bereichen Naturwissenschaften, Mathematik, Statistik, Physik, Informatik, Software Engineering, Computational Biology/Chemistry oder ähnlichem. Regelmäßig an einer Universität während der gesamten Werkstudententätigkeit eingeschrieben. Verfügbarkeit im Umfang von 20 Stunden pro Woche (idealerweise 2-3 Tage pro Woche)",
+    "skills": ["Python", "Matplotlib", "Jupyter Notebook", "Numpy", "Pandas", "Plotly", "GitHub"],
+    "date_posted": "2021-11-09"
+}

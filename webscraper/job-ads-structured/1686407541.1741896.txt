@@ -1,0 +1,10 @@
+{
+  "job_title": "Data Engineering Intern",
+  "company": "Merck KGaA",
+  "location": "Darmstadt, Germany",
+  "salary_euro": null,
+  "employment_type": "Full-time",
+  "requirements": "Background in Engineering, Statistics, Data Science, or Computer Science disciplines. Prior experience in GUI design, dashboard development, analytics, and reporting in Tableau or similar. Highly proficient in programming, applied data engineering, and performance optimization using Python, Spark, SQL, APIs, etc. Prior experience using Palantir Foundry platform highly preferred. Strong communication skills; comfortable presenting results to both technical and non-technical audiences. Business-fluent English & German language proficiency required.",
+  "skills": ["Python", "Spark", "SQL", "APIs", "Tableau", "Palantir Foundry"],
+  "date_posted": "YYYY-MM-DD"
+}

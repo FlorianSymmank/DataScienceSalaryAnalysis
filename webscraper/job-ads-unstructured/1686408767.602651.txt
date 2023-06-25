@@ -1,0 +1,34 @@
+Diese Stellenanzeige ist auf Indeed abgelaufen
+Mögliche Gründe: Der Arbeitgeber akzeptiert keine Bewerbungen, ist nicht aktiv auf der Suche nach neuen Mitarbeitern oder prüft derzeit die eingegangen Bewerbungen
+Abschlussarbeit - Data Science im Supply Chain Management
+AUDI AG
+Neckarsulm
+
+Work Environment
+
+Wie können wir mittels Data Science die Logistik und die Supply Chain bei Audi weiter vorantreiben? Mit dieser Fragestellung befasst sich das interdisziplinäre Data Science Team des TechHub am Standort Neckarsulm. Die Bearbeitung der Use Cases gestalten wir in enger Zusammenarbeit mit den Business Experten, um den maximalen Mehrwert für Audi zu generieren. Die Use Cases erfordern immer wieder neu Blickwinkel und den Einsatz fortgeschrittener Technologien und Methoden. Ihre Abschlussarbeit behandelt ein aktuelles und relevantes Thema und bietet Ihnen spannende Einblicke in die interaktive Arbeitsweise des Teams, die innovative Supply Chain der Audi AG sowie in die praktische Anwendung fortschrittlicher Methoden und Technologien in der Industrie.
+
+Job Purpose/Role
+
+Thema der Abschlussarbeit:
+Die Abschlussarbeit (Master/Bachelor) untersucht den Einsatz Künstlicher Intelligenz im Supply Chain Management. Dabei steht das Thema der Mindestbestandssteuerung in der Supply Chain im Mittelpunkt. Mit Fokus auf verschiedene relevante Zielgrößen betrachtet die Abschlussarbeit den Einsatz Künstlicher Intelligenz zur Verbesserung dieses Business Anwendungsfalls.
+
+Key Requirements/Skills/Experience
+
+Du bist im fortgeschrittenen Studium der Informatik, Wirtschaftsinformatik, Mathematik, Statistik oder vergleichbarer Studienrichtung
+
+Bereits erste Berufserfahrung im Bereich Logistik, Digitale Transformation einer Supply Chain oder im Automotive-Sektor
+
+Ausgeprägte analytische Fähigkeiten und eine schnelle Auffassungsgabe
+
+Eigenständige Arbeitsweise und Selbstorganisation
+
+Motivation zum selbständigen Arbeiten in Projekten, im Team sowie Kommunikation und Projektmanagement mit Fokus auf Stakeholder
+
+Praxiskenntnisse in Datenbanken wie MSSQL, Oracle
+
+Praxiskenntnisse in der Programmierung mit Python oder KNIME
+
+Erfahrung mit statistischen Methoden bzw. im Bereich AI / Machine Learning
+
+Diesen Job melden

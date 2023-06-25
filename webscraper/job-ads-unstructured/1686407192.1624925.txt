@@ -1,0 +1,55 @@
+Data Science Intern (m/f/d)
+Alocai GmbH
+Berlin
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Who we are?
+Alocai is a start-up company in the videogame localization industry. Our mission is to democratize video game localization through AI. Our platform launched in 2021, and we have already won the 2021 Think Global Forum Award for technology. Hooray!
+We are passionate about the videogame industry, and we honor the creativity in the industry by providing the highest quality localization services to build deeper connections between gamers and content across the globe.
+Your mission
+Did you ever want to work within the videogame industry? Do you want to get inside the latest games, studios, and the whole localization process of Video Games? We are now developing the Alocai Platform, a game-changer in the video game culturalization market. Therefore, we are looking for a talented Data Science Intern (m/f/d)
+You will have access to large datasets. Additionally, you will analyze and model audio, text, data to solve real-world problems and translate business and functional requirements into quick prototypes or proofs of concept.
+
+YOUR ROLE
+
+Research and development of a deep learning model (Machine Translation, NLP, text-to-speech, speech-to-text)
+Software development
+Software development skills
+Your profile
+Enrolled in a master’s degree in engineering, computer science, or machine learning.
+Experienced understanding of and ability to implement algorithms using both toolkits and self-developed code
+Experience with Python
+Extensive knowledge of AI/ML and basic experience in the development of such systems
+Initial relevant experience/internship in a software development environment
+Analytical reasoning and complex problem solving involving mathematical programming and big data problems
+Software development skills
+TECHNOLOGIES
+
+
+
+Programming languages: Python, JavaScript, Flask, TypeScript
+Data: SQL
+Data science and machine learning (Pandas, scikit-learn)
+Deep learning (Tensorflow, Keras, etc.)
+Cloud: AWS
+
+
+Why us?
+A chance to gain some great insight into the world of game localization.
+Huge potential to grow in a thriving startup environment.
+The chance to have your voice heard – if you have an idea, we want to know about it!
+A multicultural and open-minded working environment.
+You can expect a round of games at lunch and after work in an office full of gamers!
+About us
+While localizing over 5500 games we often heard the request for higher quality, better prices, and faster delivery.
+For over 15 years we have wanted an end-to-end game localization platform.
+We got sick of waiting.
+
+So we created Alocai.
+The end-to-end game localization platform that integrates human creativity and AI to deliver superior gaming experiences.
+Diesen Job melden

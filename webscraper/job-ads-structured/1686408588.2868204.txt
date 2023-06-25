@@ -1,0 +1,19 @@
+{
+  "job_title": "Senior Data Scientist with focus NGS / Bioinformatics (f/m/d - part/full-time)",
+  "company": "Staburo GmbH",
+  "location": "81549 München",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Master’s degree in bioinformatics, computer science, or equivalent education\nExperience in cancer genomics analysis especially in SNP/somatic mutation calling and CNV analysis; gene set analysis and clustering is a plus\nSolid knowledge in statistical concepts e.g. hypothesis testing, survival analysis, cross-validation\nVery good programming skills in R / Bioconductor; Shell-scripting, Git and Nextflow is a plus\nGood overview of state-of-the-art bioinformatics tools and proven record of the ability to collect, combine, and analyse complex types of data\nFast comprehension, analytical thinking, teamwork, and a high degree of initiative, willingness to learn\nCreativity and joy in solving complex analytical questions\nVery good English skills, German is an advantage",
+  "skills": [
+    "cancer genomics analysis",
+    "statistical concepts",
+    "R / Bioconductor",
+    "Shell-scripting",
+    "Git",
+    "Nextflow",
+    "bioinformatics tools",
+    "data analysis"
+  ],
+  "date_posted": null
+}

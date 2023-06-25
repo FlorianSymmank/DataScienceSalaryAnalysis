@@ -1,0 +1,61 @@
+Data Scientist
+Multitude
+10587 Berlin
+Vollzeit, Festanstellung
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Festanstellung
+
+Multitude is a fully regulated growth platform for financial technology. Its ambition is to become the most valued financial ecosystem. This vision is backed by +15 years of solid track record in building and scaling financial technology. Through its full European banking license, profound know-how in technology, regulation, cross-selling, and funding, Multitude enables a range of sustainable banking and financial services to grow and scale.
+
+Currently, it has three independent business units on this growth platform: Ferratum as a consumer lender, CapitalBox as a business lender, and SweepBank as a shopping and financing app. Multitude and its independent units employ over 700 people in 19 countries, and they together generated EUR 230 million turnover in 2020. Multitude was founded in 2005 in Finland and is listed in the Prime Standard segment of the Frankfurt Stock Exchange under the symbol ‘FRU.’
+
+
+
+
+We are looking for a Data Scientist who will support various business initiatives by providing end-to-end machine-learning solutions. The ideal candidate is adept at using large datasets to find opportunities for improving decision-making and process optimization. They must have experience with data mining and analysis, model development and implementation, using/creating algorithms and creating/running experiments. They must have a proven ability to drive business results with data-driven insights. The right candidate will have a passion for innovating and discovering different solutions in order to improve business outcomes.
+
+
+Responsibilities:
+
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+Mine and analyze data from company databases to provide meaningful insights.
+Employ machine learning and statistical methods to optimise product development, marketing techniques, credit scoring, collections optimization, and other business strategies.
+Design and track performance of A/B tests providing data-driven insights.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+Produce relevant documentation related to model performance.
+
+
+
+About you:
+
+
+
+
+Degree in data science, statistics, mathematics, econometrics or a similar field
+Experience using programming languages (R, Python, SQL, etc.) to manipulate data, develop models and draw insights.
+Knowledge of a variety of machine learning techniques, understanding of different algorithms and their real-world advantages/drawbacks.
+Ability to use different data visualization practices to provide data-driven insights.
+Excellent written and verbal English communication skills
+Experience working on machine learning projects related to marketing, credit scoring or collections is an advantage.
+
+
+
+We Offer:
+
+Internal Training (access to online learning with thousands of courses)
+Working in a hybrid flexible model
+Hybrid way of work
+Urban sport card
+Increased vacation days (starting with 24 days annual leave and one extra day per year of employment, up to 30 days per annum )
+Mental well-being support
+Capital-formation saving plan (Vermögenswirksame Leistungen)
+A commuting allowance
+
+Digital meal voucher
+Share purchase matching program
+Your assigned business laptop will be available for your free personal use, after the 5th year as part of the equipment renewal policy
+Diesen Job melden

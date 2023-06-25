@@ -1,0 +1,19 @@
+{
+    "job_title": "(Junior) Consultant Advanced Analytics, Data Science / New Data Solutions",
+    "company": "msg systems",
+    "location": "Berlin, Düsseldorf, Essen, Frankfurt, Hamburg, Karlsruhe, Köln, München, Stuttgart, Deutschlandweit",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "Einen guten bis sehr guten Abschluss in einem (Fach-)Hochschulstudium (Wirtschaftsinformatik, Mathematik, Informatik oder Statistik). Sichere Kommunikation in Wort und Schrift (Deutsch, Englisch) sowie Flexibilität, Mobilität und Reisebereitschaft.",
+    "skills": [
+        "analytischen Methoden",
+        "Data Mining",
+        "Natural Language Processing",
+        "Machine Learning",
+        "Neuronale Netze",
+        "Deep Learning",
+        "Sprachen/Technologien: z.B. Spark, Python, R sowie NoSQL-Datenbanken, Microsoft PowerBI, Tableau",
+        "Agile Entwicklungsmethoden"
+    ],
+    "date_posted": null
+}

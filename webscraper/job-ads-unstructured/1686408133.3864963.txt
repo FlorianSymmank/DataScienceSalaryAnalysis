@@ -1,0 +1,83 @@
+Python Developer (m/f/d)
+u:fynd
+Berlin
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+
+Your tasks and responsibilities
+
+In your position, you will be the bridge between the Software Engineering and Data Science team. In addition, you will...
+
+build high-performance, language-agnostic RPC systems
+develop, implement, and maintain high-performing APIs
+be responsible for web development with Python
+support the team with data visualization
+work closely with other teams to provide solutions that help the company to accomplish its targets
+
+What we offer
+
+You will soon see that we do everything that we can to make each of our teams feel comfortable, welcome, and appreciated. We would like to offer you...
+
+responsibility, space for creativity, and a long-term perspective in an up-and-coming company.
+
+opportunities for personal and professional development.
+
+competitive pay.
+
+an Urban Sports membership.
+
+30 days of paid annual leave.
+
+working in a young and motivated team with flat hierarchies.
+
+the ability to work independently with lots of space for your personal ideas.
+
+modern and well-located offices.
+
+a great choice of cold drinks, juices, and a variety of snacks.
+
+a professional Barista coffee machine and various kinds of teas with everything that you need in order to start your day right.
+
+an exciting environment as a part of a startup incubator.
+
+reimbursement of your daily travel expenses and much more.
+
+
+Your skillset
+
+You are a perfect match if you...
+
+
+
+
+have a bachelor’s degree in computer science, computer or data engineering, business informatics or similar
+
+gained at least 3 years of relevant work experience
+
+have strong knowledge of Python with a focus on web development
+
+posses proficiency in data visualization using Plotly (preferred) or alternative libraries
+
+got experience in building high-performance, language-agnostic RPC systems using gRPC (preferred) or similar frameworks
+
+are familiar with building web APIs using Python frameworks such as FastAPI (preferred), Flask, Django, Pyramid, Tornado, Hug, or Sanic
+
+got hands-on experience in developing data-driven web applications using Streamlit (preferred) or similar frameworks
+
+posses knowledge of testing frameworks like Pytest (preferred), unit test, doctest, or nose
+
+have experience with documentation generation tools such as MkDocs (preferred), Sphinx, Docsify, or Docusaurus
+
+are proficient in Object-Relational Mapping libraries, particularly SQLAlchemy (preferred), Peewee, Django ORM, etc.
+
+have work with with message broker systems like RabbitMQ (preferred), Kafka, and Azure Service Bus
+
+understand monitoring, analyzing, and visualizing logs and metrics data using Grafana
+
+are fluent in English (German is a plus)
+
+Diesen Job melden

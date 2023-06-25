@@ -1,0 +1,17 @@
+{
+    "job_title": "Working Student - Software Development (m/w/d)",
+    "company": "perto GmbH",
+    "location": "10407 Berlin",
+    "salary_euro": null,
+    "employment_type": "Working Student",
+    "requirements": "Currently pursuing a degree in Computer Science, Software Engineering, or a related field",
+    "skills": [
+        "Proficiency in at least one modern front-end framework (AngularJS, React, Vue.js or similar)",
+        "Familiarity with back-end development concepts and experience with frameworks (Laravel or similar MVC frameworks)",
+        "Enthusiasm for developing an IoT platform & interest in machine learning",
+        "You are familiar with Git, Docker & AWS",
+        "You can work independently in a goal- and service-oriented manner",
+        "You are reliable and have strong communication skills"
+    ],
+    "date_posted": "2021-11-13"
+}

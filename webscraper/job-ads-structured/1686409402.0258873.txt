@@ -1,0 +1,15 @@
+{
+  "job_title": "PhD Molecular Biology",
+  "company": "Beiersdorf AG",
+  "location": "Hamburg",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "We are looking for an enthusiastic candidate with an excellent master’s degree or equivalent in the fields of Molecular Biology, Biochemistry, Biomedicine or similar, who is well versed in working in a molecular biology laboratory.",
+  "skills": [
+    "in vitro cell culture",
+    "flow cytometry",
+    "immunology",
+    "data analysis using R or similar programs"
+  ],
+  "date_posted": null
+}

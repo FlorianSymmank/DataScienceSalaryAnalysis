@@ -1,0 +1,14 @@
+{
+  "job_title": "Werkstudent als Data Scientist",
+  "company": "Allianz Agrar",
+  "location": "München",
+  "salary_euro": null,
+  "employment_type": "Werkstudent",
+  "requirements": "Du befindest Dich momentan in einem Studiengang der Bereiche (Wirtschafts-) Informatik, Data Science, (Wirtschafts-) Mathematik, Statistik, Agrarökonomie oder vergleichbarer Fachrichtung und hast Interesse an der Arbeit mit Daten und statistischen Auswertungen.",
+  "skills": [
+    "Programmiersprachen (z.B. Python oder R)",
+    "Erfahrung in der Aufbereitung und Präsentation von Daten und Arbeitsergebnissen",
+    "selbstständige und ergebnisorientierte Arbeitsweise"
+  ],
+  "date_posted": null
+}

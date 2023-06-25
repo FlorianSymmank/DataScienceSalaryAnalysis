@@ -1,0 +1,10 @@
+{
+    "job_title": "MASTER THESIS – NAMED DATA NETWORKING FOR MOBILE IIOT ENVIRONMENTS (M/F/D)",
+    "company": "fortiss GmbH",
+    "location": "München",
+    "salary_euro": null,
+    "employment_type": "Bachelor- /Master- /Diplomarbeiten",
+    "requirements": "Completed Bachelor's degree and currently enrolled in a Master’s degree in computer science, information systems or similar. Practical experience in programming languages such as Java, C, C++. Basic knowledge on IoT aspects. Good knowledge on TCP/IP. Excellent communication skills in English.",
+    "skills": ["Java", "C", "C++", "IoT", "TCP/IP", "English"],
+    "date_posted": null
+}

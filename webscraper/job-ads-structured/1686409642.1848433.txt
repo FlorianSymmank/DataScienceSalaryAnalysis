@@ -1,0 +1,24 @@
+{
+    "job_title": "Data Architect (m/f/d)",
+    "company": "Olympus Europa SE & Co. KG (OEKG)",
+    "location": "Hamburg",
+    "salary_euro": null,
+    "employment_type": "Festanstellung",
+    "requirements": "Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, Mathematics, or other related field (or equivalent in working experience)\nLong-standing experience as a solution architect in a data-related area and with data warehouse / data lakes solutions\nStrong background in Star Schema or Data Vault based data modelling\nGood knowledge of SQL and demonstrated ability to apply SQL creatively to a wide variety of business requirements\nExperience in understanding and implementing data solutions using technologies such as Azure Data Factory, Matillion, Synapse Analytics and Power BI\nFamiliarity with data visualization tools such as Power BI and visualization standards (e.g. IBCS)\nGood knowledge of data governance principles and system analysis\nBasic knowledge and experience in project management, process modelling\nExperienced and comfortable leading highly technical teams through agile development methodology\nSeveral years of experience in managing staff, including work review, performance reviews and day-to-day coaching\nDemonstrable interpersonal, problem-solving and coordinating skills",
+    "skills": [
+        "SQL",
+        "Azure Data Factory",
+        "Matillion",
+        "Synapse Analytics",
+        "Power BI",
+        "data modeling",
+        "data governance",
+        "project management",
+        "agile development methodology",
+        "staff management",
+        "interpersonal skills",
+        "problem-solving",
+        "coordination"
+    ],
+    "date_posted": "unknown"
+}

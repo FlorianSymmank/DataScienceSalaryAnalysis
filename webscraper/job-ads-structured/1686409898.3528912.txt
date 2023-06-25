@@ -1,0 +1,10 @@
+{
+    "job_title": "Data Analytics Engineer",
+    "company": "Barbaricum",
+    "location": "Stuttgart",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "Active DoD TS/SCI clearance\nPossess a minimum of a bachelor's degree in a computer science OR a bachelor's degree in a non-related field and four years of relevant experience in Python, C++, JavaScript, or other programming languages\nExperience providing services similar in required tasks, scope, and complexity\n",
+    "skills": ["Python", "C++", "JavaScript", "R"],
+    "date_posted": null
+}

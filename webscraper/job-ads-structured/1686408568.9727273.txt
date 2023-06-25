@@ -1,0 +1,16 @@
+{
+  "job_title": "(Senior) Consultant Data Science & Machine Learning NLP - Data & Analytics (w/m/d)",
+  "company": "EY",
+  "location": "10117 Berlin",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Technisches, naturwissenschaftliches, mathematisches oder vergleichbares Studium",
+  "skills": [
+    "Erfahrungen in der Entwicklung von Machine-Learning-Modellen mit Python unter Verwendung gängiger Libraries wie NumPy, pandas, NLTK, scikit-learn, Matplotlib, TensorFlow, PyTorch, Keras etc.",
+    "Expertise in der Umsetzung, Qualitätssicherung und Operationalisierung von NLP-Anwendungsfällen unter Verwendung von Sprachmodellen wie BERT, Methoden wie Tokenizing oder Named Entity Recognition",
+    "Teamfähigkeit, Verantwortungsbewusstsein und ein hohes Maß an Kundenorientierung",
+    "Leistungsbereitschaft, Genauigkeit und Zuverlässigkeit",
+    "Sehr gute Kommunikationsfähigkeiten in Deutsch und Englisch"
+  ],
+  "date_posted": null
+}

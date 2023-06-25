@@ -1,0 +1,79 @@
+Master's thesis Computer Vision/LiDAR
+Fraunhofer-Gesellschaft
+Berlin
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+The Fraunhofer-Gesellschaft (www.fraunhofer.com) currently operates 76 institutes and research institutions throughout Germany and is the world’s leading applied research organization. Around 30 000 employees work with an annual research budget of 2.9 billion euros.
+
+Future. Discover. Together.
+
+The Computer Vision & Graphics group of the Vision & Imaging Technologies (VIT) department is currently offering a master's thesis in the area of "Robust long-term registration of LIDAR and RGB data". Become a part of our team and join us on our journey of research and innovation!
+
+
+
+
+What you will do
+
+The starting point of the work will be a detailed research on the state of the art in this area, which will illuminate different approaches
+
+Based on this, identified, suitable methods are to be implemented and, if necessary, further developed
+
+The final part of the work will be the evaluation on synthetic and real data sets
+
+
+
+
+What you bring to the table
+
+Master's student in the field of computer science, mathematics or an equivalent subject at a Berlin or Brandenburg university with above-average performance
+
+Profound knowledge in computer vision
+
+Independent and structured way of working
+
+
+
+
+What you can expect
+
+Fascinating challenges in a scientific and entrepreneurial setting
+
+Modern and excellently equipped workspace in central location
+
+Great and cooperative working atmosphere in an international team
+
+
+
+
+We value and promote the diversity of our employees' skills and therefore welcome all applications - regardless of age, gender, nationality, ethnic and social origin, religion, ideology, disability, sexual orientation and identity. Severely disabled persons are given preference in the event of equal suitability.
+
+With its focus on developing key technologies that are vital for the future and enabling the commercial utilization of this work by business and industry, Fraunhofer plays a central role in the innovation process. As a pioneer and catalyst for groundbreaking developments and scientific excellence, Fraunhofer helps shape society now and in the future.
+
+Interested? Apply online now. We look forward to getting to know you!
+
+
+For questions contact:
+
+
+
+
+Anna Hilsmann
+
+anna.hilsmann@hhi.fraunhofer.de
+
+
+
+
+Arian Beckmann
+
+arian.beckmann@hhi.fraunhofer.de
+
+Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute HHI
+
+
+
+
+Requisition Number: 64771 Application Deadline: 06/30/2022
+
+Diesen Job melden

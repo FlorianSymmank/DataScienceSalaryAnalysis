@@ -1,0 +1,15 @@
+{
+  "job_title": "Data Analyst",
+  "company": "Liebscher & Bracht",
+  "location": "Homeoffice",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Abgeschlossenes Studium im Bereich Mathematik, Computer Science, Data Analytics oder eine vergleichbare Ausbildung. Berufserfahrung im Bereich Data Analytics oder einem ähnlichem Umfeld. Sehr gute Kenntnisse in den Programmiersprachen Python und SQL sowie Visualisierungs-Tools Looker Studio und/oder PowerBI. Kenntnisse im Bereich CRM (z.B. Hubspot, Salesforce), Web Analytics (z.B. Google Analytics, Matomo) sowie E-Commerce sind von Vorteil. Starkes analytisches Denkvermögen und die Fähigkeit dich schnell in unterschiedliche Bereiche einzuarbeiten und Prozesse zu verstehen. Leidenschaft für neue Technologien und digitale Trends im Data Analytics. Verhandlungssichere Deutsch- (mindestens C1) und Englischkenntnisse.",
+  "skills": [
+    "Python",
+    "SQL",
+    "Looker Studio",
+    "PowerBI"
+  ],
+  "date_posted": "2022-03-18"
+}

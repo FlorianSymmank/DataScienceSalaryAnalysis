@@ -1,0 +1,36 @@
+DATA SCIENTIST (w/m/d)
+GC Großhandels Contor
+Stuhr
+Schnellbewerbung
+Am Standort: HAUPTHAUS Stuhr
+
+Die CORDES & GRAEFE KG ist die Holdinggesellschaft der GC-GRUPPE – Deutschlands marktführendem Großhändler für Haustechnik. Als IT der GC-GRUPPE verstehen wir uns über die Funktion eines reinen Dienstleisters hinaus als Innovations- und Technologietreiber, der die Nummer eins für unsere Kunden ist. Darüber hinaus sind wir Change Initiator von modernen und serviceorientierten IT-Strukturen.
+
+Als Zentrale und Servicedienstleister versorgen wir rund 150 mittelständische Unternehmen und über 24.000 Mitarbeiterinnen und Mitarbeitern an 1.600 Standorten weltweit mit IT-Systemen. Mit über 200 IT-Mitarbeitern kümmern wir uns darum Anwendungen, Server und Infrastrukturkomponenten bereitzustellen, zu entwickeln und zu supporten.
+
+Für unseren Standort in Stuhr suchen wir eine*n
+
+DATA SCIENTIST (w/m/d)
+DARUM GEHT ES KONKRET
+Entwurf und Implementierung von Datenpipelines, um große Mengen an Daten zu verarbeiten
+Verwendung experimenteller Lösungsfindung
+Anwendung von Clustering-Analysen und Methoden des maschinellen Lernens und künstlichen Intelligenz, um Erkenntnisse und Trends zu identifizieren
+Bewertung und Auswahl von passenden Algorithmen zur Lösung der Businessanforderungen sowie Training und Anwendung von KI-Modellen
+Dokumentation, Präsentation und Kommunikation von Ergebnissen, aus denen sich Handlungsempfehlungen zur Optimierung von Geschäftsprozessen ergeben
+aktive Mitgestaltung eines innovativen Projekts von der Konzeptionierung bis zum Produktvertrieb
+WIR WÜNSCHEN UNS VON IHNEN
+Abgeschlossenes IT-bezogenes Studium oder eine vergleichbare Qualifikation
+Erfahrung mit Machine Learning, Statistik und Datenvisualisierung
+Gute Kenntnisse in Python und Erfahrung mit gängigen Data-Science-Bibliotheken (z.B. Scikit-learn, pandasn numpy) und Paketverwaltung (Conda)
+Erfahrung mit Versionskontrolle (Git)
+Erfahrung mit Containerisierungstools (z.B. Docker, Kubernetes) von Vorteil
+Ausgeprägte Problemlösungs- und analytische Fähigkeiten sowie die Fähigkeit, komplexe Datenanalysen für nichttechnische Interessensgruppen zu erklären
+DAS KÖNNEN SIE VON UNS ERWARTEN
+Schon jetzt vorsorgen: Wir unterstützen Sie finanziell bei Ihrer Altersvorsorge
+Als Ausgleich zu Job erwartet Sie ein attraktives Firmenfitness-Angebot. So bleiben Sie fit und gesund
+Unser Gleitzeitmodell ermöglicht Ihnen die perfekte Vereinbarkeit von Beruf und Familie
+Die Mischung macht's: Wir schätzen das soziale Lagerfeuer im Büro und die Flexibilität des mobilen Arbeitens
+Ihre Top-Leistung zahlt sich aus - Sie profitieren finanziell von Ihrem persönlichen Engagement
+
+Haben Sie Interesse? Dann schicken Sie uns jetzt Ihre Bewerbungsunterlagen mit frühestem Eintrittstermin und Gehaltsvorstellung an nathalie.valendiek@gc-gruppe.de
+Diesen Job melden

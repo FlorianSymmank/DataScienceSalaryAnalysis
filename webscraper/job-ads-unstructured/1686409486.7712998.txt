@@ -1,0 +1,49 @@
+Data Scientists / Data Engineers (m/w/d)
+scieneers GmbH
+Karlsruhe
+Teilzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Teilzeit
+Du liebst es, gemeinsam im Team zu arbeiten, Erfolge zu teilen und miteinander zu wachsen? Du bist überzeugt, dass ein fruchtbares Arbeitsumfeld auf Respekt für die Unterschiede und Wertschätzung der Vielfalt untereinander aufbaut? Dann sollten wir uns kennen lernen!
+Zur Verstärkung unserer Teams in Karlsruhe, Köln und Hamburg suchen wir
+
+Menschen mit Begeisterung für
+Data Science & Data Engineering (m/w/d)
+Über uns
+
+Wir als Team setzen bei der Lösung unserer Herausforderungen auf eine datengetriebene Herangehensweise. Daten helfen uns, Probleme zu verstehen und faktenbasiert Lösungen zu entwickeln – zum messbaren Nutzen unserer Kunden, zur Digitalisierung der Gesellschaft und für einen fairen Umgang miteinander. Unser Projekt-Portfolio reicht von Datawarehouse und BI-Systemen, über skalierbare Datenplattformen und Data Science Anwendungen bis zu kompletten Datenprodukten und Künstlicher Intelligenz.
+
+Von der künstlichen Trennung zwischen Data Engineering und Data Science halten wir wenig. Wir streben nach nahtloser Integration der beiden Disziplinen – sowohl in unseren Projekten als auch bzgl. der Fachkenntnisse unserer Kolleg*innen. Deshalb sagen wir: Egal ob vielseitig oder mit Schwerpunkt, wichtig sind Neugier und Begeisterung sowie Dein Wille, in beiden Bereichen dazuzulernen.
+
+Was Du tun wirst
+Du entwickelst in abwechslungsreichen Projekten konkrete Datenprodukte und unterstützt damit Kunden in der Umsetzung ihrer Daten-Visionen.
+Du verwendest hauptsächlich Python für die technische Umsetzung. Mit Programmiererfahrung in einer relevanten Sprache wirst Du Dich darin schnell zurecht finden.
+Du wendest relevante Machine Learning Verfahren aktiv an, um aus vielfältigen Daten Erkenntnisse zu gewinnen und Entscheidungsprozesse zu gestalten.
+Du baust Lösungen, die den dynamischen Anforderungen von Machine Learning Anwendungen in Produktion (MLOps) gerecht werden.
+Du baust Daten-Pipelines mit modernen Open Source Technologien wie Spark, Kafka und Airflow auf.
+Du arbeitest meist auf den gängigen Cloud-Plattformen von Microsoft, Amazon und Google oder gelegentlich On-Premise.
+Du erstellst Konzepte zum Aufbau von Datenplattformen und setzt dich dafür mit verschiedenen Architektur-Ansätzen auseinander.
+Du tauschst Dich sowohl fachlich/inhaltlich als auch im täglichen Umgang mit Kund*innen und Kolleg*innen auf Deutsch aus und wechselst idealerweise bei Bedarf zu Englisch.
+Du bringst Dich, wenn Du möchtest, über die Projektarbeit hinaus zu weiteren Themen ein, die Dich interessieren oder bewegen.
+Du teilst Dein Wissen mit Deinen Kolleg*innen in vielfältigen Formaten auch projektübergreifend und lernst gleichermaßen von ihren Erfahrungen.
+Du erweiterst sowohl fachlich als auch methodisch Dein Wissen aus der täglichen Arbeit u.a. mit Konferenzen, Trainings oder Zertifizierungen, um auf dieser Basis stets die bestmögliche Lösung zu finden.
+
+Dich begeistert, was Du liest, doch manche der Aufgaben sind für Dich Neuland? Auch wir lernen alle ständig dazu. Lass uns gemeinsam herausfinden, ob wir zueinander passen!
+
+Was Dich erwartet
+eine kollaborative Arbeitsumgebung, die auf Vertrauen, Freiheit und Verlässlichkeit baut
+die umfassende Unterstützung durch Kolleg*innen – nur einen Raum, Slack-Channel oder Telefonat entfernt
+ein*e Kolleg*in, die*der Dich in Deinen ersten Monaten bei uns begleitet, um den Einstieg zu erleichtern
+die Dynamik und kurzen Wege eines Start-Ups
+die Professionalität eines erfahrenen Führungsteams
+eine hervorragende Arbeitsausstattung nach Wahl (Notebook, Smartphone)
+die Möglichkeit, in Absprache mit dem Kunden und dem Projektteam deine Arbeitszeiten und deinen Arbeitsort flexibel zu gestalten
+ein faires Gehalt, die Möglichkeit in Teilzeit zu arbeiten und diverse Sozialleistungen wie Jobrad, Kindergartenzuschuss und betriebliche Altersvorsorge
+Vielfalt ist für uns ein wichtiger Wert, denn wir wissen, dass wir nur aufgrund unterschiedlicher Hintergründe, Fähigkeiten und Herangehensweisen außergewöhnliche Ergebnisse erzielen können. Wir würden uns daher besonders über Deine Bewerbung freuen, wenn Du Dich einer oder mehreren Gruppen zugehörig fühlst, die im Tech-Bereich unterrepräsentiert sind. Wir sind sicher nicht perfekt und arbeiten deshalb daran, uns auch hier zu verbessern.
+Interessiert? Dann schicke uns einen kurzen CV – gerne ohne Foto – und ein paar Zeilen zu Deiner Motivation. Wir melden uns innerhalb weniger Tage bei Dir und klären alles Weitere im persönlichen Gespräch.
+
+Diesen Job melden

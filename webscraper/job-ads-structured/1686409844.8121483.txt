@@ -1,0 +1,17 @@
+{
+    "job_title": "MRI Scientist (m/f/d)",
+    "company": "DeepSpin",
+    "location": "Berlin",
+    "salary_euro": {
+        "amount": 80000,
+        "period": "pro Jahr"
+    },
+    "employment_type": "Vollzeit",
+    "requirements": "MSc/PhD Degree in STEM (Computer Science, Physics, Mathematics, Engineering, etc) 3+ years of experience applying computational mathematics techniques in MRI Experience in working with raw MRI signals Fluent in programming in Python & Scientific computing (Scipy, Numpy) First principles thinking, excellent communication skills in English and a proactive, positive attitude Experience with MRI in a clinical setting and in pulse sequence design Preferred: Basic knowledge of low level MRI hardware Preferred: basic experience in Software Engineering practices Preferred : postdoc or industry experience in a leading research group/company Preferred: proven track record with publications in top MRI journals",
+    "skills": [
+        "Python",
+        "Scipy",
+        "Numpy"
+    ],
+    "date_posted": null
+}

@@ -1,0 +1,47 @@
+Data Scientist (w/m/d)
+Salzgitter AG
+Duisburg
+Teilzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Teilzeit
+
+Als Entwicklungsdienstleister für unsere Partner innerhalb und außerhalb der Salzgitter-Gruppe analysieren wir die im Produktionsprozess vom Stahlwerk bis zum fertigen Produkt generierten Daten. Wir unterstützen unsere Kunden mit Advanced Analytics Methoden um die Produktqualität zu verbessern, die Effizienz zu erhöhen oder neue Produkte zu entwickeln. Wir treiben den kompletten datentechnischen Prozess von der Datenaufnahme, -speicherung und -verarbeitung über die Modellerstellung bis zur Umsetzung der Modelle in einsatzfähige Produkte in den Werken.
+
+Als Forschungs- und Entwicklungsdienstleister der Salzgitter AG gestalten wir das Großprojekt SALCOS® (Salzgitter Low CO2 Carbon Steelmaking) aktiv mit.
+
+Wir suchen zum nächstmöglichen Zeitpunkt für unseren Bereich Prozessoptimierung und Anlagenbau an unserem Standort Duisburg einen
+
+Data Scientist (w/m/d)
+
+Ihre Aufgaben
+Sie wenden Methoden des maschinellen Lernens im industriellen Umfeld an
+Sie konzeptionieren und realisieren End-to-End Data Science Projekte für den Einsatz in der Stahlindustrie
+Sie entwickeln Systeme zur Erfassung, Verarbeitung und Visualisierung von Daten
+Sie arbeiten mit anderen Abteilungen und Gesellschaften zusammen, um Erkenntnisse aus den Daten zu gewinnen und Entscheidungen zu unterstützen
+Ihr Profil
+Sie haben Ihr Studium in Mathematik, Informatik, Statistik oder einem ähnlichen Bereich zügig und mit Erfolg abgeschlossen
+Sie verfügen über fundierte Kenntnisse in Statistik, Machine Learning und Deep Learning Methoden
+Sie analysieren, manipulieren und visualisieren Daten mit Python (Pandas, Numpy, Scikit-Learn, Tensorflow)
+Sie haben Erfahrungen im Bereich Deployment und Monitoring von Machine-Learning-Applikationen in Produktion (z. B. Plotly Dash, FastAPI)
+Sie sind geübt im Umgang mit Datenbanksystemen
+Sie kommunizieren empfängerorientiert, präsentieren sicher, auch vor Nicht-Experten und mögen es, im Team zu arbeiten
+Sie sind eigeninitiativ und arbeiten ebenso systematisch wie zielgerichtet
+Sie setzen Erkenntnisse schnell, flexibel und kreativ um
+Sie sind sehr gut in Deutsch und Englisch, sowohl in Wort wie Schrift
+Unser Angebot
+Direkter Einstieg in anspruchsvolle Aufgabenstellungen mit projektbezogener, intensiver Einarbeitung
+Selbstständiges und eigenverantwortliches Arbeiten in einem engagierten und kompetenten Entwicklungsteam
+Motivierende Teamatmosphäre, die sich durch Zusammenarbeit und Unterstützung auszeichnet
+Persönliche Entwicklung, eingebettet in ein konzernweites Weiterbildungsprogramm und mit hervorragenden Karriereaussichten in Fach- oder Führungslaufbahnen bei uns und im gesamten Salzgitter-Konzern
+Attraktive, tarifgebundene Vergütung mit tariflichen Sonderzahlungen, betrieblicher Altersversorgung und umfangeichen Sozialleistungen
+Flexible Arbeitszeiten mit Gleitzeit-, Teilzeit- und Home-Office-Regelungen sowie mindestens 30 freien Tagen im Jahr
+Ein Standort im Duisburger Süden nahe der Stadtgrenze zu Düsseldorf
+Einsatzort: Duisburg ǀ Nordrhein-Westfalen
+
+Wenn Sie darin attraktive berufliche und persönliche Perspektiven sehen, senden Sie uns Ihre aussagefähigen Bewerbungsunterlagen zu. Ihre Bewerbung behandeln wir mit der gebotenen Diskretion. Wir legen Wert auf Chancengleichheit und freuen uns auf Bewerbungen von Menschen mit Behinderungen. Gerne stehen wir Ihnen auch vorab unter Tel. 0203 999 3126 zur Verfügung. Wir freuen uns darauf, Sie kennen zu lernen!
+
+Diesen Job melden

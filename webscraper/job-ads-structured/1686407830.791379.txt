@@ -1,0 +1,20 @@
+{
+    "job_title": "Data Scientist",
+    "company": "Baumlink",
+    "location": "München",
+    "salary_euro": {
+        "amount": 85000,
+        "period": "Base"
+    },
+    "employment_type": "Festanstellung",
+    "requirements": "3+ Jahre Erfahrung in der Analyse und Ableitung von Erkenntnissen aus Clickstream-Daten; Erfolgsbilanz bei der Interaktion mit hochrangigen Stakeholdern außerhalb des Teams; Expertise in SQL und BigQuery; Erfahrung mit statistischen Methoden für Webanalyse; Kenntnisse in Python und/oder R; Vertrautheit mit Data Science und Machine Learning; Gute Deutsch- und Englischkenntnisse in Wort und Schrift",
+    "skills": [
+        "Webanalyse",
+        "Statistische Methoden",
+        "Python",
+        "R",
+        "Data Science",
+        "Machine Learning"
+    ],
+    "date_posted": "2021-09-30"
+}

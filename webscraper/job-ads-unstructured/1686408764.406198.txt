@@ -1,0 +1,52 @@
+Data Engineer (m/w/d)
+Heise Gruppe
+Hannover
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+
+Daten sind unser Ding! Deins auch? Du hast außerdem Spaß daran, Daten für andere verständlich aufzubereiten? Dann suchen wir dich als Data Engineer (m/w/d) an unserem Standort in Hannover.
+
+Standort
+
+Hannover
+
+Karrierelevel
+mit Berufserfahrung
+Beschäftigungsumfang
+Vollzeit
+Deine Aufgaben
+Du entwickelst und betreibst zuverlässige und performante ETL-Prozesse mit Apache Airflow.
+Auch unsere Reports und Dashboards entwickelst du weiter.
+Zudem baust du die Systemarchitekturen auf und modellierst die Daten unseres Data-Lakes.
+Durch stetige Optimierung sicherst du die Performance und Stabilität der bestehenden Infrastruktur.
+Mit deinem Know-how nimmst du die Anforderungen der jeweiligen Stakeholder auf und berätst diese.
+Darüber hinaus unterstützt du unsere Datenanalysten sowie Fachabteilungen und evaluierst neue, uns unterstützende Techniken und Tools.
+Deine Talente
+Du verfügst über ein abgeschlossenes Hochschulstudium oder eine vergleichbare Ausbildung in den Bereichen Statistik, Mathematik, Informatik oder Wirtschaftswissenschaften.
+Berufserfahrung in den Bereichen Data Science, Data Engineering, Business Intelligence oder Data Warehousing bringst du bereits mit.
+Du bereicherst unser Team mit guten Kenntnissen in der Abfragesprache SQL und in mindestens einer weiteren Programmiersprache wie Python, R, PHP oder Perl.
+Kommunikationsstärke sowie ein hohes Maß an kunden- und qualitätsorientierter Denkweise zeichnen dich aus.
+Offenheit, Zielorientierung, Eigeninitiative und gute Deutschkenntnisse (mind. B1-Niveau) runden dein Profil ab.
+Deine Benefits
+Eine spannende und abwechslungsreiche Tätigkeit in einer familiären Arbeitsatmosphäre mit flachen Hierarchien.
+Profitiere von flexiblen Arbeitszeiten und der Möglichkeit, mobil zu arbeiten.
+Du erhältst einen kostenlosen Zugang zu unseren Heise-Produkten, inklusive der heise Academy.
+Die Entwicklung jedes Einzelnen ist uns wichtig – auf dich wartet ein engagiertes und qualifiziertes Team.
+Beim Digital Detox helfen dir unser Mitarbeiter-Fitnessprogramm Hansefit, die Kaffee- und Wasser-Flat, unsere subventionierte und vielseitige Kantine sowie unsere Mitarbeiter-Events wie z. B. unsere regelmäßigen Sundowner.
+Bei uns ist jede Person, unabhängig des Geschlechts, der Nationalität oder der ethnischen Herkunft, der Religion oder der Weltanschauung, einer Behinderung, des Alters sowie der sexuellen Identität willkommen.
+
+Deine Ansprechpartnerin
+Silja Kirsch, Personalreferentin
+Tel.: +49 511 5352 -191
+
+Heise Medien GmbH & Co. KG (Karl-Wiechert-Allee 10, 30625 Hannover)
+Heise Medien steht für hochwertigen, unabhängigen Journalismus und ausgeprägte Kompetenz in IT und Technologie. Mit unseren renommierten Print- und Online-Angeboten wie c’t, iX, Technology Review, Mac & i, c’t Fotografie, Make und heise online informieren wir im Interesse unserer Leser über die neuesten Produkte, Technologien und Trends – kritisch, fundiert und aktuell.
+
+Wir freuen uns auf deine Bewerbung!
+
+Diesen Job melden

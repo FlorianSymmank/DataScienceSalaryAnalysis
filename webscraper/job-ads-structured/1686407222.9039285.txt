@@ -1,0 +1,10 @@
+{
+    "job_title": "Data Scientist",
+    "company": "Multitude",
+    "location": "10587 Berlin",
+    "salary_euro": null,
+    "employment_type": "Vollzeit, Festanstellung",
+    "requirements": "Degree in data science, statistics, mathematics, econometrics or a similar field. Experience using programming languages (R, Python, SQL, etc.) to manipulate data, develop models and draw insights. Knowledge of a variety of machine learning techniques, understanding of different algorithms and their real-world advantages/drawbacks. Ability to use different data visualization practices to provide data-driven insights. Excellent written and verbal English communication skills. Experience working on machine learning projects related to marketing, credit scoring or collections is an advantage.",
+    "skills": ["programming", "data mining", "data analysis", "machine learning", "statistics"],
+    "date_posted": "2021-10-14"
+}

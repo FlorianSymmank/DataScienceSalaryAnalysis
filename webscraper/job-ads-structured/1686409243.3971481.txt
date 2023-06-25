@@ -1,0 +1,13 @@
+{
+    "job_title": "Software Developer",
+    "company": "Körber Supply Chain Software GmbH",
+    "location": ["Bad Nauheim", "Hesse", "DE", "Remote work, DE", "Gallin, DE", "Hamburg, DE", "Dresden, DE", "Bremen, DE", "Dettelbach, DE", "Essen, DE", "Münster, DE"],
+    "salary_euro": {
+        "amount": null,
+        "period": null
+    },
+    "employment_type": null,
+    "requirements": "University degree (including from a university of applied sciences) in computer science or engineering; or completed traineeship in IT and/or corresponding IT knowledge obtained through practice. Sound knowledge of at least one programming language (e.g. Java/Python/C#). Experience using databases (SQL or PL/SQL) is desirable. Interest in processes in logistics and automation technology. Ideally, you will have previously worked on software projects and be able to comprehend complex processes quickly. Knowledge of electronic data interchange and interface integration. Good spoken and written English and German. Logical and structured way of thinking. Personality and strong communication skills. Personal responsibility when working, reliability, flexibility, commitment and resilience. Mobility and teamwork skills round out your profile",
+    "skills": ["Java", "Python", "C#", "SQL", "PL/SQL"],
+    "date_posted": "2023-05-27"
+}

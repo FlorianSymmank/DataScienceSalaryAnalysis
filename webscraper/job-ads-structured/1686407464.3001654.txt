@@ -1,0 +1,15 @@
+{
+  "job_title": "Internship: Data Scientist in the field of autonomous driving - Perception (m/f/d)",
+  "company": "AVL Software and Functions GmbH",
+  "location": "Regensburg, DE",
+  "salary_euro": null,
+  "employment_type": "Praktikum",
+  "requirements": "Enrolled student in computer science, artificial intelligence, robotics, autonomous driving or similar.",
+  "skills": [
+    "Python",
+    "C++",
+    "computer vision",
+    "machine learning (Tensorflow, Pytorch, Panda, Matplotlib, SciPy, and OpenCV)"
+  ],
+  "date_posted": "2023-05-23"
+}

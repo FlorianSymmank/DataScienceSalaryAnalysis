@@ -1,0 +1,50 @@
+Data Scientist
+paiqo GmbH
+33106 Paderborn
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+
+We are a young consulting company with a team of talented data engineers, architects and data scientists specializing in building cloud-based data platforms and AI/ML solutions for our customers. Our customers, with which we have strong relationships and multi-year contracts, include well-known companies in the areas of energy providers & utilities, retail, financial services, and mobile apps. Our projects always involve applying cutting-edge cloud technologies to exciting real-world data. This is shown by our strong relationship with Microsoft where we have multiple Gold- and Advanced Certifications.
+
+One extremely important aspect of the work at paiqo is our culture – having fun working together, trusting each other, and combining independence with teamwork. There are no fixed working hours and no fixed reporting structure. We are looking for Data Engineers who we can trust to do great work on their projects because they are motivated by the challenging nature of the projects themselves. We are also looking for people who we can learn from and who are willing to learn with us, to always stay on the cutting edge with our technical skills.
+
+
+
+
+
+
+Your tasks in a project could be
+
+Interacting with the customer and understanding his business needs and processes
+Use case reflection together with the customer to find the best use case to apply Data Science / Machine Learning
+Analyzing and understanding the provided data and connecting it to the business processes
+Implementing a machine learning model (whichever model fits best; e.g. in python) which improves the business processes
+Presentation of results and discussion of machine learning model internally and with the customer
+Deployment of the found model in customer's business processes (on-Prem or in cloud)
+
+
+What we offer
+
+Challenging projects with well-known companies in various fields
+Young and highly motivated team
+Great emphasis on education and trainings with dedicated time on the job
+Opportunity to use the newest technologies around Data Science
+Home office
+Flexible working hours
+Good analytical and problem-solving skills, critical thinking, and an ability to explore and understand customers’ technical ecosystems and data, as well as an ability to communicate complex technical problems and their solutions clearly
+Experience in the Python and/or R Data Science ecosystems
+Interest in working with visualization tools (PowerBI, etc.)
+Interest in modern cloud-based data architecture and cloud services
+Interest in working with Spark and the Hadoop stack
+Readiness to travel
+German and English fluently spoken and written
+
+Deep understanding of the overall Data Science workflow including the most common algorithms
+Experience in working with various databases (SQL and NoSQL)
+5+ years of experience in a similar role
+Ability to handle the full data science lifecycle from conception to deployment
+Diesen Job melden

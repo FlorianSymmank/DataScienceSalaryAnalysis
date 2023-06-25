@@ -1,0 +1,74 @@
+Data Science Manager , Consumer Apps (all genders)
+Delivery Hero
+Berlin
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+We are looking for a Data Science Manager to join our Consumer Apps Data Science (CADS) domain that is working on solving multiple data problems like Ranking and Personalisation. We are enabling improved user experiences and at the same time also business impact.
+
+Our mission is to support many different products and services to become data driven
+
+Join this team to help us predict not only what our customers want, but when they want it and where. You would be a key contributor to our customers having a personalized experience in our app or identifying fraud or optimizing incentives or delivering recommendations to millions of customers each day. So, would you like to be part of a consumer facing platform that enables many Delivery Hero brands, including and not limited to FoodPanda, Foodora, Damejidlo and Netpincer to service millions of customers every day?
+
+If you are someone who thrives on helping and growing teams of the most brilliant minds in the market, living with the fact that your success is the team's success and want to take your career one step further, an international workplace is waiting for you in the heart of Berlin.
+
+
+Your mission:
+
+Build and lead a multidisciplinary team of Data Scientists, Machine Learning Engineers and Data Engineers
+
+Understand our diverse datasets and find interesting patterns in it to give amazing customer experiences.
+
+Setup the team for success by creating a long-term vision, a mid-term strategy and several short term roadmaps towards some of the most complex and interesting data problems.
+
+Work cross-functionally with engineering, data science and product to develop best practices and execute against a multi-year roadmap
+
+guide the multi skilled team of data scientists and data engineers to take your models to production at a rapid pace.
+
+Collaborate with other teams in and outside the tribe to provide the best customer experiences for our customers.
+
+Develop new data products from conception to operationalization.
+
+Help defining data needs to further improve existing projects, to support data engineering and tech teams in planning their roadmap
+
+Contribute and make an impact in a global, fast-moving tech organization
+
+Heroic Skills:
+
+You have experience in applying methods from machine learning, operations research and/or statistics to real-world datasets.
+
+You are capable of managing complex projects with multiple stakeholders and ideally have a successful track record of managing Data Science teams.
+
+You are a good communicator and are able to filter down requirements coming from many stakeholders to the ones that make an MVP.
+
+Ability to convert a fuzzy business problem into a data science problem.
+
+Before starting to work on a use-case, you carefully question existing assumptions and care a lot about clean data
+
+Fluency in Python and familiarity with its scientific stack such as numpy, pandas, scikit learn, matplotlib, pytorch, keras.
+
+You can write maintainable code and know how to make your code run in a container so it becomes easily reusable for others.
+
+Great communication skills and ability to influence beyond the team
+
+Fluency in English.
+
+Nice to have:
+
+You know about A/B testing and are able to discern signals from noise when it comes to estimating the effect of new models.
+
+You know how to work with Big Data and are fluent in SQL.
+
+Experience of having solved a similar problem in the food or e-commerce domain will be highly desirable
+
+Open to work on Multifaceted Data Science problems.
+
+About us: As the world’s leading local delivery platform, our mission is to deliver an amazing experience, fast, easy, and to your door. From prepared meals to groceries, flowers, coffee, medicine. We deliver whatever you need. We operate in over 70+ countries across Asia, Europe, Latin America, the Middle East and Africa and are also pioneering quick commerce, the next generation of e-commerce. As one of Europe’s largest tech platforms, we work with a global ecosystem of employees, riders, and partners, and are at the forefront of innovation.
+
+As one of our Heroes, you’ll work in an international and dynamic environment, with other Heroes from every corner of the globe where you can grow and develop your career with the right support, every step of the way. We are building a company that future generations can be proud of and are committed to welcoming everyone to our table. Delivery Hero has a lot to offer when it comes to benefits: we want to empower our Heroes and that means caring about all aspects of their wellbeing, such as: career, community, social, physical and financial. Learn more about our benefits at Delivery Hero here.
+
+At Delivery Hero, we believe diversity and inclusion are key to creating not only an exciting product, but also an amazing customer and employee experience. Fostering this starts with hiring - therefore we do not discriminate on the basis of racial identities, religious beliefs, color, national origin, gender identities or expressions, sexual orientations, age, marital or disability statuses, or any other aspect that makes you, you. Just be yourself and we can’t wait to see what value you bring to the role. We're as interested in your character as we are in your talent.
+
+Have we sparked your interest? If you are looking for an environment where our company DNA is defined by our values and People Leader Principles, please apply and send us
+
+Diesen Job melden

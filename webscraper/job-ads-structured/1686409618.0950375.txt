@@ -1,0 +1,17 @@
+{
+  "job_title": "Junior Software Engineer",
+  "company": "DEVnet Holding",
+  "location": "Wrocław",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Degree in computer science, mathematics, physics or a relevant scientific discipline; Proven experience with at least one mainstream programming language and its development environment; Basic knowledge of algorithms and data structures; Interest in financial markets and financial engineering topics; Openness towards various technologies; Passion for problem solving; Experience with scripting languages and alternative programming paradigms is advantageous (e.g. Python, Matlab, Erlang, etc.); Good command of English is essential, German an advantage",
+  "skills": [
+    "Java",
+    ".Net",
+    "scripting languages",
+    "Python",
+    "Matlab",
+    "Erlang"
+  ],
+  "date_posted": null
+}

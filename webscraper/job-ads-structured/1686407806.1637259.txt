@@ -1,0 +1,19 @@
+{
+  "job_title": "(Junior) Data Engineer - Medical Imaging (w/m/d)",
+  "company": "deepeye Medical GmbH",
+  "location": "München",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "2+ years of applied experience in data engineering related to computer vision and imaging analysis (2D/3D image processing, segmentation, image normalization, ideally medical imaging). Experience in data analysis and visualization and working with relational databases (e.g. PostgreSQL). 2+ years of programming in Python, developing software in AI and data-centric domains, software engineering best practices e.g. code reviews, CI/CD, testing, operations. Working-level English (C1 or higher)",
+  "skills": [
+    "data engineering",
+    "computer vision",
+    "imaging analysis",
+    "Python",
+    "data analysis",
+    "visualization",
+    "relational databases",
+    "software engineering"
+  ],
+  "date_posted": "2021-11-04"
+}

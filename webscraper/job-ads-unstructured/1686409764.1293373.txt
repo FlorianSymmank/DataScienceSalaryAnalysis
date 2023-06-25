@@ -1,0 +1,93 @@
+Expert Data Scientist (m/f/d) - SAP Signavio Process Intelligence
+SAP
+85748 Garching bei München
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+
+We help the world run better
+
+Our company culture is focused on helping our employees enable innovation by building breakthroughs together. How? We focus every day on building the foundation for tomorrow and creating a workplace that embraces differences, values flexibility, and is aligned to our purpose-driven and future-focused work. We offer a highly collaborative, caring team environment with a strong focus on learning and development, recognition for your individual contributions, and a variety of benefit options for you to choose from. Apply now!
+
+About SAP Signavio
+
+
+SAP Signavio helps our customers understand, improve, and transform all their business processes – fast and at scale. SAP Signavio was created through the merger of Signavio, the leading cloud provider for process management, with SAP’s own process analytics product teams. Today, SAP Signavio is one of the fastest growing cloud units within SAP and represents SAP’s spearhead for all things process.
+
+Given its strategic importance and market momentum, SAP Signavio is currently going through a phase of hyper growth, aiming at increasing the team from 750 people today to more than 1,300 team members by the end of 2022, more than half of which will be joining the Product and Engineering departments.
+
+
+About the team: Process Intelligence
+
+
+We keep things open, agile, and communicative. Our team members are self-organized within their teams, working on independent projects or closely with Product Leads, developers and UX designers. We value your thoughts and ideas and will give you the freedom to push and implement them!
+
+
+Position Overview
+
+
+As an Expert Data Scientist in the Process Intelligence area, you will play a key role in developing and enhancing data-driven insights for our customers, enabling them to make the best process decisions. You will work alongside a team of highly experienced Engineers and partner with product and consulting team members to understand the customer’s business problems and landscape in order to derive data solutions.
+
+You will drive building data pipelines for new and existing data sources, develop machine learning models and collaborate with the front-end teams that implement the relative data visualizations in our product. Through effective storytelling, you will drive data driven discussions between stakeholders and across the department.
+
+
+What you will do:
+
+
+Develop Machine Learning models and prototypes for deriving insights and predictions
+
+Create narratives aimed at explaining the findings to the non-technical users of our product
+
+Use statistical analysis, algorithms, as well as modelling techniques on the process data mined from our customers in order to derive insights and be able to do predictions.
+
+Drive feature improvement, resource optimisation and adoption of new initiatives
+
+Refine the process of collecting, storing, manipulating data with a focus on data accuracy, consistency and integrity
+
+Receive mentorship to grow technically and professionally
+
+Follow Agile principles and values
+
+
+Would be great if you have:
+
+
+STEM qualification with a strong focus on Statistical analysis, AI and Machine Learning.
+
+At least 6 years of Experience as an expert in the data science field to guide a team professionally from a technical perspective
+
+Enthusiasm for developing and implementing machine learning models in a productive environment
+
+Solid programming experience with Python or R
+
+Experience with DB design and relational DB
+
+Conceptual thinking skills as well as attention to details
+
+Hands-on mentality, with a commitment to quality
+
+Business fluency in English
+
+
+#SAPBPICareers #businessprocessintelligence #signavio #bpi #LI-Hybrid #MultiSalesDE
+
+
+
+
+We build breakthroughs together
+
+SAP innovations help more than 400,000 customers worldwide work together more efficiently and use business insight more effectively. Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a market leader in end-to-end business application software and related services for database, analytics, intelligent technologies, and experience management. As a cloud company with 200 million users and more than 100,000 employees worldwide, we are purpose-driven and future-focused, with a highly collaborative team ethic and commitment to personal development. Whether connecting global industries, people, or platforms, we help ensure every challenge gets the solution it deserves. At SAP, we build breakthroughs, together.
+
+We win with inclusion
+
+SAP’s culture of inclusion, focus on health and well-being, and flexible working models help ensure that everyone – regardless of background – feels included and can run at their best. At SAP, we believe we are made stronger by the unique capabilities and qualities that each person brings to our company, and we invest in our employees to inspire confidence and help everyone realize their full potential. We ultimately believe in unleashing all talent and creating a better and more equitable world.
+SAP is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to the values of Equal Employment Opportunity and provide accessibility accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with SAP and are in need of accommodation or special assistance to navigate our website or to complete your application, please send an e-mail with your request to Recruiting Operations Team: Careers@sap.com.
+For SAP employees: Only permanent roles are eligible for the SAP Employee Referral Program, according to the eligibility rules set in the SAP Referral Policy. Specific conditions may apply for roles in Vocational Training.
+
+Requisition ID: 364757 | Work Area: Software-Design and Development | Expected Travel: 0 - 10% | Career Status: Professional | Employment Type: Regular Full Time | Additional Locations: Berlin #LI-Hybrid
+
+Diesen Job melden

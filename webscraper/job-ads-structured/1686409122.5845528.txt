@@ -1,0 +1,20 @@
+{
+  "job_title": "Business Analyst, Dealer Integration (m/f/d)",
+  "company": "AGCO",
+  "location": "Marktoberdorf",
+  "salary_euro": {
+    "amount": 0,
+    "period": null
+  },
+  "employment_type": null,
+  "requirements": "Bachelor's/Master's degree in computer science, IT, engineering or equivalent education. Several years of professional experience (at least 7 years). Relevant experience in software development / integration. Analytical, comprehensive thinking. Strong communication skills in written and spoken German. Strong communication skills in written and spoken English. Independent and solution-oriented behavior. Strong analytical, holistic, strategic and conceptual thinking. Successfully influencing different groups and teams in a complex environment.",
+  "skills": [
+    "agile methods (e.g. SAFe) knowledge is an advantage",
+    "excellent communication and teamwork skills",
+    "experience in the areas of requirements development, testing and production support is desirable",
+    "EDI / API technologies and standards knowledge preferred",
+    "Dealer Management Systems knowledge preferred",
+    "ERP / CRM Systems knowledge (Microsoft Dynamics 365, Salesforce, etc)"
+  ],
+  "date_posted": null
+}

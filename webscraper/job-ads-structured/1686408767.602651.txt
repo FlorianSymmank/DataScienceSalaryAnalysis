@@ -1,0 +1,27 @@
+{
+  "job_title": "Abschlussarbeit - Data Science im Supply Chain Management",
+  "company": "AUDI AG",
+  "location": "Neckarsulm",
+  "salary_euro": null,
+  "employment_type": null,
+  "requirements": "Du bist im fortgeschrittenen Studium der Informatik, Wirtschaftsinformatik, Mathematik, Statistik oder vergleichbarer Studienrichtung\nBereits erste Berufserfahrung im Bereich Logistik, Digitale Transformation einer Supply Chain oder im Automotive-Sektor\nAusgeprägte analytische Fähigkeiten und eine schnelle Auffassungsgabe\nEigenständige Arbeitsweise und Selbstorganisation\nMotivation zum selbständigen Arbeiten in Projekten, im Team sowie Kommunikation und Projektmanagement mit Fokus auf Stakeholder\nPraxiskenntnisse in Datenbanken wie MSSQL, Oracle\nPraxiskenntnisse in der Programmierung mit Python oder KNIME\nErfahrung mit statistischen Methoden bzw. im Bereich AI / Machine Learning",
+  "skills": [
+    "fortgeschrittenen Studium der Informatik",
+    "Wirtschaftsinformatik",
+    "Mathematik",
+    "Statistik oder vergleichbarer Studienrichtung",
+    "Berufserfahrung im Bereich Logistik",
+    "Digitale Transformation einer Supply Chain oder im Automotive-Sektor",
+    "analytische Fähigkeiten",
+    "schnelle Auffassungsgabe",
+    "Eigenständige Arbeitsweise",
+    "Selbstorganisation",
+    "Motivation zum selbständigen Arbeiten in Projekten",
+    "im Team sowie Kommunikation und Projektmanagement mit Fokus auf Stakeholder",
+    "Praxiskenntnisse in Datenbanken wie MSSQL",
+    "Oracle",
+    "Praxiskenntnisse in der Programmierung mit Python oder KNIME",
+    "Erfahrung mit statistischen Methoden bzw. im Bereich AI / Machine Learning"
+  ],
+  "date_posted": null
+}

@@ -1,0 +1,67 @@
+Algorithm Developer (f/m/d)
+Jenoptik AG
+Hildesheim
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Jenoptik is an international photonics group with representatives in over 80 countries. Optical technologies are the foundation of our business. We employ around 4,000 people worldwide.
+Join our team and help to shape our future with lasting effect.
+Algorithm Developer (f/m/d)
+Job ID: 1791
+Location: Hildesheim, NI, DE Monheim, NW, DE
+Date: Jun 6, 2023
+Your Tasks:
+
+
+
+Contribute software modules for measurement and recognition
+Research, tailor and apply state-of-the-art as well as proven methodologies for goal-driven processing of raw data from camera, lidar and radar sensors
+Responsible for designing and implementing algorithmic solutions
+Provide prototype implementations, bring implementations to product level and ensure the testability of implementation results
+Create software design
+Support for requirements engineering, harmonization with system design, testing, benchmarking, as well as documentation and knowledge development for the company
+Actively contribute to achieving time, cost and quality goals
+Your Profile:
+
+
+
+Master's degree in Computer Science, Mathematics, Physics or comparable qualification
+Deep theoretical knowledge and application experience in Computer Vision, specifically for mono/stereo camera and image sequences, Pattern Recognition, preferably also in Signal Processing
+Strong mathematical background, experience in goal-oriented problem analysis, data analysis and information retrieval, model and solution design, parameter estimation paradigms (e.g. regression, learning), 3D geometry, numerical estimation methods, preferably practical experience with different algebraic and/or statistical estimation and optimization patterns
+Experience in effective self-education, learning and applying new methods in collaboration and alone
+Several years of experience with C++, Python under Linux and Windows, OpenCV, Matlab, scientific libraries for Python, preferably Cmake
+
+
+
+Contact:
+
+Name: Lisa Habedank
+
+Phone.: +49 3641 65 2841
+
+
+
+
+What we offer:
+
+
+
+
+About Jenoptik
+
+At Jenoptik, people with the specific JENIUS character are changing the world with the power of light. That demands a spirit of exploration and dedication. If you’re one of us, come meet the challenges facing the world. At Jenoptik, we’re creating a better future for all of us.
+
+The Jenoptik Smart Mobility Solutions division offers photonics-based, innovative and sustainable solutions, including technologies and services for traffic safety, public safety and toll control.
+
+For this purpose, Jenoptik develops, manufactures and distributes components, systems and services which contribute towards greater road traffic safety throughout the world. The product portfolio comprises comprehensive systems relating to all aspects of road traffic, such as speed measurement and red light monitoring systems, OEM (Original Equipment Manufacturer) products and systems for the detection of traffic violations.
+
+Thanks to the digital combination of several sensor technologies with software and data management, Jenoptik is also a new systems supplier for truck toll monitoring on federal highways in Germany.
+
+Work with us to ensure that our components, systems and services contribute to making roads and communities safer.
+
+Have we made you interested in this position?
+
+If so, we look forward to receiving your online application.
+
+Should you need any further information, please do not hesitate to contact us.
+
+Diesen Job melden

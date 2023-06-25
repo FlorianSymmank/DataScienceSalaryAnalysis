@@ -1,0 +1,21 @@
+{
+    "job_title": "Data Integration Analyst (f/m/d)",
+    "company": "Awin",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "2+ years' working experience as Data Integration Analyst, (Business) Data Analyst, Data Engineer or similar\nBachelor degree or higher in data science, data engineering, business intelligence, business administration or similar, or strong work experience with a focus on data/business intelligence/analytics is preferred\nSCRUM/Kanban experience (PO certificate is a plus)\nAdvanced data and data modelling skills, and knowledge of dimensional modelling is preferred\nAdvanced database and SQL skills\nProfound knowledge of analytics tools, in-house reporting (Tableau, Power BI) & processes, ETL, and Data Warehousing concepts\nExperience with Microsoft tech stack (SSIS/ADF and SSAS/AAS) and Microsoft Modern Data Warehouse technology\nInterested in cloud solutions (Azure and AWS), real-time BI, data lake infrastructures, big data, data mining, machine learning and other data science related topics\nData bricks, Python, Spark, JSON experience is a plus\nProactive approach to tasks & challenges, and a strong customer focus and service attitude\nFluency in English is required, German is a plus",
+    "skills": [
+        "2+ years' working experience as Data Integration Analyst, (Business) Data Analyst, Data Engineer or similar",
+        "SCRUM/Kanban experience (PO certificate is a plus)",
+        "Advanced data and data modelling skills, and knowledge of dimensional modelling is preferred",
+        "Advanced database and SQL skills",
+        "Profound knowledge of analytics tools, in-house reporting (Tableau, Power BI) & processes, ETL, and Data Warehousing concepts",
+        "Experience with Microsoft tech stack (SSIS/ADF and SSAS/AAS) and Microsoft Modern Data Warehouse technology",
+        "Interested in cloud solutions (Azure and AWS), real-time BI, data lake infrastructures, big data, data mining, machine learning and other data science related topics",
+        "Data bricks, Python, Spark, JSON experience is a plus",
+        "Proactive approach to tasks & challenges, and a strong customer focus and service attitude",
+        "Fluency in English is required, German is a plus"
+    ],
+    "date_posted": null
+}

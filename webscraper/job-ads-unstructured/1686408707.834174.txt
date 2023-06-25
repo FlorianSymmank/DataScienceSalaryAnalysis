@@ -1,0 +1,73 @@
+PhD position in Health Impacts of Flooding (f_m_x) [english]
+Deutsches GeoForschungsZentrum - GFZ
+Potsdam
+Teilzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Teilzeit
+The Helmholtz Centre Potsdam – GFZ German Research Centre for Geosciences is the national centre for geosphere research. As a member of the Helmholtz Association of German Research Centres we are part of the largest scientific organization in Germany. With approximately 1,500 employees our key mission is to secure a profound understanding of the systems and processes of solid Earth, to develop strategies and options for action in addressing global change and its impacts on a regional level, to understand natural hazards and to minimize associated risks, to ensure the sustainable provision of energy and raw materials for a high-tech society and to evaluate the influence of human activity on system Earth.
+For section 4.4 Hydrology (department “Geosystems”), we are looking for a:
+PhD position in Health Impacts of Flooding (f_m_x)
+Reference Number 7854
+
+The Section Hydrology at the GFZ searches for a PhD Researcher to work in the BMBF funded junior research group HI-CliF. You will be a part of the trans-disciplinary junior research group on Health Impacts of Floods, with a specific focus on understanding and modelling physical and mental health impacts of flooding in Germany and Vietnam. The project will be led by Dr. Nivedita Sairam, Section Hydrology, German Research Center for Geosciences, Potsdam and your PhD research will be co-supervised by Dr. med. Caroline Jung-Sievers, Chair for Public Health and Health Services Research, LMU Munich and Pettenkofer School of Public Health.
+
+We seek a PhD researcher with interest and expertise in health aspects related to flooding, survey organization, statistics, impact modelling and programming. The PhD researcher is expected to work on collecting and analyzing health data related to flooding and on modelling health impacts.
+
+The successful candidate should have the interest and ability to participate in collaborative and transdisciplinary research activities and discussions in the field of health and risk modelling. The candidate is also expected to closely collaborate with interdisciplinary, external partners, and present, publish and communicate research results at scientific meetings and in Scholarly journals.
+
+Your responsibilities:
+Organise surveys for data collection on the topic flood and health, including development of survey design, questionnaire formulation organizing field work campaigns in Germany and Vietnam
+Analyse survey data using Statistical methods including Machine Learning and Bayesian Statistics
+Develop and apply health impact models related to floods including writing well-documented, reusable code (Python or R)
+Collaborate closely with external partners in a transdisciplinary context
+Actively participate in organizing international Stakeholder meetings, workshops/summer schools, preparation of project reports
+Present, publish and communicate research results at scientific meetings and in scholarly journals (including systematic reviews, meta-analysis)
+Undertake a PhD study (e.g., in the Ph.D. Program - Medical Research in Epidemiology & Public Health, at LMU Munich)
+Deliver according to the project timelines and university/department requirements
+
+Your qualifications:
+Relevant university degree at Master level in Public Health or a related relevant field
+Demonstrated prior knowledge in probability and statistics and statistical programming (R or Python) either in the form of coursework or projects/thesis
+Ability to work independently and with an interdisciplinary team; interpersonal skills to engage with international stakeholders
+Good writing and presentation skills - experience in contributing to the writing of peer-reviewed research articles is an advantage
+Fluent oral and written communication skills in English; German language command is helpful but not mandatory
+
+What we offer:
+The opportunity to work in a dynamic, inter- and transdisciplinary research environment across the fields of flood risk, climate adaptation and public health
+Excellent network with a range of national and international organizations
+Extensive technical and soft skills training opportunities
+Opportunity to present your research in national and international conferences
+State-of-the-art equipment
+Public service benefits
+Extensive training opportunities
+Professional career advice offered by our in-house Career-Centre
+Flexible working hours and conditions
+Support with finding a good work-life balance offered by benefit@work
+Institute day-care centre on site
+Working at the Albert Einstein science park on the Telegrafenberg in Potsdam
+
+Work place within walking distance of Potsdam main train station, or just a short ride on the shuttle bus
+
+
+Start date: 1st August 2023
+Fixed-term: 3 years
+Salary: The position is classed as salary group 13 according to “TVöD Bund (Tarifgebiet Ost)”. The salary group is determined on the basis of the Collective Wage Agreement and the respective personal qualifications.
+Working hours: Part-time 75% (currently 29.25 h/week)
+Place of work: Potsdam
+
+Have we piqued your interest?
+If so, we look forward to receiving your application by 18 th June 2023. Please use our online application form only.
+Apply
+
+Diversity and equal opportunities are integral components of our human resources policy. The GFZ actively promotes diversity and explicitly welcomes applications from all qualified individuals, regardless of ethnic and social origin, nationality, gender, sexual orientation and identity, religion/belief, age and physical characteristics. Anyone who has been recognized as severely disabled, will be given preferential consideration in the event of equal suitability and qualification in accordance with the provisions of the German Social Code IX. If you have any questions, please contact our representative for the severely disabled at sbv[at]gfz-potsdam.de, who will be happy to assist you in the further application process. In case of further queries regarding gender equality, please do not hesitate to contact our Equal Opportunities Officer at gba[at]gfz-potsdam.de.
+
+Your personal data will be processed for the purpose of conducting the selection procedure on the basis of Art. 6 para. 1 b, Art. 88 GDPR in conjunction with Art. 26 of the Data Protection Act for the State of Brandenburg. After completion of the procedure, application documents will be deleted in compliance with data protection regulations.
+
+Members of LMU Munich (Chair for Public Health and Health Services Research) will be involved in the selection procedure. Your personal data will, of course, be treated confidentially and will be communicated to the involved person exclusively for the purpose of evaluating your professional suitability within the framework of this selection procedure. Once the procedure has been completed, the personal data will also be deleted there in compliance with data protection regulations.
+
+In case of any further queries relating to the field of activity, please contact Dr. Nivedita Sairam either via email at nivedita.sairam@gfz-potsdam.de or phone +49 (0)331-288 28786. If you have any general questions about the application process, please contact our recruiting team at our phone number +49 (0) 331-6264-28787.
+Diesen Job melden

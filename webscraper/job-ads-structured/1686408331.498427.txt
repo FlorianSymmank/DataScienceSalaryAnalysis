@@ -1,0 +1,15 @@
+{
+   "job_title": "Senior Data Engineer",
+   "company": "Friendsurance",
+   "location": "10961 Berlin-Kreuzberg",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "You have 4 years of experience in business intelligence and data engineering....",
+   "skills":[
+      "AWS Data Engineering technologies",
+      "MSSQL Stack",
+      "SQL",
+      "Python"
+   ],
+   "date_posted": "YYYY-MM-DD"
+}

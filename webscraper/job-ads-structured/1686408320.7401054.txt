@@ -1,0 +1,26 @@
+{
+  "job_title": "(Senior) Data Scientist",
+  "company": "Codepan GmbH",
+  "location": "10407 Berlin",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Working Visa for EU, willing to move to Berlin",
+  "skills": [
+    "Python",
+    "industry data science",
+    "machine learning projects",
+    "Machine Learning frameworks",
+    "NLP",
+    "Computer Vision",
+    "Time Series",
+    "Machine Learning Deployment & Management Tools",
+    "developing RESTful APIs",
+    "Cloud Services and Architectures",
+    "Database Management",
+    "test-driven development",
+    "continuous integration",
+    "deployment techniques",
+    "developing and maintaining ML algorithms for SaaS products"
+  ],
+  "date_posted": null
+}

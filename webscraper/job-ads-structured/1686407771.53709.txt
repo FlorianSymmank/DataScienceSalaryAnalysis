@@ -1,0 +1,27 @@
+{
+  "job_title": "Data Scientist (m/w/d)",
+  "company": "fruitcore GmbH",
+  "location": "Konstanz",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Abgeschlossenes Studium in Informatik, Data Science, Statistik oder einem ähnlichen Fachgebiet Erfahrung in der Datenanalyse und -Aufbereitung, sowie der Anwendung von statistischen Methoden Fundierte Kenntnisse in mindestens einer Programmiersprache wie Python, R, Java oder ähnlichen Erfahrung mit Machine Learning und Deep Learning Frameworks wie TensorFlow, PyTorch oder Keras von Vorteil Kenntnisse im Bereich der Künstlichen Intelligenz und Robotik sind ein Plus Starke Kommunikations- und Teamfähigkeit sowie ein hohes Maß an Eigeninitiative und Lösungsorientierung",
+  "skills": [
+    "Datenanalyse",
+    "Statistische Methoden",
+    "Python",
+    "R",
+    "Java",
+    "Machine Learning",
+    "Deep Learning",
+    "TensorFlow",
+    "PyTorch",
+    "Keras",
+    "Künstliche Intelligenz",
+    "Robotik",
+    "Kommunikation",
+    "Teamfähigkeit",
+    "Eigeninitiative",
+    "Lösungsorientierung"
+  ],
+  "date_posted": "2021-11-10"
+}

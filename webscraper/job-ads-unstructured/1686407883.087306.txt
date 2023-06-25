@@ -1,0 +1,44 @@
+Working Student - Machine Learning
+Peers Solutions
+Berlin
+Schnellbewerbung
+
+We are seeking a highly motivated and talented working student to join our team as a Machine Learning Intern with a focus on Natural Language Processing (NLP). As a working student, you will have the opportunity to work on cutting-edge projects in the field of NLP, leveraging your skills and knowledge to contribute to our research and development efforts.
+
+Responsibilities:
+
+Collaborate with the engineering to develop and implement NLP algorithms and models.
+Assist in data collection, preprocessing, and annotation for NLP projects.
+Conduct research on the latest advancements in NLP and explore innovative approaches to solving NLP challenges.
+Analyze and interpret experimental results, providing insights and recommendations.
+Participate in team meetings, brainstorming sessions, and project discussions.
+Stay up-to-date with the latest trends, techniques, and tools in machine learning and NLP domains.
+Document research findings, methodologies, and experimental results in a clear and organized manner.
+
+Note: This is a student internship position, and candidates should be currently enrolled in an academic program. The duration of the internship and specific start/end dates will be determined based on the candidate's availability and the company's requirements.
+
+We offer a dynamic and collaborative work environment, providing an excellent opportunity for hands-on experience in the field of machine learning and NLP. This internship will allow you to work closely with experienced professionals, expand your knowledge and skills, and contribute to real-world projects.
+
+To apply, please submit your resume, cover letter, and any relevant academic projects or research papers to [contact email/website].
+
+We appreciate all applications, but only shortlisted candidates will be contacted for further steps.
+
+
+Currently enrolled as a student pursuing a Bachelor's or Master's degree in Computer Science, Data Science, Machine Learning, or a related field.
+Strong understanding of machine learning principles and algorithms.
+Familiarity with NLP concepts such as text classification, sentiment analysis, named entity recognition, language modeling, and sequence-to-sequence models.
+Experience with programming languages such as Python, along with libraries and frameworks commonly used in NLP, such as NLTK, spaCy, TensorFlow, or PyTorch.
+Proficiency in data preprocessing techniques, including text normalization, tokenization, and feature extraction.
+Solid problem-solving skills and the ability to think critically and analytically.
+Excellent communication and teamwork skills, with the ability to collaborate effectively in a fast-paced environment.
+Demonstrated passion for machine learning, NLP, and artificial intelligence through personal projects, coursework, or research papers (if applicable).
+Native level fluency in German is mandatory. Good lingustic skills in German language is a bonus.
+
+
+
+Preferred Qualifications:
+
+Previous experience or coursework in NLP-related projects or research.
+Familiarity with popular NLP libraries and frameworks, such as Hugging Face's Transformers or AllenNLP.
+Understanding of data visualization techniques to present and interpret results.
+Diesen Job melden

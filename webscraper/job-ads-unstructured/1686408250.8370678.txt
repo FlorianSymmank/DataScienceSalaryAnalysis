@@ -1,0 +1,43 @@
+Master Thesis "Efficient Data Preparation for ML Pipelines"
+Software AG
+64297 Darmstadt
+Teilzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Teilzeit
+Location: Darmstadt (Germany)
+!!! Please note that this offer is an unpaid master thesis !!!
+In the research project KompAKI, we seek to unleash the power of machine learning (ML) algorithms to individuals, e.g., domain experts. To this end, we develop end-to-end automated and interactive machine learning pipelines. Such pipelines typically comprise various components, including data categorization, cleaning, wrangling, feature engineering, model training, and postprocessing. Bringing automaticity and interactivity to all these components broadly enables the novice users to build reliable and complex ML pipelines, even without having a deep technical background in this domain. Moreover, the users gain detailed explanations about the generated models along with several ways to guide the generation process, if necessary. As a result, the task of building ML pipelines in Software AG's products, e.g., Zementis and TrendMiner, will be highly simplified together with requiring much less time.
+In general, artificial intelligence benefits from a wide variety of reliable data mostly originated from multiple sources. The quality of the data, i.e., the degree to which the data adheres to desirable quality and integrity constraints, can have a significant impact on the businesses themselves, the companies, or even in human lives. The existence of dirty data not only leads to erroneous decisions or unreliable analysis but probably causes a blow to the corporate economy. For instance, a recent study by Gartner showed that organizations believe poor data quality to be responsible for an average of $15 million per year in losses. As a consequence, there has been a surge of interest from both industry and academia on developing efficient and effective data cleaning methods. In this context, two main tasks have broadly been investigated, namely (1) error detection, where data inconsistencies such as duplicate data, integrity constraint violations, and incorrect or missing data values are identified, and (ii) data repairing, which involves updating the available data to remove any detected errors.
+Considering ML pipelines, data cleaning represents a crucial component since it prevents the propagation of data errors to the data analysis step. As a result, data scientists typically spend the majority of their time on cleaning and organizing data. This fact emerges from the need to select the right data cleaning tools together with optimally configuring these tools. To relieve the burden of detecting and repairing heterogeneous error types, several efforts have been exerted to develop automated data cleaning methods. However, current automated methods still suffer from accuracy and scalability problems. Moreover, they hardly consider the requirements of common ML models, such as data relevancy and model fairness against data bias. In this MSc topic, we target designing and implementing an intelligent data cleaning method which exploits the context information and metadata of the dirty data to optimize the detecion accuracy and run-time while repairing large datasets.
+YOUR TASKS
+In particular, this study project mandates the following goals:
+Study of related work from the field of automated machine learning systems and data cleaning methods
+Design and implement a novel error detection and recognition method which maximizes the performance of machine learning models
+Evaluate the performance of the proposed method in terms of the detection accuracy and runtime
+Documentation of the results in a written report
+YOUR PROFILE
+You are studying a MSc in the fields of Computer Science, Mathematics, or comparable.
+Good conceptual knowledge of machine learning models
+Good programming skills in Python and its ML-related libraries, e.g., Scikit-learn, TensorFlow, and Keras, is required, other programming languages such as Java is a plus
+Strong drive to learn new technologies and to deliver code in highest quality
+You have a high degree of creativity, resilience, reliability and team spirit
+Fluent English in spoken and written
+WHAT YOU CAN EXPECT
+Targeted initial training
+Flat hierarchies
+Modern working environment
+Free drinks
+Open and constructive discussion culture
+Good internal entry and development opportunities after graduation
+The position is not remunerated, however you will receive the necessary hardware, such as a laptop and a monitor, as well as an access to our computing resources and the internal learning platforms
+INTERESTED?
+Please apply only online. Your application should contain a short cover letter, a curriculum vitae in tabular form as well as your training and work references.
+Your contact:
+Tanja Topal, Manager HR Recruiting & Onboarding DACH, Phone +49 (0) 681 210 3105
+f/m/d – diversity matters
+#LI-TT1
+Diesen Job melden

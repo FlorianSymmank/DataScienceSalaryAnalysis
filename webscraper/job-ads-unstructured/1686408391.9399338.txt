@@ -1,0 +1,64 @@
+Data Scientist (m/w/d)
+trendtours Touristik GmbH
+Eschborn
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Jobbeschreibung
+
+Sie sind gleichermaßen zahlen- wie technikaffin und interessieren sich für Reisen? Sie sind Data Scientist mit Leidenschaft und verstehen es, mit großen Datensätzen das Marketing und den Vertrieb zu unterstützen? Sie möchten sich weiter in Richtung Machine Learning spezialisieren? Dann sollten wir uns kennenlernen!
+
+
+
+
+
+
+
+Ihre Aufgaben als Data Scientist (m/w/d)
+
+
+
+Planung, Konzeption, Umsetzung & Wartung von Lösungen in den Bereichen Big Data und Data Science (z.B. Loyalty Scoring, Recommendation Engine, Forecasting)
+Programmierung und Weiterentwicklung von Datenbankstrukturen sowie Architektur unseres bestehenden Data Warehouse in Zusammenarbeit mit den internen Data-Engineers
+Aufbereitung von Kunden- & Prozess-Daten sowie Datenanalyse / zielgerichtete Dateninterpretation zur Optimierung von Prozessen & Marketingmaßnahmen
+Entwicklung von Analyse- und Prognosemodellen mittels Machine Learning (KI)
+Bereitstellung von konsistenten und verständlichen Datensätzen mit modernen Business-Intelligence-Tools (Tableau, Jupyter)
+Durchführung von Daten- und Fehleranalysen zur Verbesserung von Modellen sowie zur Reinigung und Validierung von Daten
+Stellenanforderungen
+
+Ihr Profil als Data Scientist (m/w/d)
+
+
+
+Erfolgreich abgeschlossenes Studium, z.B. im Bereich Informatik / Mathematik oder vergleichbare Ausbildung
+Mehrjährige Berufserfahrung im Bereich Data Science, Data Analytics oder Data Engineering
+Kenntnisse in Aufbau und Erweiterung von skalierbaren Data Warehouses
+Erfahrung in der Entwicklung und im Betrieb analytischer Anwendungen wie ML-Modelle mittels Python und Cloud-Technologien
+Erfahrung in Datenmodellierung (Kimball / Dimensionale Modellierung und/oder Data Vault Modelling)
+Grundverständnis und Freude an der stetigen Weiterentwicklung relationaler Datenbanken
+Gute Deutsch- und Englischkenntnisse (in Wort und Schrift)
+
+
+
+Unser Angebot
+
+Anstellung bei einem führenden Touristikunternehmen mit guten Zukunftsaussichten
+Hoch moderne DWH und Reporting-Technik entwickelt mit dem internen IT-Spezialisten
+Eine mittelständisch geprägte Unternehmenskultur mit vielfältigen Entwicklungsmöglichkeiten, kollegialer Hands-on-Mentalität und dem Freiraum, viel bewegen zu können
+Attraktive Sozialleistungen wie z.B. Krankenzusatzversicherung, kostenlose Firmenparkplätze und attraktive Mitarbeiterreisevorteile
+Flexible Arbeitszeiten und Mobiles Arbeiten
+
+
+
+Über uns
+
+Seit mehr als 15 Jahren sind wir einer der führenden Direktreiseveranstalter Deutschlands, unser mittelständisches Unternehmen beschäftigt derzeit über 150 Mitarbeiter. Von unserer verkehrsgünstig bei Frankfurt gelegenen Unternehmenszentrale aus bieten wir unseren Gästen ein breites Portfolio an: Unsere Urlaubswelt reicht von Bus-, Flug- und exklusiven Fernreisen bis zum (K)urlaub. Unterwegs mit netten Leuten! – ist nicht nur unser Slogan, sondern Grundlage unserer Unternehmenswerte und unseres Qualitätsanspruchs.
+
+
+Interessiert?
+
+
+
+
+Dann bewerben Sie sich über den „
+
+Diesen Job melden

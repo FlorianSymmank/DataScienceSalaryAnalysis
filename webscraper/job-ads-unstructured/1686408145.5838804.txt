@@ -1,0 +1,42 @@
+Machine Learning ENGINEER / Data SCIENTIST
+YOONA Ventures GmbH
+Berlin
+Zum Teil im Homeoffice
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+Machine Learning ENGINEER / Data SCIENTIST - to join our ML & Data team!
+
+At Yoona.ai we're on a mission to build the only platform in the world based on Artificial Intelligence, hence Computer Machine Learning to help designers & decision makers to go get digital inspirations from data, transform from 2D to 3D, and from 3d to AR & VR.
+
+Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way. We need you to design and build machine learning-powered products that help our customers learn from their data and make better decisions in real-time.
+
+Your daily tasks will be drawing & applying machine learning algorithms and statistical techniques to build new product features together with an already existing product & tech team.
+
+
+SKILLS REQUIRED:
+
+4+ years of experience working in large scale data science environments
+You have significant experience applying machine learning to real business problems
+You have significant programming experience in Python
+You have worked with Generative Adversarial Networks, Diffusion Models or Transformers in your past with a focus on Computer Vision
+You are interested in Data Processing and Analysis Pipelines, in best case even have setup your own already
+You know what Bias in Data Sets, how to detect and visualise it
+(Bonus) You can translate a research paper into a PoC if the code does not exist
+
+You must live in Berlin / Brandenburg and will have an hybrid work flow remote & workdays in our AI campus with the rest of the team.
+
+
+DURATION:
+
+By project
+
+
+WORKING HOURS:
+
+40 hours per week
+
+
+If you feel this could be something for you, contact us here: annafranziska.michel@yoona.ai
+
+Diesen Job melden

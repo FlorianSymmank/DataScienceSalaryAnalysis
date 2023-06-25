@@ -1,0 +1,22 @@
+{
+   "job_title": "Data Engineer",
+   "company": "Liebherr-Werk Biberach GmbH",
+   "location": "88400 Biberach an der Riß",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "Abgeschlossenes Studium im Bereich Informatik, Data Science oder einer vergleichbaren Qualifikation. Fundierte Expertise im Bereich Data Engineering und Data Warehousing. Erfahrung mit MS SQL Server sowie SSIS und SSAS wünschenswert. Kenntnisse in der Entwicklung mit Azure Data Factory, Databricks, Azure Data Lake und Python vorteilhaft. Gute Deutsch- und Englischkenntnisse.",
+   "skills": [
+      "Data Engineering",
+      "Data Warehousing",
+      "MS SQL Server",
+      "SSIS",
+      "SSAS",
+      "Azure Data Factory",
+      "Databricks",
+      "Azure Data Lake",
+      "Python",
+      "Deutschkenntnisse",
+      "Englischkenntnisse"
+   ],
+   "date_posted": null
+}

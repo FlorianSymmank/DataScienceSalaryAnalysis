@@ -1,0 +1,10 @@
+{
+"job_title": "Data Scientist",
+"company": "Porsche Lifestyle GmbH & Co. KG",
+"location": "Ludwigsburg",
+"salary_euro": null,
+"employment_type": "Professionals",
+"requirements": "Abgeschlossenes Studium im Bereich Mathematik, Statistik, Informatik, Physik, Psychologie, Politikwissenschaften, VWL, BWL oder einer themenverwandten Fachrichtung erforderlich Mehrjährige Berufserfahrung im Data-Science-Bereich, idealerweise im Einzelhandelsumfeld Sehr gute Kenntnisse in der Anwendung von Machine-Learning-, Optimierungs- und Data-Mining-Methoden in Python sowie SQL-Kenntnisse vorausgesetzt Fähigkeit, komplexe Fragestellungen zu verstehen, detailliert zu analysieren und die gewonnenen Erkenntnisse einem nicht-technischen Publikum verständlich zu präsentieren Erfahrungen in der visuellen und nutzergerechten Darstellung von statistischen Kennzahlen und Analyseergebnissen Idealerweise erste Erfahrungen mit Data-Lake-Technologien und deren Zusammenspiel mit klassischen Data-Warehouse-Umgebungen Verständnis für Kennzahlen, BI-Strukturen und deren Abbildung in strukturierten Reporting Sehr gute Deutschkenntnisse und idealerweise Englischkenntnisse Eigenverantwortliche und lösungsorientierte Arbeitsweise sowie Spaß an neuen Technologien und an der Kommunikation mit unseren internen Stakeholdern",
+"skills": ["Python", "SQL", "Machine Learning", "Optimization", "Data Mining"],
+"date_posted": null
+}

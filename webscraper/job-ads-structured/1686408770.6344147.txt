@@ -1,0 +1,22 @@
+{
+  "job_title": "AI Developer Technology Engineer",
+  "company": "NVIDIA",
+  "location": "München",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "A Masters degree or PhD in an engineering or computer science related discipline and 3+ years of relevant work or research experience.",
+  "skills": [
+    "C/C++",
+    "software design",
+    "programming techniques",
+    "AI algorithms",
+    "parallel programming",
+    "CUDA C/C++",
+    "communication",
+    "organization",
+    "logical approach to problem solving",
+    "time management",
+    "task prioritization"
+  ],
+  "date_posted": "2021-11-16"
+}

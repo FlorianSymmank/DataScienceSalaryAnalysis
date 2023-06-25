@@ -1,0 +1,10 @@
+{
+    "job_title": "Werkstudent (m/w/d) Data Science",
+    "company": "Süddeutsche Zeitung Digitale Medien GmbH",
+    "location": "München",
+    "salary_euro": null,
+    "employment_type": "Teilzeit, Befristeter Vertrag, Werkstudent",
+    "requirements": "Technisches oder naturwissenschaftliches Studium, z.B. Informatik, Computerlinguistik, Mathematik, Physik, oder vergleichbar",
+    "skills": ["Machine Learning", "Python", "SQL", "AWS"],
+    "date_posted": null
+}

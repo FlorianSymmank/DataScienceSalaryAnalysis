@@ -1,0 +1,49 @@
+Working Student - Data Science
+Hasso Plattner Foundation
+14467 Potsdam
+Zum Teil im Homeoffice
+Vollzeit, Teilzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Teilzeit
+The Hasso Plattner Foundation aims to accelerate the adoption of digital technologies through science and education, improve access to art and culture, and support environmental conservation. Hasso Plattner is one of the founders of SAP, an enterprise software company, and has been chairman of its supervisory board since 2003. In 1998, Hasso Plattner founded the Hasso Plattner Institute for Digital Engineering, marking his first significant philanthropic contribution. After signing the Giving Pledge (initiated by Bill and Melinda Gates and Warren Buffet), he established the foundation in 2015.
+
+
+We are the Investment Office of the Hasso Plattner Foundation. We have the mandate to generate income, and preserve and grow the wealth of the Hasso Plattner Foundation – with the ultimate goal of funding existing and new philanthropic initiatives into perpetuity. We aim to generate high, risk-adjusted returns and invest capital in global public equities, leveraged buyouts, venture and growth capital, hedge funds and real assets. We invest with trusted external partners and selectively via direct ownership of businesses, especially in enterprise software and digital health.
+
+
+Our investment strategy focuses on long-term equity ownership and risk diversification. The investment office seeks out external partners with entrepreneurial spirit, an ingrained moral compass, and a drive to make a positive impact. We invest to create value for both shareholders and society. Environmental, social, and governance (ESG) considerations guide our investment decisions deeply. The Hasso Plattner Foundation’s main office is in Potsdam, Germany, with additional offices in San Francisco, USA, and Cape Town, South Africa.
+The position
+As a Working Student – Data Science, you will be an integral part of the investment team of one of the largest, private charitable foundation in Germany. You will work closely on different short- and long-term projects that support our investment decisions and ultimately contribute to improving our investment outcomes. You will help in the full data science stack with a focus on financial data, from data loading, cleansing, and visualization to model design and implementation. Additionally, you will support the investment team with general (data-related) research.
+
+
+As part of a young and motivated team with flat hierarchies, you will be mentored and offered a flexible working environment mindful of your university schedule with a hybrid working model (onsite & remote). We will support you in pursuing the CFA Institute Investment Foundations program. Upon graduation, top performing working students may join as an Investment Analyst with quantitative focus. The program deepens your understanding of portfolio and risk management and allows you to develop into a capital allocator.
+
+
+Applicants should have
+A bachelor’s or master’s student in Computer Science, Mathematics, Statistics, Physics, Engineering, or an equivalent subject
+Excellent analytical skills and a structured working style with attention to detail
+Experience with data management (databases, flat files such as Excel and csv), data pipelines (APIs), and data wrangling
+Data-science-oriented programming skills in Python (including NumPy, Pandas, scikit)
+Experience with Jupyter Notebooks and Git is a plus
+Interest in investing and finance is a must, prior financial industry experience is not. A basic understanding of finance theory is beneficial but not required.
+Fluency in English is required, other languages are a plus. No German required.
+You are available for at least 6 months in a working student position at 20 hours per week and should finish your degree within the next 12 months
+Unassailable integrity and discretion
+Passion for excellence, attention to detail and curiosity for scientific work are a must
+Independent, self-reliant way of working with a focus on “getting things done”
+What else do we offer you?
+Working in a motivated team with flat hierarchies and mentorship
+Travel and work internationally
+Support to pursue the CFA Institute Investment Foundations program
+A competitive compensation package
+Working in a beautiful office that offers free lunch, excellent coffee, and opportunities for outdoor sports activities
+
+
+To Apply
+We look forward to receiving your application (CV, diplomas & transcripts of records, references) compiled as one PDF document with your salary expectations and earliest entry date.
+Diesen Job melden

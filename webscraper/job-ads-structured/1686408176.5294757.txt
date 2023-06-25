@@ -1,0 +1,10 @@
+{
+"job_title": "Consultant Data Fabric (w/m/x)",
+"company": "IBM",
+"location": "Berlin",
+"salary_euro": null,
+"employment_type": "Vollzeit",
+"requirements": "Bachelor- oder Masterabschluss in (Wirtschafts-)Informatik mit Schwerpunkt auf Informatik, und/oder Big Data / Datenbanken / Datenmanagement oder vergleichbare Kenntnisse und Erfahrungen",
+"skills": ["IBM DataStage", "IBM Watson Knowledge Catalog", "Datenbanken", "Python", "Dev Ops", "Linux", "OpenShift", "Microservices"],
+"date_posted": "N/A"
+}

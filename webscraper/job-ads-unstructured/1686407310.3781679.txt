@@ -1,0 +1,44 @@
+Data Science / Machine Learning Internship (m/f/d) - IoT Startup
+Livello GmbH
+Düsseldorf
+Praktikum
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Praktikum
+We are currently looking for new team members for our Data Science / ML team.
+
+Requirement: 6+ months mandatory internship or thesis for your university
+
+Start: by arrangement / immediately
+
+Tasks
+
+
+You will support our Data Science and ML team with statistical data modeling and machine learning research
+Conceptualize, implement and evaluate algorithmic solutions for supply forecasting, smart inventory optimization, predicting sales, and automating business processes
+Conduct applied research to model complex dependencies, statistical inference and predictive modeling
+Technological conception, design and implementation of new features
+Work with a cross-functional team to help define, build, test, and deploy applications
+Requirements
+
+
+Studies in Mathematics, Statistics, Engineering, Econometrics or any related fields
+Relevant Data Science experience, deep technical background in applied data science and experience building production-quality and well-engineered Data Science products
+Experience in image processing, algorithms and neural networks
+Knowledge of the tools, libraries and cloud services for Data Science, ideally Google Cloud Platform, Python, MongoDB, and API frameworks
+Cooperative and independent work, analytical mindset, and willingness to take responsibility
+Fluent in English
+Benefits
+
+
+A responsible position in a fast-growing and highly innovative start-up
+An agile and diverse team with colleagues from all over the world
+English speaking open work environment, with flat hierarchies and short decision-making paths
+Dog-friendly office in a prime location with lots of shopping/restaurant options nearby
+Advanced technology stack leveraging cutting-edge IoT hardware and software
+Creative freedom for own ideas, projects and personal development
+Team building, learning and start-up events
+Livello is building the future of autonomous retail and smart inventory management. We are developing a revolutionary IoT Platform and telemetric Smart Kiosks with state-of-the-art smart shelving and monitoring technology, leveraging the newest technologies and engineering principles, relying on concepts like automation, autoscaling, resilience, real-time monitoring, sensor fusion, computer vision, machine learning and deep analytics. Our stack consists of modern Javascript, Typescript, Node.Js, React & Redux, Docker, containers, client libraries, and GraphQL, all built on a microservice-based Kubernetes architecture, all supported by the strengths of the Google Cloud Platform. We strongly believe in the power of CICD and integrate and deploy our applications with modern CICD tools from Gitlab.
+Diesen Job melden

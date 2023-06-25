@@ -1,0 +1,13 @@
+{
+   "job_title": "Data Scientist & Machine Learning Engineer",
+   "company": "BridgingIT GmbH",
+   "location": ["Berlin", "Frankfurt am Main", "Hamburg", "Köln", "Mannheim", "München", "Nürnberg", "Stuttgart"],
+   "salary_euro": {
+      "amount": 50000,
+      "period": "pro Jahr"
+   },
+   "employment_type": ["Vollzeit", "Teilzeit", "Festanstellung"],
+   "requirements": "Erfolgversprechender Studienabschluss in Data Science/Wirtschaftsinformatik/Mathematik/Physik/Statistik, praxiserprobte Programmierkenntnisse in Python und/oder R sowie SQL, mehrjährige Berufserfahrung, Kenntnisse in maschinellem Lernen und KI-Konzepten, Deutschkenntnisse mind. auf B2 Niveau.",
+   "skills": ["Python", "R", "SQL", "Tensorflow", "Pytorch", "Keras", "Spark", "Scala", "Cloud Services", "maschinelles Lernen", "KI-Konzepte"],
+   "date_posted": "2021-09-21"
+}

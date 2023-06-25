@@ -1,0 +1,19 @@
+{
+  "job_title": "Senior Data Engineer",
+  "company": "dkb",
+  "location": "Berlin",
+  "salary_euro": {
+    "amount": null,
+    "period": null
+  },
+  "employment_type": null,
+  "requirements": "Ein abgeschlossenes Studium der (Wirtschafts-) Informatik oder eine vergleichbare Berufsausbildung?Hast du in der Tasche.Mindestens fünf Jahre Erfahrung in der Datenbankentwicklung und Datenintegration?Wären optimal.Du findest dich in Relationalen Datenbanken mühelos zurecht und du sprichst fließend SQL?ETL-Tools hast du bereits in der Praxis eingesetzt?",
+  "skills": [
+    "Analytisch denken",
+    "Komplexes rasch erfassen",
+    "Neue Ideen eigenverantwortlich umsetzen",
+    "Sehr gute Kommunikationsfähigkeit auf Deutsch",
+    "Felsenfeste Entscheidungen treffen"
+  ],
+  "date_posted": null
+}

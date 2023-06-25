@@ -1,0 +1,31 @@
+Data Scientist (f/m/d)
+Hypatos GmbH
+Berlin
+Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Your Mission
+As a member of our team you will have a significant impact on the technical direction of the company.
+You will be on the cutting edge of data science, and collaborate closely with other data scientists, machine learning engineers and key stakeholders to leverage established and novel data sources and machine learning techniques to deliver tools that integrate directly with our existing application landscape.
+You will work with state-of-the art machine learning and statistical models as a full-time data scientist, and deploy NLP/text mining models to production
+You will leverage recent advances in natural language understanding and AI to increase automation
+You will present machine learning approaches to stakeholders and clients from a non-technical discipline
+Your Profile
+Ph.D., M.Sc. or equivalent experience in Computer Science, Engineering, Statistics, or another relevant technical field
+Deep technical knowledge in a variety of statistical and machine learning methods, such as: modern neural networks, tree-based models, regularized GLMs, and more
+Experience with Python/R/Matlaband ML toolkits such as Torch, TensorFlow, Keras, Scikit-learn, CRAN, etc.
+Strong skills in SQL and No-SQL databases
+Familiarity with IaaS solutions, such as Microsoft Azure, AWS, and Google Compute Engine is a plus
+Experience with transitioning applications from R&D into production is a big plus
+Motivated self-starter with a strong enthusiasm to learn
+Strong communication skills. You communicate complex data solutions across teams and clients
+Our Offer
+You will be able to personally and professionally grow with a young and striving company through technically challenging, diverse and increasingly international projects
+Beyond an individually negotiated compensation package including company shares, you will enjoy a unique combination of professional opportunities, entrepreneurial spirit, technological excellence and industry exposure
+Flat hierarchies and a large amount of individual responsibility
+Flexible working hours and a pleasant working environment
+Partial home office solution is possible
+Diesen Job melden

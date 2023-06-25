@@ -1,0 +1,10 @@
+{
+    "job_title": "Data Scientist",
+    "company": "Apiax AG",
+    "location": "60311 Frankfurt am Main",
+    "salary_euro": {"amount": null, "period": null},
+    "employment_type": null,
+    "requirements": "Background in engineering, data science, or linguistics. Experience with data pipelines, model validation and downstream testing. Experience in Natural Language Processing and working with language data. Understanding and experience in Python and computational/NLP libraries like Numpy, Tensorflow, PyTorch, NLTK, Spacy and Jupyter. Basic understanding of deep learning, knowledge representation and reasoning. Experience in industrial data processing and machine learning architecture is a strong plus (Spark, Airflow, UIMA). Experience with graph databases, knowledge graphs, ontologies or logic programming is a strong plus (Neo4j, Stardog, TypeDB, OWL, Prolog). Excellent interpersonal and communication skills with a good command of written and spoken English. German would also be an advantage. Work permit for EU.",
+    "skills": ["AI", "Deep Learning", "Natural Language Processing", "Python", "Numpy", "Tensorflow", "PyTorch", "NLTK", "Spacy", "Jupyter", "Deep Learning", "Knowledge Representation", "Industrial Data Processing", "Machine Learning Architecture", "Spark", "Airflow", "UIMA", "Graph Databases", "Knowledge Graphs", "Ontologies", "Logic Programming", "Neo4j", "Stardog", "TypeDB", "OWL", "Prolog", "Interpersonal Skills", "Communication Skills", "English", "German", "Work Permit for EU"],
+    "date_posted": null
+}

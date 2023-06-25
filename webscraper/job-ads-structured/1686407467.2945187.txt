@@ -1,0 +1,17 @@
+{
+    "job_title": "Head of Data Science & Analytics (m/w/d)",
+    "company": "dx.one GmbH",
+    "location": "Wolfsburg",
+    "salary_euro": null,
+    "employment_type": "Vollzeit",
+    "requirements": "langjährige Erfahrung in der Arbeit im Bereich KI / Analytics / BI / Daten\numfangreiche Kenntnisse von Cloud-Technologien (AWS) und Frameworks der Analytics und künstlichen Intelligenz\nFundierte Kenntnisse des gesamten Datenlebenszyklus aus rein technischer Sicht über Datenmodellierung bis hin zur Erstellung von Datenprodukten\nGutes Verständnis von Innovationsprozessen und Design-Thinking-Methoden\nAusgeprägtes Verständnis und Fähigkeit, die Vorteile der Nutzung neuer Technologien zu identifizieren, zu quantifizieren und zu kommunizieren\nFähigkeit, anderen technischen Mitarbeitern und Stakeholdern Richtung, Anleitung und Vision hinsichtlich Analytics / KI zu geben",
+    "skills": [
+        "People Leadership",
+        "Kundenorientiertes Denken",
+        "Coaching",
+        "Offene Kommunikationskultur",
+        "Deutschkenntnisse",
+        "Englischkenntnisse"
+    ],
+    "date_posted": null
+}

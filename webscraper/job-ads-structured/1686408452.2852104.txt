@@ -1,0 +1,10 @@
+{
+  "job_title": "Senior Software Engineer",
+  "company": "Siemens",
+  "location": "81739 München",
+  "salary_euro": null,
+  "employment_type": "Vollzeit",
+  "requirements": "Proven track record of architecting and engineering commercial applications and services.",
+  "skills": ["C++", "object-oriented programming", "architectural design patterns", "data structures", "algorithms"],
+  "date_posted": "unknown"
+}

@@ -1,0 +1,55 @@
+Data Scientist & Machine Learning Engineer (w|m|d)
+BridgingIT GmbH
+80992 München
+50.000 € – 80.000 € pro Jahr - Vollzeit, Teilzeit, Festanstellung
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Gehalt
+50.000 € – 80.000 € pro Jahr
+Anstellungsart
+Vollzeit
+Teilzeit
+Festanstellung
+
+Standort(e): Berlin, Frankfurt am Main, Hamburg, Köln, Mannheim, München, Nürnberg,Stuttgart
+Art: Festanstellung, Vollzeit, Teilzeit und mobiles Arbeiten
+
+Die BridgingIT GmbH besteht seit 2008 und ist heute Teil der bridgingIT-Gruppe. Bei uns bist du an einem unserer 10 kundennahen, zentralen Standorte in Deutschland Teil einer herstellerunabhängigen und produktneutralen Technologie- und Unternehmensberatung. In deinen Projekten setzt du für Start-ups, Mittelständler und globale Konzerne Digitalisierungsstrategien in den Themenfeldern Technologien, Methoden und Wertschöpfung ganzheitlich um. Wir sind eine wertebasierte Organisation mit Verantwortungskultur: Werte wie menschliche Nähe, Vielfalt und Vertrauen begleiten dich täglich. Die 550 Kolleginnen und Kollegen unserer Gruppe finden bei uns Karriere- und Weiterbildungsmöglichkeiten, Flexibilität und Familienfreundlichkeit.
+
+Du hast Spaß im Umgang mit Daten und ein Talent dafür, aus ihnen Erkenntnisse zu gewinnen. Es reizt dich, aus fachlichen Use Cases vollständige Data Science Lösungen abzuleiten und diese im Team umzusetzen. In unseren Analytics Teams triffst du auf Menschen, die deine Leidenschaft teilen.
+
+Bewirb dich jetzt und werde ein Teil unserer Analytics & Data-driven Solutions Community!
+
+Deine Aufgabe
+Du berätst und unterstützt bei der Umsetzung von Data Science und Analytics Projekten.
+Du entwickelst und evaluierst je nach Problemstellung die passenden Machine Learning Methoden und implementierst diese in die IT-Architektur des Kunden.
+Du konsolidierst und strukturierst Daten aus unterschiedlichen Quellen und Formaten in geeignete Zielsysteme.
+Du interpretierst und validierst deine Ergebnisse und bereitest diese visuell auf.
+Die Präsentation und Diskussion deiner Resultate runden deine Aufgabe ab.
+Dein Hintergrund
+Dein Studium in Data Science, Wirtschaftsinformatik, Mathematik, Physik oder Statistik hast du erfolgreich abgeschlossen und es bildet die Basis deiner mehrjährigen Berufserfahrung.
+Du bringst praxiserprobte Programmierkenntnisse in Python und/oder R sowie SQL mit.
+Du hast einschlägige Erfahrung im Umgang mit technologierelevanten Tools und Frameworks wie z.B. Tensorflow, Pytorch, Keras, Spark und Scala.
+Mit KI-Konzepten und/oder Verfahren des maschinellen Lernens kennst du dich sehr gut aus.
+Erfahrungen mit relevanten Cloud-Services wie Azure, AWS oder Google sind Teil deines Profils.
+Du beherrschst Deutsch auf mind. B2 Niveau und kannst es erfolgreich im Berufsalltag einsetzen (German language skills from level B2).
+Das bieten wir dir
+Durch die geographische Nähe zu unseren Kunden, flexible Arbeitszeitmodelle sowie der Option mobil zu arbeiten, können wir bei der Planung unserer Projekte deine besondere Lebenssituation berücksichtigen.
+Bei uns genießt du die Vorteile eines stabilen, stark wachsenden Mittelständlers mit dem Unternehmergeist eines Start-ups, bei dem Arbeiten Spaß macht.
+Unsere respektvolle und wertschätzende Firmenkultur ist geprägt von Innovationskraft und Teamgeist sowie intensivem, themenübergreifendem Wissens- und Erfahrungsaustausch.
+Persönliches Mentoring für den optimalen Einstieg, kontinuierliche interne und externe Weiterbildungsmaßnahmen sind bei uns ebenso selbstverständlich wie individuelle Coachings, um dir den unternehmensinternen Aufstieg zu ermöglichen.
+Vom (elektrischen) Dienstwagen, über die Bahncard bis hin zum Firmenfahrrad über die betriebliche Altersvorsorge. Du kannst verschiedenste Benefits wählen. Und wenn du möchtest kannst du dich sehr gerne in unsere gelebten Werteinitiativen – von story&identity, smart&professional, green&social bis hin zu fun&sports – einbringen.
+Mehrmals im Jahr bieten wir dir die Möglichkeit, dich mit Gleichgesinnten auf unseren internen Konferenzen, wie den Community Days und den Entwicklertagen, auszutauschen. Egal, ob es sich um moderne Technologien, Projekterfahrungen oder methodische Vorgehensweisen handelt – es werden immer spannende IT-Trends diskutiert, in Vorträgen präsentiert oder einfach ausprobiert. Jeder ist herzlich willkommen, mitzuwirken und teilzunehmen.
+Kontakt
+
+Falls du Fragen zur Stelle oder zum Bewerbungsprozess hast, kannst du dich gerne an uns wenden!
+Hinweis: Dies sind Kontaktmöglichkeiten für Bewerber. Daher bitten wir von Anfragen durch Personalberatungen abzusehen.
+
+Annekatrin Kempf
+annekatrin.kempf@bridging-it.de
+
+Luisa Schuhmacher
+luisa.schuhmacher@bridging-it.de
+
+Diesen Job melden

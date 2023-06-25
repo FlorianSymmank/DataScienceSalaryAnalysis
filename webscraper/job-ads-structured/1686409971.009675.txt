@@ -1,0 +1,13 @@
+{
+  "job_title": "Werkstudent Data Science – Digital Transformation (m/w/d)",
+  "company": "Philips",
+  "location": "Hamburg",
+  "salary_euro": {
+    "amount": 16.50,
+    "period": "hour"
+  },
+  "employment_type": "Werkstudent",
+  "requirements": "Laufendes Studium in den Fachrichtungen Informatik, Data Science, Wirtschaftsinformatik, Naturwissenschaften o.ä. \nDu bist mindestens ein Jahr verfügbar und es ist dir möglich, einen Teil deiner Arbeitszeit vor Ort zu verrichten",
+  "skills": ["Power BI", "Python", "SQL", "ERP", "MES", "Datenbanken"],
+  "date_posted": null
+}

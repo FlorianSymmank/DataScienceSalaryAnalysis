@@ -1,0 +1,29 @@
+{
+    "job_title": "(Junior) Data Scientist (w/m/d)",
+    "company": "prognostica GmbH",
+    "location": "Würzburg",
+    "salary_euro": null,
+    "employment_type": "Festanstellung",
+    "requirements": "einen Universitätsabschluss in Data Science, Informatik, Mathematik, Statistik, Physik o. ä., Berufserfahrung im Data-Science-Umfeld, hervorragende analytische Fähigkeiten, Kenntnisse in Statistik und Machine Learning, sehr gute Deutsch- und Englischkenntnisse, ein sicheres Auftreten sowie starke Social Skills, vor allem im Umgang mit dem Team und Kunden, Freude an der Zusammenarbeit mit Anderen, Fähigkeit und Erfahrung im selbstständigen Arbeiten, ausgeprägte Kommunikationsfähigkeit, Bereitschaft, Verantwortung zu übernehmen, Zuverlässigkeit, Verschwiegenheit, Flexibilität, Belastbarkeit, sehr gute Kenntnisse in R oder Python, optimalerweise auch in einer weiteren Programmiersprache (z. B. Java, .Net, C), Kenntnisse in Datenbankadministration, -modellierung und Data Warehouse, idealerweise Cloud-Erfahrung (z. B. Azure, AWS) sowie Erfahrung im Umgang mit git, Reisebereitschaft innerhalb Deutschlands und ggf. außerhalb.",
+    "skills": [
+        "Data Science",
+        "Informatik",
+        "Mathematik",
+        "Statistik",
+        "Physik",
+        "Statistik",
+        "Machine Learning",
+        "R",
+        "Python",
+        "Java",
+        ".NET",
+        "C",
+        "Datenbankadministration",
+        "Datenmodellierung",
+        "Data Warehouse",
+        "Azure",
+        "AWS",
+        "Git"
+    ],
+    "date_posted": "2023-06-03"
+}

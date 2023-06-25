@@ -1,0 +1,88 @@
+Graduate Data Analyst
+Arrow Electronics, Inc.
+63263 Neu Isenburg
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Graduate Data Analyst
+Arrow Electronics, Inc. - 63263 Neu Isenburg
+Job
+Unternehmen
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Position:
+Graduate Data Analyst
+
+Job Description:
+
+Join Our Arrow's Graduate Program Designed for the Next Generation of Innovators
+
+Our Arrow's EMEA Graduate Program is a 12-month journey designed specifically for graduates who completed their education not more than 2 years ago and are seeking to take part in a practical learning curriculum. We provide a platform to work with experienced mentors to accelerate your career and establish a solid foundation to build and grow your engineering career at Arrow. During the program, selected candidates will improve both professional and soft skills and will be able to meet with and learn from experts across the business. By the end of the program, you will have the ground to further develop a successful career in Arrow.
+
+Visit our Graduate Program website for more information.
+
+What you should expect from the role:
+
+Arrow believes that the best way for you to grow is by giving you full responsibility for your tasks. As part of your personal and group projects, you'll have the opportunity to engage in practical work and will work alongside highly specialized experts on the following:
+
+Supporting domain experts to build and validate conceptual models.
+Developing & providing BI solutions for the various EMEA business functions.
+Support in estimator selection as well as building, training, and evaluating models which will provide the foundation of automating various business processes across EMEA.
+Performing data preparation: data cleaning, outlier detection, handling missing data etc. in order to get ready for building fast and accurate Machine Learning models & meaningful data analytics.
+Other, specific to the Graduate program: Take responsibility for projects (individual and in group) and create innovative solutions that have an impact on what Arrow does as a business.
+
+Requirements:
+
+You must have a legal right to work in the country where the position is located.
+You should have successfully completed your computer science, mathematics, statistics or similar quantitative field degree or other relevant degree (B.Sc., M.Sc. allowing you to have a full understanding of relational databases and ability to extract and query data independently with SQL) before October 2023 or not more than 2 years ago.
+You should be familiar with all or some of the following:
+proficiency with visualization tools (e.g., Power BI, tableau, Qlik)
+object oriented programming, knowledge of Python and writing scalable code
+Data Base experience (MySQL or similar)
+Expert understanding of MS Office tools, primarily Excel
+visualization of insights with Python (matplotlib, seaborn etc.)
+Advantageous but not essential to have experience in the following:
+good understanding of Data Science and Machine Learning methods (clustering, regression, decision trees and random forests etc.)
+experience with jupyter notebooks and sklearn (libraries numpy, pandas, SciPy etc.)
+experience with cloud-based platforms (Azure, AWS)
+experience with statistical modelling with R
+Business fluent English & German (oral & written) are key requirements for this position.
+You must be flexible and have geographical mobility.
+Creative, outside-the-box thinker who brings something new to the table and is not afraid to share those ideas.
+
+What's in it for you?
+
+A competitive salary, holiday entitlement and company benefits according to local standards
+A permanent working contract
+A mix of professional and soft skills trainings
+Group projects to work on business solutions with other program members from multiple countries, cultures, and functions
+Networking in the organization
+Support and career guidance from a mentor
+Wide range of career development opportunities
+Access to LinkedIn Learning
+
+How to apply
+
+To apply, please click on "Apply" below and submit your CV with a letter of motivation ( both in English) providing responses to the following questions:
+
+What was your decision-making process in selecting your current course/degree discipline?
+What motivates you to join Arrow & our graduate program?
+What skills and experiences do you feel have prepared you for the job position?
+What personal qualities will you bring to the job position?
+Where do you see yourself in 3-5 years?
+
+Note: Your letter of motivation should not exceed one page.
+
+Arrow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to gender, physical or mental disability, marital status, medical condition, race, religion, sexual orientation, or any other characteristic protected by locally applicable laws, regulations, and ordinances.
+
+Location:
+DE-Neu Isenburg, Germany (Frankfurter St) 38.2 Hrs
+
+Time Type:
+Full time
+
+Job Category:
+Business Support
+Diesen Job melden

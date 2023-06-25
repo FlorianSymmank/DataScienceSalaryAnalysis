@@ -1,0 +1,10 @@
+{
+  "job_title": "Data Scientist / Data Analyst (m/w/d)",
+  "company": "FUNKE MEDIENGRUPPE",
+  "location": "Berlin",
+  "salary_euro": null,
+  "employment_type": "full-time",
+  "requirements": "Idealerweise bringst Du mindestens zwei Jahre Berufserfahrung mit und begeisterst Dich für Daten und Analysen",
+  "skills": ["Digital Analytics", "SQL", "Python", "R", "Data Science", "Machine Learning"],
+  "date_posted": "2022-10-08"
+}

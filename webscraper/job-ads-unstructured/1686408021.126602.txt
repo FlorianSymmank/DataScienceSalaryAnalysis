@@ -1,0 +1,66 @@
+Sr. Data Engineer (Remote)
+Blue Orange Digital
+Berlin
+Homeoffice
+51.000 € – 74.000 € pro Jahr - Vollzeit
+Schnellbewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Gehalt
+51.000 € – 74.000 € pro Jahr
+Anstellungsart
+Vollzeit
+
+Company Overview:
+
+Blue Orange Digital is a cloud-based data transformation and predictive analytics development firm with offices in NYC and Washington, DC. From startups to Fortune 500's, we help companies make sense of their business challenges by applying modern data analytics techniques, visualizations, and AI/ML. Founded by engineers, we love passionate technologists and data analysts. Our startup DNA means everyone on the team directly contributes to the company's growth.
+
+
+
+
+This is a full-time fully remote position for Europe-based applicants within +/- 2 hours of Central European Time (CET). Resume must demonstrate professional English ability.
+
+
+
+
+Responsibilities:
+
+Designing and constructing highly efficient, adaptable, and scalable data pipelines to support our clients' data ingestion, processing, and storage needs
+Building and maintaining the necessary supporting infrastructure in AWS/Kubernetes, ensuring robust and reliable data systems.
+Taking full ownership of the entire development cycle, including architecting, implementing, testing, delivering, and maintaining data engineering solutions
+Proactively monitoring and troubleshooting data pipeline issues, consistently seeking opportunities for optimization and improvement to enhance performance and reliability
+Ensuring comprehensive and up-to-date documentation of data pipelines, infrastructure, and processes, promoting knowledge sharing and accurate system understanding
+
+Requirements :
+
+
+
+A bachelor's degree in computer science, information technology, data engineering, or a related field
+At least 5-8 years of experience in data engineering or a similar role
+Proficiency in AWS, particularly in utilizing data-related services to architect and manage data pipelines effectively
+Proven experience in building and maintaining large-scale data pipelines, handling substantial volumes of data efficiently
+Familiarity with stream processing frameworks and event-driven architectures (e.g., Apache Kafka, Apache Flink, Apache Spark) to handle real-time data ingestion, processing, and analytics
+Strong programming skills in languages commonly used in data engineering, such as Java, Python, or Scala, enabling effective data manipulation, transformation, and analysis
+Solid understanding of DevOps concepts, including deploying applications to Kubernetes and utilizing Infrastructure as Code (IaaC) tools like Terraform
+Excellent English communication skills, both written and verbal, enabling effective collaboration and communication with clients and team members
+
+Preferred qualifications:
+
+Previous experience working with clients, demonstrating an understanding of cultural dynamics and the ability to effectively collaborate across time zones.
+
+Our Benefits Include:
+
+Fully remote
+Flexible Schedule
+Unlimited Paid Time Off (PTO)
+Paid parental/bereavement leave
+Worldwide recognized clients to build skills for an excellent resume
+Top-notch team to learn and grow with
+
+Salary: 51.470,10 € EUR - 74.865,60 € EUR (Annually)
+
+Blue Orange Digital is an equal opportunity employer.
+
+Background checks may be required for certain positions/projects.
+
+Diesen Job melden

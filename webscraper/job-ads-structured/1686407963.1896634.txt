@@ -1,0 +1,23 @@
+{
+  "job_title": "Praktikum Data Science: Advanced Analytics & Machine Learning",
+  "company": "SCHICKLER Unternehmensberatung GmbH",
+  "location": "Hamburg",
+  "salary_euro": null,
+  "employment_type": "Praktikum",
+  "requirements": "Du hast Dein Grundstudium im Bereich Mathematik/Informatik/Physik oder einem anderen stark quantitativ geprägten Studiengang mit sehr guten Noten abgeschlossen.\nDu bist ein talentierter Programmierer (z.B. in Python, R, Java, C/C++, Matlab).\nDu bist vertraut mit gängigen Data-Analysis und Machine Learning Konzepten und konntest idealerweise bereits erste Erfahrungen mit Frameworks wie Tensorflow, Theano, Keras oder Amazon Web Services sammeln.\nDu verfügst über eine ausgeprägte analytische Denkweise, schreckst nicht vor Herausforderungen zurück und hast Spaß daran, Dich in neue Themen einzuarbeiten.\nDu bringst mind. 3 Monate Zeit mit.\nDu sprichst fließend Deutsch.",
+  "skills": [
+    "Python",
+    "R",
+    "Java",
+    "C/C++",
+    "Matlab",
+    "Data Analysis",
+    "Machine Learning",
+    "Tensorflow",
+    "Theano",
+    "Keras",
+    "Amazon Web Services",
+    "Analytical Thinking"
+  ],
+  "date_posted": "N/A"
+}

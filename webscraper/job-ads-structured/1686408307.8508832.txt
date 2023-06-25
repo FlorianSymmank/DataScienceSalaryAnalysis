@@ -1,0 +1,21 @@
+{
+   "job_title": "Senior Data Engineer",
+   "company": "VR Smart Guide GmbH",
+   "location": "Homeoffice",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "Bachelor's or Master's degree in a technical field such as Computer Science, Data Science, or Engineering or relevant proven experience",
+   "skills": [
+      "Python",
+      "Go",
+      "data engineering",
+      "big data technologies",
+      "complex data pipelines",
+      "data quality checks",
+      "data modeling",
+      "communication",
+      "interpersonal skills",
+      "fast-paced environment"
+   ],
+   "date_posted": "2021-12-06"
+}

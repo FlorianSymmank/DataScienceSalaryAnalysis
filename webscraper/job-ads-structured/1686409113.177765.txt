@@ -1,0 +1,22 @@
+{
+    "job_title": "Customer Success Manager - Test IO (m/f/d)",
+    "company": "EPAM Systems",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": null,
+    "requirements": "Completed education or degree in computer science, business administration communications or media studies. Experience in the online industry, a company from the SaaS, IT, cloud computing, e-commerce, agency, or other technology sector. Experiences as Customer Success Manager, Account Manager or QA Manager. Technical process understanding, experience in consulting is desirable.",
+    "skills": [
+        "delivery",
+        "testing",
+        "project management",
+        "onboarding",
+        "coordination",
+        "consulting",
+        "reporting",
+        "renewal contract negotiations",
+        "product presentations",
+        "crm",
+        "customer data maintenance"
+    ],
+    "date_posted": null
+}

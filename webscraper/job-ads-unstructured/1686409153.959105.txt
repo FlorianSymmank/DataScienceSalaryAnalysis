@@ -1,0 +1,49 @@
+Diese Stellenanzeige ist auf Indeed abgelaufen
+Mögliche Gründe: Der Arbeitgeber akzeptiert keine Bewerbungen, ist nicht aktiv auf der Suche nach neuen Mitarbeitern oder prüft derzeit die eingegangen Bewerbungen
+Data Scientist (m/w/d) – Vertriebsmodelle
+Sparkassen Rating und Risikosysteme GmbH
+Berlin
+
+Wir suchen ständig qualifizierte Unterstützung
+
+Die Sparkassen Rating und Risikosysteme (SR) ist der zentrale Dienstleister für Verfahren des Risikomanagements in der Sparkassen-Finanzgruppe. Wir unterstützen die Institute mit Standardlösungen in den Bereichen der Risikomessung und -steuerung, der regulatorischen Banksteuerung sowie im Vertrieb mit Data-Analytics-Lösungen. Gemeinsam mit unseren Partnern bieten wir den Instituten, von der Konzeption der Verfahren, über deren Weiterentwicklung, IT-Umsetzung und Umsetzungsunterstützung, zentrale und standardisierte Lösungen an.
+
+Deine Aufgaben: Prognosemodelle für die Vertriebsunterstützung entwickeln
+
+Mittels state-of-the-art Data Science Tools (bspw. Python, R) bist Du für die Entwicklung, Optimierung und Konzipierung vertrieblicher Prognosemodelle zur bedarfsgerechten Akquise und Vertriebsplanung/-steuerung im Multikanalvertrieb (App, Internetfiliale, …) zuständig
+Du beurteilst zahlreiche interne und externe Datenquellen und begleitest die Zusammenführung bzw. Integration in den vertrieblichen Datenhaushalt
+Als Data Scientist führst Du komplexe (Daten-)Analysen (bspw. Affinitäten, Churn, Next Best Action) durch und interpretierst diese im vertrieblichen Kontext
+Erstellung von Fach-/Datenverarbeitungs-Konzepten und Schnittstellenspezifikationen sowie Unterstützung bei deren Implementierung und Überführung in den operativen Betrieb inkl. IT-Testing
+
+Dein Profil: Daten sind Ihr Leben - Mehrjährige Berufserfahrung
+
+Fundierte Kenntnisse statistischer Methoden sowie praktische Erfahrung im Bereich Data Science und Advanced Analytics, bevorzugt im Kontext Finanzdienstleistungen oder im Digital/E-Commerce-Umfeld (bspw. Database Marketing, Potential-basierte Vertriebssteuerung)
+Erfolgreich abgeschlossenes Hochschulstudium im Bereich Informatik, Mathematik, Physik, Statistik oder ein vergleichbares quantitatives Studium
+Gute Kenntnisse in Anwendung und Nutzung statistischer Methoden, Verständnis von Machine-Learning-Algorithmen (vorzugsweise im Kontext von Boosted-Trees, Clustering und Neuronalen Netzen) sowie Erfahrungen im optimalen out-of-sample Tuning der Modelle
+Sicherer Umgang mit SQL und den Programmiersprachen R oder Python
+Selbstständige, strukturierte und ergebnisorientierte Arbeitsweise
+Gewinnende, kommunikations- und durchsetzungsstarke Persönlichkeit mit Freude
+an der Vermittlung und am Austausch mit Kunden, Praktikern und Verbandsvertretern
+Teamplayer mit einem Schuss Humor
+
+Wir bieten Dir: Herausforderungen und Benefits
+
+Engagierte Teammitglieder und flache Hierarchien
+Spannende Aufgaben und eigenverantwortliches Arbeiten
+Individuelle Weiterbildung
+Flexible Arbeitszeiten mit Gleitzeit und Option zum mobilen Arbeiten
+30 Tage Urlaub + 2 Bankfeiertage
+Sport- und Teamevents
+Zuzahlung zum BVG-Jobticket und Essensgutscheine
+Betriebliche Altersvorsorge und vermögenswirksame Leistungen
+Kostenfreie Girokontoführung inkl. Visa Card Gold bei der Berliner Sparkasse
+Zentraler und moderner Arbeitsplatz im Herzen und über den Dächern von Berlin
+
+Kontakt
+
+Wir freuen uns auf Deine vollständigen Bewerbungsunterlagen
+
+Bei Fragen:
+Herr Mattis Herrmann per E-Mail an bewerbung@s-rating-risikosysteme.de oder Tel. 030 20672-0
+
+Diesen Job melden

@@ -1,0 +1,134 @@
+Cloud Network Engineer
+Jacobs
+Stuttgart
+Vollzeit
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Vollzeit
+Schichten und Arbeitszeiten
+Wochenendarbeit möglich
+
+Challenging Today. Reinventing Tomorrow.
+
+We're invested in you and your success. Everything we do is more than just a project. It's our challenge as human beings, too. That's why we bring a thoughtful and collaborative approach to every one of our partnerships.
+
+At Jacobs, we challenge the status quo and redefine how to solve the world's greatest challenges, transforming big ideas into intelligent solutions for a more connected, sustainable world.
+
+Design your career with a company that inspires and empowers you to deliver your best work so you can evolve, grow and succeed – today and into tomorrow
+
+
+
+Your Impact:
+
+
+Mission Statement
+
+Jacobs is seeking a qualified Information Technology (IT) professional to support the USSOCOM SITEC II Enterprise Operations and Maintenance (EOM) contract. Your career at Jacobs enables USSOCOM to fulfill its mission to “Provide fully capable Special Operations Forces (SOF) to defend the United States and its interests and synchronize planning for global operations against terrorist networks.” As a member of our team, you will support the vice president of the Enterprise Operations Group (EOG) as we partner with SOF military and civilian members to provide world-class IT services and support that connects over 60,000 users around the world in the areas of software development/maintenance, network services, security, end-user computing, and test and evaluation.
+
+
+
+
+Job Description
+
+Cloud Network Engineers perform tier 1-3 network support for the SOFNET Cloud team. Network Engineers must be detail-oriented and have in-depth knowledge of networking hardware and software, including Cloud Service provider services. They will ensure that the networks in and between the multi-Cloud environment are stable, redundant, and secure.
+
+
+
+
+Typical duties include:
+
+Extensive experience in areas such as network design and implementation, LAN/WAN interfacing, security, Internet protocols, and TCP/IP, as well as server and network infrastructure is required.
+Tests and analyzes elements of network facilities, including power, software, security features, communications devices, communications lines, modems, and terminals, and is responsible for the overall integration of the enterprise network.
+Responsible for planning, modeling, simulation, design, installation, maintenance, management, and coordination of the network.
+Monitors and controls the performance and status of network resources by using software and hardware tools, as well as by identifying and diagnosing complex problems and factors affecting network performance.
+Keep his or her technical skills updated and study vendor products to determine those which best meet the Government’s needs.
+Provides guidance and direction for junior network support technicians.
+Here’s What You’ll Need:
+
+
+Qualifications
+
+Clearance Requirements: TS/SCI
+
+Education Requirements:
+
+Bachelor’s Degree from an accredited college or university in Information Systems, Computer Science, Engineering, a Mathematics-intensive discipline, or a similar field. Significant relevant experience will be considered in lieu of formal education.
+
+Certification Requirements:
+
+DoDD 8570.01-M IAT II or higher
+
+AND
+
+CCNP Collaboration OR
+CCNP Data Center OR
+CCNP Enterprise OR
+CCNP Security OR
+CCNP Service Provider OR
+CCDP OR
+CCIoT OR
+ACMP OR
+Juniper Networks Certified Specialist
+
+
+
+Experience Requirements:
+
+8 years of increasingly complex and progressive experience in computer systems and network engineering
+2 years of specialized experience related to the candidate’s assigned task.
+Engineering enterprise data, voice, and video networks on-premises and in a multi-cloud environment such as AWS Route 53 and between Azure tenants.
+Establishing and operating cloud connections from on-premises through Cloud Access Points (CAP) to Cloud Service Provider offerings.
+Maintaining a secure transfer of data to multiple locations via internal and external networks
+Working with vendors, the Government, carriers, and technical staff on the network. implementation, optimization, and ongoing management.
+Providing high-level support and technical expertise in networking technology, including LAN/WAN hardware, switches, bridges, and routers.
+Ensure the SOFNET Cloud adheres to the Secure Cloud Computing Architecture (SCCA) and any other applicable government requirements.
+
+
+
+Essential Functions
+
+Work Environment
+
+Work will be performed inside a large facility. An inside environment may be a cubicle (considerations: close quarters, low to moderate noise, bright or dim lighting).
+Work assignments vary based on client requirements.
+Work may include travel with the military to participate in exercises in austere conditions
+Outside work may include various environmental conditions including hot, dusty, cold, icy, and windy climates.
+
+Physical Requirements
+
+Sitting at desk. Phone use and PC or laptop. Filing required. May require lifting and carrying boxes of supplies or files up to 25 lbs. Extended periods of sitting while on PC/laptop or phone.
+May require climbing, working at heights, and in small, confined spaces such as under raised floors, inside closets, and server racks. Must be able to sit, stoop, kneel, or crouch for long periods of time. Work in noisy areas with hotter and colder temperatures than standard office environmental conditions. Lift and transport equipment up to 50 pounds.
+
+Equipment and Machines
+
+General office equipment, which includes telephone, fax machine, copier, PC/laptop, and other miscellaneous office equipment.
+Servers, switches, routers, and other computer equipment that supports the network environment.
+Operating hand tools, power tools, ladders, and test equipment.
+May require operating motor vehicles.
+
+Attendance
+
+Regular attendance in accordance with the established work schedule is mandatory.
+It is important to be able to work any shift/designated hours required.
+You may be asked to continue performance in support of a war, contingency, or exercise
+You may be asked to continue performance during inclement weather or other conditions when others are not permitted to work
+Position may require night and weekend work and could include travel with the military to participate in operations/exercises located in areas with field conditions
+
+Travel
+
+Continental and overseas travel may be required. It is important to maintain a current passport.
+
+Other Essential Functions
+
+Employment is contingent upon obtaining all required certifications within the timeframe specified in a waiver by the government (if applicable) and maintaining required certifications through the duration of the contract. Failure to obtain/maintain required certifications will result in disqualification for this position and could result in termination.
+Candidate must exhibit professional behavior that promotes teamwork, fosters cooperation and enhances productivity in the workplace. Must be well organized with the ability to coordinate, prioritize, and execute multiple tasks simultaneously in a high-pressure environment. Ability to communicate verbally and in writing to work effectively with a variety of government, military, and contractor personnel at all levels.
+Candidate must be able to interface effectively with individuals at all levels of the organization.
+Grooming and dress are usually business casual but dependent on the client’s standards. Must not pose a safety hazard to employees working in the same general area.
+The position for which you are applying requires a US government security clearance. This is to advise you, that should you be extended an offer, if you possess a dual citizenship (i.e., citizen of the US and another country), to be granted a clearance you will be required to relinquish your citizenship in the foreign country.
+
+#ansdefense #cjpost #sitec2 #moip #ansoconus
+
+Diesen Job melden

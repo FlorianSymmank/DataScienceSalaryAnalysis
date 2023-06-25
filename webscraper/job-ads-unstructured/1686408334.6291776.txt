@@ -1,0 +1,24 @@
+Head of Data Science
+Orange Quarter
+Berlin
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+
+We’ve partnered up with one of Berlin’s most exciting high social impact startups to hire their new Head of Data Science. They’re building an AI-based product that will support the world’s biggest companies in their decarbonization strategies. This company has the aim of unlocking the data that is stored in large scale building portfolios and as such, is aggregating a huge amount of diverse data sources, think sensors, contracts, energy data and more. You’ll be tasked with turning this into real AI based products that work for the end user.
+
+What to expect:
+
+In this role you will be responsible for leading a small team of Data Scientists. They currently have a range of MVPs and early products built that need to be developed further, and you will lead these efforts. These products cover a range of data science areas and domains, think NLP and contracts, financial data, structural building data, sensor data and more. As well as product development, you’ll be tasked with developing a high performing data science team, and experience in hiring within this space is a big bonus.
+
+Perks:
+An people-first environment where your development will be prioritised
+Work on a product that makes the world a greener place
+A genuinely disruptive product space
+A beautiful office in the heart of Berlin
+Great salary and bonus structure
+Requirements:
+Experience leading a Data Science team, ideally in a startup environment
+You've worked with AI technologies and frameworks along the whole spectrum of open source software (python, sklearn, pytorch, tensorflow, spacy)
+Practical experience of deploying ML Models to the cloud (Azure is a huge bonus, other cloud providers also work)
+Strong team management skills (mentoring, knowledge transfer and project management, as well as working with agile methods)
+Diesen Job melden

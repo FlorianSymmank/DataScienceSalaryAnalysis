@@ -1,0 +1,18 @@
+{
+    "job_title": "Working Student - Machine Learning",
+    "company": "Peers Solutions",
+    "location": "Berlin",
+    "salary_euro": null,
+    "employment_type": "Student Internship",
+    "requirements": "Currently enrolled as a student pursuing a Bachelor's or Master's degree in Computer Science, Data Science, Machine Learning, or a related field.\nNative level fluency in German is mandatory. Good lingustic skills in German language is a bonus.",
+    "skills": [
+        "Strong understanding of machine learning principles and algorithms.",
+        "Familiarity with NLP concepts such as text classification, sentiment analysis, named entity recognition, language modeling, and sequence-to-sequence models.",
+        "Experience with programming languages such as Python, along with libraries and frameworks commonly used in NLP, such as NLTK, spaCy, TensorFlow, or PyTorch.",
+        "Proficiency in data preprocessing techniques, including text normalization, tokenization, and feature extraction.",
+        "Solid problem-solving skills and the ability to think critically and analytically.",
+        "Excellent communication and teamwork skills, with the ability to collaborate effectively in a fast-paced environment.",
+        "Demonstrated passion for machine learning, NLP, and artificial intelligence through personal projects, coursework, or research papers (if applicable)."
+    ],
+    "date_posted": "YYYY-MM-DD"
+}

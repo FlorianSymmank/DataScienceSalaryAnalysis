@@ -1,0 +1,36 @@
+AI Engineer (m/f/d)
+KI group
+50667 Köln
+Schnellbewerbung
+As an AI Engineer, you'll drive the implementation and adoption of state-of-the-art AI solutions, working hand in hand with our data platform teams. Within various customer scenarios, you are responsible to create end-to-end machine learning pipelines, deploy models, and keep up with the latest AI and Azure technologies (e.g. OpenAI).
+
+Tasks
+
+
+Deploy machine learning models, apply statistical and modelling concepts and algorithms for prediction & optimization.
+Go beyond of just building & training models and cover the end-to-end track from data transformation to operational AI solutions delivering measurable business value.
+As part of a platform team you are able to build a strong connection to data engineering, by taking care of data preparation and transformation to ensure a solid foundation for advanced analytics products.
+Stay up-to-date with the latest AI and machine learning technologies and research (e.g. OpenAI), and apply them to solve business problems and create new opportunities.
+Flex your facilitation muscle by advising our customers and ensure the business impact by integrating AI insights back into the customers processes.
+Requirements
+
+
+Background in business informatics, computer science, mathematics, statistics or a similar field with a strong analytical focus.
+Strong skills in areas such as data engineering, machine learning, deep learning and artificial intelligence.
+Expertise in Python and practical knowledge of data analytics components on Azure, such as Azure Machine Learning and Databricks.
+Familiarity with Code versioning and DevOps using tools like Azure DevOps, Github, Gitlab or similar.
+Understanding of Natural Language Processing (NLP) and Computer Vision (CV) technologies.
+Desire to make an impact, continuously learn as well as a team-oriented attitude.
+Excellent communication skills in English (C2) and German.
+Benefits
+
+
+Be at the frontline of innovation together with our prominent clients, influencing the car you drive in five years, the services you have on your flight, and the way you pay for your morning coffee.
+Open-door work culture where ideas and initiatives are encouraged.
+Two-way constant feedback for your professional growth.
+Intercultural team with colleagues of more than 20 different nationalities.
+Top-notch equipment and tools to perform your job in the best possible way.
+Full support for additional professional training and certification (i.e., Microsoft).
+Hybrid setup. Come to the office to socialize, we’re always happy to see everyone.
+Legendary KI-style Xmas, Summer and Quarterly Team event.
+Diesen Job melden

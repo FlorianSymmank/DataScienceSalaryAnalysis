@@ -1,0 +1,18 @@
+{
+   "job_title": "Internship / Master thesis in Smart Process Development (AI / machine learning) (m/f/x)",
+   "company": "Kautex Textron",
+   "location": "Bonn",
+   "salary_euro": null,
+   "employment_type": "Vollzeit",
+   "requirements": "Master's student in computer science, mathematics, or equivalent",
+   "skills": [
+      "Python",
+      "TensorFlow",
+      "Pytorch",
+      "Graph theory",
+      "Network analysis",
+      "Machine learning",
+      "Deep learning"
+   ],
+   "date_posted": "2023-05-02"
+}

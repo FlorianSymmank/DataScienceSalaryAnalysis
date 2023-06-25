@@ -1,0 +1,52 @@
+Internship Backend Development - IIoT / Data Engineering
+Wölfel Group
+Würzburg
+Praktikum
+Erstellen Sie ein Indeed-Konto, bevor Sie zur Website des Unternehmens weitergeleitet werden.
+Weiter zur Bewerbung
+Stellenbeschreibung
+Keine passenden Job-Präferenzen
+Anstellungsart
+Praktikum
+Innovation – Tradition – We-Feeling
+
+This is the world of Wölfel. Challenges drive you and you have a passion for renewable energies? Then we would be delighted if you became part of the Wölfel family and supported us with your Internship in Backend Development - IIoT / Data Engineering at our Höchberg (near Würzburg).
+
+As an innovative and crisis-proof family business, we have been offering engineering services and system solutions in the fields of structural dynamics, vibration technology and acoustics for over 50 years. We are looking for talents who want to make a difference and drive things forward.
+
+What we expect from you
+
+Education: You are studying computer science or a comparable course of study.
+
+Experience and knowledge: You have a basic knowledge of version control tools (e.g. GIT), CI/CD, Docker, Python, database technologies, REST APIs and bash. Ideally, you are familiar with kubernetes (k3s).
+
+Personal strengths: You are communicative and enjoy working in a team. However, you can also deal with a task independently and process it efficiently and reliably. A good command of English and an interest in new technologies round off your profile.
+
+What you can expect
+
+You will shape our future: If you are passionate about the topics of data engineering, IIoT and devops, then we are exactly looking for you. You have the chance to play a part in the implementation and continuous improvement of our backend applications for our IIoT monitoring solutions and to make an important contribution here. As part of your internship, you will research and evaluate new technologies and trends in the field of backend technologies and thus contribute to the further development of our data-driven products.
+
+With your ideas to success: You will also support us in the evaluation and implementation of prototypes and tailored customer solutions. Your internship will also include the implementation of data pipelines based on Docker containers, the optimisation of our deployment processes, system maintenance and update planning as well as the creation and maintenance of documentations and manuals.
+
+Your future at Wölfel: Through your work, you will also get to know the Wölfel-Group as a potential employer and find out what is possible for you. After your internship semester, you will have the opportunity to write your final thesis with us. We will support you in finding an exciting topic, making contacts and gaining valuable practical experience.
+
+Our benefits for you
+
+Attractive working environment: Intensive training on your area of responsibility, with professional and personal support, appropriate remuneration, flexible working hours, individual home office options, flat hierarchies, team-oriented working atmosphere, modern working environment.
+
+Innovation and opportunities for development: Exciting entry opportunities after graduation that are adapted to your personal interests and goals, use of the latest technologies and methods, opportunities to contribute creative ideas, collaboration with experienced interdisciplinary teams.
+
+Feelgood benefits: Free drinks, company cafeteria, employee parking, annual company events, sports groups and much more.
+
+Would you like to learn more about us? You can also find interesting insights into our company and the Mainfranken region at www.woelfel.de and in our company portrait at www.wiefuerdichgemacht.com.
+
+You want to become part of the Wölfel family?
+
+Then apply by clicking on the "APPLY NOW" button. Please understand that we only accept applications via our online form. We look forward to receiving your application!
+
+Elke Gernert
+Wölfel-Group
+
++49 931 49708-105
+
+Diesen Job melden
